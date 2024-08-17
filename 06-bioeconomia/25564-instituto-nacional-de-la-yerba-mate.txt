@@ -1,6 +1,10 @@
+
+
 INSTITUTO NACIONAL DE LA YERBA MATE
 
 Ley 25.564
+
+Ver Antecedentes Normativos
 
 Creación del Instituto Nacional de la Yerba Mate, como ente de derecho público no estatal con jurisdicción en todo el territorio de la República Argentina. Sede. Objetivos. Funciones. Facultades. Organismo directivo. Integración. Suplentes. Duración del mandato. Facultades. Reuniones. Remuneración. Organismo de fiscalización interno. Integración. Funciones y facultades. Patrimonio y recursos. Presupuesto. Disposiciones generales. Sanciones.
 
@@ -34,7 +38,9 @@ CAPITULO III
 
 Objetivos
 
-ARTICULO 3º — Los objetivos del INYM serán promover, fomentar y fortalecer el desarrollo de la producción, elaboración, industrialización, comercialización y consumo de la yerba mate y derivados en sus diferentes modalidades de consumo y usos, procurando la sustentabilidad de los distintos sectores involucrados en la actividad. Los programas que desarrollará el instituto deben contribuir a facilitar las acciones tendientes a mejorar la competitividad del sector productivo e industrial.
+ARTICULO 3º — Los objetivos del INYM serán promover y fortalecer el desarrollo de la producción, elaboración, industrialización, comercialización y consumo de la yerba mate y derivados en sus diferentes modalidades de consumo y usos, procurando proteger el carácter competitivo de la industria.
+
+(Artículo sustituido por art. 164 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 TITULO II
 
@@ -58,9 +64,9 @@ g) Coordinar con los organismos competentes en materia alimentaria la ejecución
 
 h) Crear un banco de datos destinado al relevamiento y difusión de información acerca de las normativas sanitarias y requisitos de calidad vigentes en mercados actuales y/o potenciales con relación a la yerba mate y derivados;
 
-i) Realizar y compilar estadísticas, censos y relevamientos de la producción, elaboración, industrialización, comercialización y consumo de la yerba mate y derivados, a efectos de implementar medidas que faciliten el equilibrio de la oferta con la demanda, y, en caso necesario, establecer en forma conjunta con la Secretaría de Agricultura, Ganadería, Pesca y Alimentación, medidas que limiten la producción;
+i) Realizar y compilar estadísticas, censos y relevamientos de la producción, elaboración, industrialización, comercialización y consumo de la yerba mate y derivados. (Inciso sustituido por art. 165 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-j) Crear registros para la identificación de la producción, elaboración, industrialización, comercialización de la yerba mate y derivados debiendo inscribirse en ellos, con carácter obligatorio los productores, elaboradores, acopiadores, molineros, fraccionadores, importadores, exportadores, y cualquier otro participante de la cadena del negocio de la yerba mate y derivados;
+j) (Inciso derogado por art. 165 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 k) Realizar actividades de asistencia técnica, análisis y asesoramiento, relacionadas con la producción, elaboración, industrialización y comercialización de la yerba mate y derivados;
 
@@ -68,7 +74,7 @@ l) Promover la capacitación en todas las áreas que competen a las actividades 
 
 m) Facilitar el intercambio institucional del personal técnico, profesional e idóneo a través de convenios y del acceso a fondos para solventar becas en universidades nacionales o extranjeras e instituciones de estudios, promoción y capacitación en todas las áreas que competen a las actividades a desarrollar por el INYM;
 
-n) Promover distintas formas asociativas entre productores primarios de yerba mate y en particular a las cooperativas yerbateras de la zona productora;
+n) (Inciso derogado por art. 165 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 o) Asesorar al Poder Ejecutivo nacional y a los provinciales de Misiones y Corrientes en materia de su competencia;
 
@@ -76,9 +82,7 @@ p) Mediar ante las instituciones que correspondan a los efectos de atender los i
 
 q) Recaudar y asignar sus recursos para el cumplimiento de los objetivos de la presente ley;
 
-r) Acordar semestralmente entre los distintos sectores participantes del INYM el precio de la materia prima. El mismo resultará de un acuerdo en el INYM basado en el precio promedio de venta al consumidor de los productos elaborados con yerba mate según las condiciones y estándares de calidad que fije la reglamentación, el cual mediante acta pertinente los sectores deberán respetar. El incumplimiento del mismo hará pasible al infractor de multas graduables de acuerdo a lo especificado en el título X de la presente ley.
-
-Si las partes no llegasen a un acuerdo, la cuestión se someterá al arbitraje del secretario de Agricultura, Ganadería Pesca y Alimentación, quien deberá laudar, según las pautas arriba mencionadas.
+r) (Inciso derogado por art. 165 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 TITULO III
 
@@ -94,9 +98,9 @@ c) Promover y extender la certificación y/o denominación de calidad de origen 
 
 d) Establecer ante los diversos organismos municipales, provinciales y/o nacionales su competencia en todo lo que atañe a sus funciones y facultades;
 
-e) Constituir fondos con fines específicos que serán integrados y administrados directamente por el INYM, acorde a sus objetivos;
+e) (Inciso derogado por art. 166 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-f) Implementar y administrar un mercado consignatario de materia prima de la yerba mate de orden nacional, para cuyo diseño podrá requerir la participación de otros organismos y entes del Estado nacional. El financiamiento de este mercado consignatario podrá realizarse a través del Banco de la Nación Argentina. (Inciso incorporado por art. 1° de la Ley N° 26.532 B.O. 19/11/2009)
+f) (Inciso derogado por art. 166 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 TITULO IV
 
@@ -246,11 +250,11 @@ Todo envase que contenga yerba mate molida, incluidas las denominadas "yerbas co
 
 Exímese del régimen del estampillado a la yerba mate fraccionada en saquitos, a los extractos, bebidas y concentrados de yerba mate.
 
-Queda prohibida y sujeta a inmediato decomiso la exhibición, transporte o tenencia de yerba mate molida y envasada fuera de la planta fraccionadora o molinera sin el correspondiente estampillado. Las ventas de artículos que se hicieren sin las estampillas referidas se considerarán fraudulentas, salvo prueba en contrario, resultando aplicables las sanciones establecidas en el artículo 28 de la presente ley.
+A las ventas de artículos que se hicieren sin las estampillas referidas le resultarán aplicables las sanciones establecidas en el artículo 28 de la presente ley en adición a las que la legislación aplique a la figura de evasión impositiva. (Párrafo sustituido por art. 167 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 La Secretaría de Agricultura, Ganadería, Pesca y Alimentación del Ministerio de Economía deberá implementar el sistema de aplicación, percepción y fiscalización de dicha tasa y del estampillado, para lo cual queda suficientemente facultada para dictar las normas y mecanismos necesarios a fin de cumplimentar su recaudación.
 
-ARTICULO 22. — Todos los fondos serán de propiedad del mencionado Instituto y no podrán en ningún caso ser objeto de apropiación por parte del Tesoro nacional. Los fondos del INYM serán utilizados únicamente para financiar los objetivos del Instituto.
+ARTICULO 22. — (Artículo derogado por art. 168 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 TITULO VIII
 
@@ -258,7 +262,7 @@ De su presupuesto
 
 ARTICULO 23. — Anualmente el INYM elaborará el presupuesto general del organismo, que incluirá la totalidad de los recursos y erogaciones previstas y conformará por un presupuesto operativo y otro de funcionamiento.
 
-ARTICULO 24. — Los fondos asignados a gastos de administración no podrán superar el 5% (cinco por ciento) de los gastos totales del Instituto.
+ARTICULO 24. — (Artículo derogado por art. 168 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 TITULO IX
 
@@ -301,3 +305,8 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINT
 — REGISTRADA BAJO EL Nº 25.564 —
 
 EDUARDO A. CAMAÑO. — JUAN C. MAQUEDA. — Eduardo D. Rollano. — Juan C. Oyarzún.
+
+
+Antecedentes Normativos
+
+- Artículo 5°, inciso f) incorporado por art. 1° de la Ley N° 26.532 B.O. 19/11/2009.

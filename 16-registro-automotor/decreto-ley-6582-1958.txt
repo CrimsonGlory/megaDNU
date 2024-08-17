@@ -1,215 +1,255 @@
-SISTEMAS TURISTICOS DE TIEMPO COMPARTIDO
 
-Ley 26.356
 
-Medida que regula los Sistemas Turísticos de Tiempo Compartido (STTC). Disposiciones Generales. Ambito de aplicación. Tipificación. Definiciones. Autoridad de Aplicación. Constitución. Contrato. Administración. Comercialización y Publicidad. Instancia Arbitral. Sanciones. Extinción. Disposiciones Complementarias.
+REGIMEN JURIDICO DEL AUTOMOTOR
 
-Sancionada: Febrero 28 de 2008
+Texto Ordenado por Decreto 1114/97, con las modificaciones posteriores introducidas por las Leyes Nros. 25.232, 25.345 y 25.677.
 
-Promulgada: Marzo 18 de 2008
+Ver Antecedentes Normativos
 
-El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+TITULO I - Del dominio de los automotores, su transmisión y su prueba
 
-CAPITULO I
+ARTICULO 1º- La transmisión del dominio de los automotores deberá formalizarse por instrumento público o privado y solo producirá efectos entre las partes y con relación a terceros desde la fecha de su inscripción en el Registro Nacional de la Propiedad del Automotor.
 
-DISPOSICIONES GENERALES
+ARTICULO 2º- La inscripción de buena fe de un automotor en el registro confiere al titular de la misma la propiedad del vehículo y el poder de repeler cualquier acción de reivindicación, si el automotor no hubiese sido hurtado o robado.
 
-ARTICULO 1º — Ambito de aplicación. La presente ley regula los Sistemas Turísticos de Tiempo Compartido (STTC), con independencia de la naturaleza de los derechos que se constituyan o transmitan y del régimen legal al que se encuentren sometidos los bienes que los integran.
+ARTICULO 3º- Si el automotor hubiese sido hurtado o robado, el propietario podrá reivindicarlo contra quien lo tuviese inscripto a su nombre, debiendo resarcirlo de lo que hubiese abonado si la inscripción fuera de buena fe y conforme a las normas establecidas por este decreto-ley.
 
-ARTICULO 2º — Tipificación. El Sistema Turístico de Tiempo Compartido debe integrarse con uno o más inmuebles, afectados a su uso periódico y por turnos para el alojamiento u hospedaje y para brindar otras prestaciones compatibles con su destino.
+ARTICULO 4º- El que tuviese inscripto a su nombre un automotor hurtado o robado, podrá repeler la acción reivindicatoria transcurridos DOS (2) años de la inscripción, siempre que durante ese lapso lo hubiese poseído de buena fe y en forma continua.
 
-ARTICULO 3º — Definiciones. A los fines de la presente ley se define como:
+Cuando un automotor hurtado o robado hubiera sido adquirido con anterioridad a la vigencia del presente en venta pública o en comercio dedicado a la venta de automotores, el reivindicarte deberá resarcir al poseedor de buena fe del importe pagado en la venta pública o en el comercio en que lo adquirió. El reivindicante podrá repetir lo que pagase, contra el vendedor de mala fe.
 
-– Sistema Turístico de Tiempo Compartido. Es el previsto en el artículo 2º, en adelante STTC.
+ARTICULO 5º- A los efectos del presente Registro serán considerados automotores los siguientes vehículos: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados, las maquinarias agrícolas incluidas tractores, cosechadoras, grúas, maquinarias viales y todas aquellas que se autopropulsen. El Poder Ejecutivo podrá disponer, por vía de reglamentación, la inclusión de otros vehículos automotores en el régimen establecido.
 
-– Usuario. Es quien adquiere el derecho de uso periódico en un Sistema Turístico de Tiempo Compartido, por sí o por terceros.
+ARTICULO 6º- Será obligatoria la inscripción del dominio en el Registro Nacional de la Propiedad del Automotor, de todos los automotores comprendidos en el artículo anterior, de acuerdo con las normas que al efecto se dicten.
 
-– Propietario. Es el titular dominial de un inmueble, quien lo afecta total o parcialmente, al Sistema Turístico de Tiempo Compartido.
+La primera inscripción del dominio de un automotor, se practicará en la forma que lo determine la reglamentación.
 
-– Emprendedor. Es la persona física o jurídica propietaria o con justo título de disposición del inmueble, que constituye el STTC para comercializar períodos de disfrute y brindar a los usuarios las prestaciones que lo integran, por sí o por intermedio de terceros.
+A todo automotor se le asignará al inscribirse en el Registro por primera vez un documento individualizante en formato físico o digital que será expedido por el Registro respectivo y se denominará “Título del Automotor”. Este tendrá carácter de instrumento público respecto de la individualización del automotor y de la existencia en el Registro de las inscripciones que en él se consignen, pero solo acreditará las condiciones del dominio y de los gravámenes que afecten al automotor, hasta la fecha de anotación de dichas constancias en el mismo. (Párrafo sustituido por art. 352 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-– Vendedor. Es la persona física o jurídica que, en nombre y representación del emprendedor, promueve y ofrece en venta períodos de uso en un STTC.
+TITULO II- Del Registro
 
-– Revendedor. Es la persona física o jurídica que, por sí o por cuenta y orden de un usuario intermedia en el mercado secundario para la comercialización de períodos de un STTC.
+ARTICULO 7º- La Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y de Créditos Prendarios será el Organismo de Aplicación del presente régimen, y tendrá a su cargo el Registro Nacional de la Propiedad del Automotor.
 
-– Administrador. Es la persona física o jurídica, que tiene a su cargo la gestión y coordinación del mantenimiento y uso de los bienes que integran un STTC.
+El Poder Ejecutivo Nacional reglará la organización y el funcionamiento del mencionado Registro conforme a los medios y procedimientos técnicos más adecuados para el mejor cumplimiento de sus fines. Asimismo determinará el número de secciones en las que se dividirá territorialmente el Registro y fijará los límites de cada una de ellas a los efectos de las inscripciones relativas a los automotores radicados dentro de las mismas; podrá crear o suprimir secciones, y modificar sus límites territoriales de competencia.
 
-– Red de Intercambio. Es la persona física o jurídica que intermedia entre la oferta y la demanda de períodos de los STTC, prestando servicios adicionales a usuarios.
+En los Registros Seccionales se inscribirá el dominio de los automotores, sus modificaciones, su extinción, sus transmisiones y gravámenes. También se anotarán en ellos los embargos y otras medidas cautelares, las denuncias de robo o hurto y demás actos que prevea este cuerpo legal o su reglamentación.
 
-– Prestador. Es la persona física o jurídica que comercializa STTC, y que de acuerdo al rol que ocupa en la comercialización del STTC responderá ante posibles conflictos que se susciten con los usuarios.
+Dichas inscripciones o anotaciones también podrán realizarse directamente ante la Dirección Nacional, que deberá establecer a tal efecto un servicio de inscripción remoto, abierto, accesible y estandarizado, bajo jurisdicción nacional, que permita las inscripciones o anotaciones ordenadas por los titulares o por intermediarios autorizados de manera fehaciente por ellos. A tal efecto, el Poder Ejecutivo Nacional dictará la reglamentación correspondiente. (Párrafo sustituido por art. 353 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-– Período de Uso. Son las fechas que le corresponden a un usuario en un STTC. Su extensión puede establecerse mediante las siguientes unidades de medidas, sin perjuicio de las que en el futuro determine la Autoridad de Aplicación:
+La Dirección Nacional recabará toda la información necesaria para poner en funcionamiento ese registro tanto a automotores por registrarse como a los ya registrados. (Párrafo sustituido por art. 353 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-1.- Unidad de Medida Temporal. Es la extensión del período de uso contado en días, semanas o meses. La unidad de medida temporal puede ser determinada o determinable, de tal modo que:
+El Poder Ejecutivo Nacional podrá disponer que determinadas inscripciones y anotaciones se cumplan únicamente ante la Dirección Nacional cuando fuere aconsejable para el mejor funcionamiento del sistema registral. (Párrafo sustituido por art. 353 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-– Si el uso corresponde durante las mismas fechas de los años calendarios sucesivos, dará lugar a un período temporal fijo.
+ARTICULO 8º- La Dirección Nacional controlará el funcionamiento de los Registros Seccionales, realizará las tareas registrales específicas que determine la reglamentación, y dispondrá el archivo ordenado de copias de los instrumentos que se registren. Dicho registro será electrónico y de acceso público.
 
-– Si corresponde dentro de una temporada o entre determinadas fechas del año calendario, a elección del usuario y sujeto a disponibilidad, el período temporal será flotante.
+(Artículo sustituido por art. 354 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-2.- Unidad de Medida por Puntos. Es aquella mediante la cual se adquieren derechos de uso canjeables y con equivalencias preestablecidas, entre un conjunto de prestaciones en diferentes unidades o STTC, con capacidad de alojamiento y turnos de extensión variables.
+ARTICULO 9º- Los trámites que se realicen ante los Registros Seccionales de la Propiedad del Automotor deberán abonar el arancel que fije el Poder Ejecutivo Nacional, salvo los casos expresamente exceptuados por esta norma y la reglamentación.
 
-– Establecimiento Vacacional. Es el bien inmueble o parte de él, incluidas sus unidades vacacionales y sus áreas comunes, afectado total o parcialmente a un STTC.
+Los aranceles que establezca el Poder Ejecutivo Nacional para los trámites digitales ante la Dirección Nacional no podrán superar el valor del arancel a que se refiere el párrafo anterior.
 
-– Unidad Vacacional. Es el departamento, suite, cabaña y en general toda unidad habitacional, que comprenda áreas de dormitorio, baño y espacios de ocupación exclusiva, que, a su vez forme parte de un establecimiento afectado total o parcialmente al STTC.
+No podrá restringirse o limitarse la inmediata inscripción del dominio de los automotores o de sus transmisiones por normas de carácter administrativo ajenas a los aranceles del Registro. La existencia de deudas en situación regular por multas o patentes tampoco podrá impedir la inscripción o transmisión de automotores en el Registro.
 
-– Club Vacacional. Es la modalidad que asume el STTC cuando el período de uso, según se hubiese convenido en el contrato, se puede utilizar en diversas temporadas, en diferentes tipos de unidades, con capacidades de ocupación diversas, en fechas variables y en distintos establecimientos afectados total o parcialmente a un STTC.
+Las personas humanas o jurídicas registradas en el Organismo de Aplicación como comerciantes habituales en la compraventa de automotores deberán inscribir a su nombre los automotores usados que adquieran para la reventa posterior.
 
-CAPITULO II
+El Organismo de Aplicación establecerá los requisitos que deberán cumplir los interesados para inscribirse como comerciantes habituales en la compraventa de automotores y las causas por las cuales se suspenderá o cancelará esa inscripción.
 
-DE LA AUTORIDAD DE APLICACION DE LOS STTC
+(Artículo sustituido por art. 355 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 4º — Autoridad de Aplicación. La SECRETARIA DE TURISMO DE LA PRESIDENCIA DE LA NACION o el organismo que en el futuro futuro la sustituya será autoridad de aplicación y ente fiscalizador de los STTC.
+ARTICULO 10.- En las inscripciones de dominio de automotores armados fuera de fábrica, o de sus plantas de montaje, deberá justificarse fehacientemente el origen de los elementos utilizados, los que podrán ser de fabricación artesanal, en la forma en que lo determine el organismo de aplicación, quien resolverá en definitiva acerca de la procedencia o no de las inscripciones de estos tipos de automotores.
 
-La Autoridad de Aplicación debe instrumentar normas de procedimientos eficaces tendientes a la protección de los derechos del usuario de los STTC y a la prevención y solución de conflictos entre las partes intervinientes. A tal efecto se podrán suscribir convenios de cooperación, delegación y fiscalización.
+El titular que transfiera un automotor podrá asimismo dejar sentado en el Registro el cumplimiento de las condiciones de seguridad activa y pasiva para circular en la forma que determine la normativa específica en la materia. La ausencia de esta anotación en ningún caso podrá impedir la inscripción o transferencia del automotor.
 
-ARTICULO 5º — Facultades. La Autoridad de Aplicación, por sí o a través del organismo en que ella delegue, queda facultada a inspeccionar y verificar en todo el territorio nacional, el cumplimiento de las normas que regulen el STTC, sin perjuicio de la aplicación de la Ley 24.240 de Defensa del Consumidor y normas complementarias, a través de sus respectivas autoridades de aplicación. Para el desempeño de esa función podrá inspeccionar los libros y documentos de los responsables, levantar actas de comprobación de las infracciones, efectuar intimaciones, promover investigaciones, solicitar la documentación que considere necesaria, promover acciones judiciales, solicitar órdenes de allanamiento, requerir el auxilio de la fuerza pública y llevar adelante toda otra medida que sea necesaria a los fines del cumplimiento de la presente ley.
+(Artículo sustituido por art. 356 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 6º — Registro. Inscripción. Créase el Registro de Prestadores y Establecimientos Vacacionales afectados a Sistemas Turísticos de Tiempo Compartido, que funcionará en el ámbito de la SECRETARIA DE TURISMO de la PRESIDENCIA DE LA NACION.
+ARTICULO 11.- (Artículo derogado por art. 351 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-Los titulares de los complejos o establecimientos vacacionales, los emprendedores, los administradores, los vendedores y revendedores, así como las redes de intercambio, previo al inicio de sus respectivas actividades, deberán inscribirse en aquel registro a cuyos efectos, los titulares de los establecimientos vacacionales justificarán el cumplimiento de los requerimientos edilicios y funcionales acordes a su destino y categoría, y los prestadores cumplimentarán los recaudos de idoneidad y solvencia, adecuados a la actividad de que se trate, que fijará la Autoridad de Aplicación. Son requisitos para el ejercicio de dichas actividades, la inscripción en el Registro previa habilitación otorgada por la Autoridad de Aplicación.
+ARTICULO 12.- (Artículo derogado por art. 351 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 7º — Denegatoria. La Autoridad de Aplicación deberá denegar el otorgamiento de habilitaciones a:
+ARTICULO 13.- Los pedidos de inscripción o anotación en el Registro, y en general los trámites que se realicen ante él, solo podrán efectuarse mediante la utilización de las solicitudes tipo que determine el Organismo de Aplicación, el que fijará su contenido y demás requisitos de validez. Estos documentos podrán ser de carácter electrónico.  (Párrafo sustituido por art. 357 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-a) Quienes no puedan ejercer el comercio;
+Cuando las solicitudes tipo no se suscribieren por los interesados ante el Encargado de Registro, deberán presentarse con las firmas certificadas en la forma y por las personas que establezca el Organismo de Aplicación.
 
-b) Los fallidos por quiebra durante el período de inhabilitación puesto por la Ley 24.522 y sus modificatorias;
+Dichas solicitudes serán expedidas gratuitamente por el Organismo de Aplicación o los Registros Seccionales, según ante quien se realice el trámite, y deberán ser presentadas ante ellos por los interesados dentro de los NOVENTA (90) días de su expedición. Vencido ese plazo perderán su eficacia, excepto cuando instrumentaren el otorgamiento de derechos, en cuyo caso una vez vencidos los NOVENTA (90) días, abonarán un recargo progresivo de arancel por mora de acuerdo a lo que fije el Poder Ejecutivo Nacional. Lo dispuesto en este párrafo no será aplicable a las solicitudes tipo por las cuales se peticione la inscripción inicial de automotores nuevos de fabricación nacional.
 
-c) Los condenados con la accesoria de inhabilitación para ejercer cargos públicos; los condenados por hurto, robo, defraudación, cohecho, emisión de cheques sin fondos y delitos contra la fe pública; los condenados por delitos cometidos en la constitución, funcionamiento y liquidación de sociedades. En todos los casos hasta después de DIEZ (10) años de cumplida la condena;
+Los Encargados de Registros, y las demás personas con facultad certificante, no podrán validamente certificar firmas en solicitudes que han perdido su eficacia. y las que hicieren en violación de esta norma carecerán de valor, ello sin perjuicio de las sanciones a que pudiere dar lugar esa transgresión,
 
-d) Los funcionarios de la administración pública cuyo desempeño se relacione con el objeto de la sociedad, hasta DOS (2) años desde el cese de sus funciones.
+Si las solicitudes tipo no se encontraren suscriptas por las partes o por sus representantes legales, el apoderado interviniente deberá acreditar su personería mediante mandato otorgado por escritura pública.
 
-CAPITULO III
+Los mandatos para hacer transferencias de automotores, o para realizar trámites o formular peticiones ante el Registro o el Organismo de Aplicación, caducarán a los NOVENTA (90) días de su otorgamiento, excepto cuando las facultades aludidas estén contenidas en poderes generales o se tratare de poderes para interponer recursos administrativos o judiciales.
 
-DE LA CONSTITUCION DEL SISTEMA TURISTICO DE TIEMPO COMPARTIDO
+ARTICULO 14.-Los contratos de transferencia de automotores que se formalicen por instrumento privado se inscribirán en el Registro mediante la utilización de las solicitudes tipo mencionadas en el artículo anterior, suscriptos por las partes.
 
-(Capítulo III — artículos 8° al 13, ambos inclusive — derogado por art. 3° inc. g) de la Ley N° 26.994 B.O. 8/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+Cuando la transferencia se formalice por instrumento público o haya sido dispuesta por orden judicial o administrativa, se presentará para su inscripción junto con el testimonio u oficio correspondiente, la solicitud tipo de inscripción suscripta por el autorizante o por la autoridad judicial o administrativa.
 
-CAPITULO IV
+En todos los casos se presentará el título de propiedad del automotor, en forma física o digital.
 
-DEL CONTRATO DE TIEMPO COMPARTIDO
+En las transferencias dispuestas por autoridad judicial, se transcribirá textualmente la parte pertinente del auto que la ordena.
 
-(Capítulo IV — artículos 14 al 21, ambos inclusive — derogado por art. 3° inc. g) de la Ley N° 26.994 B.O. 8/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+La Municipalidad en donde se domicilie la persona humana o jurídica titular del automotor inscripto será notificada del contrato de transferencia.
 
-CAPITULO V
+(Artículo sustituido por art. 358 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-DE LA ADMINISTRACION DE LOS STTC
+ARTICULO 15.-La inscripción en el Registro de la transferencia de la propiedad de un automotor, podrá ser peticionada por cualquiera de las partes. No obstante, el adquirente asume la obligación de solicitarla dentro de los DIEZ (10) días de celebrado el acto, mediante la presentación de la solicitud prescripta en los artículos 13 y 14. En caso de incumplimiento de esta obligación, el transmitente podrá revocar la autorización para circular con el automotor que, aún implícitamente mediante la entrega de la documentación a que se refiere el artículo 22, hubiere otorgado al adquirente, debiendo comunicar esa circunstancia al Registro, a los efectos previstos en el artículo 27.
 
-(Capítulo V — artículos 22 al 25, ambos inclusive — derogado por art. 3° inc. g) de la Ley N° 26.994 B.O. 8/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+Será nula toda cláusula que prohiba o limite esta facultad. Idéntico derecho tendrá el propietario de un automotor que por cualquier título hubiese entregado su posesión o tenencia, si el poseedor o tenedor no inscribe su titulo en el Registro en el plazo indicado en este artículo.
 
-CAPITULO VI
+El Encargado del Registro ante el cual se peticione la inscripción de la transferencia deberá verificar que las constancias del título concuerden con las anotaciones que obren en el Registro y procederá a la registración dentro de las VEINTICUATRO (24) horas de serle presentada la solicitud.
 
-DE LA COMERCIALIZACION Y LA PUBLICIDAD DE LOS STTC
+Una vez hecha la inscripción el Encargado del Registro dará constancia de ella en el título del automotor, en el cual actualizará también las demás anotaciones que existan en el mismo.
 
-ARTICULO 26. — Deber de Información. Los emprendedores, administradores, vendedores, revendedores y redes de intercambio, deben suministrar, con certeza y objetividad, información veraz, eficaz y suficiente, las características de los bienes que integran el STTC y de las prestaciones que ofrecen, detallando el tipo y alcances de los derechos que se transmiten o constituyen, según sea la actividad de que se trate, y demás condiciones de comercialización.
+ARTICULO 16. A los efectos de la buena fe previstos en los artículos 2º, 3º y 4º del presente, se presume que los que adquieren derechos sobre un automotor, conocen las constancias de su inscripción y de las demás anotaciones que respecto de aquel obran en el Registro de la Propiedad del Automotor, aun cuando no hayan exigido del titular o del disponente del bien, la exhibición del certificado de dominio que se establece en este artículo.
 
-ARTICULO 27. — Promociones. Las personas físicas o jurídicas que para la captación de potenciales usuarios ofrezcan regalos, premios, participación en sorteos, cupones, chequeras o cualquier documento representativo de derechos de alojamiento, estadías o viajes, ya sea en entrevistas individuales o grupales, telemarketing, medios gráficos o electrónicos u otros, deben:
+Durante un período de QUINCE (15) días los embargos y demás anotaciones que se soliciten con respecto al automotor tendrán carácter condicional y solo quedarán firmes y producirán sus efectos legales una vez vencido dicho plazo, siempre que no hayan modificado el dominio o la situación jurídica del automotor.
 
-a) Indicar por el mismo medio que la finalidad de la promoción es venderles el STTC;
+(Artículo sustituido por art. 359 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-b) Especificar claramente la verdadera naturaleza, valor, especie y dimensiones de los premios y regalos ofrecidos, así como las condiciones, costos, limitaciones y restricciones para acceder a los mismos;
+ARTICULO 17.- La inscripción de un embargo sobre un automotor caducará a los tres (3) años de su anotación en el Registro.
 
-c) Precisar en la primera comunicación, por cualquier medio que ésta se realice, el objeto, características y el tiempo real de duración de la entrevista, cuando ésta sea la condición para recibir el premio, regalo y/o participar en sorteos;
+La inscripción de una inhibición general en el Registro Nacional de Propiedad del Automotor caducará de pleno derecho a los cinco (5) años de su anotación en el Registro.
 
-d) Entregar los premios y regalos en el momento de la presentación o dentro de los VEINTE (20) días de realizada la misma, informando si existieren costos no cubiertos en razón de traslado u otros;
+(Artículo sustituido por art. 1° de la Ley N° 25.677 B.O. 28/11/2002)
 
-e) Abstenerse de imponer procedimientos exageradamente onerosos o impedimentos que tengan por objeto hacer desistir al potencial usuario, del premio, regalo o sorteo.
+ARTICULO 18.-El Estado responde de los daños y perjuicios emergentes de las irregularidades o errores que cometan sus funcionarios en inscripciones, certificados o informes expedidos por el Registro Nacional de la Propiedad del Automotor.
 
-ARTICULO 28. — Documento Informativo. Toda persona física o jurídica que se dedique profesionalmente a la transmisión de derechos en los STTC, deberá editar un documento informativo que tendrá el carácter de oferta vinculante, para ser entregado sin cargo a quien solicite información y a los potenciales usuarios en la primera entrevista. En el documento, como mínimo, se precisará:
+ARTICULO 19.-Cuando el Poder Ejecutivo Nacional disponga que las prendas sobre automotores se inscriban en el Registro Nacional de la Propiedad del Automotor, se aplicarán las siguientes normas:
 
-a) La identificación y domicilio del emprendedor y de toda persona física o jurídica que intervenga profesionalmente en la comercialización de los derechos en los STTC;
+a) La inscripción de la prenda con registro, sus anotaciones posteriores, certificaciones, cancelaciones y demás trámites establecidos por el Decreto-Ley 15.348/46, ratificado por Ley 12.962, que afecten automotores incorporados al régimen del presente decreto-ley, se efectuarán en el Registro Nacional de la Propiedad del Automotor, de acuerdo con las disposiciones de los incisos siguientes y de las que en su cumplimiento dicte la autoridad de aplicación;
 
-b) La naturaleza real o personal de los derechos que se ofrecen y su duración;
+b) La prenda sobre automotores se registrará con sujeción a las normas del presente decreto-ley y su reglamentación. Los trámites posteriores relativos al gravamen constituido, se ajustarán a las disposiciones del Decreto-Ley 15.348/46;
 
-c) Los datos de inscripción del STTC de que se trate en los registros respectivos, con expresión de la titularidad y las cargas y con aclaración que pueden ser consultados a los fines de conocer la situación jurídica de los bienes afectados, así como el íntegro contenido del instrumento de afectación;
+c) El Registro Nacional de la Propiedad del Automotor llevará un registro de acreedores prendarios, que actuarán como tales ante el organismo de acuerdo con el artículo 5º del Decreto-Ley 15.348/46.
 
-d) Si el o los inmuebles afectados al STTC se encuentran construidos y en funcionamiento o en construcción. En este último caso, fecha límite para su terminación y habilitación;
+d) La anotación de los endosos de contratos de prenda podrá hacerse en cualquier Registro Seccional o directamente en el servicio de inscripción remoto de la Dirección Nacional; (Inciso sustituido por art. 360 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-e) Descripción precisa del o de los bienes sobre los que se ha constituido el STTC y de su ubicación;
+e) Los trámites ulteriores correspondientes a contratos de prenda inscriptos hasta el día anterior al cambio de régimen que disponga el Poder Ejecutivo Nacional seguirán a cargo del Registro Nacional de Créditos Prendarios.” (Inciso sustituido por art. 360 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-f) Servicios e instalaciones de uso común a las que el futuro usuario podrá acceder, condiciones para el acceso y en su caso, los costos y las bases para su determinación;
+TITULO III - Del título del automotor
 
-g) Las prestaciones que el usuario podrá disfrutar y condiciones de uso de las mismas;
+ARTICULO 20.-El título del automotor a que se refiere el artículo 6º deberá contener los datos siguientes:
 
-h) El precio y duración del período de uso mínimo. Importe de la primera cuota a abonarse por gastos de administración y mantenimiento del sistema o su estimación y el procedimiento para el cálculo de las cuotas futuras;
+a) Lugar y fecha de su expedición;
 
-i) La identificación y el domicilio del administrador;
+b) Número asignado en su primera inscripción;
 
-j) La información del derecho de desistimiento a favor del adquirente, con transcripción del texto del artículo 18 y asimismo, con indicación de la persona y domicilio al que deberá comunicarse el desistimiento en caso de ejercitarse el mismo;
+c) Elementos de individualización del vehículo, los que serán determinados por la reglamentación, incluyendo: marca de fábrica, modelo, número de chasis y/o motor, tipo de combustible empleado, número de ejes, distancia entre los mismos, número de ruedas en cada eje, potencia en caballos de fuerza, tipo de tracción, peso del vehículo vacío, tipo de carrocería, capacidad portante;
 
-k) La identificación y el domicilio de la red de intercambio a que se encuentre afiliado el STTC y consecuentemente, la posibilidad de suscribir contrato con ésta, haciendo constar la cuota a abonarse como socio en el programa de intercambio, su periodicidad y las tasas de intercambio correspondientes.
+d) Indicación de si se destinara a uso público o privado;
 
-ARTICULO 29. — Publicidad. Las precisiones formuladas por el emprendedor en anuncios, folletos, circulares u otros medios de difusión gráfica o electrónica, obligan a aquél y se tienen por incluidas en los contratos de tiempo compartido. Cuando los bienes afectados a un STTC se encuentren en construcción, toda publicidad referida a ellos deberá hacerse constar expresamente.
+e) Nombre y apellido, nacionalidad, estado civil, domicilio, documento de identidad, y clave o código de identificación otorgado por la Administración Federal de Ingresos Públicos o por la Administración Nacional de la Seguridad Social, así como también razón social, inscripción, domicilio y clave o código de identificación, en el caso de las personas jurídicas. (Inciso sustituido por art. 5° Ley N° 25.345 B.O. 17/11/2000)
 
-ARTICULO 30. — Lealtad comercial. Toda persona física o jurídica que se dedique profesionalmente a la transmisión de derechos en los STTC no podrá recurrir a presiones, al acosamiento y manipuleo del potencial usuario, alentando sus motivaciones de compra con argumentos y aseveraciones realistas, no ilusorias, que no se presten a dobles interpretaciones o que contengan falsas promesas, ocultamientos o engaños. Los argumentos de venta, orales o escritos, deberán ser coincidentes con los contenidos del contrato de tiempo compartido.
+f) Indicación de los instrumentos y/o elementos probatorios en virtud de los cuales se anota el dominio:
 
-ARTICULO 31. — Comercialización de los STTC en el exterior. Los STTC ubicados en el exterior podrán comercializarse en la República Argentina, previa autorización y registración, debiendo el emprendedor y el propietario en su caso, acreditar ante la autoridad de aplicación:
+g) Modificaciones introducidas al vehículo siempre que ellas alteren algunos de los datos previstos en el inciso c).
 
-a) Su existencia legal, sus derechos sobre el o los establecimientos vacacionales, las condiciones necesarias para su comercialización en el Sistema Turístico de Tiempo Compartido y los poderes de su representante legal;
+Deberán consignarse, además, en el título del automotor, las constancias de inscripción en el Registro de instrumentos públicos o privados: 1) de prenda o locación referentes al vehículo, con indicación del nombre, apellido y domicilio del acreedor o locatario, plazo y monto de la obligación prendaria; 2) De transferencia de dominio, con los datos personales o sociales, domicilio, documentos de identidad y clave o código de identificación del adquirente 3) de toda inscripción que afecte el dominio, posesión o uso del automotor, que estuviere vigente al presentarse el título en el registro y no figurase en él. (Apartado 2 inc. g) sustituido por art. 5° Ley N° 25.345 B.O. 17/11/2000)
 
-b) Que el vendedor se encuentra inscripto en el Registro de Prestadores y Establecimientos Vacacionales afectados a los Sistemas Turísticos de Tiempo Compartido que por esta ley se crea;
+ARTICULO 21.-  (Artículo derogado por art. 351 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-c) Que el o los establecimientos vacacionales a comercializar, se encuentran construidos, en operación y adheridos a alguna red internacional de intercambios.
+ARTICULO 22.- Sin perjuicio de la expedición del título a que se refiere el artículo 20, juntamente con la inscripción originaria, o con cada una de las correspondientes a las sucesivas transferencias de dominio, el Registro entregará al titular del automotor una o más cédulas de identificación de este, en las que se consignarán los datos que, con respecto al automotor y a su propietario, establezca la autoridad de aplicación.
 
-CAPITULO VII
+Las cédulas se entregarán digitalmente, las que tendrán la misma validez que las físicas. El adquirente podrá pedir una o varias cédulas físicas las que podrán tener un costo. Dichas cédulas deberán ser devueltas por el enajenante del automotor, expidiéndose nuevas para el adquirente.
 
-DE LA INSTANCIA ARBITRAL
+Su tenencia acreditará derecho o autorización para usar el automotor, pero no eximirá de la obligación de justificar la habilitación personal para conducir. La cédula, la licencia para conducir y el comprobante de pago de patente son los únicos documentos exigibles para circular con el automotor, y las autoridades provinciales o municipales no podrán establecer otros requisitos para su uso legítimo.
 
-ARTICULO 32. — Tribunal Arbitral. Para la resolución de conflictos que pudieren suscitarse entre los usuarios y los prestadores de los SISTEMAS TURISTICOS DE TIEMPO COMPARTIDO (STTC), será de aplicación el SISTEMA NACIONAL DE ARBITRAJE DE CONSUMO (SNAC), perteneciente a la órbita de la Subsecretaría de Defensa del Consumidor de la SECRETARIA DE COORDINACION TECNICA del MINISTERIO DE ECONOMIA Y PRODUCCION, en su carácter de Autoridad de Aplicación de la Ley Nº 24.240 de Defensa del Consumidor, normas concordantes y complementarias. Dicho sistema extrajudicial y voluntario atenderá y resolverá aquellos casos en los que pueda existir alguna violación a los derechos emanados de la Ley Nº 24.240 de Defensa del Consumidor.
+Será obligatorio exhibir esos documentos a la autoridad competente, pero no podrán ser retenidos si no mediare denuncia de hurto o robo del automotor u orden de autoridad judicial.
 
-Las asociaciones de consumidores y cámaras empresarias, podrán ser invitadas para que integren los tribunales arbitrales, conforme al artículo 59 de la Ley Nº 24.240.
+(Artículo sustituido por art. 361 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 33. — Adhesión. Quienes adhieran al sistema de arbitraje deberán manifestarlo expresamente en oportunidad de inscribirse en el registro que se crea por el artículo 6º de la presente ley. Dicha aceptación, se hará constar en el contrato suscripto entre el prestador y el usuario; la nómina de prestadores adheridos a la instancia arbitral, será publicada cada año en el Boletín Oficial de la República Argentina a cargo de la Cámara Argentina de Tiempo Compartido. Se tendrá por no convenido el sometimiento de consumidores y usuarios a cualquier arbitraje cuando lo hayan aceptado antes del nacimiento del conflicto.
+ARTICULO 23.- El Organismo de Aplicación determinará los distintos tipos de cédulas que se expedirán, las cuales no caducarán mientras no haya cambios en la titularidad del vehículo. También podrá requerir la caboración de las autoridades que determine el Poder Ejecutivo Nacional para controlar que los automotores circulen con la documentación correspondiente, para verificar cambios o adulteraciones en las partes que lo conforman como tal, y para fiscalizar que las transferencias se inscriban en el Registro dentro del término fijado por esta ley. Asimismo, podrá disponer la exhibición de los automotores y su documentación y la presentación de declaraciones juradas al respecto.  (Primer párrafo sustituido por art. 362 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-CAPITULO VIII
+El que se negare a exhibir a la autoridad competente la cédula de identificación del automotor, o que no justificare fehacientemente la imposibilidad material de suministrarla, será sancionado por el Organismo de Aplicación con una multa equivalente al precio de DIEZ (10) a DOSCIENTOS (200) litros de nafta común.
 
-DE LAS SANCIONES
+TITULO IV- De la identificación de los automotores
 
-ARTICULO 34. — Actuaciones administrativas. La Autoridad de Aplicación podrá iniciar actuaciones administrativas en caso de presuntas infracciones a esta ley, sus normas reglamentarias y resoluciones que en consecuencia se dicten, de oficio o por denuncia firmada y fundada, de quien invocare un interés legítimo o actuare en defensa de un interés general de los usuarios.
+ARTICULO 24.- Cada automotor, durante su existencia como tal, se identificará en todo el país por una codificación de dominio formada por letras y números, la que deberá figurar en el título y demás documentación. Dicha codificación deberá ser reproducida en placas de identificación visibles exteriormente, que se colocarán en las partes delantera y trasera del automotor.
 
-ARTICULO 35. — Procedimiento. Las sanciones se aplicarán previo sumario, si no se hubiere acordado la instancia arbitral. Se citará al sumariado concediéndole un plazo de DIEZ (10) días hábiles, que podrán ampliarse a VEINTE (20) días hábiles cuando razones de distancia o complejidad así lo aconsejen, para que presente su defensa y ofrezca las pruebas pertinentes. La Autoridad de Aplicación podrá disponer medidas de prueba para mejor proveer, en cualquier estado del procedimiento.
+La autoridad de aplicación podrá establecer, además, otros medios de identificación que considere viables y convenientes..
 
-Toda notificación deberá efectuarse personalmente o por cualquier otro medio fehaciente. En este último caso serán válidas las que se efectúen en el domicilio constituido por el responsable en el Registro de Prestadores y Establecimientos Vacacionales afectados a los Sistemas Turísticos de Tiempo Compartido.
+ARTICULO 25.- Las características de la placa de identificación prevista en el artículo anterior se establecerán por la reglamentación, en los términos de las normas nacionales y los acuerdos internacionales en la materia.
 
-ARTICULO 36. — Recursos. Contra las resoluciones recaídas en los sumarios administrativos, podrá interponerse un recurso directo ante la autoridad judicial competente en la materia de la jurisdicción respectiva.
+(Artículo sustituido por art. 3° de la Ley N° 27.187 B.O. 15/10/2015)
 
-ARTICULO 37. — Prescripción. Las acciones por infracción a las leyes, decretos y resoluciones que rijan la prestación de los servicios de tiempo compartido, prescribirán a los DOS (2) años, contados desde la fecha de comisión de la infracción.
+ARTICULO 26.- La reglamentación determinará la forma de aplicar el sistema único de individualización estatuido en el presente decreto-ley.
 
-ARTICULO 38. — Sanciones. Sin perjuicio de la responsabilidad civil o penal que pueda corresponder, los infractores a las disposiciones de la presente ley y a las disposiciones que la reglamenten serán pasibles de las siguientes sanciones:
+TITULO V - Disposiciones Generales
 
-a) Multa; desde pesos DOS MIL ($ 2.000) hasta pesos UN MILLON ($ 1.000.000), montos que podrán ser modificados por el Poder Ejecutivo nacional;
+ARTICULO 27.- Hasta tanto se inscriba la transferencia el transmitente será civilmente responsable por los daños y perjuicios que se produzcan con el automotor, en su carácter de dueño de la cosa. No obstante, si con anterioridad al hecho que motive su responsabilidad, el transmitente hubiere comunicado al Registro que hizo tradición del automotor, se reputará que el adquirente o quienes de este último hubiesen recibido el uso, la tenencia o la posesión de aquel, revisten con relación al transmitente el carácter de terceros por quienes el no debe responder, y que el automotor fue usado en contra de su voluntad. La comunicación prevista en este artículo, operará la revocación de la autorización para circular con el automotor, si el titular la hubiese otorgado, una vez transcurrido el término fijado en el artículo 15 sin que la inscripción se hubiere peticionado, e importará su pedido de secuestro, si en un plazo de TREINTA (30) días el adquirente no iniciare su tramitación.
 
-b) Inhabilitación temporaria;
+El Registro notificará esa circunstancia al adquirente, si su domicilio fuere conocido. Una vez transcurrido el plazo mencionado o si el domicilio resultase desconocido, dispondrá la prohibición de circular y el secuestro del automotor.
 
-c) Revocación de la habilitación.
+El automotor secuestrado quedará bajo depósito, en custodia del organismo de Aplicación, quien lo entregará al adquirente cuando acredite haber realizado la inscripción y previo pago del arancel de rehabilitación para circular y de los gastos de estadía que hubiere ocasionado.
 
-En el caso de inhabilitaciones temporarias y revocación de la habilitación, se deberá garantizar a los usuarios del sistema, el efectivo cumplimiento de las obligaciones contraídas y de los servicios ya contratados.
+Una vez efectuada la comunicación, el transmitente no podrá hacer uso del automotor, aunque le fuese entregado o lo recuperase por cualquier título o modo sin antes notificar esa circunstancia al Registro. La violación de esa norma será sancionada con la pena prevista en el artículo.
 
-La habilitación podrá ser revocada, además, si se constatare alguna causa sobreviniente de las enumeradas en el artículo 7º.
+Efectuada la denuncia de la tradición del automotor, se procederá a la sustitución del sujeto obligado al tributo (patente, impuestos, multas, etcétera) desde la fecha de la denuncia, desligando a partir de la misma al titular transmitente de todo tipo de responsabilidad legal sobre el mismo. (Quinto párrafo sustituido por art. 363 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-CAPITULO IX
+ARTICULO 28.- El propietario del automotor que resuelva retirarlo definitivamente del uso por no estar en condiciones de servir para su destino específico, deberá dar inmediata cuenta a la autoridad competente, quien procederá a retirar el título respectivo y practicará las anotaciones pertinentes en el registro. La autoridad policial y las compañías aseguradoras deberán igualmente comunicar al Registro los siniestros que ocurrieran a los automotores, siempre que estos sean de tal naturaleza que alteren sustancialmente las características individualizantes de los mismos.
 
-DE LA EXTINCION DEL SISTEMA TURISTICO DE TIEMPO COMPARTIDO
+ARTICULO 29.- El propietario que resuelva desarmar el vehículo de su propiedad para usar el material por partes, alterando el destino natural del vehículo, deberá comunicarlo a la autoridad competente con las mismas previsiones dispuestas en el artículo anterior.
 
-(Capítulo IX — artículo 39 — derogado por art. 3° inc. g) de la Ley N° 26.994 B.O. 8/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+ARTICULO 30.- Las aduanas de la Nación no darán curso a los trámites tendientes a la exportación de automotores comprendidos en las disposiciones del presente decreto-ley, sin que medie la exhibición del título e informe del registro sobre las condiciones del dominio y la existencia de gravámenes. Una vez autorizada por este la exportación, previa aprobación judicial en su caso, las aduanas retendrán el título del automotor y lo remitirán al registro correspondiente. Iguales requisitos deberán cumplirse con los automotores que salgan temporariamente del país con fines turísticos, sin que, en cambio, se les retenga el título, dándose solamente constancia en este de la autorización para salir de la República.
 
-CAPITULO X
+ARTICULO 31.- Los propietarios de vehículos introducidos al país en forma temporal deberán dar cumplimiento a los recaudos exigidos por el presente decreto-ley en los casos en que dicha introducción se considere efectuada con carácter definitivo. La reglamentación determinará las circunstancias que darán lugar a la aplicación de la norma anterior.
 
-DISPOSICIONES COMPLEMENTARIAS
+ARTICULO 32.- Los automotores nuevos, sean importados o fabricados en el país, mientras se hallen en poder de los importadores, fabricantes o concesionarios, solamente podrán circular antes de su comercialización munidos de una placa provisoria. También podrán hacerlo, cuando se hallen en poder de los adquirentes, durante el período de inscripción. La autoridad de aplicación determinará los requisitos y la forma de uso de las placas provisorias.
 
-ARTICULO 40. — Reglamentación. La presente ley será reglamentada por el Poder Ejecutivo nacional dentro de los NOVENTA (90) días de su entrada en vigencia.
+ARTICULO 33.- Para satisfacer exigencias de la policía de seguridad y a efectos de cumplir fines estadísticos, los Registros remitirán al Registro Nacional de la Propiedad del Automotor informes periódicos de las inscripciones cumplidas ante cada uno de ellos. Idéntica información se remitirá a la Policía Federal y a los ministerios técnicos que lo soliciten.
 
-ARTICULO 41. — Orden Público. La presente ley y sus normas reglamentarias, son complementarias del Código Civil y se consideran de orden público a todos sus efectos.
+TITULO VI - Disposiciones Penales
 
-ARTICULO 42. — Adecuación. Los emprendedores y propietarios de inmuebles, que a la fecha de la vigencia de la presente ley, hubieran iniciado su comercialización bajo el STTC, tendrán UN (1) año de plazo a partir de la publicación de la pertinente reglamentación, para adecuarse a lo establecido en la presente ley.
+ARTICULO 34.- Será reprimido con prisión de uno ( 1) a seis (6) años, siempre que el hecho no constituya un delito más severamente penado, el que insertare o hiciere incorporar en las solicitudes tipo o comunicaciones presentadas ante el Organismo de Aplicación o los Registros Seccionales declaraciones falsas, concernientes a hechos o circunstancias que tales documentos deban probar.
 
-ARTICULO 43. — Contratos anteriores. Los contratos celebrados con anterioridad a la sanción de la presente ley o dentro del plazo referido en el artículo 42, se regirán por sus propios términos, hasta el vencimiento del plazo establecido en el citado artículo 42, no pudiendo invocarse sus disposiciones cuando se opongan a los derechos y beneficios que expresa o implícitamente en aquélla se reconocen.
+TITULO VII - Disposiciones Complementarias
 
-ARTICULO 44. — Comuníquese al Poder Ejecutivo.
+ARTICULO 35.- Todos los términos establecidos en el presente decreto-ley se computarán en días hábiles.
 
-DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTIOCHO DIAS DEL MES DE FEBRERO DEL AÑO DOS MIL OCHO.
+ARTICULO 36.- Los jefes de los Registros Seccionales dependientes de los Registros Nacionales de la Propiedad del Automotor y de Créditos Prendarios, serán designados y removidos por el Poder Ejecutivo a propuesta de la Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y de Créditos Prendarios, y permanecerán en sus cargos mientras mantengan su idoneidad y buena conducta.
 
-— REGISTRADO BAJO EL Nº 26.356 —
+Podrán ser removidos, previa instrucción de sumario con audiencia del interesado por las siguientes causas:
 
-EDUARDO A. FELLNER. — JULIO CESAR C. COBOS. — Enrique Hidalgo. — Juan H. Estrada.
+a) Abandono del servicio sin causa justificada;
 
- 
+b) Falta grave de respeto al superior o al público;
+
+c) Ser declarado en concurso civil o quiebra, salvo que concurran circunstancias atendibles;
+
+d) Inconducta notoria;
+
+e) Delito que no se refiera a la Administración Pública, cuando el hecho sea doloso y de naturaleza infamante;
+
+f) Falta grave que perjudique material o moralmente a la Administración Pública;
+
+g) Delito contra la Administración Pública;
+
+h) Incumplimiento de ordenes legales;
+
+i) Negligencia manifiesta o faltas reiteradas en el cumplimiento de sus funciones;
+
+j) Indignidad moral;
+
+Además, podrán ser removidos cuando se resuelva la supresión del cargo que desempeñan.
+
+ARTICULO 37.- Las decisiones de los Encargados de Registro en materia registral, podrán ser recurridas ante la Cámara Federal de Apelaciones con competencia territorial en el lugar donde tenga su asiento el Registro Seccional contra cuya decisión se recurre. En la Capital Federal será competente la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal de la Capital Federal.
+
+También podrá recurrirse ante el tribunal mencionado en último término, de las decisiones del Organismo de Aplicación en cuestiones de materia registral, relativas a conflictos o casos de carácter individual, o en los supuestos de cancelación o suspensión en el registro de los comerciantes habituales previstos en el artículo 9º o de aplicación de sanciones de multa contemplado en el artículo23.
+
+Las actuaciones se elevarán al Tribunal por intermedio del Organismo de Aplicación. Cuando el recurso se interpusiera contra una decisión de este último se hará por intermedio del Ministerio de Justicia.
+
+El Poder Ejecutivo reglamentará los procedimientos y plazos para interponer el recurso y sustanciar su trámite.
+
+El plazo para dictar sentencia será de sesenta (60) días hábiles judiciales desde que se encuentre firme el llamamiento de autos.
+
+Dentro del plazo que el Poder Ejecutivo establezca para remitir las actuaciones el Tribunal, quien dictó la resolución recurrida podrá revocarla por contrario imperio. Dentro del mismo plazo, el Organismo de Aplicación, cuando se tratare de decisiones de los Encargados de Registro, o el Ministerio de Justicia, cuando se tratare de decisiones de este último, podrán dejar sin efecto el acto impugnado.
+
+ARTICULO 38.- El Organismo de Aplicación queda legitimado para iniciar acciones con el objeto de obtener la declaración de nulidad de las inscripciones registrales o de los documentos que las acrediten.
+
+Cláusula transitoria. La Dirección Nacional deberá hacer efectiva la puesta en marcha de su registro remoto, abierto, estandarizado y accesible a más tardar el 2 de mayo de 2024.
+
+(Cláusula Transitoria incorporada por art. 364 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+Antecedentes Normativos
+
+- Artículo 10 sustituido por art. 2° de la Ley Nº 26.348 B.O. 21/01/2008;
+
+- Artículo 27, párrafo quinto incorporado por art. 1° de la Ley N° 25.232 B.O. 31/12/1999;:

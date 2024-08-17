@@ -36,6 +36,8 @@ Los convenios colectivos de trabajo de empresa o de grupo de empresas, deberán 
 
 Sin perjuicio de ello, estos convenios podrán ser homologados a pedido de parte.
 
+(Nota Infoleg: por art. 1° de la Resolución N° 204/2024 del Ministerio de Capital Humano B.O. 17/05/2024 se delega en la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO, el ejercicio de las competencias como Autoridad de Aplicación de la presente Ley. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
 ARTICULO 5º.- Las convenciones colectivas regirán a partir de la fecha en que se dictó el acto administrativo que resuelve la homologación o el registro, según el caso.
 
 El texto de las convenciones colectivas será publicado por el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, dentro de los DIEZ (10) días de registradas u homologadas, según corresponda.
@@ -44,9 +46,11 @@ Vencido este término, la publicación efectuada por cualquiera de las partes en
 
 El MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL llevará un registro de las convenciones colectivas, a cuyo efecto el instrumento de las mismas quedará depositado en el citado MINISTERIO.
 
-ARTICULO 6º.- Una convención colectiva de trabajo, cuyo término estuviere vencido, mantendrá la plena vigencia de todas sus cláusulas hasta que una nueva convención colectiva la sustituya, salvo que en la convención colectiva vencida se hubiese acordado lo contrario.
+ARTICULO 6º.- Una convención colectiva de trabajo, cuyo término estuviere vencido, solamente mantendrá subsistentes las normas referidas a las condiciones de trabajo establecidas en virtud de ellas (cláusulas normativas) y hasta tanto entre en vigencia una nueva convención colectiva o exista un acuerdo de partes que la prorrogue.
 
-Las partes podrán establecer diferentes plazos de vigencia de las cláusulas convencionales.
+El resto de las cláusulas (obligacionales) podrán mantener su vigencia, solo por acuerdo de partes o por la específica prórroga dispuesta por el Poder Ejecutivo Nacional.
+
+(Artículo sustituido por art. 86 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 7º.- Las disposiciones de las convenciones colectivas deberán ajustarse a las normas legales que rigen las instituciones del derecho del trabajo, a menos que las cláusulas de la convención relacionadas con cada una de esas instituciones resultarán más favorables a los trabajadores y siempre que no afectaran disposiciones dictadas en protección del interés general.
 

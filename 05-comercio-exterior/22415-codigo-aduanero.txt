@@ -2,10 +2,7 @@
 
 
 
-
-
-
-[/web/20231002074435im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 
 
 
@@ -41,11 +38,7 @@ ANTECEDENTES_NORMATIVOS
 
 
 
-
-
-
-
-[/web/20231206143258im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 Buenos Aires, 2 de marzo de 1981
 En uso de las atribuciones conferidas por el articulo 5° del Estatuto para el Proceso de Reorganización Nacional.
 EL PRESIDENTE DE LA NACION ARGENTINA
@@ -116,11 +109,7 @@ ARTICULO 16. –A los fines de la determinación del origen, y de la procedencia
 
 
 
-
-
-
-
-[/web/20231206143258im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 Buenos Aires, 2 de marzo de 1981
 En uso de las atribuciones conferidas por el articulo 5° del Estatuto para el Proceso de Reorganización Nacional.
 EL PRESIDENTE DE LA NACION ARGENTINA
@@ -191,10 +180,7 @@ ARTICULO 16. –A los fines de la determinación del origen, y de la procedencia
 
 
 
-
-
-
-[/web/20231207101149im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 17. –
 (Artículo derogado por art. 20 delDecreto_N°_618/1997B.O. 14/7/1997.)
 ARTICULO 18. –
@@ -236,17 +222,12 @@ ARTICULO 35. –
 
 
 
-
-
-
-[/web/20231221050043im_/https://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 36. –1. Son despachantes de aduana las personas de existencia visible que, en las condiciones previstas en este código realizan en nombre de otros ante el servicio aduanero trámites y diligencias relativos a la importación, la exportación y demás operaciones aduaneras.
 2. Los despachantes de aduana son agentes auxiliares del comercio y del servicio aduanero.
-ARTICULO 37. –1. Las personas de existencia visible sólo podrán gestionar ante las aduanas el despacho y la destinación de mercaderías, con la intervención del despachante de aduana, con la excepción de las funciones que este Código prevé para los agentes de transporte aduanero y de aquellas facultades inherentes a la calidad de capitán de buque, comandante de aeronave o, en general, conductor de los demás medios de transporte.
-2. No obstante lo dispuesto en el apartado primero podrá prescindirse de la intervención del despachante de aduana cuando se realizare la gestión ante la Aduana en forma personal por el importador o exportador. (Nota Infoleg: Por art. 1° delDecreto_N°_1.160/1996B.O.17/10/1996, se dispone que a los fines de lo previsto en el art. 37 apartado 2º del Código Aduanero, las personas de existencia ideal podrán gestionar el despacho y la destinación de la mercadería, por sí o a través de persona autorizada, en las demás condiciones y requisitos que establezca la reglamentación.)
-3. Las personas de existencia ideal podrán gestionar el despacho y la destinación de mercadería, por sí o a través de persona autorizada, en las condiciones y requisitos que fije la reglamentación.
-(Artículo sustituido por art. 8° inciso c) de la
-Ley_N°_25.063B.O. 30/12/1998. Vigencia: a partir del día siguiente a su publicación.)
+ARTICULO 37. –Las personas humanas o jurídicas podrán gestionar el despacho y la destinación de mercadería, por sí o a través de persona autorizada, con la excepción de las funciones que este Código prevé para los agentes de transporte aduanero y de aquellas facultades inherentes a la calidad de capitán de buque, comandante de aeronave o, en general, conductor de los demás medios de transporte.
+
+(Artículo sustituido por art. 99 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 38. –1. Los despachantes de aduana deberán acreditar ante el servicio aduanero la representación que invocaren por cualquiera de las formas siguientes:
 a) poder general para gestionar despachos, en cuyo caso el despachante podrá solicitar del servicio aduanero el registro del instrumento pertinente;
 b) poder especial para gestionar el despacho de la mercadería de que se tratare;
@@ -254,75 +235,55 @@ c) endoso en procuración del conocimiento o de otro documento que autorizare a 
 2. Salvo limitación expresa en el poder respectivo, el despachante queda facultado para efectuar todos los actos conducentes al cumplimiento de su cometido.
 ARTICULO 39. –Los despachantes de aduana que gestionaren ante las aduanas el despacho y la destinación de mercadería, de la que tuvieren su disponibilidad jurídica, sin acreditar su condición de representantes, en alguna de las formas previstas en el apartado 1 del artículo 38, serán considerados importadores o exportadores, quedando sujetos a los requisitos y obligaciones determinadas para ellos.
 ARTICULO 40. –(Artículo derogado por art. 1° inciso b) 2) delDecreto_N°_240/1999B.O. 23/3/1999.)
-ARTICULO 41. –1. No podrán desempeñarse como tales quienes no estuvieren inscriptos en el Registro de Despachantes de Aduana.
-2. Son requisitos para la inscripción en este registro:
-a) ser mayor de edad, tener capacidad para ejercer por sí mismo el comercio y estar inscripto como comerciante en el Registro Público de Comercio;
-b) haber aprobado estudios secundarios completos y acreditar conocimientos específicos en materia aduanera en los exámenes teóricos y prácticos que a tal fin se establecieren;
-c) acreditar domicilio real;
-d) constituir domicilio especial en el radio urbano de la aduana en la que hubiere de ejercer su actividad;
-e) acreditar la solvencia necesaria y otorgar a favor de la Administración Nacional de Aduanas una garantía en seguridad del fiel cumplimiento de sus obligaciones, de conformidad con lo que determinare la reglamentación;
-f) no estar comprendido en alguno de los siguientes supuestos:
+ARTICULO 41. –No podrán desempeñarse como Despachantes de Aduana quienes estén comprendidos en alguno de los siguientes supuestos:
+
 1°) haber sido condenado por algún delito aduanero o por la infracción de contrabando menor;
+
 2°) haber sido socio ilimitadamente responsable, director o administrador de cualquier sociedad o asociación cuando la sociedad o la asociación de que se tratare hubiera sido condenada por cualquiera de los ilícitos mencionados en el punto 1). Cuando hubiese sido condenada por la infracción de contrabando menor, la inhabilidad se extenderá hasta CINCO (5) años a contar desde que la condena hubiera quedado firme. Se exceptúa de la inhabilitación a quienes probaren haber sido ajenos al acto o haberse opuesto a su realización;
-3°) haber sido condenado por delito reprimido con pena privativa de la libertad. Exceptuanse los delitos contra las personas, el honor, la honestidad y el estado civil, cuando la sentencia hubiera concedido el beneficio de la ejecución condicional de la pena;
-4°) estar procesado judicialmente o sumariado en jurisdicción aduanera por cualquiera de los ilícitos indicados en los puntos 1) y 3), mientras no fuere sobreseído provisional o definitivamente o absuelto por sentencia o resolución firme;
+
+3°) haber sido condenado por delito reprimido con pena privativa de la libertad. Exceptúanse los delitos contra las personas, el honor, la honestidad y el estado civil, cuando la sentencia hubiera concedido el beneficio de la ejecución condicional de la pena;
+
+4°) contar con procesamiento judicial firme o encontrarse sumariado en jurisdicción aduanera por cualquiera de los ilícitos indicados en los puntos 1) y 3), mientras no fuere sobreseído provisional o definitivamente o absuelto por sentencia o resolución firme;
+
 5°) haber sido condenado con pena accesoria de inhabilitación para ejercer cargos públicos, hasta que se produjere su rehabilitación;
-6°) haber sido sancionado con la eliminación de cualquiera de los demás registros previstos en el artículo 23, inciso t), hasta que se hallare en condiciones de reinscribirse;
-7°) ser fallido o concursado civil, hasta DOS (2) años después de su rehabilitación. No obstante, cuando se tratare de quiebra o concurso culpable o fraudulento la inhabilidad se extenderá hasta CINCO (5) o DIEZ (10) años después de su rehabilitación, respectivamente;
-8°) encontrarse en concurso preventivo o resolutorio, hasta que hubiere obtenido carta de pago o acreditare el cumplimiento total del acuerdo respectivo;
-9°) estar inhibido judicialmente para administrar o disponer de sus bienes, mientras esta situación subsistiere;
-10°) ser deudor de obligación tributaria aduanera exigible o de obligación emergente de pena patrimonial aduanera firme, o ser socio ilimitadamente responsable, director o administrador de cualquier sociedad o asociación, cuando la sociedad o la asociación de que se tratare fuere deudora de alguna de las obligaciones mencionadas. Estas inhabilidades subsistirán hasta la extinción de la obligación.
-11°) ser o haber sido agente aduanero, hasta después de UN (1) año de haber cesado como tal;
-12°) haber sido exonerado como agente de la administración pública nacional, provincial o municipal, hasta que se produjere su rehabilitación.
-ARTICULO 42. –La Administración Nacional de Aduanas podrá disponer la suspensión por tiempo determinado de nuevas inscripciones, cuando mediaren razones que así lo justificaren.
-ARTICULO 43. –1. La solicitud de inscripción deberá presentarse ante la aduana en la que hubiere de ejercer su actividad, con los recaudos que determinare la reglamentación.
-2. La aduana interviniente, una vez cumplidos los requisitos establecidos en el apartado 2 del artículo 41, elevará la solicitud con todos sus elementos a la Administración Nacional de Aduanas, la que dictará resolución que admita o deniegue la inscripción solicitada dentro de los TREINTA (30) días, a contar desde su recepción.
-3. Contra la resolución denegatoria, el interesado podrá interponer recurso ante la Secretaría de Estado de Hacienda, dentro de los DIEZ (10) días de notificada. Las actuaciones se elevarán a dicha Secretaría dentro de los QUINCE (15) días, la que deberá dictar resolución en el plazo de TREINTA (30) días, a contar desde su recepción.
-4. Si transcurriere el plazo previsto en el apartado 2 sin que hubiere recaído resolución, el interesado podrá ocurrir directamente ante la Secretaría de Estado de Hacienda, la que se abocará al conocimiento de la cuestión y, previo requerimiento de las actuaciones a la Administración Nacional de Aduanas, resolverá admitir o denegar la inscripción, en el plazo de TREINTA (30) días, a contar desde la recepción de estas últimas.
-5. Confirmada la denegatoria por la Secretaría de Estado de Hacienda o, en su caso, vencido el plazo de TREINTA (30) días fijado en los apartados 3 y 4 sin que la misma hubiere dictado resolución, el interesado podrá promover sin más trámite acción ordinaria en sede judicial.
-6. En la medida en que resultaren compatibles con el procedimiento reglado en este artículo, le serán aplicables supletoriamente las disposiciones de la SECCION XIV de este código.
-ARTICULO 44. –1. Serán suspendidos sin más trámite del Registro de Despachantes de Aduana:
-a) quienes perdieren la capacidad para ejercer por sí mismos el comercio, mientras esta situación subsistiere;
-b) quienes fueren procesados judicialmente por algún delito aduanero, hasta que la causa finalizare a su respecto;
-c) quienes fueren procesados por delito reprimido con pena privativa de la libertad, hasta que el proceso finalizare a su respecto. En caso de delitos contra las personas, el honor, la honestidad y el estado civil, hasta que se concediere la libertad por falta de mérito, por eximición de prisión o por excarcelación;
-d) quienes se encontraren en concurso preventivo, hasta que obtuvieren carta de pago o hasta que se homologare el acuerdo respectivo;
-e) quienes fueren inhibidos judicialmente para administrar o disponer de sus bienes, mientras esta situación subsistiere;
-f) quienes fueren deudores de obligación tributaria aduanera exigible o de obligación emergente de pena patrimonial aduanera firme o quienes fueren directores, administradores o socios ilimitadamente responsables de cualquier sociedad o asociación, cuando la sociedad o la asociación de que se tratare fuere deudora de alguna de las obligaciones mencionadas. La suspensión subsistirá hasta la extinción de la obligación;
-g) quienes perdieren la solvencia exigida o dejaren caducar o disminuir la garantía que hubieren otorgado a favor de la Administración Nacional de Aduanas, en seguridad del fiel cumplimiento de sus obligaciones, por debajo del límite que se estableciere, como así también quienes no efectuaren a dicha garantía los reajustes que pudieran determinarse. Esta suspensión perdurará mientras cualquiera de estas situaciones subsistiere;
-h) quienes fueren sometidos a sumario administrativo, siempre que se lo estimare necesario por resolución fundada en la gravedad de la falta investigada en relación con la seguridad del servicio aduanero. Esta suspensión tendrá carácter preventivo y no podrá exceder de CUARENTA Y CINCO (45) días prorrogables por única vez por otro plazo igual, mediante decisión fundada, siempre que se mantuvieren las circunstancias que dieron origen a tal medida, pero nunca más allá de la fecha en que quedare firme la resolución definitiva dictada en el sumario de que se tratare.
-2. Serán sancionados con la suspensión en el Registro de Despachantes de Aduana, de conformidad con el procedimiento previsto en el artículo 51, quienes incurrieren en inconducta reiterada o falta grave en el ejercicio de sus funciones como auxiliar del comercio y del servicio aduanero.
-ARTICULO 45. –1. Serán eliminados sin más trámite del Registro de Despachantes de Aduana:
-a) quienes hubieran sido condenados por algún delito aduanero o por la infracción de contrabando menor;
-b) quienes hubieran sido socios ilimitadamente responsables, directores o administradores de cualquier sociedad o asociación, cuando la sociedad o la asociación de que se tratare hubiera sido condenada por cualquiera de los ilícitos previstos en el inciso a).
-Se exceptúa de esta inhabilitación a quienes probaren haber sido ajenos al acto o haberse opuesto a su realización;
-c) quienes hubieran sido condenados por delito reprimido con pena privativa de la libertad. Exceptuanse los delitos contra las personas, el honor, la honestidad y el estado civil, cuando la sentencia hubiera concedido el beneficio de la ejecución condicional de la pena;
-d) quienes hubieran sido condenados con pena accesoria de inhabilitación para ejercer cargos públicos;
-e) quienes fueren declarados en quiebra o en concurso civil de acreedores;
-f) quienes hubieran sido sancionados con la eliminación de cualquiera de los demás registros previstos en el artículo 23, inciso t);
-g) aquellos a quienes les fuera aceptada la renuncia. No podrá aceptarse la misma mientras el interesado se encontrare sometido a sumario administrativo y, en su caso, hasta tanto se cumpliere la sanción impuesta;
-h) quienes hubieran fallecido.
-2. Serán sancionados con la eliminación del Registro de Despachantes de Aduana, de conformidad con el procedimiento previsto en el artículo 51:
-a) quienes facilitaren su nombre o los derechos que les acordare su inscripción a quien se encontrare suspendido o eliminado del Registro, o a un tercero no inscripto;
-b) quienes incurrieren en reiteración de inconductas anteriormente sancionadas o en una falta grave en el ejercicio de sus funciones, que hicieren su permanencia incompatible con la seguridad del servicio aduanero;
-c) quienes no comunicaren a la Administración Nacional de Aduanas, dentro de los DIEZ (10) días de su notificación, estar comprendidos en alguno de los supuestos previstos en el artículo 41, apartado 2, inciso f), puntos 4., 6., 7., 8. y 9.;
-d) quienes durante los DOS (2) últimos años, por cualquier causa no debidamente justificada, no hubieran formalizado operación alguna o el mínimo de operaciones que determinare la Administración Nacional de Aduanas, de acuerdo con las características de las distintas aduanas y dependencias aduaneras. En este último caso, deberán computarse tanto las operaciones realizadas en carácter de despachante como las que hubiere podido efectuar en calidad de apoderado general de otro despachante.
-ARTICULO 46. –Sólo podrán reinscribirse en el Registro de Despachantes de Aduana, previo cumplimiento de los requisitos establecidos en el artículo 41, apartado 2, aquellos que hubieren sido eliminados por las siguientes causales:
-a) haber sido eliminado en cualquiera de los demás registros mencionados en el artículo 23, inciso t), siempre que se hallare en condiciones de reinscribirse en el mismo;
-b) renuncia;
-c) no haber comunicado a la Administración Nacional de Aduanas, dentro de los DIEZ (10) días de su notificación, estar comprendido en alguno de los supuestos previstos en el artículo 41, apartado 2, inciso f), puntos 4., 7., 8., y 9., siempre que hubieren transcurrido DOS (2) años desde la eliminación,
-d) no haber formalizado operación aduanera alguna o el mínimo de operaciones determinado por la Administración Nacional de Aduanas durante los DOS (2) últimos años, por cualquier causa no debidamente justificada;
-e) haber sido declarado en quiebra o en concurso civil, siempre que hubieren transcurrido DOS (2) años desde su rehabilitación o, si se tratare de quiebra o concurso culpable o fraudulento, CINCO (5) o DIEZ (10) años desde su rehabilitación, respectivamente.
+
+6°) ser fallido o concursado civil, hasta DOS (2) años después de su rehabilitación. No obstante, cuando se tratare de quiebra o concurso culpable o fraudulento la inhabilidad se extenderá hasta CINCO (5) o DIEZ (10) años después de su rehabilitación, respectivamente;
+
+7°) encontrarse en concurso preventivo o resolutorio, hasta que hubiere obtenido carta de pago o acreditare el cumplimiento total del acuerdo respectivo;
+
+8°) estar inhibido judicialmente para administrar o disponer de sus bienes, mientras esta situación subsistiere;
+
+9°) ser deudor de obligación tributaria aduanera exigible o de obligación emergente de pena patrimonial aduanera firme, o ser socio ilimitadamente responsable, director o administrador de cualquier sociedad o asociación, cuando la sociedad o la asociación de que se tratare fuere deudora de alguna de las obligaciones mencionadas.
+
+Estas inhabilidades subsistirán hasta la extinción de la obligación.
+
+10) ser o haber sido agente aduanero, hasta después de UN (1) año de haber cesado como tal;
+
+11) haber sido exonerado como agente de la administración pública nacional, provincial de la CIUDAD AUTÓNOMA DE BUENOS AIRES o municipal, hasta que se produjere su rehabilitación.
+
+12) quienes incurrieren en reiteración de inconductas o en una falta grave en el ejercicio de sus funciones, que hicieren su permanencia incompatible con la seguridad del servicio aduanero.
+
+(Artículo sustituido por art. 100 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 42. –(Artículo derogado por art. 101 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 43. –(Artículo derogado por art. 101 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 44. –(Artículo derogado por art. 101 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 45. –(Artículo derogado por art. 101 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 46. –(Artículo derogado por art. 101 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 47. –1. Según la índole de la falta cometida, el perjuicio ocasionado o que hubiera podido ocasionarse y los antecedentes del interesado, el servicio aduanero podrá aplicar a los despachantes de aduana las siguientes sanciones:
+
 a) apercibimiento;
-b) suspensión de hasta DOS (2) años;
-c) eliminación del Registro de Despachantes de Aduana.
-2. El apercibimiento será impuesto por el administrador de la aduana en cuya jurisdicción se hubiere cometido la falta o por quien ejerciere sus funciones. Las sanciones de suspensión y de eliminación serán impuestas por el Administrador Nacional de Aduanas.
+
+b) suspensión o prohibición para actuar como despachante ante la Dirección General de Aduanas
+
+2. El apercibimiento será impuesto por el administrador de la aduana en cuya jurisdicción se hubiere cometido la falta o por quien ejerciere sus funciones. Las sanciones de suspensión serán impuestas por el Director General de Aduanas.
+
+(Artículo sustituido por art. 102 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 48. –Los despachantes de aduana son responsables por los hechos de sus apoderados generales, dependientes y demás empleados en cuanto sus hechos se relacionaren con las operaciones aduaneras y se les podrá aplicar las sanciones previstas en el artículo 47, a cuyo efecto y cuando correspondiere serán parte en el sumario.
 ARTICULO 49. –1. Las acciones para aplicar las sanciones previstas en el artículo 47 prescriben a los CINCO (5) años.
 2. Dicho plazo se computará a partir del día primero de enero del año siguiente al de la fecha en que se hubiera cometido la falta.
 3. El curso de la prescripción de la acción para aplicar las sanciones de suspensión y eliminación se interrumpe por la apertura del correspondiente sumario administrativo o por la comisión de alguna nueva falta que tenga prevista sanción de eliminación o de suspensión.
 ARTICULO 50. –Dentro de los CINCO (5) días de notificado el apercibimiento que le hubiera sido impuesto, el sancionado podrá interponer recurso de apelación con efecto suspensivo ante el Administrador Nacional de Aduanas, cuya decisión quedará firme en sede administrativa.
-ARTICULO 51. –1. En los supuestos de suspensión y eliminación del Registro de Despachantes de Aduana que no fueren los previstos en los artículos 44, apartado 1, y 45, apartado 1, el administrador de la aduana en cuya jurisdicción se hubiere cometido la falta, o quien cumpliere sus funciones, deberá instruir el pertinente sumario administrativo, en el que, cumplidas las diligencias de investigación que considerare necesarias, correrá vista al interesado por un plazo de DIEZ (10) días, dentro del cual deberá ejercer su defensa y ofrecer las pruebas que hicieren a su derecho.
+ARTICULO 51. –1. En el marco de lo previsto en el inciso b) del artículo 47, el administrador de la aduana en cuya jurisdicción se hubiere cometido la falta, o quien cumpliere sus funciones, deberá instruir el pertinente sumario administrativo, en el que, cumplidas las diligencias de investigación que considerare necesarias, correrá vista al interesado por un plazo de DIEZ (10) días, dentro del cual deberá ejercer su defensa y ofrecer las pruebas que hicieren a su derecho. (Punto sustituido por art. 103 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 2. Las pruebas deberán producirse dentro de un plazo que no excederá de TREINTA (30) días, excepto las rechazadas por no referirse a los hechos investigados en el sumario o invocados en la defensa o por ser inconducentes, superfluas o meramente dilatorias. Concluida la etapa probatoria, se correrá, en su caso, una nueva vista al interesado por CINCO (5) días para que alegue sobre su mérito.
 3. Transcurrido el término para alegar o el fijado para la defensa del interesado en caso de tratarse de una cuestión de puro derecho, se elevarán las actuaciones al Administrador Nacional de Aduanas, quien dictará resolución dentro de los VEINTE (20) días.
 ARTICULO 52. –1. Contra la resolución condenatoria el interesado podrá interponer recurso de apelación ante la Secretaría de Estado de Hacienda dentro de los DIEZ (10) días de notificado. En el mismo recurso podrá pedir la producción de las pruebas que hubieren sido declaradas inadmisibles. El recurso de apelación comprende el de nulidad. La Administración Nacional de Aduanas elevará las actuaciones a la mencionada Secretaría dentro de los CINCO (5) días.
@@ -332,12 +293,8 @@ ARTICULO 52. –1. Contra la resolución condenatoria el interesado podrá inter
 ARTICULO 53. –1. Dentro de los DIEZ (10) días de notificada la resolución confirmatoria el interesado podrá interponer recurso de apelación al sólo efecto devolutivo ante la Cámara Nacional de Apelaciones en lo Federal y Contencioso Administrativo de la Capital Federal, fundado en razones de ilegitimidad o arbitrariedad. La Secretaría de Estado de Hacienda o, la Administración Nacional de Aduanas elevará las actuaciones dentro de los CINCO (5) días, previa extracción de las copias necesarias para proceder a la inmediata ejecución de la resolución recurrida.
 2. Recibidas las actuaciones, el tribunal dictará la providencia de autos para resolver y, una vez consentida, dispondrá de un plazo de SESENTA (60) días para dictar sentencia.
 ARTICULO 54. –En la medida en que resultaren compatibles con el procedimiento reglado en los artículos 51 a 53, serán aplicables las disposiciones de la Sección XIV de este código.
-ARTICULO 55. –1. Los despachantes de aduana, además de las obligaciones prescriptas en el artículo 33 del Código de Comercio, llevarán un libro rubricado por la aduana donde ejercieren su actividad, en el cual harán constar el detalle de todas sus operaciones, obligaciones tributarias pagadas o pendientes de pago, importe de las retribuciones percibidas y cualquier otra anotación que exigiere la Administración Nacional de Aduanas.
-2. El libro rubricado por la aduana deberá llevarse en los términos del artículo 54 del Código de Comercio y será exhibido al servicio aduanero cada vez que el mismo así lo solicitare.
-3. Los despachantes de aduana conservarán los libros referidos por el plazo fijado en el artículo 67 del Código de Comercio.
-(Nota Infoleg:Por art. 1° de la
-Resolución_N°_329/1997de la Dirección General de Aduana B.O. 5/11/1997, se dispuso suspender la exigencia impuesta a los despacharles de Aduana, de llevar un libro rubricado en los términos del artículo 55 del Código Aduanero.)
-ARTICULO 56. –Cuando el libro rubricado por la aduana fuere llevado con un atraso mayor de CUARENTA Y CINCO (45) días o de SESENTA (60) días si se tratare de los demás libros exigidos por el artículo 44 del Código de Comercio, o no cumplieren con las exigencias establecidas en el artículo 55, los despachantes de aduana incurrirán en falta y serán sancionados de conformidad con lo establecido en el artículo 47 de este código.
+ARTICULO 55. –(Artículo derogado por art. 104 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 56. –(Artículo derogado por art. 104 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 57. –1. Son agentes de transporte aduanero, a los efectos de este código, las personas de existencia visible o ideal que, en representación de los transportistas, tienen a su cargo las gestiones relacionadas con la presentación del medio transportador y de sus cargas ante el servicio aduanero, conforme con las condiciones previstas en este código.
 2. Dichos agentes de transporte, además de auxiliares del comercio, son auxiliares del servicio aduanero.
 ARTICULO 58. –1. No podrán desempeñarse como agentes de transporte aduanero quienes no estuvieren inscriptos como tales en el Registro de Agentes de Transporte Aduanero, con la indicación de la vía o vías de transporte correspondientes.
@@ -371,8 +328,7 @@ ARTICULO 59. –1. La solicitud de inscripción deberá presentarse ante la adua
 4. Si transcurriere el plazo previsto en el apartado 2 sin que hubiere recaído resolución, el interesado podrá ocurrir directamente ante la Secretaría de Estado de Hacienda, la que se abocará al conocimiento de la cuestión y, previo requerimiento de las actuaciones a la Administración Nacional de Aduanas, resolverá admitir o denegar la inscripción, en el plazo de TREINTA (30) días a contar desde la recepción de éstas últimas.
 5. Confirmada la denegatoria por la Secretaría de Estado de Hacienda o, en su caso, vencido el plazo de TREINTA (30) días fijado en los apartados 3 y 4 sin que la misma hubiere dictado resolución, el interesado podrá promover sin más trámite ordinaria en sede judicial.
 6. En la medida en que resultaren compatibles con el procedimiento reglado en este artículo, le serán aplicables supletoriamente las disposiciones de la Sección XIV de este código.
-ARTICULO 60.
-1 Los agentes de transporte aduanero deberán:
+ARTICULO 60.1 Los agentes de transporte aduanero deberán:
 a) presentar el balance general, el inventario y el cuadro demostrativo de ganancias y pérdidas, debidamente certificados por contador público nacional, y toda otra información complementaria en los casos en que el servicio aduanero considerare necesario exigirlos;
 b) comunicar de inmediato a la Administración Nacional de Aduanas todo cambio de los integrantes de sus órganos de administración, cuando se tratare de personas de existencia ideal.
 2. El incumplimiento de estas obligaciones constituirá falta y dará lugar a la aplicación de las sanciones establecidas en el artículo 64.
@@ -513,82 +469,51 @@ ARTICULO 90. –1. Los despachantes de aduana y los agentes de transporte aduane
 
 
 
-
-
-
-
-[/web/20231207165251im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 91. –1. Son importadores las personas que en su nombre importan mercadería, ya sea que la trajeren consigo o que un tercero la trajere para ellos.
 En los supuestos previstos en el apartado 2. del artículo 10, serán considerados importadores las personas que sean prestatarias y/o cesionarias de los servicios y/o derechos allí involucrados. (Párrafo incorporado por art. 8° inciso d de laLey_N°_25.063B.O. 30/12/1998. Vigencia: a partir del día siguiente a su publicación.)
 2. Son exportadores las personas que en su nombre exportan mercadería, ya que la llevaren consigo o que un tercero llevare la que ellos hubieren expedido.
 En los supuestos previstos en el apartado 2 del artículo 10 serán considerados exportadores las personas que sean prestadoras y/o cedentes de los servicios y/o derechos allí involucrados. (Párrafo sustituido por art. 79 de la Ley_N°_27.467 B.O. 4/12/2018)
-ARTICULO 92. –1. Los importadores y los exportadores para solicitar destinaciones aduaneras deben inscribirse en el Registro de Importadores y Exportadores.
-2. No será necesaria la inscripción cuando importaren o exportaren sin habitualidad, en cuyo caso deberá mediar en cada operación autorización de la Administración Nacional de Aduanas, la que podrá exigir a los importadores y exportadores que acrediten la solvencia necesaria o que otorguen una garantía, adecuadas a las circunstancias.
-3. Aunque las importaciones o las exportaciones se efectuaren con habitualidad, los importadores o los exportadores no deberán inscribirse en el Registro cuando se tratare de operaciones realizadas bajo los regímenes de equipaje, del rancho, provisiones de a bordo y suministros del medio de transporte, de la pacotilla, de franquicias diplomáticas, de envíos postales sin finalidad comercial, de tráfico fronterizo y de asistencia y salvamento. No obstante, será necesaria la inscripción cuando se pretendiere la percepción de los estímulos a la exportación que pudieren corresponder.
-ARTICULO 93. –Las personas que hubieran iniciado el trámite de inscripción como comerciantes en el Registro Público de Comercio podrán solicitar a la Administración Nacional de Aduanas su inscripción provisional en el Registro de Importadores y Exportadores por el plazo de SEIS (6) meses, siempre que cumplieren los demás requisitos exigidos en el artículo 94. Esta inscripción provisional podrá prorrogarse por el plazo de TRES (3) meses, cuando el trámite de inscripción como comerciante estuviere aún pendiente.
-ARTICULO 94. –1. Son requisitos para la inscripción en el REGISTRO DE IMPORTADORES Y EXPORTADORES cuando se tratare de personas de existencia visible:
-a) tener capacidad para ejercer por sí mismo el comercio;
-b) acreditar la inscripción y el domicilio fiscal ante la Dirección General Impositiva, dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, a través de la Clave Unica de Identificación Tributaria (CUIT);
-c) acreditar la solvencia necesaria u otorgar a favor de la Dirección General de Aduanas dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS una garantía, conforme y según determinare la reglamentación, en seguridad del fiel cumplimiento de sus obligaciones;
-d) no estar comprendido en alguno de los siguientes supuestos:
-1°) haber sido condenado por algún delito aduanero, impositivo o previsional, siempre que no haya transcurrido el doble del máximo de la pena prevista en la ley para dicho delito desde el momento de cumplida la condena;
+ARTICULO 92. –Todas las personas humanas y jurídicas podrán solicitar destinaciones aduaneras y realizar operaciones de comercio exterior sin necesidad de inscribirse en ningún registro.
+
+(Artículo sustituido por art. 105 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 93. –(Artículo derogado por art. 106 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 94. –1. No podrán realizar operaciones de exportación o importación las personas humanas que estén comprendidas en algunos de los siguientes supuestos: 1°) haber sido condenado por algún delito aduanero, impositivo o previsional, siempre que no haya transcurrido el doble del máximo de la pena prevista en la ley para dicho delito desde el momento de cumplida la condena;
+
 2°) haber sido socio ilimitadamente responsable, director o administrador de cualquier sociedad o asociación, cuando la sociedad o la asociación de que se tratare hubiera sido condenada por cualquiera de los ilícitos mencionados en el punto 1). Se exceptúa de esta inhabilitación a quienes probaren haber sido ajenos al acto o haberse opuesto a su realización;
-3°) estar procesado judicialmente o sumariado en jurisdicción de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, por cualquiera de los ilícitos indicados en el punto 1) mientras no fuere sobreseído o absuelto por sentencia o resolución firme. No obstante lo dispuesto precedentemente, podrán inscribirse en el REGISTRO DE IMPORTADORES Y EXPORTADORES en la medida que otorguen garantías suficientes en resguardo del interés fiscal;
-4°) haber sido sancionado con la eliminación de cualquiera de los demás registros previstos en el Artículo 9º, apartado 2. Inciso I) del Decreto Nº 618/97, hasta que se hallare en condiciones de reinscribirse;
-5°) ser fallido;
-6°) estar inhibido judicialmente para administrar o disponer de sus bienes mientras esta situación subsistiere;
-7°) estar inhabilitado para importar o exportar.
-2. Son requisitos para la inscripción en este Registro cuando se tratare de personas de existencia ideal:
-a) estar inscriptas en la INSPECCION GENERAL DE JUSTICIA, dependiente del MINISTERIO DE JUSTICIA, SEGURIDAD Y DERECHOS HUMANOS o en su caso en el organismo correspondiente y presentar sus contratos sociales o estatutos;
-b) acreditar la inscripción y el domicilio fiscal ante la Dirección General Impositiva dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, a través de la Clave Unica de Identificación Tributaria (CUIT);
-c) acreditar la solvencia necesaria u otorgar a favor de la Dirección General de Aduanas dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, una garantía en seguridad del fiel cumplimiento de sus obligaciones, de conformidad con lo que determine la reglamentación;
-d) no encontrarse la sociedad, asociación o cualesquiera de sus directores, administradores o socios ilimitadamente responsables en alguno de los supuestos previstos en el Apartado 1. inciso d) de este artículo."
-(Artículo sustituido por art. 1° delDecreto_N°_971/2003B.O. 28/4/2003.)
-ARTICULO 95. –1. La solicitud de inscripción deberá presentarse ante la aduana que correspondiere a su domicilio, con los recaudos que determinare la reglamentación.
-2. La aduana interviniente, una vez cumplidos los requisitos establecidos en el artículo 94, apartado 1. o en el 2., según correspondiere, elevará la solicitud con todos sus elementos a la DIRECCION GENERAL DE ADUANAS, la que dictará una resolución que admita o deniegue la inscripción solicitada dentro de los TREINTA (30) días, a contar desde su recepción.
-3. Contra la resolución denegatoria, el interesado podrá interponer recurso ante el MINISTERIO DE ECONOMIA, dentro de los DIEZ (10) días de notificada. Las actuaciones se elevarán a dicho MINISTERIO dentro de los QUINCE (15) días, el que deberá dictar resolución en el plazo de TREINTA (30) días a contar desde su recepción.
-4. Si transcurriere el plazo previsto en el apartado 2. sin que hubiere recaído resolución, el interesado podrá ocurrir directamente ante el MINISTERIO DE ECONOMIA, el que se abocará al conocimiento de la cuestión, y previo requerimiento de las actuaciones a la DIRECCION GENERAL DE ADUANAS, resolverá admitir o denegar la inscripción, en el plazo de TREINTA (30) días a contar desde la recepción de estas últimas.
-5. Confirmada la denegatoria por el MINISTERIO DE ECONOMIA, o en su caso, vencido el plazo de TREINTA (30) días fijado en los apartados 3. y 4. sin que el mismo hubiere dictado resolución, el interesado podrá promover sin más trámite acción ordinaria en sede judicial.
-6. En la medida en que resultaren compatibles con el procedimiento reglado en este artículo, le serán aplicables supletoriamente las disposiciones de la Sección XIV de este código
-(Artículo sustituido por art. 2° delDecreto_N°_2.690/2002B.O. 31/12/2002.)
-ARTICULO 96. –1. Los importadores y exportadores inscriptos deberán, en los términos y condiciones que establezca la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA:
-a) presentar el balance general, el inventario y el cuadro demostrativo de ganancias y pérdidas, debidamente certificado por contador público;
-b) comunicar a la Dirección General de Aduanas, dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, todo cambio de los integrantes de sus órganos de administración y de los apoderados.
-2. El incumplimiento de las obligaciones mencionadas en el punto precedente configurará una falta y dará lugar a la aplicación de las sanciones establecidas en el Artículo 100.
-(Artículo sustituido por art. 2° delDecreto_N°_971/2003B.O. 28/4/2003.)
-ARTICULO 97. –1. El Director General de Aduanas suspenderá sin más trámite del REGISTRO DE IMPORTADORES Y EXPORTADORES a:
-a) quienes perdieren la capacidad para ejercer por sí mismos el comercio, mientras esta situación subsistiere;
-b) quienes fueren procesados judicialmente por algún delito aduanero, impositivo o previsional hasta que fuere sobreseído o absuelto por sentencia o resolución firme. No obstante, podrán ser exceptuados de la suspensión en la medida que otorgaren garantía suficiente en resguardo del interés fiscal; (Nota Infoleg:Por art. 1° delDecreto_N°_587/2000B.O. 24/7/2000, se dispone que en los casos de procesamiento de personas de existencia ideal, podrá diferirse la aplicación de la suspensión prevista en este inciso, cuando dichas personas otorguen garantía suficiente que resguarde el interés fiscal comprometido, a satisfacción de la DIRECCION GENERAL DE ADUANAS de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA.)
-c) quienes fueren inhibidos judicialmente para administrar o disponer de sus bienes, mientras esta situación subsistiere;
-d) quienes perdieren la solvencia exigida o dejaren caducar o disminuir la garantía que hubieren otorgado a favor de la Dirección General de Aduanas dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA hasta tanto subsista esta causal;
-e) quienes, fueren sometidos a sumario administrativo, siempre que se lo estimare necesario por resolución fundada en la gravedad de la falta investigada, en relación con la seguridad del servicio aduanero. Esta suspensión tendrá carácter preventivo y no podrá exceder los CUARENTA Y CINCO (45) días prorrogables por única vez por otro plazo igual, mediante decisión fundada, siempre que se mantuvieren las circunstancias que dieron origen a tal medida, pero nunca más allá de la fecha en que quedare firme la resolución definitiva dictada en el sumario de que se tratare;
-f) las personas de existencia ideal cuando alguno de sus directores, administradores o socios ilimitadamente responsables, fuere judicialmente procesado o condenado por algún delito aduanero, impositivo o previsional. Esta suspensión sólo se aplicará cuando el procesado o el condenado no cesare en su función dentro de los CUARENTA (40) días siguientes a la intimación que a tal fin el servicio aduanero efectuare a la mencionada persona de existencia ideal y subsistirá hasta que el procesado o el condenado cesare en sus funciones o hasta que fuere absuelto o sobreseído.
-De tratarse de las personas físicas a que se refiere este inciso que hubieran sido procesadas, podrá disponerse la excepción de la suspensión aludida, cuando se otorguen garantías suficientes en resguardo del interés fiscal.
-2. Serán sancionados con la suspensión en el REGISTRO DE IMPORTADORES Y EXPORTADORES, de conformidad con el procedimiento previsto en el Artículo 103, quienes incurrieren en inconducta reiterada o falta grave en el ejercicio de su actividad.
-(Artículo sustituido por art. 3° delDecreto_N°_971/2003B.O. 28/4/2003.)
-ARTICULO 98. –1. 1. El Director General de Aduanas eliminará sin más trámite del REGISTRO DE IMPORTADORES Y EXPORTADORES a:
-a) quienes hubieran sido condenados por algún delito aduanero, impositivo o previsional;
-b) quienes hubieran sido socios ilimitadamente responsables, directores o administradores de cualquier sociedad o asociación, cuando la sociedad o la asociación de que se tratare hubiera sido condenada por algún delito aduanero, impositivo o previsional. Se exceptúa de esta inhabilitación a quienes probaren haber sido ajenos al acto o haberse opuesto a su realización;
-c) quienes hubieran sido declarados en quiebra;
-d) aquellos a quienes les fuera aceptada la renuncia. No podrá aceptarse la misma mientras el interesado se encontrare sometido a sumario administrativo, y en su caso, hasta tanto se cumpliere la sanción impuesta;
-e) quienes hubieran fallecido.
-2. Serán sancionados con la eliminación del REGISTRO DE IMPORTADORES Y EXPORTADORES, de conformidad con el procedimiento previsto en el Artículo 103 del Código Aduanero quienes:
-a) incurrieren en reiteración de inconductas sancionadas o en una falta grave en el ejercicio de su actividad que hiciere su permanencia incompatible con la seguridad del servicio aduanero;
-b) no comunicaren a la Dirección General de Aduanas, dependiente de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, dentro de los DIEZ (10) días de su notificación, estar comprendidos en alguno de los supuestos previstos en el Artículo 94, apartado 1. inciso d), puntos 3), 5), 6) y 7) o apartado 2. inciso d), en cuanto se encuadrare en alguno de los puntos antes aludidos.
-(Artículo sustituido por art. 4° delDecreto_N°_971/2003B.O. 28/4/2003.)
-ARTICULO 99. –Sólo podrán reinscribirse en el Registro de Importadores y Exportadores, previo cumplimiento de los requisitos establecidos en el artículo 94, apartado 1 ó 2, según correspondiere, aquellos que hubieren sido eliminados por las siguientes causales;
-a) renuncia;
-b) no haber comunicado a la Administración Nacional de Aduanas, dentro de los DIEZ (10) días de notificación estar comprendido en alguno de los supuestos previstos en el artículo 94, apartado 1, inciso d) puntos 4), 6), 7), 8) y 10) o apartado 2, inciso d) en cuanto se encuadrare en alguno de los puntos antes aludidos, siempre que hubieren transcurrido DOS (2) años desde la eliminación;
-c) haber sido declarado en quiebra o en concurso civil cuando se autorizare al síndico la continuación del giro de la empresa o si se homologare el acuerdo resolutorio que se hubiera propuesto.
-ARTICULO 100. –El Administrador Nacional de Aduanas, según la índole de la falta cometida, el perjuicio ocasionado o que hubiera podido ocasionarse y los antecedentes del interesado, podrá aplicarle las siguientes sanciones;
+
+3°) contar con procesamiento firme o encontrarse sumariado en jurisdicción de la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMÍA, por cualquiera de los ilícitos indicados en el punto 1) mientras no fuere sobreseído o absuelto por sentencia o resolución firme. No obstante, podrán actuar en tal carácter si el servicio aduanero resuelve aceptar que la persona otorgue garantías suficientes en resguardo del interés fiscal.
+
+4°) ser fallido;
+
+5°) estar inhibido judicialmente para administrar o disponer de sus bienes mientras esta situación subsistiere;
+
+2. Las personas jurídicas no podrán realizar operaciones de importación o exportación cuando:
+
+a) la sociedad, asociación o alguno de sus directores, administradores o socios ilimitadamente responsables, fuere judicialmente procesado o condenado por algún delito aduanero, impositivo o previsional. Esta suspensión solo se aplicará cuando el procesado o el condenado no cesare en su función dentro de los CUARENTA (40) días siguientes a la intimación que a tal fin el servicio aduanero efectuare a la mencionada persona de existencia ideal y subsistirá hasta que el procesado o el condenado cesare en sus funciones o hasta que fuere absuelto o sobreseído. No obstante ello, podrán actuar en tal carácter si el servicio aduanero resuelve aceptar que la persona jurídica otorgue garantías suficientes en resguardo del interés fiscal.
+
+b) hubieran sido declarados en quiebra;
+
+c) fueren sometidos a sumario administrativo, siempre que se lo estimare necesario por resolución fundada en la gravedad de la falta investigada, en relación con la seguridad del servicio aduanero. Esta suspensión tendrá carácter preventivo y no podrá exceder los CUARENTA Y CINCO (45) días prorrogables por única vez por otro plazo igual, mediante decisión fundada, siempre que se mantuvieren las circunstancias que dieron origen a tal medida, pero nunca más allá de la fecha en que quedare firme la resolución definitiva dictada en el sumario de que se tratare. No obstante ello, podrán actuar en tal carácter si el servicio aduanero resuelve aceptar que la persona jurídica otorgue garantías suficientes en resguardo del interés fiscal; d) incurrieren en reiteración de inconductas sancionadas o en una falta grave en el ejercicio de su actividad que hiciere su permanencia incompatible con la seguridad del servicio aduanero.
+
+(Artículo sustituido por art. 107 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 95. –(Artículo derogado por art. 108 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 96. –(Artículo derogado por art. 108 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 97. –(Artículo derogado por art. 108 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 98. –(Artículo derogado por art. 108 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 99. –(Artículo derogado por art. 108 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 100. –El Director General de Aduanas, según la índole de la falta cometida, el perjuicio ocasionado o que hubiera podido ocasionarse y los antecedentes del interesado, podrá aplicarle las siguientes sanciones;
+
 a) apercibimiento;
-b) suspensión de hasta DOS (2) años;
-c) eliminación del Registro de Importadores y Exportadores.
+
+b) suspensión o prohibición para efectuar operaciones de comercio exterior.
+
+(Artículo sustituido por art. 109 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 101. –1. Las acciones para aplicar las sanciones previstas en el artículo 100 prescriben a los CINCO (5) años.
 2. Dicho plazo se computará a partir del día primero de enero del año siguiente al de la fecha en que se hubiera cometido la falta.
 3. El curso de la prescripción de la acción para aplicar las sanciones de suspensión y eliminación se interrumpe por la apertura del correspondiente sumario administrativo o por la comisión de alguna nueva falta que tenga prevista sanción de eliminación o de suspensión.
 ARTICULO 102. –Dentro de los CINCO (5) días de notificado el apercibimiento que le hubiera sido impuesto, el sancionado podrá interponer recurso de revocatoria con efecto suspensivo ante el mismo Administrador Nacional de Aduanas, cuya decisión quedará firme en sede administrativa.
-ARTICULO 103. –1. En los supuestos de suspensión y eliminación del Registro de Importadores y Exportadores que no fueren de los previstos en los artículos 97, apartado 1, y 98, apartado 1, la Administración Nacional de Aduanas deberá instruir el pertinente sumario administrativo en el que, cumplidas las diligencias de investigación que considerare necesarias, correrá vista al interesado por un plazo de DIEZ (10) días, dentro del cual éste deberá ejercer su defensa y ofrecer las pruebas que hicieren a su derecho.
+ARTICULO 103. –1. En el marco de lo establecido en el inciso b) del artículo 100, la Dirección General de Aduana deberá instruir el pertinente sumario administrativo en el que, cumplidas las diligencias de investigación que considerare necesarias, correrá vista al interesado por un plazo de DIEZ (10) días, dentro del cual éste deberá ejercer su defensa y ofrecer las pruebas que hicieren a su derecho. (Punto sustituido por art. 110 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 2. Las pruebas deberán producirse dentro de un plazo que no excederá de TREINTA (30) días, excepto las rechazadas por no referirse a los hechos investigados en el sumario o invocados en la defensa o por ser inconducentes, superfluas o meramente dilatorias.
 Concluida la etapa probatoria, se correrá, en su caso, una nueva vista al interesado por CINCO (5) días para que alegue sobre su mérito.
 3. Transcurrido el plazo para alegar o el fijado para la defensa del interesado en caso de tratarse de una cuestión de puro derecho, el Administrador Nacional de Aduanas dictará resolución dentro de los VEINTE (20) días.
@@ -599,18 +524,12 @@ ARTICULO 104. –1. Contra la resolución condenatoria el interesado podrá inte
 ARTICULO 105. –1. Dentro de los DIEZ (10) días de notificada la resolución confirmatoria, el interesado podrá interponer recurso de apelación al solo efecto devolutivo ante la Cámara Nacional de Apelaciones en lo Federal y Contencioso administrativo de la Capital Federal, fundado en razones de ilegitimidad o arbitrariedad. La Secretaría de Estado de Hacienda o, en su caso, la Administración Nacional de Aduanas elevará las actuaciones dentro de los CINCO (5) días, previa extracción de las copias necesarias para proceder a la inmediata ejecución de la resolución recurrida.
 2. Recibidas las actuaciones, el tribunal dictará la providencia de autos para resolver y, una vez consentida, dispondrá de un plazo de SESENTA (60) días para dictar sentencia.
 ARTICULO 106. –En la medida en que resultaren compatibles con el procedimiento reglado en los artículos 103 a 105, serán aplicables las disposiciones de la Sección XIV de este código.
-ARTICULO 107. –1. El Estado nacional, las provincias y las municipalidades, así como las dependencias de la administración pública nacional, provincial o municipal, los entes autárquicos o descentralizados, inclusive las sociedades del Estado y las empresas del Estado, están exentas del cumplimiento de los requisitos indicados en el artículo 94 y, a los efectos de su inscripción, deberán:
-a) constituir domicilio especial;
-b) designar el o los despachantes de aduana que actuarán en su representación ante el servicio aduanero.
-2. A las entidades contempladas en el apartado 1 de este artículo no les será aplicable lo dispuesto en los artículos 96 a 98.
+ARTICULO 107. –(Artículo derogado por art. 108 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 108. –Los organismos de la administración pública nacional que tuvieren a su cargo la resolución de causas por ilícitos relativos al control fiscal o cambiario, lealtad comercial internacional, recaudación tributaria u otras vinculadas con el tráfico internacional de mercadería comunicarán a la Administración Nacional de Aduanas las resoluciones condenatorias firmes que hubieren recaído. En el supuesto de que las personas condenadas se encontraren inscriptas en el Registro de Importadores y Exportadores, en el de Despachantes de Aduana o en el de Agentes de Transporte Aduanero, dichos antecedentes se asentarán en el correspondiente legajo, sin perjuicio de lo que correspondiere en virtud de lo dispuesto en el artículo 23, inciso v), punto 6).
 
 
 
-
-
-
-[/web/20231207164550im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 109. –
 Los proveedores de a bordo, técnicos de reparaciones, lavaderos y demás personas de existencia física o ideal que cumplieren su actividad profesional, técnica o comercial en relación con el servicio aduanero o en zona primaria aduanera y para los cuales no se hubiere previsto una regulación específica en este código, quedarán sujetos a los requisitos y formalidades que estableciere la Administración Nacional de Aduanas.
 ARTICULO 110. –
@@ -620,10 +539,7 @@ Dentro de los CINCO (5) días de notificada de la sanción que le hubiera sido i
 
 
 
-
-
-
-[/web/20231207172235im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 112. –El servicio aduanero ejercerá el control sobre las personas y la mercadería, incluida la que constituyere medio de transporte, en cuanto tuvieren relación con el tráfico internacional de mercadería.
 ARTICULO 113. –La intensidad de las atribuciones de control depende de la zona donde hubiere de ejercerse, con las excepciones previstas en este Título.
 ARTICULO 114. –Para el cumplimiento de sus funciones de control, el servicio aduanero adoptará las medidas que resultaren más convenientes de acuerdo a las circunstancias, tales como la verificación de la mercadería en cualquier ámbito en que se encontrare, la imposición de sellos y precintos y el establecimiento de custodias.
@@ -631,15 +547,57 @@ ARTICULO 115. –El Estado nacional, las provincias, las municipalidades y sus r
 ARTICULO 116. –La entrada y salida de personas al territorio aduanero, así como la importación y exportación de mercadería, deben efectuarse en las horas, por las rutas y por los lugares que se habilitaren al afecto, previa autorización del servicio aduanero.
 ARTICULO 117. –La persecución de personas sospechadas de haber cometido algún ilícito previsto en este código, al igual que la de mercadería presumiblemente objeto o medio para la comisión de tales ilícitos, cualquiera fuere la zona en que se iniciare, deberá proseguirse fuera de la misma, incluso en el mar libre y su espacio aéreo, sin reconocer otros límites que los correspondientes a la soberanía de los demás Estados.
 ARTICULO 118. –En el caso previsto en el artículo 117, las atribuciones de control se incrementarán por el pasaje de una zona a otra cuando las correspondientes a esta última fueren mayores. Si se tratare del mar libre o si para la nueva zona rigieren menores atribuciones subsistirán las de las zonas anteriores.
-ARTICULO 119. –Cualquiera fuere la zona de que se tratare, los agentes del servicio aduanero y, dentro del ámbito de sus respectivas competencias, los de las fuerzas de seguridad y policiales podrán proceder a la identificación y registro de personas y mercadería, incluidos los medios de transporte, cuando mediaren sospechas de la comisión de algún ilícito aduanero, así como también aprehender, secuestrar o interdictar la mercadería de que se tratare poniendo la misma a disposición de la autoridad competente dentro de las CUARENTA Y OCHO (48) horas.
+ARTICULO 119. –1. Cualquiera fuere la zona de que se tratare, los agentes del servicio aduanero y, dentro del ámbito de sus respectivas competencias, los de las fuerzas de seguridad y policiales podrán proceder a la identificación y registro de personas y mercadería, incluidos los medios de transporte, cuando mediaren sospechas de la comisión de algún ilícito aduanero, así como también aprehender, secuestrar o interdictar la mercadería de que se tratare poniendo la misma a disposición de la autoridad competente dentro de las CUARENTA Y OCHO (48) horas.
+
+2. Los agentes del servicio aduanero y, en su caso, los de las fuerzas de seguridad y policiales que debieran operar en materia de control aduanero, procurarán preservar la actividad y la continuidad de las operaciones de importación o de exportación que se hallaren en curso. La eventual interrupción solo procederá ante la existencia de elementos de convicción que condujeren a un razonable estado de presunción de la comisión o principio de ejecución de un delito o de una infracción tipificada en este Código.
+
+3. Los agentes del servicio aduanero no podrán dejar en suspenso, ni demorar la aplicación de las disposiciones en vigencia bajo el pretexto de pedir aclaración de sus términos.
+
+(Artículo sustituido por art. 111 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 120. –Cuando la ilicitud pudiera constituir delito de contrabando, su tentativa o encubrimiento, los agentes del servicio aduanero y los de las fuerzas de seguridad y policiales deberán detener a los responsables, cualquiera fuere la zona en que éstos se encontraren y darán aviso inmediato a la autoridad judicial competente, poniéndolos a su disposición dentro de las CUARENTA Y OCHO (48) horas. A tales efectos, cuando dichos funcionarios se encontraren en persecución de personas que hubieren cometido tales delitos, podrán allanar y registrar el domicilio, residencia o lugar en que aquellas personas se hubieren introducido, sin necesidad de previa autorización judicial.
+ARTICULO 120 bis. –1. El PODER EJECUTIVO NACIONAL debe adoptar procedimientos y mecanismos que simplifiquen el cumplimiento de sus obligaciones con los distintos actores involucrados en actividades de comercio exterior, incluyendo la utilización extendida de tecnologías de información, automatización y comunicaciones para el intercambio electrónico de información.
+
+2. Los procedimientos, solicitudes, tramitaciones necesarias para el cumplimiento de las formalidades, operaciones u obligaciones aduaneras, incluyendo las destinaciones de importación y exportación, deberán llevarse a cabo mediante el uso de los servicios informáticos electrónicos.
+
+3. En los casos excepcionales y fundamentados, la Dirección General de Aduana podrá autorizar la presentación de trámites o documentación por medios físicos los cuales deberán ser digitalizados.
+
+4. La firma digital debidamente certificada o firma electrónica equivalen, para todos los efectos legales, a la firma manuscrita de los funcionarios aduaneros y de las personas que intervienen en el proceso aduanero. A su vez, los requisitos de firmas manuscritas podrán ser sustituidas por contraseñas o firma digital o electrónica, para actuaciones de comercio exterior que se realicen por medios informáticos.
+
+5. La Dirección General de Aduanas establecerá procedimientos de contingencia de los servicios informáticos electrónicos en los casos en que los Sistemas Informáticos queden, total o parcialmente, fuera de servicio. En estos casos la Dirección General de Aduanas autorizará el trámite a un mecanismo o en forma manual, mediante la presentación de documentos físicos, sin perjuicio de la obligación de incluir tal actuación en los servicios informáticos electrónicos, una vez que se restablezca el servicio.
+
+6. La Dirección General de Aduanas y demás autoridades competentes dictarán las normas complementarias y establecerá los procedimientos que regulen la emisión, transferencia, digitalización, uso y control de la información, en relación con tales operaciones.
+
+(Artículo incorporado por art. 112 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 120 ter. –Publicación. Toda normativa relativa a operaciones de comercio exterior deberá:
+
+(a) publicarse en un medio oficial y electrónico;
+
+(b) prever un plazo suficiente entre la publicación y/o la publicación de las medidas, y la entrada en vigor de dichas medidas.
+
+Se incluye dentro del término “normativa” a los dictámenes técnicos clasificatorios de la División Clasificación Arancelaria, aprobado por el Jefe del Departamento Técnica de Nomenclatura y Clasificación Arancelaria y, posteriormente, por la Dirección de Técnica de la Subdirección General de Legal y Técnica Aduanera, que se adopten con carácter obligatorio en toda actuación infraccional ya aperturada. Tales publicaciones deberán detallar al menos la mercadería y la posición arancelaria adoptada. La Dirección General de Aduanas podrá resolver la publicación de otros actos que estime son necesarios para asegurar la transparencia y buenas prácticas de la Administración, resguardando el secreto fiscal.
+
+(Artículo incorporado por art. 113 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 120quáter. –Trámites y requerimientos por terceros organismos.
+
+1. Los organismos comprendidos en los incisos a) y b) del artículo 8° de la Ley N° 24.156 y sus modificatorias, deberán:
+
+A. Tramitar los permisos, autorizaciones y demás informaciones inherentes a las operaciones aduaneras que dicten para regular el tráfico internacional de mercaderías, en cumplimiento de lo dispuesto por el artículo 11 y sus modificaciones mediante la Ventanilla Única de Comercio Exterior Argentino (VUCEA) de forma electrónica. La obligación comprenderá los procedimientos y trámites de declaraciones, permisos, certificaciones, licencias y demás autorizaciones o gestiones necesarias para realizar operaciones de importación y/o exportación.
+
+B. Identificar las mercaderías conforme a las posiciones arancelarias de la Nomenclatura Común del MERCOSUR (N.C.M.), en todo régimen que dicten para regular el tráfico internacional de mercaderías, en cumplimiento de lo dispuesto por el artículo 11 y sus modificaciones. La obligación comprenderá los procedimientos y trámites de declaraciones, permisos, certificaciones, licencias y demás autorizaciones o gestiones necesarias para realizar operaciones de importación y/o exportación. De corresponder, cada organismo deberá indicar las excepciones, requisitos, condiciones o reglas que resulten necesarias para identificar el universo de mercaderías alcanzadas por la regulación de que se trate.
+
+2. Toda medida vinculada a la creación, modificación o eliminación de regímenes que regulen el tráfico internacional de mercaderías deberá ser comunicada por la autoridad que la dictó a la Ventanilla Única de Comercio Exterior Argentino (VUCEA), en el plazo de UN (1) día hábil, contado desde su determinación o emisión, mediante el módulo “Comunicaciones Oficiales” del Sistema de Gestión Documental Electrónica -GDE-
+
+3. La DIRECCIÓN GENERAL DE ADUANAS solo podrá controlar las tramitaciones debidamente incorporadas a la Ventanilla Única de Comercio Exterior Argentino (VUCEA).
+
+(Artículo incorporado por art. 114 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 120quinquies. –Profesionalización del personal. La profesionalización del personal dentro de un marco transparencia es un principio que debe orientar en el desarrollo de las funciones de la Dirección General de Aduanas. La Dirección General de Aduanas deberá impulsar procedimientos de contratación basados en los principios de objetividad, neutralidad, mérito, capacidad, publicidad y transparencia, así como la profesionalidad y la neutralidad del organismo, comité o personal que lleve adelante el proceso de selección.
+
+(Artículo incorporado por art. 115 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 
 
 
 
-
-
-[/web/20231206151638im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 121. –
 1. En la zona primaria aduanera el ingreso, permanencia, circulación y salida de personas y de mercadería deben efectuarse con la previa autorización y bajo la supervisión del servicio aduanero, el cual determinará los lugares, las horas y los demás requisitos correspondientes.
 2. La autorización y supervisión aduaneras también serán necesarias en esta zona para efectuar trabajos de cualquier índole en o con la mercadería, desde su simple manipuleo hasta su transformación.
@@ -698,14 +656,19 @@ b) interdictar y secuestrar mercadería, cuando se comprobare, prima facie, la c
 
 
 
-
-
-
-[/web/20231207180357im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 130. –Sin perjuicio de lo dispuesto en leyes especiales, todo medio de transporte procedente del exterior que arribare al territorio aduanero o que se detuviere en él, deberá:
-a) hacerlo por o en los lugares habilitados y, en su caso, por las rutas y dentro de los horarios establecidos;
-b) presentar inmediatamente después de su llegada o en la oportunidad en la que el servicio aduanero ejerciere el derecho de visita la documentación que este título se exige y la que la Administración Nacional de Aduanas pudiere determinar, según la vía que se utilizarse.
-ARTICULO 131. –La Administración Nacional de Aduanas determinará las formalidades a que habrá de ajustarse la confección, presentación y trámite de la documentación que debe presentarse al tiempo de arribar al medio de transporte, incluidas las formalidades relativas al modo de descripción de la mercadería.
+
+a) Hacerlo por o en los lugares habilitados y, en su caso, por las rutas y dentro de los horarios establecidos.
+
+b) Presentar en forma previa al arribo o inmediatamente después de su llegada o en la oportunidad en la que el servicio aduanero ejerciere el derecho de visita, la documentación que en este título se exige y la que la Administración Federal de Ingresos Públicos pudiere determinar, según la vía que se utilizare.
+
+(Artículo sustituido por art. 117 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 131. –La ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS determinará las formalidades a que habrá de ajustarse la confección, presentación y trámite de la documentación que deberá acompañarse al tiempo de arribar el medio de transporte, incluidas las formalidades relativas al modo de descripción de la mercadería.
+
+Las presentaciones deberán ser realizadas por medios electrónicos, a través del sistema informático establecido por el servicio aduanero.
+
+(Artículo sustituido por art. 118 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 132. –No podrá autorizarse el comienzo de las operaciones de descarga del medio de transporte mientras no fuere presentada la documentación prevista en el artículo 130, inciso b), en la forma y con los recaudos que estableciere la Administración Nacional de Aduanas de conformidad con lo dispuesto en el artículo 131.
 ARTICULO 133. –Cuando el arribo de la mercadería se realizare por un medio de transporte que no se encontrare específicamente previsto en este Título, se aplicarán análogamente las disposiciones que más se adecuaren a las características del medio de que se tratare.
 ARTICULO 134. –El medio transportador que con motivo del transporte de pasajeros o mercadería arribare al territorio aduanero y debiere permanecer en forma transitoria en el mismo, queda sometido al régimen especial de importación temporaria previsto en la Sección VI, Capítulo Primero.
@@ -842,12 +805,10 @@ ARTICULO 216. –Sin perjuicio de las obligaciones que en este Capítulo se impo
 
 
 
+[/infolegInternet/imagenes/left.png]
+ARTICULO 217. –El importador deberá solicitar la destinación de importación, ya sea en forma anticipada y hasta el arribo del medio de transporte, mediante el despacho directo a plaza regido por el Artículo 278 y siguientes de este Código; o dentro del plazo de QUINCE (15) días contados desde la fecha del arribo del medio transportador.
 
-
-
-
-[/web/20231207162902im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
-ARTICULO 217. –El importador debe solicitar una destinación de importación dentro del plazo de QUINCE (15) días contado desde la fecha del arribo del medio transportador, sin perjuicio de poder hacerlo con anterioridad a dicho en el supuesto y de conformidad con lo previsto en el artículos 279.
+(Artículo sustituido por art. 119 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 218. –Si dentro del plazo establecido en el artículo 217 no se hubiere presentado la solicitud de una destinación aduanera, con la documentación complementaria pertinente, el importador será pasible en forma automática de una multa equivalente al UNO (1%) por ciento del valor en aduana de la mercadería de que se tratare, salvo el supuesto previsto en el artículo 221.
 ARTICULO 219. –La Administración Nacional de Aduanas, mediante resolución dictada con alcance general, podrá autorizar, con sujeción al régimen de garantía previsto en la Sección V, Título III, el despacho de aquella mercadería respecto de la cual el registro de la pertinente declaración se pretendiere efectuar sin la presentación conjunta de toda o parte de la documentación complementaria.
 2. No procederá la autorización prevista en el apartado 1 cuando la documentación complementaria tuviere por efecto la inaplicabilidad de prohibiciones o el otorgamiento de un beneficio tributario o de un tratamiento diferencial, salvo las excepciones que estableciere el Poder Ejecutivo.
@@ -867,9 +828,29 @@ b) Al libramiento, si se la hubiera exceptuado de los controles antes mencionado
 a) A que se hubiere llevado a cabo el control documental o la verificación de la mercadería, sin que se hubiera advertido la diferencia por parte del servicio aduanero; o
 b) Al libramiento efectuado sin control documental o verificación de la mercadería.
 (Artículo sustituido por art. 4° de laLey_N°_25.986B.O. 5/1/2005.)
-ARTICULO 226. –Si en sede aduanera hubiere en trámite alguna controversia, sumarial o no sumarial, originada en la declaración de los elementos necesarios para la clasificación arancelaria, valoración o aplicación de los tributos y prohibiciones referidos a una mercadería de importación, que fueren identificados aquellos que hubieren de ser objeto de declaración, el interesado podrá comprometer ésta última en forma supeditada a la del antecedente. El pronunciamiento final que recayere en sede aduanera se hará extensivo a la declaración supeditada, sin perjuicio de la eventual interposición de los recursos que, individualmente, pudieren corresponder contra la decisión.
-ARTICULO 227. –En el supuesto previsto en el artículo 226, el servicio aduanero comprobará fehacientemente que existe identidad de causa litigiosa, a cuyo fin, si la controversia lo requiere para su decisión, se extraerán muestras representativas de la mercadería en cuestión, con previa citación del interesado.
-ARTICULO 228. –Si el interesado declarare una mercadería de acuerdo a la forma prevista en el artículo 226, con la comprobación del servicio aduanero contemplada en el artículo 227, no incurrirá en infracción aduanera por la eventual declaración inexacta efectuada en la declaración supeditada.
+ARTICULO 226. –1. La resolución anticipada es el acto administrativo, emitido por el servicio aduanero, a petición del solicitante, antes de la importación de la mercadería, mediante el cual se establece el tratamiento aduanero que se concederá a la mercadería en el momento de la importación, en relación al tema objeto de consulta, de la manera que se indica en los apartados siguientes de este artículo.
+
+2. Si antes de solicitar una destinación de importación, el importador tuviere dudas en relación con el criterio que el servicio aduanero pudiera adoptar respecto de la clasificación arancelaria, el origen o la valoración de la mercadería, o en relación con los elementos que fueren necesarios para la correcta aplicación del régimen tributario, de prohibiciones o restricciones, referidos a la mercadería de importación, podrá solicitar al servicio aduanero que emita una resolución anticipada, debidamente fundada, que establezca el criterio aplicable al caso.
+
+En su solicitud el importador deberá proporcionar la información y la documentación que resultare necesaria, además de su opinión técnica y jurídica sobre el tema consultado.
+
+3. Será válida y vinculante para el servicio aduanero, mientras no existiera una modificación de la ley, o se tratare de hechos o circunstancias diferentes y que no admitieran su asimilación a aquellos en que se hubiere sustentado la resolución.
+
+4. La reglamentación determinará los requisitos formales y la información que deberá presentar el importador, el procedimiento de la resolución anticipada y el plazo dentro del cual la misma deberá ser emitida, el que no podrá ser superior a treinta (30) días.
+
+5. Si el servicio aduanero no emitiere la resolución anticipada dentro del plazo establecido al efecto, el importador podrá optar por solicitar la destinación de importación, en los términos propiciados al requerir la decisión, por aplicación del artículo 234, apartados 3 y 4 del Código Aduanero, a cuyo efecto la reglamentación deberá arbitrar los medios necesarios. En su caso, podrá exigirse la constitución de una garantía, en los términos previstos por el régimen de garantía en la Sección V, Título III.
+
+6. Contra la resolución anticipada procederá la impugnación prevista en el artículo 1053 de este Código.
+
+(Artículo sustituido por art. 120 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 227. –1. Si en sede aduanera hubiera en trámite alguna controversia, sumarial o no sumarial, originada en la declaración de los elementos necesarios para la clasificación arancelaria, valoración o aplicación de los tributos y prohibiciones referidos a una mercadería de importación, que fueren idénticos a aquellos que hubieren de ser objetos de declaración, el interesado podrá comprometer esta última en forma supeditada a la del antecedente. El pronunciamiento final que recayere en sede administrativa se hará extensivo a la declaración supeditada, sin perjuicio de la eventual interposición de los recursos que, individualmente, pudieran corresponder contra la decisión.
+
+2. En el supuesto previsto en el apartado 1, el servicio aduanero comprobará fehacientemente que existe identidad de causa litigiosa, a cuyo fin, si la controversia lo requiriere para su decisión, se extraerán muestras representativas de la mercadería en cuestión, con previa citación al interesado.
+
+(Artículo sustituido por art. 121 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 228. –Si el interesado declarare una mercadería de acuerdo a la forma prevista en el artículo 227, con la comprobación del servicio aduanero contemplada en su apartado 2, no incurrirá en infracción aduanera por la eventual declaración inexacta efectuada en la declaración supeditada.
+
+(Artículo sustituido por art. 122 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 229. –En el supuesto previsto en el artículo 226, se suspende el curso de la prescripción de las acciones que le pudieren corresponder al Fisco con relación a la declaración supeditada desde la fecha en que se comprometiere la misma hasta que recayere la decisión allí mencionada.
 ARTICULO 230. –En las operaciones aduaneras cuya tramitación no pudiere concluirse por incomparecencia del interesado, se citará a éste por un plazo no inferior a CINCO (5) días, contado desde la fecha de su notificación. Transcurrido el mismo sin que el interesado concurriere, podrá proseguirse el trámite de oficio sin la presencia ni intervención de aquél, no admitiéndose posteriormente reclamo alguno por los derechos que hubiere dejado de ejercer.
 ARTICULO 231. –Libramiento, a los efectos de la importación, es el acto por el cual el servicio aduanero autoriza el retiro de la mercadería objeto de despacho.
@@ -895,10 +876,26 @@ ARTICULO 241. –Con sujeción a las normas establecidas en la legislación, en 
 ARTICULO 242. –El importador o, en su caso, el despachante de aduana que actuare en su representación, debe concurrir al acto de verificación de la mercadería. En el supuesto de no hacerlo perderá el derecho a reclamar contra el resultado de la verificación establecido por el servicio aduanero.
 ARTICULO 243. –El servicio aduanero puede exigir del interesado que le proporcione información complementaria sobre las características técnicas de la mercadería importada. Si el interesado no la proporcionare dentro del plazo de DIEZ (10) días el servicio aduanero queda facultado para consultar a los organismos técnicos competentes, por cuenta de aquél.
 ARTICULO 244. –Cuando la mercadería que hubiere de ser objeto de verificación fuere extremadamente delicada o frágil o bien fuere susceptible de producir daño al agente aduanero encargado de la verificación, el servicio aduanero puede exigir del interesado que ponga a su disposición personal especializado. Si el interesado no se aviniere a ello, el servicio aduanero queda facultado para contratar por cuenta y riesgo de aquél los servicios especializados pertinentes.
-ARTICULO 245. –El agente del servicio aduanero que en el curso del despacho comprobare prima facie la comisión de algún ilícito aduanero procederá a formular la pertinente denuncia al administrador de la aduana o a quien ejerciere sus funciones y a suspender su trámite, con la extracción, en su caso, de las muestras representativas necesarias para evaluar la seriedad o verosimilitud de la misma.
+ARTICULO 245. –1. El agente del servicio aduanero que en el curso del despacho comprobare prima facie la comisión de algún ilícito aduanero procederá a formular la pertinente denuncia al administrador de la aduana o a quien ejerciere sus funciones y, en caso de corresponder, a la extracción de las muestras representativas necesarias para evaluar la seriedad o verosimilitud de la misma.
+
+2. Cumplido ello, se concederá el libramiento de la mercadería, remitiendo las actuaciones al administrador de la Aduana en cuya jurisdicción se hubieran producido los hechos, quien podrá requerir la constitución de la garantía en los términos del artículo 453, incisos a) y h). La falta de constitución de la garantía importará la inmediata suspensión del importador, según la reglamentación que se emita.
+
+3. El libramiento no procederá cuando ocurra alguno de los siguientes supuestos:
+
+a) se tratare de mercadería necesaria para la decisión aduanera o la consideración de un recurso deducido contra la misma, por resultar insuficiente a estos fines la extracción de muestras, fotografías, diagramas, croquis, análisis u otros elementos de juicio igualmente idóneos, según el caso;
+
+b) se tratare de mercadería afectada a un sumario o proceso instruido por la presunta comisión de un ilícito reprimido con pena de comiso;
+
+c) se procurase determinar la aplicación de una prohibición a la destinación de importación, una prohibición de la mercadería cuyo libramiento se pretendiere o se tramitare un recurso contra una decisión que hubiera determinado la aplicación de una prohibición.
+
+(Artículo sustituido por art. 123 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 246. –Cuando la destinación de importación solicitada estuviere gravada con algún tributo o procediere el despacho de la mercadería bajo el régimen de garantía, el interesado presentará la correspondiente liquidación ante el servicio aduanero, que procederá a la aprobación o rectificación de la misma. Siempre que fuere necesario o conveniente, el servicio aduanero podrá practicar de oficio la liquidación pertinente.
 ARTICULO 247. –La Administración Nacional de Aduanas establecerá con alcance general las formalidades con que deberá practicarse la liquidación a que se refiere el artículo 246.
-ARTICULO 248. –Efectuados los trámites relativos al despacho de la mercadería y, en su caso, pagados o garantizados los tributos correspondientes, se procederá a su libramiento. De no cumplirse con el pago o con la garantía que correspondiere, se aplicará el procedimiento de ejecución previsto en la Sección XIV, Título II, Capítulo Quinto.
+ARTICULO 248. –Efectuados los trámites relativos al despacho de la mercadería se procederá a su libramiento.
+
+De no cumplirse con el pago o con la garantía que correspondiere, se aplicará el procedimiento de ejecución previsto en la Sección XIV, Título II, Capítulo Quinto.
+
+(Artículo sustituido por art. 124 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 249. –Concedido el libramiento, retirada la mercadería y efectuado el pago de los tributos o, en su caso, cancelada la garantía correspondiente, las actuaciones se remitirán para su revisión al administrador de la aduana respectiva o a quien cumpliere sus funciones.
 ARTICULO 250. –La destinación de importación temporaria es aquella en virtud de la cual la mercadería importada puede permanecer con una finalidad y por un plazo determinado dentro del territorio aduanero, quedando sometida, desde el mismo momento de su libramiento, a la obligación de reexportarla para consumo con anterioridad al vencimiento del mencionado plazo.
 ARTICULO 251. –De conformidad con lo previsto en este Capítulo, la mercadería podrá permanecer en el mismo estado en que hubiere sido importada temporariamente o bien ser objeto de transformación, elaboración, combinación, mezcla, reparación o cualquier otro perfeccionamiento o beneficio.
@@ -964,12 +961,29 @@ ARTICULO 275. –La Administración Nacional de Aduanas podrá autorizar la reex
 ARTICULO 276. –El Poder Ejecutivo podrá admitir la validez de documentos, que amparen la importación temporaria de vehículos, emitidos por organismos internacionales de turismo, con los requisitos y las formalidades que aseguraren el cumplimiento de las obligaciones correspondientes a este régimen.
 ARTICULO 277. –El Poder Ejecutivo, cuando mediare interés público, podrá acordar regímenes especiales de importación temporaria, cuidando de no desvirtuar tal destinación aduanera. En dicho caso, en los aspectos no contemplados expresa o tácitamente, se aplicarán las disposiciones de este código.
 ARTICULO 278. –Despacho directo es el procedimiento en virtud del cual la mercadería puede ser despachada directamente a plaza sin previo sometimiento de la misma al régimen de depósito provisorio de importación.
-ARTICULO 279. –La solicitud de destinación de importación de la mercadería sujeta al procedimiento del despacho directo puede ser presentada por el importador dentro de los (5) días anteriores al arribo del medio de transporte.
-ARTICULO 280. –Deberá sujetarse al procedimiento de despacho directo la mercadería cuya permanencia en depósito implicare peligro para la integridad de las personas, para la inalterabilidad de la propia mercadería o de la mercadería contigua, salvo que ingresare a depósitos especialmente acondicionados para esa especie de mercadería. Asimismo se aplicará este procedimiento cuando se tratare de mercadería cuyo almacenamiento fuere sumamente dificultoso.
-ARTICULO 281. –La Administración Nacional de Aduanas establecerá, con alcance general, la nómina de la mercadería prevista en el artículo 280 y podrá ampliarla cuando la naturaleza o condiciones intrínsecas así lo aconsejaren.
-ARTICULO 282. –Si no se dispusiere de depósitos especialmente acondicionados para la especie de mercadería indicada en los artículos 280 y 281 y no hubiere sido solicitada su destinación de importación con anterioridad al arribo del medio de transporte, el servicio aduanero adoptará las medidas tendientes a evitar los perjuicios emergentes de la naturaleza o condición de la mercadería de que se tratare, por cuenta y bajo la responsabilidad de quien correspondiere.
-ARTICULO 283. –En todos los casos el servicio aduanero podrá disponer que la mercadería sujeta al procedimiento de despacho previsto en este capítulo ingrese, total o parcialmente, a un lugar de depósito al solo efecto de practicar una verificación exhaustiva.
-ARTICULO 284. –El servicio aduanero podrá autorizar el procedimiento de despacho directo a plaza respecto de mercadería de fácil verificación, cuya nómina establecerá la Administración Nacional de Aduanas con alcance general.
+ARTICULO 278 bis. –Declaración anticipada de arribo de la mercadería es el procedimiento por medio del cual se podrá presentar la solicitud de destinación en forma previa al arribo del medio de transporte al territorio aduanero.
+(Artículo incorporado por art. 125 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+
+ARTICULO 279. –La solicitud de destinación de importación de la mercadería sujeta al procedimiento del despacho directo puede ser presentada por el importador dentro de los CINCO (5) días anteriores al arribo del medio de transporte.
+
+(Artículo sustituido por art. 126 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 280. –1. La declaración anticipada de arribo de la mercadería es voluntaria por parte del importador y podrá aplicarse a cualquier tipo de destinación aduanera de importación, salvo para aquélla mercadería que la reglamentación excluya.
+
+2. Sin perjuicio de lo dispuesto en el apartado 1 precedente, deberá sujetarse al procedimiento de declaración anticipada, la mercadería cuya permanencia en depósito implicare peligro para la integridad de las personas, para la inalterabilidad de la propia mercadería o de la mercadería contigua, salvo que ingresare a depósitos especialmente acondicionados para esa especie de mercadería. Asimismo, se aplicará este procedimiento cuando se tratare de mercadería cuyo almacenamiento fuere sumamente dificultoso, o no exista depósito acondicionado especialmente para la mercadería.
+
+(Artículo sustituido por art. 127 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 281. –La Dirección General de Aduanas establecerá, con alcance general, la nómina de la mercadería prevista en el artículo 280, apartado 2, y podrá ampliarla cuando la naturaleza o condiciones intrínsecas así lo aconsejaren.
+
+(Artículo sustituido por art. 128 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 282. –Si no se dispusiere de depósitos especialmente acondicionados para la especie de mercadería indicada en los artículos 280, apartado 2, y 281, y no hubiere sido solicitada su destinación de importación con anterioridad al arribo del medio de transporte, el servicio aduanero adoptará las medidas tendientes a evitar los perjuicios emergentes de la naturaleza o condición de la mercadería de que se trate, por cuenta y bajo la responsabilidad de quien correspondiere.
+
+(Artículo sustituido por art. 129 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 283. –En todos los casos el servicio aduanero podrá disponer que la mercadería sujeta a los procedimientos de despacho previstos en este capítulo ingrese, total o parcialmente, a un lugar de depósito al solo efecto de practicar una verificación exhaustiva.
+
+(Artículo sustituido por art. 130 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 284. –El procedimiento de declaración anticipada se encuentra autorizado para todo tipo de destinación aduanera de importación.
+
+(Artículo sustituido por art. 131 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 285. –La mercadería sometida al régimen de depósito provisorio de importación previsto en la Sección III, Título I, Capítulo noveno, puede ser objeto de la destinación suspensiva de depósito de almacenamiento con los requisitos establecidos en este código.
 ARTICULO 286. –1. La destinación de depósito de almacenamiento es aquella en virtud de la cual la mercadería importada puede quedar almacenada bajo control aduanero por un plazo determinado, para ser sometida a otra destinación autorizada.
 2. La ulterior destinación a que se refiere el apartado 1, deberá efectuarse con los recaudos que correspondieren, de acuerdo a la destinación de que se tratare.
@@ -1019,11 +1033,7 @@ ARTICULO 320. –Si el medio de transporte no arribare en el plazo que se fijare
 
 
 
-
-
-
-
-[/web/20231207162531im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 321. –La declaración contenida en la solicitud de destinación de exportación es inalterable una vez registrada y el servicio aduanero no admitirá del interesado rectificación, modificación o ampliación alguna, salvo las excepciones previstas en este código.
 ARTICULO 322. –1.- El servicio aduanero autorizará la rectificación, modificación o ampliación de la declaración aduanera, cuando la inexactitud fuere comprobable de su lectura o de la de los documentos complementarios anexos a ella y fuera solicitada con anterioridad:
 a) A que se hubiera dado a conocer que la declaración debe someterse al control documental o a la verificación de la mercadería; o
@@ -1033,10 +1043,30 @@ a) la carga de la mercadería a bordo del medio de transporte que fuere a partir
 b) que el último control de la aduana de frontera hubiese autorizado la salida del medio de transporte, cuando se utilizare la vía terrestre.
 3.- Asimismo, el servicio aduanero podrá autorizar la rectificación, modificación o ampliación de la declaración aduanera siempre que la misma no configure delito o infracción.
 (Artículo sustituido por art. 13 de laLey_N°_25.986B.O. 5/1/2005.)
-ARTICULO 323. –Si en sede aduanera hubiere en trámite alguna controversia, sumarial o no sumarial, originada en la declaración de los elementos necesarios para la clasificación arancelaria, valorización o aplicación de los tributos, prohibiciones y estímulos a la exportación referidos a una mercadería de exportación, que fueren idénticos a aquéllos que hubieren de ser objeto de declaración, el interesado podrá comprometer esta última en forma supeditada a la del antecedente. El pronunciamiento final que recayere en sede aduanera se hará extensivo a la declaración supeditada, sin perjuicio de la eventual interposición de los recursos que, individualmente, pudieren corresponder contra la decisión.
-ARTICULO 324. –En el supuesto previsto en el artículo 323, el servicio aduanero comprobará fehacientemente que existe identidad de causa litigiosa, a cuyo fin, si la controversia lo requiriere para su decisión, se extraerán muestras representativas de la mercadería en cuestión, con previa citación del interesado.
-ARTICULO 325. –Si el interesado declarare una mercadería de acuerdo a la forma prevista en el artículo 323, con la comprobación del servicio aduanero contemplada en el artículo 324, no incurrirá en infracción aduanera por la eventual declaración inexacta efectuada en la declaración supeditada.
-ARTICULO 326. –En el supuesto previsto en el artículo 323, se suspende el curso de la prescripción de las acciones que le pudieren corresponder al Fisco con relación a la declaración supeditada desde la fecha en que se comprometiere la misma hasta que recayere la decisión allí mencionada.
+ARTICULO 323. –1. La resolución anticipada es un acto administrativo, emitido por el servicio aduanero, a petición del solicitante, antes de la exportación de la mercadería, mediante el cual se establece el tratamiento aduanero que se concederá a la mercadería en el momento de la exportación, en relación al tema objeto de consulta, de la manera que se indica en los apartados siguientes de este artículo.
+
+2. Si antes de solicitar una destinación de exportación, el exportador tuviere dudas en relación con el criterio que el servicio aduanero pudiera adoptar respecto de la clasificación arancelaria, el origen o la valoración de la mercadería, o en relación con los elementos que fueren necesarios para la correcta aplicación del régimen tributario, de estímulos, o de prohibiciones o restricciones, referidos a la mercadería de exportación, podrá solicitar al servicio aduanero que emita una resolución anticipada, debidamente fundada, que establezca el criterio aplicable al caso. En su solicitud el exportador deberá proporcionar la información y documentación que resultare necesaria, además de su opinión técnica y jurídica sobre el tema consultado.
+
+3. Será válida y vinculante para el servicio aduanero mientras no existiera una modificación de la ley, o se trataren de hechos o circunstancias diferentes, que no admitieran su asimilación a aquellos en que se hubiere sustentado la resolución.
+
+4. La reglamentación determinará los requisitos formales y la información que deberá presentar el exportador, el procedimiento de la resolución anticipada y el plazo dentro del cual la misma deberá ser emitida, el que no podrá ser superior a TREINTA (30) días.
+
+5. Si el servicio aduanero no emitiere la resolución anticipada dentro del plazo establecido al efecto, el exportador podrá optar por solicitar la destinación de exportación, en los términos propiciados al requerir la decisión, por aplicación del artículo 332, apartados 3 y 4 de este Código a cuyo efecto la reglamentación deberá arbitrar los medios necesarios. En su caso, podrá exigirse la constitución de una garantía, en los términos previstos por el régimen de garantía en la Sección V, Título III.
+
+6. Contra la resolución anticipada procederá la impugnación prevista en el artículo 1053 de este Código.
+
+(Artículo sustituido por art. 132 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 324. –1. Si en sede aduanera hubiera en trámite alguna controversia, sumarial o no sumarial, originada en la declaración de los elementos necesarios para la clasificación arancelaria, valoración o aplicación de los tributos, prohibiciones y estímulos a la exportación, referidos a una mercadería de exportación, que fueren idénticos, a aquellos que hubieren de ser objeto de declaración, el interesado podrá comprometer esta última en forma supeditada a la del antecedente. El pronunciamiento final que recayere en sede administrativa se hará extensivo a la declaración supeditada, sin perjuicio de la eventual interposición de los recursos que, individualmente, pudieran corresponder contra la decisión.
+
+2. En el supuesto previsto en el apartado 1, el servicio aduanero comprobará fehacientemente que existe identidad de causa litigiosa, a cuyo fin, si la controversia lo requiriere para su decisión, se extraerán muestras representativas de la mercadería en cuestión, con previa citación al interesado.
+
+(Artículo sustituido por art. 133 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 325. –Si el interesado declarare una mercadería de acuerdo a la forma prevista en el artículo 324 con la comprobación del servicio aduanero contemplada en su apartado 2, no incurrirá en infracción aduanera por la eventual declaración inexacta efectuada en la declaración supeditada.
+
+(Artículo sustituido por art. 134 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 326. –En el supuesto previsto en el artículo 324, se suspende el curso de la prescripción de las acciones que le pudieren corresponder al fisco con relación a la declaración supeditada desde la fecha en que se comprometiere la misma hasta que recayere la decisión allí mencionada.
+
+(Artículo sustituido por art. 135 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 327. –En las operaciones aduaneras cuya tramitación no pudiere concluirse por incomparecencia del interesado, se citará a éste por un plazo no inferior a DOS (2) días, contado desde la fecha de su notificación. Transcurrido el mismo sin que el interesado concurriere, el servicio aduanero podrá:
 a) proseguir el trámite de oficio sin la presencia ni intervención del interesado, no admitiéndose posteriormente reclamo alguno por los derechos que hubiere dejado de ejercer, o
 b) declarar la caducidad de la solicitud de destinación de exportación de que se tratare.
@@ -1064,8 +1094,19 @@ ARTICULO 339. –Con sujeción a las normas establecidas en la legislación, en 
 ARTICULO 340. –El exportador o, en su caso, el despachante de aduana que actuare en su representación debe concurrir al acto de verificación de la mercadería. En el supuesto de no hacerlo perderá el derecho a reclamar contra el resultado de la verificación establecido por el servicio aduanero.
 ARTICULO 341. –El servicio aduanero puede exigir del interesado que, dentro del plazo que al efecto le fijará y que no podrá ser inferior a DOS (2) días, le proporcione información complementaria sobre las características técnicas de la mercadería a exportar, bajo apercibimiento de declarar la caducidad de la solicitud de destinación de exportación para consumo.
 ARTICULO 342. –Cuando la mercadería que hubiere de ser objeto de verificación fuere extremadamente delicada o frágil o bien fuere susceptible de producir daño al agente aduanero encargado de la verificación, el servicio aduanero puede exigir del interesado que ponga a su disposición personal especializado. Si el interesado no se aviniere a ello, el servicio aduanero queda facultado para contratar por cuenta y riesgo de aquél los servicios especializados pertinentes.
-ARTICULO 343. –1. El agente del servicio aduanero que en el curso del despacho comprobare prima facie la comisión de algún ilícito aduanero procederá a formular la pertinente denuncia al administrador de la aduana o a quien ejerciere sus funciones, con la extracción, en su caso, de las muestras representativas necesarias para evaluar la seriedad o verosimilitud de la misma.
-2. El servicio aduanero podrá suspender el despacho cuando se justificare en virtud de la gravedad del caso y de la entidad de los intereses fiscales concurrentes.
+ARTICULO 343. –1. El agente del servicio aduanero que en el curso del despacho comprobare prima facie la comisión de algún ilícito aduanero procederá a formular la pertinente denuncia al administrador de la aduana o a quien ejerciere sus funciones y, en caso de corresponder, a la extracción de las muestras representativas necesarias para evaluar la seriedad o verosimilitud de la misma.
+
+2. Cumplido ello, se concederá el libramiento de la mercadería, remitiendo las actuaciones al administrador de la Aduana en cuya jurisdicción se hubieran producido los hechos, quien podrá requerir la constitución de la garantía en los términos del artículo 453 incisos a) y h). La falta de constitución de la garantía importará la inmediata suspensión del exportador, según la reglamentación que se emita.
+
+3. El libramiento no procederá cuando ocurra alguno de los siguientes supuestos:
+
+a) se tratare de mercadería necesaria para la decisión aduanera o la consideración de un recurso deducido contra la misma, por resultar insuficiente a estos fines la extracción de muestras, fotografías, diagramas, croquis, análisis u otros elementos de juicio igualmente idóneos, según el caso;
+
+b) se tratare de mercadería afectada a un sumario o proceso instruido por la presunta comisión de un ilícito reprimido con pena de comiso;
+
+c) se procurase determinar la aplicación de una prohibición a la destinación de exportación de que se tratare, de la mercadería cuyo libramiento se pretendiere o se tramitare un recurso contra una decisión que hubiera determinado la aplicación de dicha prohibición.
+
+(Artículo sustituido por art. 136 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 344. –Cuando la destinación de exportación solicitada estuviere gravada con algún tributo o procediere el despacho de la mercadería bajo régimen de garantía, el interesado presentará la correspondiente liquidación ante el servicio aduanero, que procederá a la supervisión de la misma. Siempre que fuere necesario o conveniente, el servicio aduanero podrá practicar de oficio la liquidación pertinente.
 ARTICULO 345. –La Administración Nacional de Aduanas establecerá con alcance general las formalidades con que deberá practicarse la liquidación a que se refiere el artículo 344 y las que correspondieren a los fines de liquidar los estímulos a la exportación.
 ARTICULO 346. –El exportador puede embarcar mercadería en menor cantidad que la declarada en la solicitud de destinación de exportación para consumo, siempre que, una vez concluida la carga, diere aviso al servicio aduanero para su constatación y registro en el correspondiente permiso.
@@ -1087,7 +1128,9 @@ ARTICULO 353. – La Administración Federal de Ingresos Públicos determinará 
 ARTICULO 354. –En caso de autorizarse la exportación temporaria, deberá otorgarse una garantía a favor del servicio aduanero, de conformidad con lo previsto en la Sección V, Título III, tendiente a asegurar el fiel cumplimiento de las obligaciones que el régimen impone.
 ARTICULO 355. –La exportación de la mercadería bajo el régimen de exportación temporaria no está sujeta a la imposición de tributos, con excepción de las tasas retributivas de servicios.
 ARTICULO 356. –Cuando la mercadería retornare en el mismo estado en que hubiere sido exportada, la reimportación para consumo efectuada en cumplimiento de la obligación asumida en el régimen de exportación temporaria no está sujeta a la imposición de tributos, con excepción de las tasas retributivas de servicios.
-ARTICULO 357. –Cuando la mercadería hubiera sido objeto de una transformación, elaboración, combinación, mezcla, reparación o cualquier otro perfeccionamiento o beneficio, su retorno está sujeto al pago de los tributos que gravaren la importación para consumo, los que se aplicarán sobre el mayor valor de la mercadería al momento de su reimportación. El Poder Ejecutivo podrá eximir total o parcialmente del pago de dichos tributos.
+ARTICULO 357. –Cuando la mercadería hubiera sido objeto de una transformación, elaboración, combinación, mezcla, reparación o cualquier otro perfeccionamiento o beneficio, su retorno está sujeto al pago de los tributos que gravaren la importación para consumo, los que se aplicarán sobre el mayor valor de la mercadería al momento de su reimportación.
+
+(Artículo sustituido por art. 137 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 358. –1. La mercadería que hubiere sufrido merma durante su permanencia bajo el régimen de exportación temporaria, dentro de las tolerancias legales o en su defecto las que admitiere el servicio aduanero, será considerada, a los fines de su exportación o reimportación para consumo, según el caso, en el estado en que ella se encontrare.
 2. Las tolerancias admisibles, en el caso de que no estuvieren fijadas legalmente ni tuvieren previsto un régimen especial para su determinación, serán establecidas por el servicio aduanero con anterioridad al libramiento de la mercadería, a pedido del interesado, previa consulta a los organismos técnicos competentes.
 ARTICULO 359. –La mercadería deteriorada por caso fortuito o fuerza mayor durante su permanencia bajo el régimen de exportación temporaria debe considerarse, a los fines de su reimportación, en el estado en que ella se encontrare, siempre que la causal invocada se acreditare debidamente a satisfacción del servicio aduanero. A los fines de su exportación para consumo, la mercadería debe considerarse en el estado en que se encontraba al tiempo de su exportación temporaria.
@@ -1162,11 +1205,7 @@ b) establecer, cuando mediare interés público, regímenes especiales de removi
 
 
 
-
-
-
-
-[/web/20231207170846im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 397. –La mercadería introducida a zona primaria aduanera para su exportación, que no fuere cargada directamente en el respectivo medio de transporte e ingresare a un lugar de depósito aduanero, desde el momento de su recepción y salvo lo que dispusieren leyes especiales, queda sometida al régimen de depósito provisorio de exportación previsto en este Capítulo, hasta tanto se autorizare o se le asignare de oficio, según el caso, alguna destinación aduanera a su respecto o se la restituyere a plaza.
 ARTICULO 398. –Cuando no fuere solicitada la destinación aduanera o la restitución a plaza, según correspondiere, de la mercadería sometida al régimen de depósito provisorio de exportación, dentro de los plazos que determinare la reglamentación, se procederá de conformidad con lo dispuesto en la Sección V, Título II, Capítulo Primero.
 ARTICULO 399. –Cuando se hubiere solicitado la destinación aduanera o la restitución a plaza y venciere el plazo para cumplimentarla, se procederá de conformidad con lo dispuesto en el artículo 419.
@@ -1189,10 +1228,7 @@ ARTICULO 409. –El medio transportador nacional, que con motivo del transporte 
 
 
 
-
-
-
-[/web/20231207170316im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 410. –
 El servicio aduanero permitirá que toda o parte de la mercadería transportada transborde a otro medio de transporte, siempre que se encontrare incluida en la declaración de la carga y no hubiere sido aún descargada.
 ARTICULO 411. –
@@ -1210,10 +1246,7 @@ La Administración Nacional de Aduanas determinará las formalidades y los demá
 
 
 
-
-
-
-[/web/20231207174658im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 417. –
 El servicio aduanero procederá a anunciar la existencia y situación jurídica de la mercadería durante TRES (3) días en el boletín de la repartición aduanera, indicando el número, marca y envase u otras características suficientes para su individualización, cuando:
 a) la mercadería hubiere arribado, cierta o presuntamente, al territorio aduanero como consecuencia de naufragio, echazón, accidente u otro siniestro acaecido durante su transporte, de conformidad con lo previsto en los artículos 180 y 184;
@@ -1321,12 +1354,9 @@ En el supuesto previsto en el presente Capítulo no será aplicable el procedimi
 
 
 
-
-
-
-[/web/20231207103137im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
-ARTICULO 453. –El régimen de garantía previsto en este Título debe ser utilizado cuando se pretendiere obtener:
-a) el libramiento de mercadería cuya importación o exportación estuviere sujeta a la eventual exigencia de diferencias por tributos. En este supuesto, debe pagarse el importe que resultare de la liquidación estimativa de tributos practicada en la declaración comprometida y garantizarse la diferencia entre esa cantidad y el máximo que el servicio aduanero razonablemente considerare que pudiere adeudarse en tal concepto;
+[/infolegInternet/imagenes/left.png]
+ARTICULO 453. –1. El régimen de garantía previsto en este Título debe ser utilizado cuando se pretendiere obtener: (Numeral 1. incorporado al primer párrafo por art. 139 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+a) el resguardo de la eventual exigencia por diferencias de tributos que el servicio aduanero advirtiera respecto de la liquidación contenida en una destinación de importación o exportación. En este supuesto, la garantía deberá cubrir la diferencia entre esa cantidad y el máximo que el servicio aduanero razonablemente considere que pudiere adeudarse en tal concepto; (Inciso sustituido por art. 138 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 b) el libramiento de mercadería con una espera o una facilidad de las que autorizare la reglamentación para el pago de los tributos.
 La garantía debe asegurar el importe de los tributos, intereses y demás accesorios resultantes de la espera o facilidad de pago de que se tratare;
 c) el libramiento de mercadería sometida al régimen de importación temporaria. La garantía debe asegurar el importe de los eventuales tributos que gravaren la importación para consumo de la mercadería de que se tratare. Cuando la importación para consumo de la mercadería estuviere afectada por una prohibición, la garantía debe, además, cubrir un importe equivalente al de su valor en aduana;
@@ -1334,12 +1364,13 @@ d) el libramiento de mercadería sometida al régimen de exportación temporaria
 e) el libramiento de mercadería sujeta al cumplimiento de una o más obligaciones impuestas como condición de una franquicia o beneficio otorgados a la importación para consumo, cuando, a juicio de la Administración Nacional de Aduanas, el otorgamiento de la garantía resultare conveniente en virtud de los antecedentes del interesado o de la magnitud del beneficio en comparación con la situación económica y financiera de aquél;
 f) el libramiento de mercadería respecto de la cual se hubiere autorizado el registro de una declaración de importación, definitiva o suspensiva, sin la presentación conjunta de toda o parte de la documentación complementaria a que alude el artículo 219. La garantía debe asegurar el importe de la multa automática prevista en el artículo 220. Cuando la ausencia de la documentación complementaria pudiere dar origen a una diferencia de tributos, la garantía debe cubrir, además, el importe previsto en el inciso a), de este artículo. Cuando la documentación complementaria consistiere en el conocimiento, carta de porte u otro documento que cumpla tal función o cuando el documento faltante tuviere por efecto la inaplicabilidad de prohibiciones y el Poder Ejecutivo hubiera autorizado el libramiento en tales condiciones, la garantía debe cubrir, además, el importe equivalente al valor en aduana de la mercadería;
 g) el libramiento de mercadería cuya importación para consumo estuviere sujeta a la eventual exigencia de derechos antidumping o compensatorios. El importe de la garantía será fijado por la autoridad de aplicación del régimen respectivo;
-h) el libramiento de mercadería cuyo despacho estuviere detenido como consecuencia de la instrucción de un sumario por la presunta comisión de un ilícito aduanero que pudiere dar lugar a la aplicación de multa. La garantía, en el supuesto de importación, debe cubrir el importe equivalente al del valor en aduana de la mercadería de que se tratare, salvo que el máximo de la multa eventualmente aplicable fuere inferior, caso en el cual bastará garantizar este último importe. Si la destinación solicitada estuviere gravada con algún tributo deben además pagarse y garantizarse los importes previstos en el inciso a). En el supuesto de exportación, la garantía debe cubrir el importe equivalente al del valor en plaza de la mercadería de que se tratare, con deducción de los tributos que debieren ser pagados en efectivo. Cuando el máximo de la multa eventualmente aplicable adicionado a la diferencia de tributos que pudiere resultar exigible fuere un importe inferior, bastará con garantizar el de la multa y además pagarse y garantizarse los importes previstos en el inciso a);
+h) el resguardo del cobro de la eventual multa que pudiera corresponder por la presunta comisión de un ilícito aduanero. La garantía, en el supuesto de importación, debe cubrir el importe equivalente al del valor en aduana de la mercadería que hubiere sido objeto de la presunta infracción, salvo que el máximo de la multa eventualmente aplicable fuere inferior, caso en el cual bastará garantizar este último importe. Si la destinación solicitada estuviere gravada con algún tributo deben además garantizarse el importe previsto en el inciso a). En el supuesto de exportación, la garantía debe cubrir el importe equivalente al del valor en plaza de la mercadería que hubiere sido objeto de la presunta infracción, con deducción de los tributos que debieren ser pagados. Cuando el máximo de la multa eventualmente aplicable adicionado a la diferencia de tributos que pudiere resultar exigible fuere un importe inferior, bastará con garantizar el de la multa y además garantizarse el importe previsto en el inciso a). (Inciso sustituido por art. 138 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 i) la libre disponibilidad de mercadería que, con posterioridad a su libramiento, hubiera sido objeto de una medida cautelar, decretada en el curso de un sumario instruido por la presunta comisión de un ilícito aduanero que pudiere dar lugar a la aplicación de multa. La garantía debe cubrir el importe equivalente al del valor en plaza de la mercadería de que se tratare, salvo que el máximo de la multa eventualmente aplicable adicionado a la diferencia de tributos que pudiere resultar exigible, fuere un importe inferior, en cuyo caso bastará garantizar este último;
 j) la autorización para efectuar operaciones de tránsito de importación. La garantía debe asegurar el importe de los eventuales tributos que gravaren la importación para consumo de la mercadería de que se tratare. Cuando la importación para consumo de la mercadería estuviere afectada por una prohibición, la garantía debe, además, cubrir un importe equivalente al de su valor en aduana;
 k) el cobro anticipado de las sumas que correspondieren en concepto de drawback. La garantía debe asegurar la devolución de todos los importes recibidos del Estado nacional por tal concepto, con más de un DIEZ (10%) por ciento para cubrir eventuales sanciones y accesorios;
 l) el cobro anticipado de las sumas que correspondieren en concepto de reintegros o reembolsos a la exportación. La garantía debe cubrir los importes indicados en el inciso k);
 m) la habilitación de un lugar para su funcionamiento como depósito aduanero. El importe de la garantía será fijado por la Administración Nacional de Aduanas, a fin de asegurar el cumplimiento de las eventuales obligaciones tributarias y responsabilidades penales del depositario o de aquél por quien éste debiere responder, según el caso.
+2. La reglamentación podrá determinar otros supuestos de utilización del régimen bajo los recaudos y en las condiciones que en ella se establecieren. (Apartado incorporado por art. 139 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 454. –A los fines de utilizar el régimen de garantía previsto en este Título, el interesado debe formalizar su petición por escrito ante el servicio aduanero, pudiendo referirse a una o a varias operaciones aduaneras, de conformidad con lo que determinare la reglamentación.
 ARTICULO 455. –Siempre que el importe y la solvencia de la garantía fueren considerados satisfactorios por el servicio aduanero, los interesados podrán optar por alguna de las formas siguientes:
 La constitución, ampliación, modificación, sustitución y cancelación de la garantía podrá efectivizarse por medios electrónicos o magnéticos que aseguren razonablemente la autoría e inalterabilidad de las mismas, en las formas, requisitos y condiciones que a tal efecto establezca la reglamentación. (Párrafo incorporado por art. 20 de laLey_N°_25.986B.O. 5/1/2005.)
@@ -1360,22 +1391,24 @@ b) se tratare de mercadería afectada a un sumario o proceso instruido por la pr
 c) se procurare determinar la aplicación de una prohibición a la destinación de importación o de exportación de que se tratare de la mercadería cuyo libramiento se pretendiere o se tramitare un recurso contra una decisión que hubiera determinado la aplicación de dicha prohibición;
 d) la garantía ofrecida no se ajustare a las formas legales y reglamentarias, no cubriere los importes exigidos en el caso o no ofreciere las seguridades necesarias a juicio del servicio aduanero.
 e) Se relacionare con la percepción de estímulos a la exportación vinculada a un proceso judicial o sumario administrativo, pendiente de resolución. (Inciso incorporado por art. 21 de laLey_N°_25.986B.O. 5/1/2005.)
-ARTICULO 459. –La decisión que hiciere lugar a la utilización del régimen de garantía y que determinare el importe a asegurarse en cada caso no implicará prejuzgamiento respecto de la decisión que en definitiva recayere así como tampoco renuncia alguna relativa a los derechos controvertidos.
+ARTICULO 459. –La resolución que autorizare o denegare la utilización del régimen de garantía deberá dictarse dentro de un plazo que no podrá exceder de cinco días contados desde la fecha de presentación prevista en el artículo 454. En caso de hacerse lugar a dicha utilización, el acto no implicará prejuzgamiento respecto de la decisión que en definitiva recayere ni renuncia alguna relativa a los derechos controvertidos.
+
+(Artículo sustituido por art. 140 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 460. –Con relación al bien otorgado en garantía el servicio aduanero tiene los mismos derechos y privilegios que este código establece a su favor respecto de la mercadería que hubiere motivado la constitución de la garantía.
 ARTICULO 461. –Para ejecutar la garantía el servicio aduanero tiene los mismos derechos y privilegios que este código y demás leyes le otorgan para hacer efectivos los tributos, multas y accesorios que se adeudaren.
 ARTICULO 462. –Los derechos y privilegios respecto de la garantía pueden ejercerse simultáneamente y sin perjuicio de las acciones que competen al servicio aduanero contra los responsables del pago de los tributos, multas y accesorios correspondientes.
-ARTICULO 463. –La resolución que denegare el otorgamiento del régimen de garantía, fijare el importe de la garantía o determinare su forma, podrá ser impugnada de conformidad con el procedimiento previsto en la Sección XIV, Título II, Capítulo Primero.
+ARTICULO 463. –1. Contra la resolución que denegare el otorgamiento del régimen de garantía, o contra la que exigiere su constitución, o fijare su importe o determinare su forma, podrá interponerse demanda ante la justicia o recurso de apelación ante el Tribunal Fiscal por el procedimiento previsto en la Sección XIV, Título III. La constitución de la garantía exigida por el servicio aduanero no obstará a la interposición de la demanda o del recurso previsto, y, en su caso, no significará desistimiento de los que se hubieren interpuesto.
+
+2. También procederá la demanda ante la justicia o el recurso de apelación ante el Tribunal Fiscal cuando el servicio aduanero no se expidiera dentro del plazo previsto en el artículo 459 con relación al pedido de otorgamiento del régimen de garantía presentado por el interesado.
+
+(Artículo sustituido por art. 141 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 464. –1. Cuando se hubiere librado mercadería mediando liquidación provisoria bajo el régimen de garantía por hallarse sujeta a la eventual exigencia de diferencia de tributos, la determinación tributaria que se estableciere con posterioridad sólo podrá ser impugnada previo ajuste de la garantía oportunamente prestada, cuyo importe deberá cubrir la diferencia entre lo pagado y lo establecido en la respectiva determinación.
 2. Si el interesado no efectuare el ajuste de garantía indicado en el apartado 1, no podrá iniciar el procedimiento de impugnación de la determinación, la que quedará firme, sin perjuicio de la reparación a que hubiere lugar.
 ARTICULO 465. –Quienes pretendieren el libramiento bajo el régimen de garantía, con posterioridad a una determinación tributaria aduanera de primera instancia que no estuviere firme, deben pagar los tributos según su pretensión y prestar una garantía por la diferencia que mediare con dicha determinación.
 
 
 
-
-
-
-
-[/web/20231207170506im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 466. –Los medios de transporte extranjeros que con el objeto de transportar pasajeros o mercadería arribaren por sus propios medios al territorio aduanero y que con esa finalidad debieren permanecer en el mismo sin modificar su estado y en forma transitoria, quedan sometidos al régimen de importación temporaria sin necesidad de solicitud ni otorgamiento de garantía alguna.
 ARTICULO 467. –Los medios de transporte nacionales que con el objeto de transportar pasajeros o mercadería salieren por sus propios medios del territorio aduanero y que con esa finalidad debieren permanecer fuera del mismo sin modificar su estado y en forma transitoria, quedan sometidos al régimen de exportación temporaria sin necesidad de solicitud ni otorgamiento de garantía alguna.
 ARTICULO 468. –No obstante lo previsto en los artículos 466 y 467, cuando la naturaleza, la finalidad o las modalidades del transporte lo justificaren la reglamentación podrá establecer el cumplimiento de determinados requisitos y en su caso el otorgamiento de una garantía a favor del servicio aduanero, de conformidad con lo previsto en la Sección V, Título III.
@@ -1568,10 +1601,7 @@ ARTICULO 584. –Cuando cualquiera de los entes mencionados en el artículo 582,
 
 
 
-
-
-
-[/web/20231207174408im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 585. –
 La extracción efectuada desde el mar territorial argentino, la zona económica exclusiva argentina o desde el lecho o subsuelos submarinos sometidos a la soberanía nacional de mercadería originaria y procedente de los mismos con destino al extranjero o a un área franca, se considera como si se tratare de una exportación para consumo efectuada desde el territorio aduanero general.
 (Artículo sustituido por art. 10 de la
@@ -1640,49 +1670,61 @@ En todo lo no previsto en este Capítulo y en las disposiciones que la hubieren 
 
 
 
-
-
-
-[/web/20231207160349im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 608. –A los fines de este código, las prohibiciones a la importación y a la exportación se distinguen:
 a) según su finalidad preponderante, en económicas o no económicas;
 b) según su alcance, en absolutas o relativas.
-ARTICULO 609. –Son económicas las prohibiciones establecidas con cualquiera de los siguientes fines:
+ARTICULO 609. –El Poder Ejecutivo Nacional no podrá establecer prohibiciones ni restricciones a las exportaciones o importaciones por motivos económicos. Solo se podrán realizar por Ley.
+
+Son económicas las prohibiciones establecidas con cualquiera de los siguientes fines:
+
 a) asegurar un adecuado ingreso para el trabajo nacional o combatir la desocupación;
+
 b) ejecutar la política monetaria, cambiaria o de comercio exterior;
+
 c) promover, proteger o conservar las actividades nacionales productivas de bienes o servicios, así como dichos bienes y servicios, los recursos naturales o vegetales;
+
 d) estabilizar los precios internos a niveles convenientes o mantener un volumen de oferta adecuado a las necesidades de abastecimiento del mercado interno;
+
 e) atender las necesidades de las finanzas públicas;
+
 f) proteger los derechos de la propiedad intelectual, industrial o comercial;
+
 g) resguardar la buena fe comercial, a fin de impedir las prácticas que pudieren inducir a error a los consumidores.
-ARTICULO 610. –Son no económicas las prohibiciones establecidas por cualquiera de las razones siguientes:
+
+(Artículo sustituido por art. 142 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 610. –Las prohibiciones pueden ser establecidas por cualquiera de las razones siguientes:
+
 a) afirmación de la soberanía nacional o defensa de las instituciones políticas del Estado;
+
 b) política internacional;
+
 c) seguridad pública o defensa nacional;
-d) moral pública y buenas costumbres;
-e) salud pública, política alimentaria o sanidad animal o vegetal;
-f) protección del patrimonio artístico, histórico, arqueológico o científico;
-g) conservación de las especies animales o vegetales.
-h) Preservación del ambiente, conservación de los recursos naturales y prevención de la contaminación. (Inciso incorporado por art. 1° de laLey_N°_24.611B.O. 16/1/1996.)
+
+d) salud pública o sanidad animal o vegetal;
+
+e) protección del patrimonio artístico, histórico, arqueológico o científico;
+
+f) conservación de las especies animales o vegetales.
+
+g) Preservación del ambiente, conservación de los recursos naturales y prevención de la contaminación.
+
+El Poder Ejecutivo Nacional no podrá establecer prohibiciones o cupos a las exportaciones ni importaciones por motivos o fundamentos económicos.
+
+(Artículo sustituido por art. 144 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 611. –Son absolutas las prohibiciones que impiden a todas las personas la importación o la exportación de mercadería determinada.
 ARTICULO 612. –Son relativas las prohibiciones a la importación o a la exportación cuando prevén excepciones a favor de una o varias personas.
-ARTICULO 613. –Las prohibiciones de carácter económico sólo rigen para la importación y la exportación para consumo, salvo disposición especial que determinare que se aplicarán, además o en lugar de estas, a otras destinaciones aduaneras.
-ARTICULO 614. –Salvo disposición especial en contrario, las prohibiciones a la importación para consumo no afectan la de aquella mercadería que, habiendo sido previamente exportada, no lo hubiera sido para consumo.
-ARTICULO 615. –Salvo disposición especial en contrario, las prohibiciones a la exportación para consumo no afectan la de aquella mercadería que, habiendo sido previamente importada, no lo hubiera sido para consumo.
-ARTICULO 616. –Las prohibiciones a la importación y a la exportación entrarán en vigencia a partir del día siguiente al de la publicación oficial de la norma respectiva, excepto cuando:
-a) la norma que la estableciere determinare una fecha posterior;
-b) la norma que estableciere una prohibición de carácter no económico dispusiere expresamente que el momento de su entrada en vigencia es el de la fecha de su dictado.
-ARTICULO 617. –A los fines previsto en el artículo 616, se considera publicación suficiente la efectuada en el Boletín de la Administración Nacional de Aduanas.
-ARTICULO 618. –Cuando se tratare de importación, las prohibiciones de carácter económico no alcanzan a la mercadería que se encontrare, a la fecha de entrar en vigencia la medida, en alguna de las siguientes situaciones:
-a) expedida con destino final al territorio aduanero por tierra, agua o aire y cargada en el respectivo medio de transporte;
-b) en zona primaria aduanera, por haber arribado con anterioridad al territorio aduanero.
-ARTICULO 619. –En los supuestos del artículo 618, el beneficio caducará si no se registrare la solicitud de importación para consuno dentro del plazo que fijare la reglamentación, el que no podrá exceder de NOVENTA (90) días contados desde la entrada en vigor de la medida.
-ARTICULO 620. –Lo dispuesto en el artículo 618 no impide al Poder Ejecutivo disponer que las prohibiciones a la importación tampoco alcancen a mercadería que se encontrare en otras circunstancias, tales como la amparada por carta de crédito irrevocable o pagada en todo o en parte, en las condiciones y con las limitaciones que en dichos casos se establecieren.
-(Nota Infoleg: Por art. 1° del
-Decreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 620 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.)
+ARTICULO 613. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 614. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 615. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 616. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 617. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 618. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 619. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 620. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 621. –Cuando se tratare de importación, las prohibiciones de carácter no económico alcanzan, salvo disposición en contrario, a toda la mercadería que no hubiere sido librada bajo la destinación de importación para consumo con anterioridad a la fecha de entrar en vigencia a la medida.
-ARTICULO 622. –Cuando se tratare de exportación, las prohibiciones de carácter económico no alcanzan, salvo disposición en contrario, a la mercadería respecto de la cual se hubiere registrado, con anterioridad a la fecha de entrar en vigencia la medida, la correspondiente solicitud de destinación de exportación para consumo.
-ARTICULO 623. –Lo dispuesto en el artículo 622 no impide al Poder Ejecutivo disponer que las prohibiciones a la exportación tampoco alcancen a mercadería que se encontrare en otras circunstancias, tales como la amparada por carta de crédito irrevocable o pagada en todo o en parte, en las condiciones y con las limitaciones que en dichos casos se establecieren.
+ARTICULO 622. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 623. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 624. –Cuando se tratare de exportación, las prohibiciones de carácter no económico alcanzan, salvo disposición en contrario, a toda la mercadería que a la fecha de entrar en vigencia no se encontrare cargada en un medio de transporte que hubiera partido con destino inmediato al extranjero.
 ARTICULO 625. –El Estado nacional, las provincias, las municipalidades y sus respectivas reparticiones centralizadas y descentralizadas no gozan, salvo disposición especial en contrario, de inmunidad alguna con respecto a las prohibiciones previstas en esta Sección.
 ARTICULO 626. –La importación o la exportación en excepción a una prohibición puede ser autorizada bajo la condición del cumplimiento de determinadas obligaciones.
@@ -1691,19 +1733,13 @@ ARTICULO 628. –No obstante lo dispuesto en el artículo 627, cuando existieren
 ARTICULO 629. –El incumplimiento de las obligaciones impuestas como condición, a que alude el artículo 626, dará lugar a la aplicación de las sanciones previstas al efecto en este código así como a las consecuencias contempladas en la norma que hubiere establecido la excepción y en la reglamentación.
 ARTICULO 630. –Cuando no se hubiere establecido plazo de extinción impuesta como condición se extingue a los CINCO (5) años, a contar del primero de enero del año siguiente a aquel en que hubiera tenido lugar el libramiento.
 ARTICULO 631. –El Poder Ejecutivo podrá establecer prohibiciones de carácter no económico a la importación o a la exportación de determinada mercadería con el objeto de cumplir alguna de las finalidades previstas en el artículo 610.
-ARTICULO 632. –El Poder Ejecutivo podrá establecer prohibiciones de carácter económico a la importación o a la exportación de determinada mercadería, en forma transitoria, con el objeto de cumplir alguna de las finalidades previstas en el artículo 609, cuando tales finalidades no pudieren cumplirse adecuadamente mediante el ejercicio de las facultades otorgadas para establecer o aumentar los tributos que gravaren las respectivas destinaciones.
-(Nota Infoleg: Por art. 1° del
-Decreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 632 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.)
-ARTICULO 633. –No obstante lo dispuesto en el artículo 632, cuando se tratare de prohibiciones relativas de carácter económico, las excepciones otorgadas a favor de una persona determinada deben ser establecidas por ley.
+ARTICULO 632. – (Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 633. –(Artículo derogado por art. 143 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 634. –El Poder Ejecutivo únicamente podrá dejar sin efecto las prohibiciones a la importación o a la exportación por él establecidas.
 
 
 
-
-
-
-
-[/web/20231024163120im_/https://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 635. –El derecho de importación grava la importación para consumo.
 ARTICULO 636. –La importación es para consumo cuando la mercadería se introduce al territorio aduanero por tiempo indeterminado.
 ARTICULO 637. –1. Es aplicable el derecho de importación establecido por la norma vigente en la fecha de:
@@ -1786,16 +1822,7 @@ ARTICULO 659. –Los precios oficiales CIF mínimos mencionados en el artículo 
 ARTICULO 660. –El derecho de importación específico es aquél cuyo importe se obtiene mediante la aplicación de una suma fija de dinero por cada unidad de medida.
 ARTICULO 661. –Cuando la unidad monetaria en que se hubiera establecido el importe a que se refiere el artículo 660 no fuere de curso legal en la Nación, su conversión se efectuará de acuerdo con lo dispuesto en el artículo 639.
 ARTICULO 662. –El derecho de importación específico podrá operar como derecho de importación único o bien como máximo, mínimo o adicional de un derecho de importación ad valorem.
-ARTICULO 663. –El derecho de importación específico debe ser establecido por ley. No obstante, el Poder Ejecutivo queda facultado a establecer derechos de importación específicos cuando concurrieren los siguientes supuestos:
-a) que la importación para consumo de la mercadería sujeta a un derecho de importación ad valorem causare o pudiere causar un perjuicio a una actividad productiva que se desarrollare o hubiere de desarrollarse en un futuro próximo dentro del territorio aduanero;
-b) que dicho perjuicio no pudiere evitarse mediante una modificación del porcentual del correspondiente derecho de importación ad valorem, ya sea directamente o bien a través de una apertura en la nomenclatura arancelaria correspondiente para establecer un derecho de importación ad valorem diferencial; y
-c) que, con relación a la mercadería de que se tratare, se diere alguna de las siguientes situaciones:
-1°) que existiere una diferencia sensible entre los valores en aduana de mercadería idéntica o similar, debida a variaciones en los costos de los factores de producción;
-2°) que el precio pagado o por pagar por dicha mercadería resultare admisible como base de valoración en virtud de lo dispuesto en el artículo 653, pero que el valor en aduana resultante fuere sensiblemente inferior al precio a que se cotizare mercadería idéntica o similar en los mercados internos de los principales países exportadores al territorio aduanero, en condiciones comerciales comparables;
-3°) que el precio pagado o por pagar por dicha mercadería fuera admisible como base de valoración, pero que el valor en aduana correspondiente fuere consecuencia de un precio de exportación calculado en tal forma que, para los importadores, el costo de la mercadería, una vez librada al consumo por la aduana, resultare igual al de mercadería idéntica o similar producida en el territorio aduanero;
-4°) que, por constituir un producto fin de serie, dicha mercadería fuere beneficiada con una reducción de precio que resultare admisible para la determinación de su valor en aduana; o
-5°) que, por ser usada, reacondicionada o no, dicha mercadería fuere beneficiada con una reducción de precio que resultare admisible para la determinación de su valor en aduana.
-(Nota Infoleg: Por art. 1° delDecreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 663 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.)
+ARTICULO 663. –(Artículo derogado por art. 145 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 664. –1. En las condiciones previstas en este código y en las leyes que fueren aplicables, el Poder Ejecutivo podrá:
 a) gravar con derecho de importación la importación para consumo de mercadería que no estuviere gravada con este tributo;
 b) desgravar del derecho de importación la importación para consumo de mercadería gravada con este tributo; y
@@ -1807,8 +1834,8 @@ c) promover, proteger o conservar las actividades nacionales productivas de bien
 d) estabilizar los precios internos a niveles convenientes o mantener un volumen de ofertas adecuado a las necesidades de abastecimiento del mercado interno;
 e) atender las necesidades de las finanzas públicas.
 (Nota Infoleg: Por art. 1° delDecreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 664 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.)
-ARTICULO 665. –Las facultades otorgadas en el apartado 1 del artículo 664 deberán ejercerse respetando los convenios internacionales vigentes.
-ARTICULO 666. –El Poder Ejecutivo, en ejercicio de las facultades conferidas en el apartado 1 del artículo 664, no podrá establecer derechos de importación que excedieren del equivalente al seiscientos por ciento del valor en aduana de la mercadería, cualquiera fuere la forma de tributación.
+ARTICULO 665. –(Artículo derogado por art. 145 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 666. –(Artículo derogado por art. 145 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 667. –1. El Poder Ejecutivo podrá otorgar exenciones totales o parciales al pago del derecho de importación, ya sean sectoriales o individuales.
 2. Salvo lo que dispusieren leyes especiales, las facultades otorgadas en el apartado 1 de este artículo, únicamente podrán ejercerse con el objeto de cumplir alguna de las siguientes finalidades:
 a) velar por la seguridad pública o la defensa nacional;
@@ -1827,40 +1854,20 @@ b) el cobro de los tributos que hubieren sido dispensados, salvo si se tratare d
 El importe de tales tributos será actualizado de conformidad con la variación que hubiere experimentado el índice de precios al por mayor, nivel general, elaborado por el Instituto Nacional de Estadística y Censos o por el organismo oficial que cumpliere sus funciones desde el mes en que se hubiere librado la mercadería hasta el penúltimo mes anterior a aquél en que se dictare la resolución que dispusiere su cobro, sin perjuicio de que tal importe continúe actualizándose hasta el penúltimo mes anterior al de la fecha en que s efectuare el pago;
 c) las demás consecuencias contempladas en la norma que hubiere establecido la exención, en este código y en la reglamentación.
 ARTICULO 672. –Cuando no se hubiere establecido plazo de extinción, la obligación impuesta como condición se extingue a los TRES (3) años, a contar del primero de enero del año siguiente a aquél en que hubiera tenido lugar el libramiento.
-ARTICULO 673. –La importación para consumo en las condiciones previstas en este Capítulo podrá ser gravada por el Poder Ejecutivo con un impuesto de equiparación de precios, para cumplir con alguna de las siguientes finalidades:
-a) evitar un perjuicio real o potencial a las actividades productivas que se desarrollaren o hubieren de desarrollarse en un futuro próximo dentro del territorio aduanero;
-b) asegurar, para la mercadería producida en el territorio aduanero, precios, en el mercado interno, razonables y acordes con la política económica en la materia;
-c) evitar los inconvenientes para la economía nacional que pudiere llegar a provocar una competencia fuera de lo razonable entre exportadores al país;
-d) evitar un perjuicio real o potencial a las actividades del comercio interno o de importación que se desarrollaren en el territorio aduanero, cualquiera fuere el origen de la mercadería objeto de las mismas;
-e) orientar las importaciones de acuerdo con la política de comercio exterior;
-f) disuadir la imposición en el extranjero de tributos elevados o de prohibiciones a la importación de mercadería originaria o procedente del territorio aduanero;
-g) alcanzar o mantener el pleno empleo productivo, mejorar el nivel de vida general de la población, ampliar los mercados internos o asegurar el desarrollo de los recursos económicos nacionales;
-h) proteger o mejorar la posición financiera exterior y salvaguardar el equilibrio de la balanza de pagos.
-ARTICULO 674. –No están sujetas al impuesto de equiparación de precios las importaciones para consumo que no revistieren carácter comercial ni las de muestras comerciales.
-ARTICULO 675. –El impuesto de equiparación de precios es aquél cuyo importe es equivalente a la diferencia entre un precio tomado como base y otro de comparación.
-ARTICULO 676. –El precio base puede consistir en:
-a) el precio pagado o por pagar por la mercadería o, en su defecto, el de mercadería idéntica o similar importada;
-b) el valor en aduana de la mercadería importada para consumo;
-c) la cotización internacional de la mercadería;
-d) el precio usualmente convenido para las importaciones de mercadería idéntica o similar al territorio aduanero procedente de determinados países proveedores que fueren representativos; o
-e) el precio de la mercadería a su salida de fábrica calculado a partir del costo de producción.
-ARTICULO 677. –El precio de comparación puede consistir en:
-a) el precio de venta en el mercado interno del territorio aduanero de mercadería idéntica o similar, nacional o extranjera;
-b) el precio de venta en el mercado interno de terceros países;
-c) la cotización internacional de la mercadería ;
-d) el valor en aduana de la mercadería;
-e) el valor en aduana de la mercadería más los importes que determinare la reglamentación;
-f) el precio usualmente convenido para las importaciones de mercadería idéntica o similar al territorio aduanero; o
-g) el precio de la mercadería a su salida de fábrica calculado a partir del costo de producción.
-ARTICULO 678. –El impuesto de equiparación de precios podrá establecerse en forma adicional o como máximo o mínimo del derecho de importación o como sustitutivo de éste.
-ARTICULO 679. –El impuesto de equiparación de precios podrá aplicarse en forma total o parcial, de conformidad con lo que dispusiere la norma que lo estableciere.
-ARTICULO 680. –El Poder Ejecutivo podrá establecer los precios de base o de comparación de una manera uniforme por especie de mercadería a través de un precio de referencia, que se denominará precio guía.
-ARTICULO 681. –El precio guía podrá ser reajustable de acuerdo al método que indicare la forma que lo estableciere y tendrá vigencia por un lapso determinado, caducando a los SEIS (6) meses de fijado en caso de no señalarse al efecto plazo alguno.
-ARTICULO 682. –Para establecer un precio guía de base, deberá tomarse en consideración alguno de los criterios previstos en el artículo 676.
-ARTICULO 683. –Para establecer un precio guía de comparación deberá tomarse en consideración alguno de los criterios previstos en el artículo 677.
-ARTICULO 684. –Cuando el Poder Ejecutivo estableciere la aplicación del impuesto de equiparación de precios para determinados supuestos, podrá disponer exenciones totales o parciales con carácter general para ciertas situaciones o, en su caso, delegar el otorgamiento de dichas exenciones en los organismos que determinare, precisando las pautas a tomar en consideración.
-ARTICULO 685. –El Poder Ejecutivo podrá delegar en los organismos que determinare la fijación del importe del precio de base, del importe del precio de comparación, del importe del precio guía y de su reajuste.
-ARTICULO 686. –En todo cuanto no estuviere previsto en este Capítulo, la aplicación, percepción y fiscalización de este tributo se rige por las normas previstas para los derechos de importación.
+ARTICULO 673. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 674. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 675. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 676. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 677. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 678. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 679. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 680. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 681. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 682. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 683. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 684. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 685. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 686. –(Artículo derogado por art. 146 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 687. –La importación para consumo de mercadería en condiciones de dumping podrá ser gravada por la autoridad de aplicación con un derecho antidumping, en las condiciones establecidas en este Capítulo, cuando dicha importación:
 a) causare un perjuicio importante a una actividad productiva que se desarrollare en el territorio aduanero;
 b) amenazare causar en forma inminente un perjuicio importante a una actividad productiva que se desarrollare en el territorio aduanero; o
@@ -2003,16 +2010,9 @@ c) promover, proteger o conservar las actividades nacionales productivas de bien
 d) estabilizar los precios internos a niveles convenientes o mantener un volumen de ofertas adecuado a las necesidades de abastecimiento del mercado interno;
 e) atender las necesidades de las finanzas públicas.
 (Nota Infoleg: Por art. 1° delDecreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 755 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.)
-ARTICULO 756. – Las facultades otorgadas en el artículo 755, apartado 1, deberán ejercerse respetando los convenios internacionales vigentes.
-ARTICULO 757. – 1. El Poder Ejecutivo podrá otorgar exenciones totales o parciales al pago del derecho de exportación, ya sean sectoriales o individuales.
-2. Salvo lo que dispusieren leyes especiales, las facultades otorgadas en el apartado 1 de este artículo, únicamente podrán ejercerse con el objeto de cumplir alguna de las siguientes finalidades:
-a) atender las necesidades de la salud pública, de la sanidad animal o vegetal, o ejecutar la política alimentaria;
-b) promover la educación, la cultura, la ciencia, la técnica y las actividades deportivas;
-c) facilitar la acción de instituciones religiosas y demás entidades de bien público sin fines de lucro así como satisfacer exigencias de solidaridad humana;
-d) cortesía internacional;
-e) facilitar la realización de exposiciones, ferias, congresos u otras manifestaciones similares;
-f) dar solución a los problemas que se suscitaren con ocasión de exportaciones de carácter no comercial.
-ARTICULO 758. – En los supuestos en que acordare exenciones, el Poder Ejecutivo podrá establecerlas bajo la condición del cumplimiento de determinadas obligaciones.
+ARTICULO 756. – (Artículo derogado por art. 147 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 757. – (Artículo derogado por art. 147 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+ARTICULO 758. – (Artículo derogado por art. 147 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 759. – El incumplimiento de las obligaciones impuestas como condición dará lugar a la aplicación de las sanciones y demás consecuencias contempladas en la norma que hubiere establecido la exención, en este código y en la reglamentación.
 ARTICULO 760. – Cuando no se hubiere establecido plazo de extinción, la obligación impuesta como condición se extingue a los TRES (3) años, a contar del primero de enero del año siguiente a aquél en que hubiera tenido lugar el libramiento.
 ARTICULO 761. – Cuando se encomendare al servicio aduanero la aplicación, la percepción u otra función respecto de un tributo con afectación especial y no se previeren todos los recaudos y formalidades para cumplimentarla, se aplicarán supletoriamente las disposiciones de la legislación aduanera.
@@ -2038,11 +2038,7 @@ ARTICULO 776. –La Administración Nacional de Aduanas queda facultada para fij
 
 
 
-
-
-
-
-[/web/20231207113100im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 777. –La persona que realizare un hecho gravado con tributos establecidos en la legislación aduanera es deudora de éstos.
 ARTICULO 778. –El Estado nacional, las provincias, las municipalidades y sus respectivas reparticiones y entes centralizados o descentralizados, salvo disposición expresa en contrario, están sujetos a las mismas responsabilidades y obligaciones tributarias aduaneras que las demás personas.
 ARTICULO 779. –El despachante de aduana que realizare un hecho gravado sin acreditar su condición de representante en alguna de las formas previstas en el artículo 38 responde personalmente por los tributos pertinentes.
@@ -2064,7 +2060,11 @@ c) la condonación;
 d) la transacción en juicio;
 e) la prescripción.
 ARTICULO 788. –El pago de la obligación tributaria aduanera se efectuará de los modos y en los lugares que determinare el servicio aduanero.
-ARTICULO 789. –El pago de la obligación tributaria aduanera debe efectuarse al contado y antes del libramiento de la mercadería, salvo los casos en que el libramiento fuere autorizado bajo el régimen de garantía.
+ARTICULO 789. –El pago de la obligación tributaria aduanera debe ser efectuado antes del libramiento de la mercadería quedando exceptuados los casos en que el libramiento fuere autorizado bajo el régimen de garantía o aquellos regímenes especiales respecto de los cuales la Administración Federal de Ingresos Públicos determinara lo contrario.
+
+En los supuestos previstos en los artículos 245 y 343, no constituirá requisito necesario para el libramiento de la mercadería el pago o garantía de diferencias tributarias o multas.
+
+(Artículo sustituido por art. 148 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 790. –1. La Administración Nacional de Aduanas, con sujeción al régimen de garantía y en las condiciones que determinare la reglamentación, podrá conceder esperas o facilidades para el pago de los tributos aduaneros.
 2. La reglamentación determinará los casos, condiciones de procedencia y plazos para las esperas y facilidades previstas en este artículo.
 ARTICULO 791. –Las tasas de interés que devengaren los importes cuyo pago fuere objeto de espera o de facilidades serán fijadas con carácter general por la Administración Nacional de Aduanas. El máximo de la tasa de interés a aplicar no podrá exceder en el momento de su fijación del doble de la que percibiere el Banco de la Nación Argentina para el descuento de documentos comerciales. El Poder Ejecutivo podrá autorizar, con carácter excepcional, que dicha espera o facilidades no devenguen interés, siempre que el plazo de las mismas no excediere de CIENTO VEINTE (120) días.
@@ -2120,11 +2120,7 @@ ARTICULO 819. –En todo aquello que no estuviere previsto en este código la pr
 
 
 
-
-
-
-
-[/web/20231207174533im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 820. –Drawback es el régimen aduanero en virtud del cual se restituyen, total o parcialmente, los importes que se hubieran pagado en concepto de tributos que gravaron la importación para consumo, siempre que la mercadería fuere exportada para consumo:
 a) luego de haber sido sometida en el territorio aduanero a un proceso de transformación, elaboración, combinación, mezcla, reparación o cualquier otro perfeccionamiento o beneficio;
 b) utilizándose para acondicionar o envasar otra mercadería que se exportare.
@@ -2196,10 +2192,7 @@ ARTICULO 855. –En todo aquello que no estuviere previsto en este código, la p
 
 
 
-
-
-
-[/web/20231206142605im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 856. –
 Cuando un país aplicare un tratamiento discriminatorio perjudicial a la importación de mercadería originaria o procedente del territorio aduanero argentino o que arribare a aquél en un medio de transporte de matrícula o de pabellón argentinos, el Poder Ejecutivo podrá adoptar las medidas previstas en este Capítulo cuando se tratare de la importación de mercadería originaria o procedente de dicho país o que arribare en un medio de transporte de matrícula o de pabellón del mismo.
 ARTICULO 857. –
@@ -2215,11 +2208,7 @@ b) la norma determinare una fecha posterior.
 
 
 
-
-
-
-
-[/web/20231025032246im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 860. –Las disposiciones de esta Sección rigen respecto de los hechos que en este código se prevén como delitos e infracciones aduaneros.
 ARTICULO 861. –Siempre que no fueren expresa o tácitamente excluidas, son aplicables a esta Sección las disposiciones generales del Código Penal.
 ARTICULO 862. –Se consideran delitos aduaneros los actos u omisiones que en este Título se reprimen por transgredir las disposiciones de este código.
@@ -2309,11 +2298,7 @@ ARTICULO 891. –Sin perjuicio de lo dispuesto en el artículo 890, la prescripc
 
 
 
-
-
-
-
-[/web/20230930165459im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 892. –A los efectos de este código, el término infracción se equipara al de contravención.
 ARTICULO 893. –Se consideran infracciones aduaneras los hechos, actos u omisiones que este Título reprime por transgredir las disposiciones de la legislación aduanera. Las disposiciones generales de este Título también se aplicarán a los supuestos que este código reprime con multas automáticas.
 ARTICULO 894. –La calificación de un hecho como infracción aduanera requiere que, previamente a su realización, se encuentre previsto como tal en las disposiciones de este código.
@@ -2442,7 +2427,9 @@ a).- la inexactitud fuere comprobable de la simple lectura de la propia declarac
 b) la diferencia resultante de la inexactitud únicamente causare o pudiere causar un perjuicio fiscal y su importe fuere menor de Australes 581.000. En caso de que la diferencia causare o pudiere causar además alguna de las consecuencias previstas en los incisos b) y c) del artículo 954, la eximición de pena contemplada en este inciso no será aplicable. El mencionado importe se actualizará anualmente en forma automática al 31 de octubre de cada año, de conformidad con la variación de los índices de precios al por mayor (nivel general) elaborados por el Instituto Nacional de Estadísticas y Censos o por el organismo oficial que cumpliere sus funciones. Esta actualización surtirá efectos a partir del primero de enero siguiente; (Monto sustituido por art. 1° de la Resolución_N°_2344/1991 de la Administración Nacional de Aduanas B.O. 10/12/1991)
 (Nota Infoleg: En relación al monto mencionado en Australes, ver la Ley_N°_23.928 B.O. 28/03/1991 y el Decreto_N°_2128/1991 B.O. 17/10/1991 por los que se declara la convertibilidad del Austral a partir del 1° de enero de 1992, estableciéndose la paridad de UN PESO ($1) equivalente a DIEZ MIL AUSTRALES (A 10.000).)
 c) la diferencia de cantidad de mercadería de una misma posición arancelaria no excediere del DOS (2%) por ciento sobre la unidad de medida que correspondiere a la misma. La reglamentación podrá aumentar este porcentaje hasta un SEIS (6%) por ciento, en atención a la naturaleza de la mercadería de que se tratare. Esta eximición no alcanza a las sanciones que pudieren corresponder por otras diferencias.
-ARTICULO 960. –Cuando en cualquier destinación de importación o de exportación se declarare una mercadería en forma supeditada, en los términos previstos en los artículos 226 y 323, respectivamente, la eventual declaración inexacta efectuada en la declaración superditada no será punible.
+ARTICULO 960. –Cuando en cualquier destinación de importación o de exportación se declarare una mercadería en forma supeditada, en los términos previstos en los artículos 227 y 324, respectivamente, la eventual declaración inexacta efectuada en la declaración supeditada no será punible.
+
+(Artículo sustituido por art. 149 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 961. –La norma dictada con posterioridad a la configuración de la infracción que modificare el tratamiento aduanero o fiscal de la mercadería no surtirá efectos como norma penal más benigna a los fines de la aplicación de las sanciones contempladas en este Capítulo.
 ARTICULO 962. –Cuando en un medio de transporte se hallare mercadería oculta o en lugares de acceso reservado a la tripulación o en poder de algún tripulante, que no hubiere sido oportunamente declarada ante el servicio aduanero, corresponderá el comiso de la mercadería en infracción y se aplicará al transportista una multa igual a su valor en plaza.
 ARTICULO 963. –En el supuesto previsto en el artículo 962, si la importación o la exportación de la mercadería en infracción estuviere sujeta a una prohibición, la multa podrá elevarse hasta DOS (2) veces su valor en plaza.
@@ -2511,10 +2498,7 @@ ARTICULO 996. –Los importes previstos en las escalas penales de los artículos
 
 
 
-
-
-
-[/web/20231206151447im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 997. –
 Sin perjuicio de los demás privilegios y preferencias que las leyes acuerdan al Fisco, los créditos aduaneros de cualquier naturaleza, incluidos los provenientes de multas, gozan de preferencia respecto de cualesquiera otros sobre la mercadería del deudor, garante o responsable, que se encontrare en zona primaria aduanera. El servicio aduanero goza de derecho de retención sobre dicha mercadería hasta que fueren satisfechos sus créditos.
 ARTICULO 998. –
@@ -2526,11 +2510,7 @@ La ejecución administrativa podrá ejercerse respecto de la mercadería que se 
 
 
 
-
-
-
-
-[/web/20231207192747im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 1001. –Toda persona que compareciere ante el servicio aduanero deberá, en su primera presentación, constituir domicilio dentro del radio urbano en que la oficina aduanera respectiva tuviere su asiento o bien mediante alguno de los medios electrónicos que estableciere la reglamentación.
 
 (Artículo sustituido por art. 252 de la Ley_N°_27430 B.O. 29/12/2017. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial)
@@ -2586,14 +2566,16 @@ ARTICULO 1020. –En el procedimiento de repetición corresponderá conocer y de
 ARTICULO 1021. –Las competencias atribuidas en este Título no obstan al ejercicio de la facultad de avocación conferida al Administrador Nacional de Aduanas en el artículo 23, inciso m).
 ARTICULO 1022. –Las cuestiones de competencia que se suscitaren entre las aduanas serán resueltas por el Administrador Nacional de Aduanas, cuya decisión será irrecurrible.
 ARTICULO 1023. –A los fines de esta Sección, el vocablo administrador comprende al funcionario que resultare competente para resolver en sede aduanera en el procedimiento de que se tratare o a quien lo sustituyere por ausencia o impedimento, conforme a las normas en vigor.
-ARTICULO 1024. –Corresponderá conocer y decidir en forma originaria en el procedimiento de ejecución en sede judicial y en las demandas contenciosas que se interpusieren contra las resoluciones definitivas dictadas por el administrador en los procedimientos de repetición y para las infracciones, así como en el supuesto de retardo por no dictarse resolución en estos DOS (2) últimos procedimientos dentro de los plazos señalados al efecto en este Código, en la Capital Federal a los jueces nacionales en lo contencioso administrativo federal y en el interior del país a los jueces federales, dentro de sus respectivas competencias territoriales siempre que se cuestionare una suma mayor de PESOS DOS MIL ($ 2.000).
-(Artículo sustituido por art. 39 de laLey_N°_25.986B.O. 5/1/2005.)
+ARTICULO 1024. –Corresponderá conocer y decidir en forma originaria en el procedimiento de ejecución en sede judicial y en las demandas contenciosas que se interpusieren contra las resoluciones definitivas dictadas por el administrador en los procedimientos de repetición y para las infracciones, así como en el supuesto de retardo por no dictarse resolución en estos dos últimos procedimientos dentro de los plazos señalados al efecto en este Código, y en los previstos en el artículo 463, en la Capital Federal a los jueces nacionales en lo contencioso administrativo federal y en el interior del país a los jueces federales, dentro de sus respectivas competencias territoriales siempre que se cuestionare una suma mayor de 1.000 UVA.
+
+(Artículo sustituido por art. 150 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 1025. –1. Corresponderá conocer y decidir al Tribunal Fiscal de la Nación, creado por la ley 15.265:
 a) de los recursos de apelación contra las resoluciones del administrador en el procedimiento de impugnación, con excepción de los supuestos previstos en el artículo 1053, inciso f). La apelación sólo procederá cuando el importe controvertido excediere de PESOS VEINTICINCO MIL ($25.000); (Importe sustituido por art. 76 de laLey_N°_26.784B.O. 05/11/2012)
 b) de los recursos de apelación contra las resoluciones del administrador en el procedimiento para las infracciones, cuando la condena implicare un importe que excediere de PESOS VEINTICINCO MIL ($25.000); (Importe sustituido por art. 76 de laLey_N°_26.784B.O. 05/11/2012)
 c) de los recursos de apelación contra las resoluciones del administrador en el procedimiento de repetición, cuando se reclamare un importe que excediere de PESOS VEINTICINCO MIL ($25.000); (Importe sustituido por art. 76 de laLey_N°_26.784B.O. 05/11/2012)
 d) de los recursos por retardo en el dictado de la resolución definitiva que correspondiere en los procedimientos de impugnación, de repetición y para las infracciones, cuando los importes controvertidos o reclamados y/o la imputación infraccional excedieren y/o implicare un importe que excediere, dePESOS VEINTICINCO MIL ($25.000); (Importe sustituido por art. 76 de laLey_N°_26.784B.O. 05/11/2012)(Inciso sustituido por art. 19 inc. 2) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000.)
 e) del recurso de amparo previsto en los artículos 1160 y 1161, excepto en las causas por delitos aduaneros.
+f) de los recursos de apelación previstos en el artículo 463. (Inciso incorporado por art. 151 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 Si la determinación tributaria y la imposición de sanción se decidieran conjuntamente, la resolución íntegra podrá apelarse cuando ambos conceptos en conjunto superen el importe mínimo previsto en el párrafo anterior, sin perjuicio de que el interesado pueda recurrir sólo por uno de esos conceptos pero siempre que éste supere dicho importe mínimo. (Párrafo incorporado por art. 19 inc. 3) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000.)
 2. Los importes previstos en el apartado 1 se actualizarán anualmente, en forma automática al 31 de octubre de cada año, de conformidad con la variación de los índices de precios al por mayor (nivel general) elaborados por el Instituto Nacional de Estadística y Censos u organismo oficial que cumpliere sus funciones. Esta actualización surtirá efectos a partir del primero de enero del año siguiente. Si la determinación tributaria y la imposición de sanción se decidieran conjuntamente, la resolución íntegra podrá apelarse cuando ambos conceptos en conjunto superen el importe mínimo previsto en el párrafo anterior, sin perjuicio de que el interesado pueda recurrir sólo por uno de esos conceptos pero siempre que éste supere dicho importe mínimo.
 ARTICULO 1026. –Las causas que correspondiere instruir por los delitos previstos en la Sección XII, Título I, de este código serán sustanciadas:
@@ -2631,6 +2613,9 @@ i) los que pusieren el expediente a disposición de las partes para alegar;
 j) los que resolvieren las causas en forma definitiva;
 k) los que concedieren o denegaren la apelación;
 l) los que dispusieren la venta prevista en el artículo 1124.
+m) el dictado del auto por el cual se ordenare la apertura del sumario; (Inciso incorporado por art. 152 del Decreto_N°_70/2023 B.O. 21/12/2023.)
+
+n) el dictado de la resolución condenatoria en sede aduanera. (Inciso incorporado por art. 152 del Decreto_N°_70/2023 B.O. 21/12/2023.)
 ARTICULO 1038. –Todo aquél que fuere citado a prestar declaración indagatoria o testimonial está obligado a comparecer. Si no lo hiciere y no justificare satisfactoriamente su inasistencia, podrá ser obligado a comparecer por la fuerza pública a una segunda audiencia que se fijará al efecto.
 ARTICULO 1039. –El administrador al proveer la producción de la prueba dispondrá cuales medidas probatorias deben ser producidas por el interesado, fijándole al efecto un plazo prudencial, bajo apercibimiento de darle por decaído el derecho a producirlas.
 ARTICULO 1040. –Cuando el administrador no fuere abogado, antes de dictar resolución definitiva, deberá producirse en las actuaciones dictamen jurídico.
@@ -2651,11 +2636,7 @@ ARTICULO 1052. –El incidente de nulidad tramitará en la forma prevista en los
 
 
 
-
-
-
-
-[/web/20231206145702im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 1053. –1. Tramitarán por el procedimiento reglado en este Capítulo las impugnaciones que se formularen contra los actos por los cuales:
 
 a) se liquidaren tributos aduaneros, en forma originaria o suplementaria, siempre que la respectiva liquidación no estuviere contenida en la resolución condenatoria recaída en el procedimiento para las infracciones;
@@ -2817,11 +2798,7 @@ ARTICULO 1128. –El diligenciamiento de las cédulas de notificación y de los 
 
 
 
-
-
-
-
-[/web/20231206133033im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 1129. –El recurso de revocatoria procederá únicamente contra los actos que a continuación se mencionan, a fin de que el administrador los revoque por contrario imperio:
 a) el que denegare la legitimación para actuar;
 b) el que declarare la rebeldía;
@@ -2987,10 +2964,7 @@ ARTICULO 1183. –Las sentencias dictadas en las causas relativas a las materias
 
 
 
-
-
-
-[/web/20231207165131im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 1184. –
 El Poder Ejecutivo deberá mantener permanentemente actualizado el ordenamiento del texto de este código, para lo cual le incorporará las disposiciones complementarias o modificatorias que se dictaren y procederá a su correlación y ordenamiento por materias.
 ARTICULO 1185. –
@@ -2998,10 +2972,7 @@ No obstante lo previsto en el artículo 663, el Poder Ejecutivo queda facultado 
 
 
 
-
-
-
-[/web/20231206133558im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 ARTICULO 1186. –
 El presente código entrará en vigencia a partir de los SEIS (6) meses contados desde la fecha de su publicación en el Boletín Oficial.
 ARTICULO 1187. –
@@ -3020,15 +2991,54 @@ VIDELA - Martínez de Hoz - Rodríguez Varela.
 
 
 
-
-
-
-
-[/web/20231206142113im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
+[/infolegInternet/imagenes/left.png]
 Antecedentes Normativos
+- Artículo 516 sustituido por art. 47 del Decreto_N°_27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
+- Artículo 949, sustituido por art. 32 de laLey_N°_25.986B.O. 5/1/2005;
+- Artículo 947, sustituido por art. 31 de laLey_N°_25.986B.O. 5/1/2005;
+- Artículo 1024 sustituido por art. 39 de laLey_N°_25.986B.O. 5/1/2005;
+- Artículo 1058, sustituido por art. 40 de laLey_N°_25.986B.O. 5/1/2005;
+-Artículo 94 sustituido por art. 1° delDecreto_N°_971/2003B.O. 28/4/2003;
+
+- Artículo 96 sustituido por art. 2° delDecreto_N°_971/2003B.O. 28/4/2003;
+
+- Artículo 97 sustituido por art. 3° delDecreto_N°_971/2003B.O. 28/4/2003;
+
+- Artículo 98 sustituido por art. 4° delDecreto_N°_971/2003B.O. 28/4/2003;
+– Resolución 110/2002 del Ministerio de Economía, derogada por art. 6° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Nota Infoleg: Por art. 1° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003, se establece la tasa de intereses resarcitorios que prevén los artículos 794, 845 y 924 del Código Aduanero en 3% (tres por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Nota Infoleg: Por art. 1° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003, se establece la tasa de intereses punitorio que prevé el artículo 797 del Código Aduanero en 4% (cuatro por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Nota Infoleg: Por art. 1° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003, se establece la tasa de intereses que prevén los artículos 811 y 838 del Código Aduanero en 0,50% (cincuenta centésimos por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Resolución 36/2003 del Ministerio de Economía, derogada por art. 6° de laResolución_N°_314/2004del Ministerio de Economía B.O. 4/5/2004. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Artículo 94, sustituido por art. 2° delDecreto_N°_2.690/2002B.O. 31/12/2002;
+
+- Artículo 95 sustituido por art. 2° delDecreto_N°_2.690/2002B.O. 31/12/2002;
+– Artículo 96, sustituido por art. 2° delDecreto_N°_2.690/2002B.O. 31/12/2002;
+– Artículo 97, sustituido por art. 4° delDecreto_N°_2.690/2002B.O. 31/12/2002;
+– Artículo 98, sustituido por art. 5° delDecreto_N°_2.690/2002B.O. 31/12/2002;
+– Resolución 1.253/1998 del Ministerio de Economía y Obras y Servicios Públicos, derogada por art. 6° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Nota Infoleg: Por art. 1° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002, se establece la tasa de intereses resarcitorios que prevén los artículos 794, 845 y 924 del Código Aduanero en 4% (cuatro por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Nota Infoleg: Por art. 1° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002, se establece la tasa de intereses punitorio que prevé el artículo 797 del Código Aduanero en 6% (seis por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+– Nota Infoleg: Por art. 1° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002, se establece la tasa de intereses que prevén los artículos 811 y 838 del Código Aduanero en 0,84% (cero con ochenta y cuatro por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
+- Artículo 97, inc. b),(Nota Infoleg:Por art. 1° delDecreto_N°_587/2000B.O. 24/7/2000, se dispone que en los casos de procesamiento de personas de existencia ideal, podrá diferirse la aplicación de la suspensión prevista en este inciso, cuando dichas personas otorguen garantía suficiente que resguarde el interés fiscal comprometido, a satisfacción de la DIRECCION GENERAL DE ADUANAS de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA.);
+- Artículo 1025, Apartado I, inciso c),Nota Infoleg: Importe sustituido por art. 19 inc. 1) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
+- Artículo 1025, Apartado I, inciso b),Nota Infoleg: Importe sustituido por art. 19 inc. 1) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
+- Artículo 1025, Apartado I, inciso a),Nota Infoleg: Importe sustituido por art. 19 inc. 1) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
+- Artículo 1166, 3er. Párrafo sustituido por art. 19 inc. 6) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
+- Artículo 37 sustituido por art. 8° inciso c) de laLey_N°_25.063B.O. 30/12/1998. Vigencia: a partir del día siguiente a su publicación;
+- Artículo 91, apartado 2, segundo párrafo incorporado por art. 8° inciso e dela_Ley_N°_25.063B.O. 30/12/1998. Vigencia: a partir del día siguiente a su publicación;
+– Nota Infoleg: Por art. 1° de la Resolución N°1.253/1998del Ministerio de Economía y Obras y Servicios Públicos B.O. 2/10/1998, se establece la tasa de intereses resarcitorios que prevén los artículos 794, 845 y 924 del Código Aduanero en 3% (tres por ciento) mensual. Vigencia: a partir del día 1° de octubre de 1998;
+– Nota Infoleg: Por art. 2° de laResolución_N°_1.253/1998del Ministerio de Economía y Obras y Servicios Públicos B.O. 2/10/1998, se establece la tasa de interés punitorio que prevé el artículo 797 del Código Aduanero en el 4% (cuatro por ciento) mensual. Vigencia: a partir del día 1° de octubre de 1998;
+– Nota Infoleg: Por art. 3° de laResolución_N°_1.253/1998del Ministerio de Economía y Obras y Servicios Públicos B.O. 2/10/1998, se establece la tasa de intereses que prevén los artículos 811 y 838 del Código Aduanero en el 0,50% (cincuenta centésimos por ciento) mensual. Vigencia: a partir del día 1° de octubre de 1998;
+- Artículo 55, (Nota Infoleg:Por art. 1° de laResolución_N°_329/1997de la Dirección General de Aduana B.O. 5/11/1997, se dispuso suspender la exigencia impuesta a los despacharles de Aduana, de llevar un libro rubricado en los términos del artículo 55 del Código Aduanero.);
+- Artículo 37, pto. 2, (Nota Infoleg: Por art. 1° delDecreto_N°_1.160/1996B.O. 17/10/1996, se dispone que a los fines de lo previsto en el art. 37 apartado 2º del Código Aduanero, las personas de existencia ideal podrán gestionar el despacho y la destinación de la mercadería, por sí o a través de persona autorizada, en las demás condiciones y requisitos que establezca la reglamentación.);
+
+- Artículo 610, inciso h) incorporado por art. 1° de laLey_N°_24.611B.O. 16/1/1996;
+– Artículo 947, sustituido por art. 1° de laLey_N°_24.415B.O. 5/1/1995;
+– Artículo 949, sustituido por art. 1° de laLey_N°_24.415B.O. 5/1/1995;
+– Nota Infoleg: Por art. 1° delDecreto_N°_2.277/1994B.O. 30/12/1994, se reduce en 0% (cero por ciento) la alícuota de la tasa de estadística prevista en el art. 762 del Código Aduanero. Vigencia: a partir del 1° de enero de 1995;
 - Artículo 1171, Párrafo incorporado por art. 9° inc. l) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
 - Artículo 1167, Párrafos incorporados por art. 9° inc. j) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
-- Artículo 1166, 3er. Párrafo sustituido por art. 19 inc. 6) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
 - Artículo 1163, sustituido por art. 9° inc. h) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
 - Artículo 1159, sustituido por art. 9° inc. g) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
 - Artículo 1158, Párrafo incorporado por art. 9° inc. f) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
@@ -3036,37 +3046,16 @@ Antecedentes Normativos
 - Artículo 1151, sustituido por art. 9° inc. d) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
 - Artículo 1150, sustituido por art. 9° inc. c) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
 - Artículo 1146, sustituido por art. 9° inc. a) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
-- Artículo 1058, sustituido por art. 40 de laLey_N°_25.986B.O. 5/1/2005;
-- Artículo 949, sustituido por art. 32 de laLey_N°_25.986B.O. 5/1/2005;
-- Artículo 947, sustituido por art. 31 de laLey_N°_25.986B.O. 5/1/2005;
-– Nota Infoleg: Por art. 1° de laLey_N°_23.046B.O. 27/2/1984, se dispone que las mercaderías que se importen bajo el régimen de destinación definitiva de importación para consumo y las que se importen temporariamente bajo el régimen de destinación suspensiva de importación temporaria, previstos ambos en el Código Aduanero, estén o no gravadas con derechos, abonarán, en concepto de servicio de estadística, una tasa del uno con cincuenta centésimos por ciento (1,50 %), siendo de aplicación las disposiciones de los arts. 762 a 766 de dicho Código;
-– Nota Infoleg:Por art. 1° de laLey_N°_23.261B.O. 16/10/1985, se deroga el art. 867 del Código Aduanero. Pero el art. 1° del Decreto N° 1.984/1985 B.O. 16/10/1985 veta el artículo 1° de la Ley 23.261;
+- Artículo 620, (Nota Infoleg: Por art. 1° delDecreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 620 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.);
+
+- Artículo 632,(Nota Infoleg: Por art. 1° delDecreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 632 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.);
+
+- Artículo 663, (Nota Infoleg: Por art. 1° delDecreto_N°_2.752/1991B.O. 13/1/1992, se delega en el Ministerio de Economía Obras y Servicios Públicos, las facultades conferidas por el artículo 663 del Código Aduanero. Vigencia: a partir del día siguiente a su publicación.);
+– Nota Infoleg:Por art. 1° delResolución_N°_2.344/1991de la Administración Nacional de Aduanas B.O. 10/12/1991, se actualizan los importes fijos determinados en los artículos 868, 869, 880 incs. a), b) y c), 920 incs. a), b) y c), 947, 949, 955, 992, 994, 995, 1024, 1025, 1028, 1.115 incs. a) y b) y 1.144;
+– Ley 23.206, derogada por art. 4° de laLey_N°_23.664B.O. 12/6/1989. Vigencia: a partir del día siguiente a su publicación;
 – Artículo 865, sustituido por art. 1° de laLey_N°_23.353B.O. 10/9/1986;
 –  Artículo 866, sustituido por art. 1° de laLey_N°_23.353B.O. 10/9/1986;
-– Ley 23.206, derogada por art. 4° de laLey_N°_23.664B.O. 12/6/1989. Vigencia: a partir del día siguiente a su publicación;
-– Nota Infoleg:Por art. 1° delResolución_N°_2.344/1991de la Administración Nacional de Aduanas B.O. 10/12/1991, se actualizan los importes fijos determinados en los artículos 868, 869, 880 incs. a), b) y c), 920 incs. a), b) y c), 947, 949, 955, 992, 994, 995, 1024, 1025, 1028, 1.115 incs. a) y b) y 1.144;
-– Nota Infoleg: Por art. 1° delDecreto_N°_2.277/1994B.O. 30/12/1994, se reduce en 0% (cero por ciento) la alícuota de la tasa de estadística prevista en el art. 762 del Código Aduanero. Vigencia: a partir del 1° de enero de 1995;
-– Artículo 947, sustituido por art. 1° de laLey_N°_24.415B.O. 5/1/1995;
-– Artículo 949, sustituido por art. 1° de laLey_N°_24.415B.O. 5/1/1995;
-- Artículo 91, apartado 2, segundo párrafo incorporado por art. 8° inciso e dela_Ley_N°_25.063B.O. 30/12/1998. Vigencia: a partir del día siguiente a su publicación;
-– Nota Infoleg: Por art. 1° de la Resolución N°1.253/1998del Ministerio de Economía y Obras y Servicios Públicos B.O. 2/10/1998, se establece la tasa de intereses resarcitorios que prevén los artículos 794, 845 y 924 del Código Aduanero en 3% (tres por ciento) mensual. Vigencia: a partir del día 1° de octubre de 1998;
-– Nota Infoleg: Por art. 2° de laResolución_N°_1.253/1998del Ministerio de Economía y Obras y Servicios Públicos B.O. 2/10/1998, se establece la tasa de interés punitorio que prevé el artículo 797 del Código Aduanero en el 4% (cuatro por ciento) mensual. Vigencia: a partir del día 1° de octubre de 1998;
-– Nota Infoleg: Por art. 3° de laResolución_N°_1.253/1998del Ministerio de Economía y Obras y Servicios Públicos B.O. 2/10/1998, se establece la tasa de intereses que prevén los artículos 811 y 838 del Código Aduanero en el 0,50% (cincuenta centésimos por ciento) mensual. Vigencia: a partir del día 1° de octubre de 1998;
-- Artículo 1025, Apartado I, inciso c),Nota Infoleg: Importe sustituido por art. 19 inc. 1) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
-- Artículo 1025, Apartado I, inciso b),Nota Infoleg: Importe sustituido por art. 19 inc. 1) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
-- Artículo 1025, Apartado I, inciso a),Nota Infoleg: Importe sustituido por art. 19 inc. 1) de laLey_N°_25.239B.O. 31/12/1999. Vigencia: a partir del 1° de enero de 2000;
-– Resolución 1.253/1998 del Ministerio de Economía y Obras y Servicios Públicos, derogada por art. 6° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Nota Infoleg: Por art. 1° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002, se establece la tasa de intereses resarcitorios que prevén los artículos 794, 845 y 924 del Código Aduanero en 4% (cuatro por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Nota Infoleg: Por art. 1° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002, se establece la tasa de intereses punitorio que prevé el artículo 797 del Código Aduanero en 6% (seis por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Nota Infoleg: Por art. 1° de laResolución_N°_110/2002del Ministerio de Economía B.O. 26/6/2002, se establece la tasa de intereses que prevén los artículos 811 y 838 del Código Aduanero en 0,84% (cero con ochenta y cuatro por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Artículo 94, sustituido por art. 2° delDecreto_N°_2.690/2002B.O. 31/12/2002;
-– Artículo 96, sustituido por art. 2° delDecreto_N°_2.690/2002B.O. 31/12/2002;
-– Artículo 97, sustituido por art. 4° delDecreto_N°_2.690/2002B.O. 31/12/2002;
-– Artículo 98, sustituido por art. 5° delDecreto_N°_2.690/2002B.O. 31/12/2002;
-– Resolución 110/2002 del Ministerio de Economía, derogada por art. 6° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Nota Infoleg: Por art. 1° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003, se establece la tasa de intereses resarcitorios que prevén los artículos 794, 845 y 924 del Código Aduanero en 3% (tres por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Nota Infoleg: Por art. 1° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003, se establece la tasa de intereses punitorio que prevé el artículo 797 del Código Aduanero en 4% (cuatro por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Nota Infoleg: Por art. 1° de laResolución_N°_36/2003del Ministerio de Economía B.O. 23/1/2003, se establece la tasa de intereses que prevén los artículos 811 y 838 del Código Aduanero en 0,50% (cincuenta centésimos por ciento) mensual. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-– Resolución 36/2003 del Ministerio de Economía, derogada por art. 6° de laResolución_N°_314/2004del Ministerio de Economía B.O. 4/5/2004. Vigencia: a partir del primer día del mes siguiente al de su publicación;
-- Artículo 516 sustituido por art. 47 del Decreto_N°_27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA.
+– Nota Infoleg:Por art. 1° de laLey_N°_23.261B.O. 16/10/1985, se deroga el art. 867 del Código Aduanero. Pero el art. 1° del Decreto N° 1.984/1985 B.O. 16/10/1985 veta el artículo 1° de la Ley 23.261;
+– Nota Infoleg: Por art. 1° de laLey_N°_23.046B.O. 27/2/1984, se dispone que las mercaderías que se importen bajo el régimen de destinación definitiva de importación para consumo y las que se importen temporariamente bajo el régimen de destinación suspensiva de importación temporaria, previstos ambos en el Código Aduanero, estén o no gravadas con derechos, abonarán, en concepto de servicio de estadística, una tasa del uno con cincuenta centésimos por ciento (1,50 %), siendo de aplicación las disposiciones de los arts. 762 a 766 de dicho Código.
+
 

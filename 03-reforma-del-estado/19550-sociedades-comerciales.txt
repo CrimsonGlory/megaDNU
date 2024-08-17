@@ -296,9 +296,9 @@ ARTICULO 29. — Sin perjuicio de la transformación de la sociedad en una de ti
 
 Sociedad socia.
 
-ARTICULO 30. — Las sociedades anónimas y en comandita por acciones solo pueden formar parte de sociedades por acciones y de responsabilidad limitada. Podrán ser parte de cualquier contrato asociativo.
+ARTICULO 30. — Las sociedades anónimas y en comandita por acciones solo pueden formar parte de sociedades por acciones y de responsabilidad limitada. Las asociaciones y entidades sin fines de lucro sólo pueden formar parte de sociedades anónimas. Podrán ser parte de cualquier contrato asociativo.
 
-(Artículo sustituido por punto 2.17 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+(Artículo sustituido por art. 346 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Participaciones en otra sociedad: Limitaciones.
 
@@ -316,7 +316,7 @@ ARTICULO 32. — Es nula la constitución de sociedades o el aumento de su capit
 
 Tampoco puede una sociedad controlada participar en la controlante ni en sociedad controlada por esta por un monto superior, según balance, ni de sus reservas, excluida la legal.
 
-Las partes de interés, cuotas o acciones que excedan los límites fijados deberán ser enajenadas dentro de los seis (6) meses siguientes a la fecha de aprobación del balance del que resulte lanfracción. El incumplimiento será sancionado conforme al artículo 31.
+Las partes de interés, cuotas o acciones que excedan los límites fijados deberán ser enajenadas dentro de los seis (6) meses siguientes a la fecha de aprobación del balance del que resulte la infracción. El incumplimiento será sancionado conforme al artículo 31.
 
 Sociedades controladas.
 
@@ -452,7 +452,7 @@ En caso de insolvencia o quiebra de la sociedad, los acreedores pueden impugnarl
 
 Impugnación de la valuación.
 
-ARTICULO 52. — El socio afectado por la valuación puede impugnarla fundadamente en instancia única deno del quinto día hábil de notificado y el juez de la inscripción la resolverá con audiencia de los peritos intervinientes.
+ARTICULO 52. — El socio afectado por la valuación puede impugnarla fundadamente en instancia única dentro del quinto día hábil de notificado y el juez de la inscripción la resolverá con audiencia de los peritos intervinientes.
 
 Sociedades por acciones.
 
@@ -550,7 +550,7 @@ Principio general.
 
 Cuando los montos involucrados sean de significancia relativa, a los efectos de una apropiada interpretación, serán incluidos en rubros de conceptos diversos. Con el mismo criterio de existiesen partidas no enunciadas específicamente, pero de significación relativa, deberán mostrarse por separado.
 
-La Comisión Nacional de Valores, otras autoridades de contralor y las bolsas, podrán exigir a s sociedades incluidas en el artículo 299, la presentación de un estado de origen y aplicación de fondos por el ejercicio terminado, y otros documentos de análisis de los estados contables. Entiéndese por fondos el activo corriente, menos el pasivo corriente.
+La Comisión Nacional de Valores, otras autoridades de contralor y las bolsas, podrán exigir a las sociedades incluidas en el artículo 299, la presentación de un estado de origen y aplicación de fondos por el ejercicio terminado, y otros documentos de análisis de los estados contables. Entiéndese por fondos el activo corriente, menos el pasivo corriente.
 
 Ajuste.
 
@@ -612,7 +612,7 @@ b) Los derechos y obligaciones deberán mostrarse indicándose si son documentad
 
 c) El activo y el pasivo en moneda extranjera, deberán mostrarse por separado en los rubros que correspondan;
 
-d) Npodrán compensarse las distintas partidas entre sí.
+d) No podrán compensarse las distintas partidas entre sí.
 
 Estado de resultados.
 
@@ -676,7 +676,7 @@ h) Restricciones contractuales para la distribución de ganancias;
 
 i) Monto de avales y garantías a favor de terceros, documentos descontados y otras contingencias, acompañadas de una breve explicación cuando ello sea necesario;
 
-j) Contratos celebrados con s directores que requieren aprobación, conforme al artículo 271, y sus montos;
+j) Contratos celebrados con los directores que requieren aprobación, conforme al artículo 271, y sus montos;
 
 k) El monto no integrado del capital social, distinguiendo en su caso, los correspondientes a las acciones ordinarias y de otras clases y los supuestos del artículo 220;
 
@@ -714,7 +714,7 @@ ARTICULO 66. — Los administradores deberán informar en la memoria sobre el es
 
 6) Las relaciones con las sociedades controlantes, controladas o vinculadas y las variaciones operadas en las respectivas participaciones y en los créditos y deudas;
 
-7) Los rubros y montos no mostrados en el estado de resultados —artículo 64, I, b—, por formar parte los smos parcial o totalmente, de los costos de bienes del activo.
+7) Los rubros y montos no mostrados en el estado de resultados —artículo 64, I, b—, por formar parte los mismos parcial o totalmente, de los costos de bienes del activo.
 
 Copias: Depósito.
 
@@ -778,7 +778,7 @@ Requisitos.
 
 ARTICULO 77. — La transformación exige el cumplimiento de los siguientes requisitos:
 
-1) Acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios;
+1) Cuando se tratare de sociedades comerciales, acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios. Cuando se tratare de asociación civil que se transformare en sociedad comercial o resolviera ser socia de sociedades anónimas, voto de los dos tercios de los asociados; (Inciso sustituido por art. 347 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 2) Confección de un balance especial, cerrado a una fecha que no exceda de un (1) mes a la del acuerdo de transformación y puesto a disposición de los socios en la sede social con no menos de quince (15) días de anticipación a dicho acuerdo. Se requieren las mismas mayorías establecidas para la aprobación de los balances de ejercicio;
 
@@ -818,7 +818,7 @@ ARTICULO 80. — El acuerdo social de transformación puede ser dejado sin efect
 
 Si medió publicación, debe procederse conforme a lo establecido en el segundo párrafo del artículo 81.
 
-Se requiere acuerdo unánime de los soos, salvo pacto en contrario y lo dispuesto para algunos tipos societarios.
+Se requiere acuerdo unánime de los socios, salvo pacto en contrario y lo dispuesto para algunos tipos societarios.
 
 Caducidad del acuerdo de transformación.
 
@@ -926,7 +926,7 @@ ARTICULO 85. — En cuanto a receso y preferencias se aplica lo dispuesto por lo
 
 Revocación.
 
-ARTICULO 86. — El compromiso previo de fusión puede ser dejado sin efecto por cualquiera de las partes, si no se han obtenido todas las resoluciones sociales aprobatorias en el término de tres (3) meses. A su vez las resoluciones sociales aprobatorias pueden ser revocadas, mientras no se haya otorgado el acuerdo definitivo, con recaudos iguales a los establecidos para su celebción y siempre que no causen perjuicios a las sociedades, los socios y los terceros.
+ARTICULO 86. — El compromiso previo de fusión puede ser dejado sin efecto por cualquiera de las partes, si no se han obtenido todas las resoluciones sociales aprobatorias en el término de tres (3) meses. A su vez las resoluciones sociales aprobatorias pueden ser revocadas, mientras no se haya otorgado el acuerdo definitivo, con recaudos iguales a los establecidos para su celebración y siempre que no causen perjuicios a las sociedades, los socios y los terceros.
 
 Rescisión: justos motivos.
 
@@ -990,7 +990,7 @@ ARTICULO 91. — Cualquier socio en las sociedades mencionadas en el artículo a
 
 Justa causa.
 
-Habrá justa causa cuando el socio incurra en grave incumplimiento de sus obligaciones. También existirá en los supuestos de incapacida inhabilitación, declaración en quiebra o concurso civil, salvo en las sociedades de responsabilidad limitada.
+Habrá justa causa cuando el socio incurra en grave incumplimiento de sus obligaciones. También existirá en los supuestos de incapacidad, inhabilitación, declaración en quiebra o concurso civil, salvo en las sociedades de responsabilidad limitada.
 
 Extinción del derecho.
 
@@ -1114,7 +1114,7 @@ El nombramiento del liquidador debe inscribirse en el Registro Público de Comer
 
 Remoción.
 
-Los liquidadores pueden ser removidos por las mismas mayorías requeridas para designarlos. Cualquier socio, o el síico en su caso, puede demandar la remoción judicial por justa causa.
+Los liquidadores pueden ser removidos por las mismas mayorías requeridas para designarlos. Cualquier socio, o el síndico en su caso, puede demandar la remoción judicial por justa causa.
 
 Obligaciones, inventario y balance.
 
@@ -1174,7 +1174,7 @@ En las sociedades de responsabilidad limitada cuyo capital alcance el importe fi
 
 Distribución: ejecución.
 
-ARTICULO 111. — Elalance final y el proyecto de distribución aprobados se agregarán al legajo de la sociedad en el Registro Público de Comercio, y se procederá a la ejecución.
+ARTICULO 111. — El balance final y el proyecto de distribución aprobados se agregarán al legajo de la sociedad en el Registro Público de Comercio, y se procederá a la ejecución.
 
 Destino a falta de reclamación.
 
@@ -1254,7 +1254,7 @@ ARTICULO 120. — Es obligado para dicha sociedad llevar en la República contab
 
 Representantes: Responsabilidades.
 
-ARTICULO 121. — El representante de sociedad constituida en el extranjero contrae las mismas responsabilidades que para los administrad© esta ley y, en los supuestos de sociedades de tipos no reglamentados, las de los directores de sociedades anónimas.
+ARTICULO 121. — El representante de sociedad constituida en el extranjero contrae las mismas responsabilidades que para los administradores prevé esta ley y, en los supuestos de sociedades de tipos no reglamentados, las de los directores de sociedades anónimas.
 
 Emplazamiento en juicio.
 
@@ -1326,7 +1326,7 @@ Modificación del contrato.
 
 ARTICULO 131. — Toda modificación del contrato, incluso la transferencia de la parte a otro socio, requiere el consentimiento de todos los socios, salvo pacto en contrario.
 
-Resoliones.
+Resoluciones.
 
 Las demás resoluciones sociales se adoptarán por mayoría.
 
@@ -1408,7 +1408,7 @@ ARTICULO 142. — La denominación social se integra con las palabras "sociedad 
 
 Si actúa bajo una razón social no podrá figurar en ella el nombre del socio industrial.
 
-La violación de este artículo hará responsable solidariamente al firmante cobligaciones así contraídas.
+La violación de este artículo hará responsable solidariamente al firmante con la sociedad por las obligaciones así contraídas.
 
 Administración y representación.
 
@@ -1528,7 +1528,7 @@ Incorporación de los herederos.
 
 ARTICULO 155. — Si el contrato previera la incorporación de los herederos del socio, el pacto será obligatorio para éstos y para los socios. Su incorporación se hará efectiva cuando acrediten su calidad; en el ínterin actuará en su representación el administrador de la sucesión.
 
-Las limitaciones a la transmisibilidad de las cuotas serán, en estos casos inoponibles a las cesiones que los herederos realicen dentro de los tres (3) meses de su incorporación. Pero la sociedad o los socios podrán ejercer opción de compra por el mismo precio, dentro de los quince (15) días deomunicado a la gerencia el propósito de ceder la que deberá ponerla en conocimiento de los socios en forma inmediata y por medio fehaciente.
+Las limitaciones a la transmisibilidad de las cuotas serán, en estos casos inoponibles a las cesiones que los herederos realicen dentro de los tres (3) meses de su incorporación. Pero la sociedad o los socios podrán ejercer opción de compra por el mismo precio, dentro de los quince (15) días de haberse comunicado a la gerencia el propósito de ceder la que deberá ponerla en conocimiento de los socios en forma inmediata y por medio fehaciente.
 
 Copropiedad.
 
@@ -1712,7 +1712,7 @@ Contrato de suscripción.
 
 ARTICULO 172. — El contrato de suscripción debe ser preparado en doble ejemplar por el banco y debe contener transcripto el programa que el suscriptor declarará conocer y aceptar, suscribiéndolo y además:
 
-1º) El nombre, edad, estado civil, nacionalidad, profeón, domicilio del suscriptor y número de documento de identidad;
+1º) El nombre, edad, estado civil, nacionalidad, profesión, domicilio del suscriptor y número de documento de identidad;
 
 2º) El número de las acciones suscriptas;
 
@@ -1776,7 +1776,7 @@ ARTICULO 179. — La asamblea resolverá si se constituye la sociedad y, en caso
 
 5º) Determinación del plazo de integración del saldo de los aportes en dinero;
 
-6º) Cualquier otro asunto que el banco considerare de interés incluil orden del día;
+6º) Cualquier otro asunto que el banco considerare de interés incluir en el orden del día;
 
 7º) Designación de dos suscriptores o representantes a fin de que aprueben y firmen, juntamente con el Presidente y los delegados del banco, el acta de asamblea que se labrará por el organismo de contralor.
 
@@ -1830,7 +1830,7 @@ Su retribución podrá consistir en la participación hasta el diez por ciento (
 
 Suscripción total. Capital mínimo.
 
-ARTICULO 186. — El capital debe suscribirse totalmente al tiempo de la celebración del contrato constitutivo. No podrá ser inferior a PESOS CIEN MIL ($ 100.000). Este monto podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario. (Monto del Capital Social sustituido por art. 1° del Decreto N° 1331/2012 B.O. 7/8/2012. Vigencia: a los SESENTA (60) días de su publicación en el Boletín Oficial)
+ARTICULO 186. — El capital debe suscribirse totalmente al tiempo de la celebración del contrato constitutivo. No podrá ser inferior a PESOS TREINTA MILLONES ($30.000.000). Este monto podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario. (Monto del Capital Social sustituido por art. 1° del Decreto N° 209/2024 B.O. 1/3/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 Terminología.
 
@@ -1874,7 +1874,7 @@ ARTICULO 190. — Las nuevas acciones solo pueden emitirse cuando las anteriores
 
 Aumento de capital. Suscripción insuficiente.
 
-ARTICULO 191. — Aun cuando el aumpital no sea suscripto en su totalidad en el término previsto en las condiciones de emisión, los suscriptores y la sociedad no se liberarán de las obligaciones asumidas, salvo disposición en contrario de las condiciones de emisión.
+ARTICULO 191. — Aun cuando el aumento del capital no sea suscripto en su totalidad en el término previsto en las condiciones de emisión, los suscriptores y la sociedad no se liberarán de las obligaciones asumidas, salvo disposición en contrario de las condiciones de emisión.
 
 Mora: ejercicio de los derechos.
 
@@ -1916,7 +1916,7 @@ ARTICULO 195. — El accionista a quien la sociedad prive del derecho de suscrip
 
 Resarcimiento.
 
-Si por tratarse de acciones entregadas no pueden procederse a la cancelación prevista, el accionista perjudicado tendrá derecho a que la sociedad y los directores solidariamente le indemnicen los daños causados. La indemnización en ningún caso será inferior al triple del valor as acciones que hubiera podido suscribir conforme al artículo 194, computándose el monto de la misma en moneda constante desde la emisión.
+Si por tratarse de acciones entregadas no pueden procederse a la cancelación prevista, el accionista perjudicado tendrá derecho a que la sociedad y los directores solidariamente le indemnicen los daños causados. La indemnización en ningún caso será inferior al triple del valor nominal de las acciones que hubiera podido suscribir conforme al artículo 194, computándose el monto de la misma en moneda constante desde la emisión.
 
 Plazo para ejercerla.
 
@@ -1976,7 +1976,7 @@ Esta disposición no regirá cuando se opere por amortización de acciones integ
 
 Reducción por pérdidas: requisito.
 
-ARTICULO 205. — La asamblea extraordinaria puede resolver la reducción del capital en razón de pérdidas sufridas por la sociedad para restablecer el equilibrio entre el patrimonio social.
+ARTICULO 205. — La asamblea extraordinaria puede resolver la reducción del capital en razón de pérdidas sufridas por la sociedad para restablecer el equilibrio entre el capital y el patrimonio social.
 
 Reducción obligatoria.
 
@@ -2100,7 +2100,7 @@ No pueden emitirse acciones de voto privilegiado después que la sociedad haya s
 
 Acciones preferidas: derecho de voto.
 
-ARTICULO 217. — Las acciones con preferencia patrimonial pueden carecer de voto, excepto para las materias incluidas en el cuarto párrafo del a­culo 244, sin perjuicio de su derecho de asistir a las asambleas con voz.
+ARTICULO 217. — Las acciones con preferencia patrimonial pueden carecer de voto, excepto para las materias incluidas en el cuarto párrafo del artículo 244, sin perjuicio de su derecho de asistir a las asambleas con voz.
 
 Tendrán derecho de voto durante el tiempo en que se encuentren en mora en recibir los beneficios que constituyen su preferencia.
 
@@ -2162,7 +2162,7 @@ ARTICULO 223. — El estatuto puede autorizar la amortización total o parcial d
 
 2º) Cuando se realice por sorteo, se practicará ante la autoridad de contralor o escribano de registro, se publicará su resultado y se inscribirá en los registros;
 
-3º) Si las acciones son amortizadas en parte, se asentará en los títulos o en las cuentas de acciones escriturales. Si la amor³n es total se anularán, reemplazándose por bonos de goce o inscripciones en cuenta con el mismo efecto.
+3º) Si las acciones son amortizadas en parte, se asentará en los títulos o en las cuentas de acciones escriturales. Si la amortización es total se anularán, reemplazándose por bonos de goce o inscripciones en cuenta con el mismo efecto.
 
 Distribución de dividendos. Pago de interés.
 
@@ -2242,7 +2242,7 @@ Para considerar los puntos 1) y 2) será convocada dentro de los cuatro (4) mese
 
 Asamblea extraordinaria.
 
-ARTICULO 2esponden a la asamblea extraordinaria todos los asuntos que no sean de competencia de la asamblea ordinaria, la modificación del estatuto y en especial:
+ARTICULO 235. — Corresponden a la asamblea extraordinaria todos los asuntos que no sean de competencia de la asamblea ordinaria, la modificación del estatuto y en especial:
 
 1º) Aumento de capital, salvo el supuesto del artículo 188. Sólo podrá delegar en el directorio la época de la emisión, forma y condiciones de pago;
 
@@ -2290,7 +2290,7 @@ Los titulares de acciones nominativas o escriturales cuyo registro sea llevado p
 
 Libro de asistencia.
 
-Los accionistas o sus representantes que concurraa la asamblea firmarán el libro de asistencia en el que se dejará constancia de sus domicilios, documentos de identidad y número de votos que les corresponda.
+Los accionistas o sus representantes que concurran a la asamblea firmarán el libro de asistencia en el que se dejará constancia de sus domicilios, documentos de identidad y número de votos que les corresponda.
 
 Certificados.
 
@@ -2348,7 +2348,7 @@ Las resoluciones en ambos casos serán tomadas por mayoría absoluta de los voto
 
 Supuestos especiales.
 
-Cuando se tratare de la transformación, prórroga o conducción, excepto en las sociedades que hacen oferta pública o cotización de sus acciones; de la disolución anticipada de la sociedad; de la transferencia del domicilio al extranjero, del cambio fundamental del objeto y de la reintegración total o parcial del capital, tanto en la primera cuanto en segunda convocatoria, las resoluciones se adoptarán por el voto favorable de la mayoría de acciones con derecho a voto, sin aplicarse la pluralidad de voto. Esta disposición se aplicará para decidir la fusión y la escisión, salvo respecto de la sociedad incorporante que se regirá por las normas sobre aumento de capital.
+Cuando se tratare de la transformación, prórroga o reconducción, excepto en las sociedades que hacen oferta pública o cotización de sus acciones; de la disolución anticipada de la sociedad; de la transferencia del domicilio al extranjero, del cambio fundamental del objeto y de la reintegración total o parcial del capital, tanto en la primera cuanto en segunda convocatoria, las resoluciones se adoptarán por el voto favorable de la mayoría de acciones con derecho a voto, sin aplicarse la pluralidad de voto. Esta disposición se aplicará para decidir la fusión y la escisión, salvo respecto de la sociedad incorporante que se regirá por las normas sobre aumento de capital.
 
 Derecho de receso.
 
@@ -2374,7 +2374,7 @@ El valor de la deuda se ajustará a la fecha del efectivo de pago.
 
 Nulidad.
 
-Es nula toda disposición que excluya el deree receso o agrave las condiciones de su ejercicio.
+Es nula toda disposición que excluya el derecho de receso o agrave las condiciones de su ejercicio.
 
 Orden del día: Efectos.
 
@@ -2496,7 +2496,7 @@ El monto máximo de las retribuciones que por todo concepto puedan percibir los 
 
 Dicho monto máximo se limitará al cinco por ciento (5%) cuando no se distribuyan dividendos a los accionistas, y se incrementará proporcionalmente a la distribución, hasta alcanzar aquel límite cuando se reparta el total de las ganancias. A los fines de la aplicación de esta disposición, no se tendrá en cuenta la reducción en la distribución de dividendos, resultante de deducir las retribuciones del Directorio y del Consejo de Vigilancia.
 
-Cuando el ejercicio de comisiones especiales o de funciones técnico administrativas por parte de uno o más directote a lo reducido o a la inexistencia de ganancias impongan la necesidad de exceder los límites prefijados, sólo podrán hacerse efectivas tales remuneraciones en exceso si fuesen expresamente acordadas por la asamblea de accionistas, a cuyo efecto deberá incluirse el asunto como uno de los puntos del orden del día.
+Cuando el ejercicio de comisiones especiales o de funciones técnico administrativas por parte de uno o más directores, frente a lo reducido o a la inexistencia de ganancias impongan la necesidad de exceder los límites prefijados, sólo podrán hacerse efectivas tales remuneraciones en exceso si fuesen expresamente acordadas por la asamblea de accionistas, a cuyo efecto deberá incluirse el asunto como uno de los puntos del orden del día.
 
 Elección por categoría.
 
@@ -2582,7 +2582,7 @@ ARTICULO 270. — El directorio puede designar gerentes generales o especiales, 
 
 Prohibición de contratar con la sociedad.
 
-ARTICULO 271. — El director puede celebrar con la sociedad los contratos que sean de la actividad en que éste opere y siempre que se concierten en las condicionado.
+ARTICULO 271. — El director puede celebrar con la sociedad los contratos que sean de la actividad en que éste opere y siempre que se concierten en las condiciones del mercado.
 
 Los contratos que no reúnan los requisitos del párrafo anterior sólo podrán celebrarse previa aprobación del directorio o conformidad de la sindicatura si no existiese quórum. De estas operaciones deberá darse cuenta a la asamblea.
 
@@ -2628,7 +2628,7 @@ ARTICULO 278. — En caso de quiebra de la sociedad, la acción de responsabilid
 
 Acción individual de responsabilidad.
 
-ARTICULos accionistas y los terceros conservan siempre sus acciones individuales contra los directores.
+ARTICULO 279. — Los accionistas y los terceros conservan siempre sus acciones individuales contra los directores.
 
 7º. Del Consejo de Vigilancia
 
@@ -2678,7 +2678,7 @@ Cada acción dará en todos los casos derechos a un sólo voto para la elección
 
 Prescindencia
 
-Las sociedades que no estén comprendidas en ninguno de los supuestos a que se refiere el artículo 299 y aquellas que hagan oferta pública de obligaciones negociables garantizadas, conforme el Régimen establecido por la Comisión Nacional de Valores, podrán prescindir de la sindicatura cuando así esté previsto enlos socios poseen el derecho de contralor que confiere el artículo 55. Cuando por aumento de capital resultare excedido el monto indicado la asamblea que así lo resolviere debe designar síndico, sin que sea necesaria reforma de estatuto.
+Las sociedades que no estén comprendidas en ninguno de los supuestos a que se refiere el artículo 299 y aquellas que hagan oferta pública de obligaciones negociables garantizadas, conforme el Régimen establecido por la Comisión Nacional de Valores, podrán prescindir de la sindicatura cuando así esté previsto en el estatuto. En tal caso los socios poseen el derecho de contralor que confiere el artículo 55. Cuando por aumento de capital resultare excedido el monto indicado la asamblea que así lo resolviere debe designar síndico, sin que sea necesaria reforma de estatuto.
 
 (Artículo sustituido por art. 26 de la Ley N° 27.440 B.O. 11/5/2018)
 
@@ -2792,15 +2792,15 @@ ARTICULO 299. — Las sociedades anónimas, además del control de constitución
 
 1º) Hagan oferta pública de sus acciones o debentures;
 
-2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 529/2018 del Ministerio de Justicia y Derechos Humanos, B.O. 13/07/2018, se fija en PESOS CINCUENTA MILLONES ($ 50.000.000.-) el monto a que se refiere este inciso)
+2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 10/2024 del Ministerio de Justicia, B.O. 8/2/2024, se fija en PESOS DOS MIL MILLONES ($ 2.000.000.000) el monto del capital social a partir del cual las sociedades anónimas quedan sujetas a fiscalización estatal permanente, conforme la previsión del presente inciso.)
 
-3º) Sean de economía mixta o se encuentren comprendidas en la Sección VI;
+3º) Sean de participación estatal, ya sea por la participación del Estado nacional, los estados provinciales, la Ciudad Autónoma de Buenos Aires, los municipios y/o los organismos estatales legalmente autorizados al efecto. (Inciso sustituido por art. 49 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 4º) Realicen operaciones de capitalización, ahorro o en cualquier forma requieran dinero o valores al público con promesas de prestaciones o beneficios futuros;
 
 5º) Exploten concesiones o servicios públicos;
 
-6º) Se trate de sociedad controlante de o controlada por otrsujeta a fiscalización, conforme a uno de los incisos anteriores.
+6º) Se trate de sociedad controlante de o controlada por otra sujeta a fiscalización, conforme a uno de los incisos anteriores.
 
 7°) Se trate de Sociedades Anónimas Unipersonales. (Inciso incorporado por punto 2.26 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
 
@@ -2826,7 +2826,7 @@ ARTICULO 302. — La autoridad de control, en caso de violación de la ley, del 
 
 3º) Multas a la sociedad, sus directores y síndicos.
 
-Estas últimas no podrán ser superiores a PESOS CIEN MIL ($ 100.000.-) en conjunto y por infracción y se graduarán según la gravedad de la infracción y el capital de la sociedad. Cuando se apliquen a directores y síndicos, la sociedad no podrá hacerse cargo de ellas. (Monto máximo de la multa sustituido por art. 1º de la Resolución Nº 177/2015 del Ministerio de Justicia y Derechos Humanos B.O. 13/02/2015)
+Estas últimas no podrán ser superiores a PESOS OCHO MILLONES ($ 8.000.000.-) en conjunto y por infracción y se graduarán según la gravedad de la infracción y el capital de la sociedad. Cuando se apliquen a directores y síndicos, la sociedad no podrá hacerse cargo de ellas. (Monto máximo de la multa sustituido por art. 1° de la Resolución N° 166/2024 del Ministerio de Justicia B.O. 23/5/2024. Vigencia: a partir del día de su publicación en el Boletín Oficial.)
 
 Se faculta al Poder Ejecutivo para que, por intermedio del Ministerio de Justicia, actualice semestralmente los montos de las multas, sobre la base de la variación registrada en el índice de precios al por mayor, nivel general, elaborado por el Instituto Nacional de Estadística y Censos.
 
@@ -2850,7 +2850,7 @@ Responsabilidad de directores y síndicos por ocultación.
 
 ARTICULO 305. — Los directores y síndicos serán ilimitada y solidariamente responsables en el caso de que tuvieren conocimiento de alguna de las circunstancias previstas en el artículo 299 y no lo comunicaren a la autoridad de contralor.
 
-En el caso en que hubieren eludtentado eludir la fiscalización de la autoridad de contralor los responsables serán pasibles de las sanciones que determina el inciso 3 del artículo 302.
+En el caso en que hubieren eludido o intentado eludir la fiscalización de la autoridad de contralor los responsables serán pasibles de las sanciones que determina el inciso 3 del artículo 302.
 
 Recursos.
 
@@ -2920,7 +2920,7 @@ Si actúa bajo una razón social, se aplica el artículo 126.
 
 De la administración.
 
-ARTICULO 318. — La administración podrá ser unipersonal, y será ejercida por socio comanditado o tercero, quienes durarán en sus cmpo que fije el estatuto sin las limitaciones del artículo 257.
+ARTICULO 318. — La administración podrá ser unipersonal, y será ejercida por socio comanditado o tercero, quienes durarán en sus cargos el tiempo que fije el estatuto sin las limitaciones del artículo 257.
 
 Remoción del socio administrador.
 
@@ -2990,7 +2990,7 @@ ARTICULO 328. — La garantía flotante es exigible si la sociedad:
 
 1º No paga los intereses o amortizaciones del préstamo en los plazos convenidos;
 
-2º Pierde la Cuarta (1/4) parte o más del activo existent contrato de emisión de los debentures;
+2º Pierde la Cuarta (1/4) parte o más del activo existente al día del contrato de emisión de los debentures;
 
 3º Incurre en disolución voluntaria, forzosa, o quiebra;
 
@@ -3050,7 +3050,7 @@ ARTICULO 336. — Los títulos deben contener:
 
 4º) La naturaleza de la garantía, y si son convertibles en acciones;
 
-5º) El nombre de la institución es fiduciarias;
+5º) El nombre de la institución o instituciones fiduciarias;
 
 6º) La fecha del acta de emisión y de su inscripción en el Registro Público de Comercio;
 
@@ -3180,7 +3180,7 @@ Será el síndico y el liquidador necesario y podrá actuar por medio de apodera
 
 Acción de nulidad.
 
-ARTICULO 350. — El directorio suspendidmover juicio en el término de diez (10) días de notificado, para probar la inexactitud de los fundamentos alegados por el fiduciario.
+ARTICULO 350. — El directorio suspendido puede promover juicio en el término de diez (10) días de notificado, para probar la inexactitud de los fundamentos alegados por el fiduciario.
 
 Promovida la acción, no podrá resolverse la liquidación hasta que no exista sentencia firme; entre tanto el fiduciario debe limitarse a los actos de conservación y administración ordinaria de los bienes de la sociedad deudora.
 
@@ -3246,7 +3246,7 @@ Emisión en el extranjero.
 
 ARTICULO 360. — Las sociedades constituidas en el extranjero que emitan debentures con garantía flotante sobre bienes situados en la República, procederán a inscribir en los registros pertinentes, antes de la emisión, el contrato o acto que obedezca la emisión de los debentures o del cual surja el monto de los debentures a emitirse, así como las garantías otorgadas. Caso contrario, éstas no surtirán efecto en la República.
 
-Toda emisión de debentures con garantía, por sociedad constituida en el extranjero, que no se limite a la de bienes determinados susceptibles de hipoteca, se considera emisión con garantía flotante. Si la garantía fuera especial, se procederá también a su inscripción en el registro donde está situa el bien afectado.
+Toda emisión de debentures con garantía, por sociedad constituida en el extranjero, que no se limite a la de bienes determinados susceptibles de hipoteca, se considera emisión con garantía flotante. Si la garantía fuera especial, se procederá también a su inscripción en el registro donde está situado el bien afectado.
 
 Las inscripciones a las se refiere este artículo se harán a solicitud de la sociedad, del fiduciario o de cualquier tenedor de debentures.
 
@@ -3304,7 +3304,7 @@ g) Las sociedades que a la fecha de la vigencia de esta ley se encontraren en la
 
 h) Las sociedades anónimas y en comandita por acciones que formen parte de las sociedades que no sean por acciones, deberán enajenar sus cuotas o partes de interés en el plazo de diez (10) años a contar desde la vigencia de la presente; caso contrario quedarán sujetas al régimen de las sociedades no constituidas regularmente;
 
-i) Las sociedades consten el extranjero que a la fecha de vigencia de esta ley ejercieren habitualmente en el país actos comprendidos en su objeto social, deberán adecuarse a lo dispuesto en los artículos 118 a 120 dentro del plazo de seis (6) meses a contar de dicha fecha;
+i) Las sociedades constituidas en el extranjero que a la fecha de vigencia de esta ley ejercieren habitualmente en el país actos comprendidos en su objeto social, deberán adecuarse a lo dispuesto en los artículos 118 a 120 dentro del plazo de seis (6) meses a contar de dicha fecha;
 
 j) Los suscriptores de capital de sociedades anónimas constituidas a la fecha de vigencia de la presente, cuyo compromiso de aporte sea en dinero efectivo, deberán integrarlo hasta alcanzar el veinticinco por ciento (25 %) de su suscripción, en el plazo de seis (6) meses contados a partir de dicha fecha;
 
@@ -3336,7 +3336,7 @@ ARTICULO 389. — Las disposiciones de esta ley se aplicarán a las sociedades d
 
 Antecedentes Normativos
 
-- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Disposición N° 6/2006 de la Subsecretaría de Asuntos Registrales, B.O. 17/5/2006, se fija en PESOS DIEZ MILLONES ($ 10.000.000.-) el monto a que se refiere este inciso;
+- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Resolución N° 529/2018 del Ministerio de Justicia y Derechos Humanos, B.O. 13/07/2018, se fija en PESOS CINCUENTA MILLONES ($ 50.000.000.-) el monto a que se refiere este inciso;
 
 - Artículo 61 sustituido por art. 5° del Decreto N° 27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
 
@@ -3347,6 +3347,14 @@ Antecedentes Normativos
 - Artículo 8° sustituido por art. 2° del Decreto N° 27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
 
 - Artículo 284 sustituido por art. 2° de la Ley N° 27.290 B.O. 18/11/2016;
+
+- Artículo 302, inciso 3°), monto máximo de la multa sustituido por art. 1º de la Resolución Nº 177/2015 del Ministerio de Justicia y Derechos Humanos B.O. 13/02/2015;
+
+- Artículo 30 sustituido por punto 2.17 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014;
+
+- Artículo 186, Monto del Capital Social sustituido por art. 1° del Decreto N° 1331/2012 B.O. 7/8/2012. Vigencia: a los SESENTA (60) días de su publicación en el Boletín Oficial;
+
+- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Disposición N° 6/2006 de la Subsecretaría de Asuntos Registrales, B.O. 17/5/2006, se fija en PESOS DIEZ MILLONES ($ 10.000.000.-) el monto a que se refiere este inciso;
 
 - Artículo 94 inciso 5), Nota Infoleg: Por art. 1º del Decreto Nº 540/2005 B.O. 1/6/2005 se prorrogó hasta el 10 de diciembre de 2005 la suspensión de este inciso dispuesta por Decreto N° 1269/2002. Prórrogas anteriores: Decreto N° 1293/2003 B.O. 23/12/2003;
 

@@ -48,7 +48,7 @@ Definiciones
 
 ARTÍCULO 6° — Definiciones generales. En lo que respecta al régimen de las Tecnologías de la Información y las Comunicaciones y de las Telecomunicaciones (TIC), se aplicarán las siguientes definiciones:
 
-a) Radiodifusión por suscripción: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico o mediante vínculo físico indistintamente. Incluye el servicio de radiodifusión ofrecido por un prestador de servicios TIC que utilice la tecnología de transmisión de contenidos audiovisuales basados en el protocolo IP (IPTV), para el acceso de los programas en vivo y/o televisión lineal.
+a) Radiodifusión por suscripción: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico o mediante vinculo físico o satelital, indistintamente. Incluye el servicio de radiodifusión ofrecido por un prestador de servicios TIC que utilice la tecnología de transmisión de contenidos audiovisuales basados en el protocolo IP (IPTV), para el acceso de los programas en vivo y/o televisión lineal. (Inciso sustituido por art. 328 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 b) Radiodifusión por suscripción mediante vínculo físico: Toda forma de radiocomunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por públicos determinables, mediante la utilización de medios físicos.
 
@@ -98,17 +98,15 @@ Para la prestación de Servicios de TIC se requerirá la previa obtención de la
 
 ARTÍCULO 9° — Principios. Las licencias se otorgarán a pedido y en la forma reglada, habilitando a la prestación de los servicios previstos en esta ley en todo el territorio de la Nación Argentina, sean fijos o móviles, alámbricos o inalámbricos, nacionales o internacionales, con o sin infraestructura propia.
 
-Los licenciatarios de los servicios previstos en esta ley podrán brindar servicios de comunicación audiovisual, con excepción de aquellos brindados a través de vínculo satelital, debiendo tramitar la lincia correspondiente ante la autoridad competente. Asimismo, los licenciatarios de servicios de comunicación audiovisual podrán brindar Servicios de TIC, debiendo tramitar la licencia correspondiente ante la Autoridad de Aplicación de la presente ley.
+Los licenciatarios de los servicios previstos en esta ley podrán brindar servicios de comunicación audiovisual, con excepción de aquellos brindados a través de vínculo satelital, debiendo tramitar la licencia correspondiente ante la autoridad competente. Asimismo, los licenciatarios de servicios de comunicación audiovisual podrán brindar Servicios de TIC, debiendo tramitar la licencia correspondiente ante la Autoridad de Aplicación de la presente ley.
 
 Quedan exceptuados los licenciatarios de servicios públicos relacionados con el ámbito de aplicación de la presente ley, de las disposiciones contenidas en los artículos 24 inciso i) y 25 inciso d) de la ley 26.522, sean éstas personas físicas o jurídicas respectivamente.
 
-ARTÍCULO 10. —Incorpórase como servicio que podrán registrar los licenciatarios de TIC, al servicio de Radiodifusión por suscripción, mediante vínculo físico y/o mediante vínculo radioeléctrico. El servicio de Radiodifusión por suscripción se regirá por los requisitos que establecen los artículos siguientes de la presente ley y los demás que establezca la reglamentación, no resultándole aplicables las disposiciones de la Ley N° 26.522. Se encuentra excluida de los servicios de TIC la televisión por suscripción satelital que se continuara rigiendo por la Ley N° 26.522.
-
-Las licencias de Radiodifusión por suscripción mediante vínculo físico y/o mediante vínculo radioeléctrico otorgadas por el ex COMITÉ FEDERAL DE RADIODIFUSIÓN y/o por la AUTORIDAD FEDERAL DE SERVICIOS DE COMUNICACIÓN AUDIOVISUAL con anterioridad a la entrada en vigencia de la modificación del presente artículo serán consideradas, a todos los efectos, Licencia Única Argentina Digital con registro de servicio de Radiodifusión por Suscripción mediante vínculo físico o mediante vínculo radioeléctrico, en los términos de los artículos 8° y 9° de esta ley, debiendo respetar los procedimientos previstos para la prestación de nuevos servicios salvo que ya los tuvieren registrados.
+ARTÍCULO 10. —Incorpórase como servicio que podrán registrar los prestadores de TIC, al servicio de Radiodifusión por suscripción mediante cualquier vínculo. El servicio de Radiodifusión por suscripción se regirá por los requisitos que establecen los artículos siguientes de la presente ley y los demás que establezca la reglamentación, no resultándole aplicables las disposiciones de la Ley N° 26.522.
 
 El plazo de otorgamiento del uso de las frecuencias del espectro radioeléctrico de los titulares de licencias de Radiodifusión por Suscripción conferidas bajo las Leyes Nros. 22.285 y 26.522 será el de su título original, o de DIEZ (10) años contados a partir del 1° de enero de 2016, siempre el que sea mayor para aquellos que tuvieren a dicha fecha una licencia vigente.
 
-(Artículo sustituido por art. 7° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+(Artículo sustituido por art. 329 del Decreto N° 70/2023 B.O. 21/12/2023.
 
 ARTÍCULO 11. — Condiciones de prestación. El otorgamiento de la licencia para la prestación de los servicios previstos en esta ley es independiente de la tecnología o medios utilizados para ofrecerlos y de la existencia y asignación de los medios requeridos para la prestación del servicio.
 
@@ -136,7 +134,7 @@ a) La falta de prestación del o de los servicios registrados conforme la normat
 
 b) La falta de inicio de la prestación del o de los servicios registrados dentro del plazo que establezca la normativa vigente y de conformidad con la normativa que al efecto dicte la Autoridad de Aplicación.
 
-c) La falta reiterada de pago de tasas, derechos, cánones y el aporte al Servicio Universal, de conformidad con la reglamentación que al efecto dicte la Autoridad de Aplicación.
+c) La falta reiterada de pago de tasas, derechos, cánones y el aporte al Servicio Universal, de conformidad con la glamentación que al efecto dicte la Autoridad de Aplicación.
 
 d) La materialización de actos sin la autorización del artículo 13 de la presente.
 
@@ -150,9 +148,7 @@ Capítulo I
 
 Principios generales
 
-ARTÍCULO 15. — Carácter de servicio público en competencia. Se establece que los Servicios de las Tecnologías de la Información y las Comunicaciones (TIC) y el acceso a las redes de telecomunicaciones para y entre licenciatarios y licenciatarias de servicios TIC son servicios públicos esenciales y estratégicos en competencia. La autoridad de aplicación garantizará su efectiva disponibilidad.
-
-(Artículo sustituido por art. 1° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+ARTÍCULO 15. — (Artículo derogado por art. 3° del Decreto N° 302/2024 B.O. 10/4/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 ARTÍCULO 16. — Homologación y certificación. Principio. Con el objeto de garantizar la integridad y calidad de las redes de telecomunicaciones y del espectro radioeléctrico, así como también la seguridad de las personas, usuarios y licenciatarios, los equipos de telecomunicaciones que sean comercializados estarán sujetos a homologación y certificación. La Autoridad de Aplicación dictará el reglamento respectivo.
 
@@ -190,7 +186,7 @@ ARTÍCULO 23. — Exención de aporte. La Autoridad de Aplicación podrá dispon
 
 ARTÍCULO 24. — Categorías del Servicio Universal. La Autoridad de Aplicación diseñará los distintos programas para el cumplimiento de las obligaciones y el acceso a los derechos previstos respecto del Servicio Universal, pudiendo establecer categorías a tal efecto.
 
-ARTÍCULO 25. — Aplicación de fondos. Los Fondos del Servicio Universal se aplicarán por medio de programas específicos. La autoridad de aplicación definirá su contenido y los mecanismos de adjudicación correspondientes. La autoridad de aplicación podrá encomendar la ejecución de estos planes directamente a las entidades incluidas en el artículo 8°, inciso b), de la ley 24.156 o, cumpliendo colos mecanismos de selección que correspondan, respetando principios de publicidad y concurrencia, a otras entidades.
+ARTÍCULO 25. — Aplicación de fondos. Los Fondos del Servicio Universal se aplicarán por medio de programas específicos. La autoridad de aplicación definirá su contenido y los mecanismos de adjudicación correspondientes. La autoridad de aplicación podrá encomendar la ejecución de estos planes directamente a las entidades incluidas en el artículo 8°, inciso b), de la ley 24.156 o, cumpliendo con los mecanismos de selección que correspondan, respetando principios de publicidad y concurrencia, a otras entidades.
 
 Asimismo, la autoridad de aplicación podrá encomendar la ejecución de estos planes a los licenciatarios de servicios de TIC que sean empresas y sociedades de los estados provinciales o municipales (sean empresas del Estado, Sociedades del Estado, Sociedades Anónimas con participación estatal mayoritaria, sociedades de economía mixta y todas aquellas otras organizaciones empresariales donde el ESTADO NACIONAL tenga participación mayoritaria en el capital o en la formación de las decisiones societarias). Dichas empresas y sociedades de los estados provinciales o municipales tendrán el mismo tratamiento jurídico tributario reconocido a la empresa ARSAT, en la medida y proporción que desarrollen el mismo objeto que ésta.
 
@@ -228,15 +224,15 @@ Capítulo II
 
 Uso satelital
 
-ARTÍCULO 33. — Administración, Gestión y Control.Corresponde al Estado Nacional, a través del MINISTERIO DE COMUNICACIONES, la administración, gestión y control de los recursos órbita-espectro correspondientes a redes satelitales, de conformidad con los tratados internacionales suscriptos y ratificados por el Estado Argentino.
+ARTÍCULO 33. — Administración, Gestión y Control. Corresponde al Estado Nacional, a través del MINISTERIO DE COMUNICACIONES, la administración, gestión y control de los recursos órbita-espectro correspondientes a redes satelitales, de conformidad con los tratados internacionales suscriptos y ratificados por el Estado Argentino.
 
 Este recurso podrá ser explotado por entidades de carácter público o privado siempre que medie autorización otorgada al efecto y de conformidad con las disposiciones aplicables en la materia.
 
 (Artículo sustituido por art. 9° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-ARTÍCULO 34. — Autorización. La prestación de facilidades satelitales requerirá la correspondiente autorización para la operación en la Argentina, conforme a la reglamentación que el MINISTERIO DE COMUNICACIONES dicte a tal efecto. Por el contrario, la prestación de cualquier Servicio de TIC por satélite estará sometida al régimen general de prestación de Servicios de TIC establecido en la presente ley.
+ARTÍCULO 34. — Registro. La provisión de facilidades de los sistemas satelitales de comunicaciones será libre. Se requerirá a los titulares de tales sistemas el correspondiente registro para su operación, al solo efecto de coordinar el uso de las frecuencias radioeléctricas y evitar interferencias sobre otros sistemas conforme a la reglamentación que dicte la Autoridad de Aplicación. La prestación de cualquier Servicio de TIC por satélite estará sometida al régimen general de prestación de Servicios de TIC establecido en la presente ley.
 
-(Artículo sustituido por art. 9° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+(Artículo sustituido por art. 330 del Decreto N° 70/2023 B.O. 21/12/2023.
 
 ARTÍCULO 35. — Prioridad de uso. Para la prestación de las facilidades satelitales se dará prioridad al uso de satélites argentinos, entendiéndose por tales a los que utilicen un recurso órbita-espectro a nombre de la Nación Argentina, a la utilización de satélites construidos en la Nación Argentina o a las empresas operadoras de satélites que fueran propiedad del Estado nacional o en las que éste tuviera participación accionaria mayoritaria.
 
@@ -250,7 +246,7 @@ Planes fundamentales
 
 ARTÍCULO 36. — Dictado de los planes. La Autoridad de Aplicación debe aprobar, gestionar y controlar los planes nacionales de numeración, señalización, portabilidad numérica y otros planes fundamentales, y tiene la facultad de elaborarlos o modificarlos.
 
-ARTÍCULO 37. — Atributos. Los atributos de los planes fundamentales tienen carácter instrumental y su otorgamiento no confiere derechos e intereses a los licenciatarios de Servicios de TIC, motivo por el cual su modificación o supresión no genera derecho a indemnización alguna.
+ARTÍCULO 37. — Atributos. Los atributos de los planes fundamentales tien carácter instrumental y su otorgamiento no confiere derechos e intereses a los licenciatarios de Servicios de TIC, motivo por el cual su modificación o supresión no genera derecho a indemnización alguna.
 
 Capítulo IV
 
@@ -293,7 +289,7 @@ c) Intervenir, de oficio o a petición de cualquiera de las partes interesadas, 
 
 d) Establecer obligaciones y condiciones específicas para aquellos licenciatarios, con poder significativo de mercado y cualquier otro que considere justificadamente necesario; dichas obligaciones se mantendrán en vigor durante el tiempo estrictamente imprescindible y podrán consistir en:
 
-i. El suministro de información contable, económica y financiera, especificaciones técnicas, características de las redes y condiciones de suministro y utilizaciónincluidas, en su caso, las condiciones que pudieran limitar el acceso o la utilización de servicios o aplicaciones, así como los precios y tarifas.
+i. El suministro de información contable, económica y financiera, especificaciones técnicas, características de las redes y condiciones de suministro y utilización, incluidas, en su caso, las condiciones que pudieran limitar el acceso o la utilización de servicios o aplicaciones, así como los precios y tarifas.
 
 ii. La elaboración, presentación y publicación de una oferta de referencia bajo las condiciones establecidas reglamentariamente.
 
@@ -313,13 +309,9 @@ Título VI
 
 Precios, tarifas y gravámenes
 
-ARTÍCULO 48. — Regla. Los licenciatarios y las licenciatarias de los servicios de las Tecnologías de la información y las comunicaciones (TIC) fijarán sus precios, los que deberán ser justos y razonables, deberán cubrir los costos de la explotación, tender a la prestación eficiente y a un margen razonable de operación.
+ARTÍCULO 48. — Regla. Los licenciatarios de Servicios de TIC fijarán sus precios, los que deberán ser justos y razonables, cubrir los costos de la explotación y tender a la prestación eficiente y a un margen razonable de operación.
 
-Los precios de los servicios públicos esenciales y estratégicos de las TIC en competencia, los de los prestados en función del Servicio Universal y los de aquellos que determine la autoridad de aplicación por razones de interés público, serán regulados por esta.
-
-La autoridad de aplicación establecerá en la reglamentación la prestación básica universal obligatoria que deberá ser brindada en condiciones de igualdad.
-
-(Artículo sustituido por art. 2° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+(Artículo sustituido por art. 1° del Decreto N° 302/2024 B.O. 10/4/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 ARTÍCULO 49. — Tasa de control, fiscalización y verificación. Establécese para los licenciatarios de Servicios de TIC una tasa en concepto de control, fiscalización y verificación, equivalente a cero coma cincuenta por ciento (0,50%) de los ingresos totales devengados por la prestación de los Servicios de TIC, netos de los impuestos y tasas que los graven.
 
@@ -327,7 +319,7 @@ La Autoridad de Aplicación establecerá el tiempo, forma y procedimiento relati
 
 ARTÍCULO 50. — Derechos y aranceles radioeléctricos. Los licenciatarios de Servicios de TIC en general y de telecomunicaciones en particular deberán abonar los derechos y aranceles radioeléctricos para cada una de las estaciones, sistemas y servicios radioeléctricos que operan en todo el territorio de la Nación, cuya unidad de medida será la denominada Unidad de Tasación Radioeléctrica (UTR). La clasificación, valor, actualización, periodicidad de pago, penalidades y exenciones serán determinados por la Autoridad de Aplicación.
 
-ARTÍCULO 51. — Aranceles administrativos. La Autoridad de Aplicación tendrá la facultad de fijar aranceles administrativos.
+ARTÍCU 51. — Aranceles administrativos. La Autoridad de Aplicación tendrá la facultad de fijar aranceles administrativos.
 
 ARTÍCULO 52. — Tasas y gravámenes específicos. Las tasas y gravámenes para establecer sistemas y estaciones de telecomunicaciones no abiertos a la correspondencia pública se determinarán de acuerdo con las características de los mismos, la importancia de sus instalaciones y la evaluación del tráfico previsible, conforme a lo previsto en la reglamentación.
 
@@ -339,9 +331,7 @@ Consideraciones generales sobre los Servicios de TIC
 
 ARTÍCULO 54. — Servicio Público Telefónico. El Servicio Básico Telefónico mantiene su condición de servicio público.
 
-Incorpórase como servicio público, al servicio de telefonía móvil en todas sus modalidades. Los precios de estos servicios serán regulados por la autoridad de aplicación.
-
-La autoridad de aplicación establecerá en la reglamentación la prestación básica universal obligatoria que deberá ser brindada en condiciones de igualdad. (Párrafos incorporados por art. 3° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+(Artículo sustituido por art. 2° del Decreto N° 302/2024 B.O. 10/4/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 ARTÍCULO 55. — Objeto y alcance. El Servicio de TIC comprende la confluencia de las redes tanto fijas como móviles que, mediante diversas funcionalidades, proporciona a los usuarios la capacidad de recibir y transmitir información de voz, audio, imágenes fijas o en movimiento y datos en general.
 
@@ -359,7 +349,7 @@ b) Fijar el precio de acceso a Internet en virtud de los contenidos, servicios, 
 
 c) Limitar arbitrariamente el derecho de un usuario a utilizar cualquier hardware o software para acceder a Internet, siempre que los mismos no dañen o perjudiquen la red.
 
-ARTÍCULO 58. — Velocidad Mínima de Transmisión (VMT). La Autoridad de Aplicación definirá, en un plazo no mayor a ciento ochenta (180) días a contar desde la entrada en vigencia de la presente ley, la Velocidad Mínima de Transmisión (VMT) que deberán posibilitar las redes de telecomunicaciones a los fines de asegurar la efectiva funcionalidad de los Servicios de TIC. Los licenciatarios de Servicios de TIC deberán proveer a sus usuarios finales, no licenciatarios de estos servicios, la velocidad fijada. La VMT deberá ser revisada con una periodicidad máxima de dos (2) años.
+ARTÍCULO 58. — Velocidad Mínima de Transmisión (VMT). La Autoridad de Aplicación definirá, en un plazo no mayor a ciento ochenta (180) días a contar desde la entrada en vigencia de la presente ley, la Velocidad Mínima de Transmisión (VMT) que deberán posibilitar las redes de telecomunicaciones a los fines de asegurar la efectiva funcionalidad de los Servicios de TIC. Los licenciatarios de Servicios de TIC deberán proveer a sus usuarioenciatarios de estos servicios, la velocidad fijada. La VMT deberá ser revisada con una periodicidad máxima de dos (2) años.
 
 Título VIII
 
@@ -381,7 +371,7 @@ d) Elegir libremente el licenciatario, los servicios y los equipos o aparatos ne
 
 e) Presentar, sin requerimientos previos innecesarios, peticiones y quejas ante el licenciatario y recibir una respuesta respetuosa, oportuna, adecuada y veraz.
 
-f) La ptección de los datos personales que ha suministrado al licenciatario, los cuales no pueden ser utilizados para fines distintos a los autorizados, de conformidad con las disposiciones vigentes.
+f) La protección de los datos personales que ha suministrado al licenciatario, los cuales no pueden ser utilizados para fines distintos a los autorizados, de conformidad con las disposiciones vigentes.
 
 g) Que el precio del servicio que recibe sea justo y razonable.
 
@@ -429,7 +419,7 @@ g) Brindar toda la información solicitada por las autoridades competentes, espe
 
 h) Disponer del equipamiento necesario para posibilitar que la Autoridad de Aplicación pueda efectuar sus funciones; encontrándose obligados a permitir el acceso de la Autoridad de Aplicación a sus instalaciones y brindar la información que le sea requerida por ella.
 
-nder los requerimientos en materia de defensa nacional y de seguridad pública formulados por las autoridades competentes.
+i) Atender los requerimientos en materia de defensa nacional y de seguridad pública formulados por las autoridades competentes.
 
 j) Respetar los derechos que les corresponden a los usuarios de acuerdo con la normativa aplicable.
 
@@ -483,7 +473,7 @@ f) Comiso de equipos y materiales utilizados para la prestación de los servicio
 
 g) Decomiso.
 
-h) Caducidad de la licencia, del registro o revocatoria de la autorización o del permiso.
+h) Caducidad de la licencia, de o revocatoria de la autorización o del permiso.
 
 ARTÍCULO 68. — Accesoria de inhabilitación. La sanción de caducidad de la licencia inhabilitará a la titular sancionada y a los integrantes de sus órganos directivos por el término de cinco (5) años para ser titulares de licencias, socios o administradores de licenciatarias.
 
@@ -537,7 +527,7 @@ ARTÍCULO 77. — (Artículo derogado por art. 32 del Decreto N° 267/2015 B.O. 
 
 ARTÍCULO 78. — (Artículo derogado por art. 32 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-ARTÍCULO 79. — Continuación. La Autoridad Federal de Tecnologías de la Información y las Comunicaciones creada por la presente ley será continuadora, a todos los fines y de conformidad con lo fijado en la presente ley, de la Secretaría de Comunicaciones y de la Comisión Nacional de Comunicaciones creada por los decretos 1142/2003 y 1185/90 y sus posteriores modificiones.
+ARTÍCULO 79. — Continuación. La Autoridad Federal de Tecnologías de la Información y las Comunicaciones creada por la presente ley será continuadora, a todos los fines y de conformidad con lo fijado en la presente ley, de la Secretaría de Comunicaciones y de la Comisión Nacional de Comunicaciones creada por los decretos 1142/2003 y 1185/90 y sus posteriores modificaciones.
 
 ARTÍCULO 80. — Funciones. La Autoridad Federal de Tecnologías de la Información y las Comunicaciones tendrá como funciones la regulación, el control, la fiscalización y verificación en materia de las TIC en general, de las telecomunicaciones en particular, del servicio postal y todas aquellas materias que se integren a su órbita conforme el texto de la presente ley, la normativa aplicable y las políticas fijadas por el Gobierno nacional.
 
@@ -555,7 +545,7 @@ e) Adoptar, en su caso, las acciones y medidas necesarias que garanticen la cont
 
 f) Planear, fijar, instrumentar y conducir las políticas y programas de cobertura universal y cobertura social de conformidad con lo establecido en esta ley.
 
-g) Promover y regular el acceso a las tecnologías de la información y comunicación y a los servicios de telecomunicaciones, incluido el de banda ancha e Internet, en condiciones de competencia efectiva.
+g) Promover y regular el acceso a las tecnologías de la información y comunicación y a los servicios de telecomunicaciones, incluido el de banda ancha e Internet,ncia efectiva.
 
 h) Expedir disposiciones administrativas de carácter general, planes técnicos fundamentales, lineamientos, modelos de costos, procedimientos de evaluación de la conformidad, procedimientos de homologación y certificación y ordenamientos técnicos en materia de telecomunicaciones y servicios de comunicación audiovisual; así como demás disposiciones para el cumplimiento de lo dispuesto en esta ley.
 
@@ -565,7 +555,7 @@ j) Elaborar, publicar y mantener actualizado el Cuadro Nacional de Atribución d
 
 k) Emitir disposiciones, lineamientos o resoluciones en materia de interoperabilidad e interconexión de las redes públicas de telecomunicaciones, a efecto de asegurar la libre competencia y concurrencia en el mercado.
 
-l) Resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicacionorme a lo previsto en la presente ley.
+l) Resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones conforme a lo previsto en la presente ley.
 
 ll) Emitir lineamientos de carácter general para el acceso y, en su caso, uso compartido de la infraestructura activa y pasiva, en los casos que establece esta ley.
 
@@ -607,7 +597,7 @@ ARTÍCULO 85. — (Artículo derogado por art. 32 del Decreto N° 267/2015 B.O. 
 
 ARTÍCULO 86. — (Artículo derogado por art. 32 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-ARTÍCULO 87. — Transferencias. Transfiérense bajo la órbita de competencias de la Autoridad de Aplicación de la presente ley los siguientes organismos, empresas, programas y proyectos:
+ARTÍCULO 87. — Transferencias. Transfiérense bajo la órbita de competencias de la Autoridad de Aplicación de la presente ley los siguientes organismos, empresas, progrctos:
 
 • Secretaría de Comunicaciones (SECOM).
 
@@ -629,7 +619,7 @@ Capítulo III
 
 Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización
 
-Artículo 18.- Comisión Bicameral. Créase en el ámbito del Congreso de la Nación, la Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización, que tendrá el carácter de Cmanente.
+Artículo 18.- Comisión Bicameral. Créase en el ámbito del Congreso de la Nación, la Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización, que tendrá el carácter de Comisión Permanente.
 
 La Comisión Bicameral se integrará por ocho (8) senadores y ocho (8) diputados nacionales, según resolución de cada Cámara. Dictará su propio reglamento.
 
@@ -661,13 +651,13 @@ ARTÍCULO 90. — Alcance. Decreto 62/90. La definición del artículo 6° incis
 
 ARTÍCULO 91. — Integración del FFSU. Establécese que en virtud de lo dispuesto por las Cláusulas 11.1 y 11.2 del Contrato de Fideicomiso de Administración del Fondo Fiduciario del Servicio Universal decreto 558/08, los recursos del mismo previstos en el artículo 8° del Anexo III del decreto 764/00 y sus modificatorios quedarán integrados al Fondo del Servicio Universal creado por artículo 21 de la presente ley, en las condiciones que determine la Autoridad de Aplicación.
 
-ARTÍCULO 92. — Derogación. Derógase el decreto 764/00 y sus modificatorios, sin perjuicio de lo cual mantendrá su vigencia en todo lo que no se oponga a la presente ley durante el tiempo que demande a la Autoridad de Aplicación dictar los reglamentos concernientes al Régimen de Licencias para Servicios de TIC, al Régimen Nacional de Interconexión, al Régimen General del Servicio Universal y al Régimen sobre la Administración, Gestión y Control del Espectro Radioeléctrico.
+ARTÍCULO 92. — Derogación. Derógase el decreto 764/00 y sus modificatorios, sin perjuicio de lo cual mantendrá su vigencia en todo lo que no se presente ley durante el tiempo que demande a la Autoridad de Aplicación dictar los reglamentos concernientes al Régimen de Licencias para Servicios de TIC, al Régimen Nacional de Interconexión, al Régimen General del Servicio Universal y al Régimen sobre la Administración, Gestión y Control del Espectro Radioeléctrico.
 
 ARTÍCULO 93. — Régimen de transición. Licencias. A los actuales licenciatarios, operadores, prestadores y autorizados bajo el régimen instituido en el decreto 764/00 y sus modificatorios se les aplicará el régimen previsto en la presente.
 
 Al momento de la sanción de la presente, y sin más trámite, los títulos habilitantes actualmente denominados ‘Licencia Única de Servicios de Telecomunicaciones’ serán considerados a todos los efectos ‘Licencia Única Argentina Digital’, sin mutar en su contenido, alcance y efectos.
 
-La Autoridad de Aplicación podrá establecer regímenes y programas especiales a la regularización de situaciones de prestación cuyos responsables no cuenten con la licencia correspondiente, contemplando a tal efecto la situación particular de cada actor involucrado garantizando la continuidad de la prestación de los Servicios de TIC, sin que ello implique saneamiento de situación irregular alguna.
+La Autoridad de Aplicación podrá establecer regímenes y programas especiales tendientes a la regularización de situaciones de prestación cuyos responsables no cuenten con la licencia correspondiente, contemplando a tal efecto la situación particular de cada actor involucrado garantizando la continuidad de la prestación de los Servicios de TIC, sin que ello implique saneamiento de situación irregular alguna.
 
 ARTÍCULO 94. — Los prestadores del Servicio Básico Telefónico, cuya licencia ha sido concedida en los términos del Decreto N° 62/90 y de los puntos 1 y 2 del artículo 5º del Decreto N° 264/98, así como los del Servicio de Telefonía Móvil con licencia otorgada conforme el pliego de bases y condiciones aprobado por Resolución del entonces MINISTERIO DE ECONOMÍA Y OBRAS Y SERVICIOS PÚBLICOS Nº 575/93 y ratificado por Decreto N° 1461/93, sólo podrán prestar el servicio de Radiodifusión por suscripción, mediante vínculo físico y/o mediante vínculo radioeléctrico, transcurridos DOS (2) años contados a partir del 1° de enero de 2016. El ENACOM podrá extender dicho plazo por UN (1) año más.
 
@@ -683,11 +673,11 @@ No será aplicable lo dispuesto en el párrafo anterior a:
 
 En el caso de los incisos (i) y (ii) referidos y a los efectos de la obtención de un registro de Radiodifusión por Suscripción, la explotación del registro quedará sujeta a las condiciones que se indican a continuación y las demás que establezca la reglamentación.
 
-Si al momento de solicitar el registro existe otro prestador en la misma área de servicio, el ENACOM deberá, en cada caso concreto, realizar una evaluación integral de la solicitud que contemple el interés de la población y dar publicidad de la solicitud en el BOLETÍN OFICIAL y en la página web del ENACOM. En caso de presentarse oposición por parte de otro titular de un registro de Radiodifusión por Suscripción en la misma área de prestación, el ENACOM deberá solicitar un dictamen a la autoridad de aplicación de la Ley N° 25.156 que establezca las condiciones de prestación del solicitante. El plazo para presentar oposiciones es de TREINTA (30) días hábiles desde la fecha de publicación de la solicitud en el Boletín Oficial. Este párrafo se aplicará sólo para el caso del inciso (i) anterior.
+Si al momento de solicitar el registro existe otro prestador en la misma área de servicio, el ENACOM deberá, en cada caso concreto, realizar una evaluación integral de la solicitud que contemple el interés de la población y dar publicidad de la solicitud en el BOLETÍN OFICIAL y en la página web del ENACOM. En caso de presentarse oposición por parte de otro titular de un registro de Radiodifusión por Suscripción en la misma área de prestación, el ENACOM deberá solicitar un dictamen a la autoridad de aplicación de la Ley N° 25.156 que establezca las condiciones de prestación del solicitante. El plazo para presentar oposiciones es de TREINTA (30) días hábiles desde la fecha de publicación de la solicitud ­n Oficial. Este párrafo se aplicará sólo para el caso del inciso (i) anterior.
 
 No será aplicable lo dispuesto en el párrafo anterior a las personas de existencia ideal sin fines de lucro que exclusivamente presten servicio público de TIC.
 
-En todos los casos, las personas previstas en los apartados (i) y (ii) anteriores que obtengan el registro de servicios de Radiodifusión por suscripción en los términos y condiciones fijadas eno deberán cumplir con las siguientes obligaciones:
+En todos los casos, las personas previstas en los apartados (i) y (ii) anteriores que obtengan el registro de servicios de Radiodifusión por suscripción en los términos y condiciones fijadas en este artículo deberán cumplir con las siguientes obligaciones:
 
 a) Conformar una unidad de negocio a los efectos de la prestación del servicio de comunicación audiovisual y llevarla en forma separada de la unidad de negocio del servicio público del que se trate;
 
@@ -724,6 +714,16 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECI
 AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Lucas Chedrese. — Juan H. Estrada.
 
 Antecedentes Normativos:
+
+- Artículo 15 sustituido por art. 1° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL;
+
+- Artículo 48 sustituido por art. 2° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL;
+
+- Artículo 54, segundo párrafos incorporados por art. 3° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL;
+
+- Artículo 34 sustituido por art. 9° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
+
+- Artículo 10 sustituido por art. 7° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
 
 - Artículo 15 derogado por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
 

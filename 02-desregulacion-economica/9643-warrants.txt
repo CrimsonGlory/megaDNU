@@ -12,9 +12,9 @@ SANCIONA con fuerza de LEY:
 
 Ver antecedentes normativos
 
-Art. 1° Las operaciones de crédito mobiliario sobre frutos o productos agrícolas, ganaderos, forestales, mineros o de manufacturas nacionales, depositados en almacenes fiscales o de terceros, serán hechas por medio de "certificados de depósito" y "warrants" expedidos de acuerdo con las disposiciones de esta ley y en la forma que reglamente el Poder Ejecutivo.
+Art. 1° Las operaciones de crédito mobiliario sobre frutos o productos agrícolas, ganaderos, forestales, mineros o de manufacturas, depositados en almacenes fiscales o de terceros, serán hechas por medio de "certificados de depósito” y "warrants” expedidos de acuerdo con las disposiciones de esta ley y en la forma que reglamente el Poder Ejecutivo. 
 
-Art. 2° Los almacenes o depósitos particulares sólo podrán emitir "certificados de depósito" y "warrants" a los efectos de esta ley, previa autorización del Poder Ejecutivo, publicada en el "Boletín Oficial", la cual no podrá ser otorgada sino después de haberse comprobado:
+Art. 2° Los almacenes o depósitos particulares podrán emitir "certificados de depósito” y "warrants”.Aquellas empresas que así lo deseen podrán inscribirse en un registro a cargo del Poder Ejecutivo, lo que será publicado en el "Boletín Oficial”, para lo cual deberán declarar:
 
 a) El capital con que se establecen.
 
@@ -22,35 +22,27 @@ b) Las condiciones de seguridad, previsiones contra incendio y causas de deterio
 
 c) La forma de administración y sistema de vigilancia clasificación y limpieza que se adoptará en los almacenes.
 
-d) Las tarifas máximas que se cobrarán por depósito y demás operaciones anexas, como seguros, elevación de cereales, limpieza y desecación de granos.
+d) Las obligaciones de la administración respecto a la entrada y salida de mercaderías o productos, su conservación y responsabilidad en los casos de pérdida y averías.
 
-e) Las obligaciones de la administración respecto a la entrada y salida de mercaderías o productos, su conservación y responsabilidad en los casos de pérdida y averías.
+e) Los nombres y domicilios de los representantes de la sociedad o empresa de depósito.
 
-f) Los nombres y domicilios de los representantes de la sociedad o empresa de depósito.
+f) Las garantías con las que cuentan para asegurar el cumplimiento de sus obligaciones.Las empresas que estén incorporadas al registro podrán incluir la leyenda "inscripta en los registros de empresas de warrants Ley N° 9.643 y sus modificatorias”. Las empresas que opten por no registrarse deberán incluir la leyenda "empresa no inscripta en los registros de empresas de warrants Ley N° 9.643 y sus modificatorias”
 
-g) El Poder Ejecutivo podrá fijar las garantías que estime convenientes, para asegurar, por parte de los depositantes autorizados a expedir "certificados de depósito" y "warrants", el cumplimiento de sus obligaciones; cuando se trate de garantía de valores, ella será hecha efectiva con títulos nacionales de renta, depositados en el Banco de la Nación, y que representen hasta el 10 (diez) por ciento del capital empleado como máximum.
+Art. 3° (Artículo derogado por art. 24 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-Art. 3° Es absolutamente prohibido a las empresas de depósito a que se refiere la presente ley, efectuar operaciones de compraventa de frutos o productos de la misma naturaleza de aquellos a que se refieren los "certificados de depósito" o "warrants" que emitan.
-
-El Poder Ejecutivo no otorgará la autorización exigida por el artículo anterior a las que se hallen en tales condiciones o retirará la misma, en su caso, si la operación prohibida se efectúa con posterioridad a dicha autorización.
-
-Las empresas emisoras de "warrants" que quieran descontar o negociar con esta clase de papeles, sólo podrán hacerlo con autorización del Poder Ejecutivo y en las condiciones que él mismo fijare.
-
-Art. 4° Queda prohibido almacenar en un mismo local o en locales contiguos mercaderías susceptibles de alterarse recíprocamente.
+Art. 4° (Artículo derogado por art. 24 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 5° Los depositarios asegurarán contra incendio y por cuenta de los depositantes, si éstos no lo hubiesen hecho, las mercaderías recibidas, con sujeción a las condiciones y en la forma que determine el decreto reglamentario, el que, a la vez, especificará las constancias relativas al seguro, que habrán de inscribirse o agregarse al "certificado de depósito" y al "warrant".
 
-Art. 6° Contra la entrega de los frutos o productos depositados, la administración del respectivo almacén expedirá a la orden del depositante un "certificado de depósito" y "warrant" referente a aquellos, con expresión de la fecha de expedición, el nombre y domicilio del depositante, la designación del almacén y la firma del administrador, la clase de producto, su cantidad, peso, clase y número de envases, calidad y estado del mismo, su valor aproximado y toda otra indicación que sirva para individualizarlo con arreglo a las prácticas establecidas en el comercio de los productos respectivos, el monto del seguro, nombre y domicilio del asegurador, el tiempo por el cual se efectúa el depósito y el monto del almacenaje; todo ello en formularios de tipo uniforme que el Poder Ejecutivo reglamentará, dejando consignadas las mismas circunstancias en los talonarios y en los libros rubricados especiales que deberá llevar, a fin de registrar diariamente y por orden todas las operaciones en que intervenga.
+Art. 6° Contra la entrega de los frutos o productos depositados, la administración del respectivo almacén expedirá a la orden del depositante un "certificado de depósito” y "warrant” referente a aquellos, con expresión de la fecha de expedición, el nombre y domicilio del depositante, la designación del almacén y la firma del administrador, la clase de producto, su cantidad, peso, clase y número de envases, calidad y estado del mismo, su valor aproximado y toda otra indicación que sirva para identificarlo con arreglo a las prácticas establecidas en el comercio de los productos respectivos, el monto del seguro, nombre y domicilio del asegurador, el tiempo por el cual se efectúa el depósito y el monto del almacenaje; todo ello en formularios de tipo uniforme que el Poder Ejecutivo reglamentará, dejando consignadas las mismas circunstancias en los talonarios y en los libros rubricados especiales que deberá llevar, a fin de registrar diariamente y por orden todas las operaciones en que intervenga.Podrán utilizarse documentos electrónicos en reemplazo de cualquier documentación establecida en la presente ley, en los términos de los artículos 286 y 288 del Código Civil y Comercial de la Nación. 
 
-Art. 7° Para que puedan emitirse "certificados de depósito" y "warrants", por frutos o productos depositados, es menester:
+Art. 7° Para que puedan emitirse "certificados de depósito” y "warrants”, por frutos o productos depositados, es menester:
 
-1) Que dichos efectos estén asegurados, ya sea directamente por el dueño o por intermedio de las empresas emisoras, de acuerdo al artículo 2° inciso d).
+1) Que dichos efectos estén asegurados, ya sea directamente por el dueño o por intermedio de las empresas emisoras.
 
-2) Que su valor no sea inferior a 500 (quinientos) pesos moneda nacional.
+2) Que estén libres de todo gravamen o embargo judicial notificado al administrador del depósito, sin cuyo requisito se reputarán no existentes. 
 
-3) Que estén libres de todo gravamen o embargo judicial notificado al administrador del depósito, sin cuyo requisito se reputarán no existentes.
-
-Art. 8° El "warrant" será siempre nominativo. El primer endoso del certificado de depósito o, en su caso, de "warrant", se extenderá al dorso del respectivo documento, debiendo, para su validez, ser registrado en los libros de la empresa emisora dentro del término de 6 (seis) días. Los endosos subsiguientes, cuyo registro no es obligatorio, podrán hacerse en blanco o a continuación del primero.
+Art. 8° El "warrant” será siempre nominativo y para su constitución se podrá usar, en su caso, cualquier versión de firma electrónica que identifique de manera indubitable al firmante. Los endosos del certificado de depósito o, en su caso, de "warrant”, se incluirá en el registro electrónico del documento, también con cualquier versión de firma electrónica, debiendo, para su validez, ser registrado en los libros de la empresa emisora dentro del término de SEIS (6) días.
 
 Art. 9° El efecto de endoso, tratándose de un "certificado de depósito", es la transmisión de la propiedad de las cosas a que se refiere, con los gravámenes que tuvieren en caso de existir "warrant" negociado, y, tratándose del "warrant", de los derechos creditorios del mismo.
 
@@ -60,15 +52,15 @@ El pago hecho al prestamista del importe del crédito extingue, junto con éste,
 
 En el libro a que se refiere el artículo 6° deberán registrarse las firmas de los depositantes y, en cuanto fuere posible, la de los nuevos endosantes de "certificados de depósito" o de "warrants".
 
-Art. 11. Negociado el "warrant", se anotará al dorso del "certificado de depósito" respectivo, el monto del crédito, nombre y domicilio del prestamista, fecha de vencimiento y lugar de pago, debiendo estos mismos datos consignarse en el libro de Registro de la empresa emisora, al anotarse la primera transferencia del "warrant", de acuerdo con el artículo 8°.
+Art. 11. Negociado el "warrant”, en su caso, se anotará en el registro electrónico respectivo, el monto del crédito, nombre y domicilio del prestamista, fecha de vencimiento y lugar de pago, debiendo estos mismos datos consignarse en el libro de Registro de la empresa emisora, al anotarse la primera transferencia del "warrant”, de acuerdo con el artículo 8°.
 
 Art. 12. Todo adquirente de un "certificado de depósito" o tenedor de un "warrant" tendrá derecho a examinar los efectos depositados y detallados en dichos documentos, pudiendo retirar muestras de los mismos, si se prestan a ello por su naturaleza, en la proporción y forma que determine el decreto reglamentario.
 
-Art. 13. Los efectos depositados por los cuales hayan sido expedidos "warrants", no serán entregados sin la presentación simultánea del "certificado de depósito" y del "warrant".
+Art. 13. Los efectos depositados por los cuales hayan sido expedidos "warrants”, no serán entregados sin la presentación simultánea del "certificado de depósito” y del "warrant”.
 
-En caso de haber sido registrada la transferencia del "warrant", tiene derecho a pedir que el depósito se consigne por bultos o lotes separados, y que por cada lote se le den nuevos certificados con los "warrants" respectivos, en substitución del certificado y "warrant" anterior, que será anulado, no pudiendo ser cada uno de valor menor de 500 (quinientos) pesos nacionales.
+En caso de haber sido registrada la transferencia del "warrant”, tiene derecho a pedir que el depósito se consigne por bultos o lotes separados, y que por cada lote se le den nuevos certificados con los "warrants” respectivos, en substitución del certificado y "warrant” anterior, que será anulado.
 
-Art. 14. El propietario de un certificado de depósito con "warrant", tiene derecho a pedir que el depósito se consigne por bultos o lotes separados, y que por cada lote se le den nuevos certificados con los "warrants" respectivos, en substitución del certificado y "warrant" anterior, que será anulado, no pudiendo ser cada uno de valor menor de 500 (quinientos) pesos nacionales.
+Art. 14. El propietario de un certificado de depósito con "warrant”, tiene derecho a pedir que el depósito se consigne por bultos o lotes separados, y que por cada lote se le den nuevos certificados con los "warrants” respectivos, en substitución del certificado y "warrant” anterior, que será anulado.
 
 Art. 15. El propietario del "certificado de depósito", separado del "warrant" respectivo negociado, podrá antes del vencimiento del préstamo, pagar el importe del "warrant". Si el acreedor de éste no fuese conocido, o, siéndolo, no estuviese de acuerdo con el deudor sobre las condiciones en que tendrá lugar la anticipación del pago, el dueño del certificado consignará judicialmente la suma adeudada. Las mercaderías depositadas serán entregadas a la presentación de la orden del juez ante quien se hubiere hecho la consignación, previo pago del almacenaje e impuesto del artículo 25 que adeudaren, conforme a la disposición del artículo 27.
 
@@ -98,29 +90,27 @@ Art. 21. Si la venta fuese suspendida, de conformidad a lo dispuesto en el artí
 
 Art. 22. Sobre los efectos comprendidos en el "warrant", sobre su importe una vez enajenados aquellos o en los casos de consignación autorizados, y sobre el valor del seguro constituido, el acreedor de aquel goza de un privilegio superior con respecto a cualquier otro crédito, que no sean los derechos del depósito especial, las comisiones y gastos de venta y el impuesto establecido por el artículo 25.
 
-Art. 23. El dueño o acreedor, respectivamente, de un certificado de depósito o de un "warrant", en caso de pérdida o destrucción del mismo, dará aviso inmediato a la empresa emisora y podrá, mediante orden del juez, justificando ante él la propiedad y dando fianza, obtener un duplicado del certificado o del "warrant".
-
-La fianza será cancelada si a los 6 (seis) meses del otorgamiento del duplicado no se hubiere formulado reclamo presentando el "warrant" o certificado originales, y en caso de deducirse acción a base de los últimos, deberá judicialmente declararse el derecho discutido.
-
-Art. 24. El Poder Ejecutivo inspeccionará las empresas emisoras de "warrants" a fin de asegurar el cumplimiento de las obligaciones consignadas en esta ley o retirar, en su defecto, la autorización necesaria para continuar funcionando en dicho carácter.
+Art. 23. (Artículo derogado por art. 24 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ 
+Art. 24. El Poder Ejecutivo inspeccionará las empresas incluidas en el registro de empresas emisoras de "warrants” a fin de asegurar el cumplimiento de las obligaciones consignadas en esta ley o dejar sin efecto, la inscripción prevista en el artículo 2°.
 
 Art. 25. Créase un impuesto de un cuarto por mil sobre el valor atribuido a las mercaderías depositadas, que será percibido por las mismas empresas emisoras, previamente a la entrega de los efectos, junto con los gastos y derechos por el depósito.
 
-Art. 26. Sin perjuicio de su renovación total o parcial, el "warrant" sólo produce efectos a los fines de su negociación, durante los 6 (seis) meses siguientes a la fecha de su emisión.
+Art. 26. (Artículo derogado por art. 24 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 27. El ejercicio de las acciones para el cobro y ejecución del "warrant" corresponderá, a opción del acreedor, a la jurisdicción del domicilio de éste o del lugar donde se halle el depósito, en caso de no haberse estipulado el lugar del pago.
 
 Art. 28. Exonérase de todo impuesto de sellos las operaciones de crédito que se realicen sobre "warrants" emitidos por depósitos sitos en jurisdicción nacional.
 
-Art. 29. Exonérase del impuesto de patente a los depósitos autorizados a emitir "warrants" que se establezcan en jurisdicción nacional, dentro de los 2 (dos) años de promulgada esta ley.
+Art. 29. (Artículo derogado por art. 24 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 30. El Poder Ejecutivo, al reglamentar esta ley, procurará fijar, en cuanto sea posible, los tipos de clasificación de los productos a depositarse en los almacenes, a efecto de la emisión de "warrants" sobre los mismos.
 
-Art. 31. Las personas o sociedades autorizadas para establecer almacenes que emiten certificados de depósito y "warrants", se consideran comerciantes y están obligados a llevar los libros exigidos por la ley.
+Art. 31. Las personas o sociedades que emiten certificados de depósito y "warrants”, se consideran comerciantes y están obligados a llevar los libros exigidos por la ley.
 
-Art. 32. No será indispensable el traslado a almacenes de terceros, para la expedición de los certificados de depósito y "warrants", en los productos de la industria vinícola, pudiendo el Poder Ejecutivo autorizar a los bodegueros que se constituyan en depositarios y, siempre que reúnan las condiciones establecidas en el artículo 2°, a emitir los referidos documentos, los que, para ser negociables, deben previamente ser autorizados por la Dirección de Impuestos Internos de la Nación del distrito correspondiente.
+Art. 32. No será indispensable el traslado a almacenes de terceros, para la expedición de los certificados de depósito y "warrants”, pudiendo los productores constituirse en depositarios y emitir los referidos documentos, los que serán negociables.
 
-Formarán, además, parte integrante de aquellos, los análisis correspondientes al producto sobre que se emiten. A la referida repartición competirán los actos que deben realizar las empresas de depósito, de acuerdo con los artículos 7°, (inciso 3°), 8°, 17, 19 y 25.
+Formarán, además, parte integrante de aquellos, los análisis correspondientes al producto sobre que se emiten. A la referida repartición competirán los actos que deben realizar las empresas de depósito, de acuerdo con los artículos 7°, inciso 3, 8°, 17 y 19. 
 
 Art. 33. Quedan incorporadas al Código de Comercio, las disposiciones precedentes.
 
@@ -189,7 +179,7 @@ Antecedentes Normativos
 
 – Artículo 35, sustituido por art. 1° de la Ley N° 23.974 B.O. 17/09/1991;
 
-– Nota Infoleg: Por art. 9° de la Ley N° 25.563 B.O. 15/02/2002, se suspende por 180 días contados a parr de la vigencia de dicha ley en los concursos preventivos, la totalidad de las ejecuciones judiciales y extrajudiciales, incluidas las hipotecarias y prendarias de cualquier origen que éstas sean, así como también las previstas en la Ley N° 9.643. Vigencia: a partir de su promulgación;
+– Nota Infoleg: Por art. 9° de la Ley N° 25.563 B.O. 15/02/2002, se suspende por 180 días contados a partir de la vigencia de dicha ley en los concursos preventivos, la totalidad de las ejecuciones judiciales y extrajudiciales, incluidas las hipotecarias y prendarias de cualquier origen que éstas sean, así como también las previstas en la Ley N° 9.643. Vigencia: a partir de su promulgación;
 
 – Nota Infoleg: Por art. 16° de la Ley N° 25.563 B.O. 15/02/2002, se suspende por 180 días contados a partir de la vigencia de dicha ley la totalidad de las ejecuciones judiciales o extrajudiciales, incluidas las hipotecarias y prendarias de cualquier origen que éstas sean, incluso las previstas en la ley 9.643.Vigencia: a partir de su promulgación;
 
