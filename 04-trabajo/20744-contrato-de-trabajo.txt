@@ -28,7 +28,7 @@ e) Por los usos y costumbres.
 
 Art. 2° — Ambito de aplicación.
 
-La vigencia de esta Ley quedará condicionada a que la aplicación de sus disposiciones resulte compatible con la naturaleza y modalidades de la actividad de que se trate y con el específico régimen jurídico a que se halle sujeta.
+La vigencia de esta ley quedará condicionada a que la aplicación de sus disposiciones resulte compatible con la naturaleza y modalidades de la actividad de que se trate y con el específico régimen jurídico a que se halle sujeta.
 
 Las disposiciones de esta ley no serán aplicables:
 
@@ -228,7 +228,7 @@ Los menores desde los dieciocho (18) años de edad tienen la libre administraci�
 
 Art. 35. —Menores emancipados por matrimonio.
 
-Los menoreemancipados por matrimonio gozarán de plena capacidad laboral.
+Los menores emancipados por matrimonio gozarán de plena capacidad laboral.
 
 Art. 36. —Actos de las personas jurídicas.
 
@@ -450,7 +450,7 @@ Art. 75. —Deber de seguridad.
 
 El empleador debe hacer observar las pautas y limitaciones a la duración del trabajo establecidas en la ley y demás normas reglamentarias, y adoptar las medidas que según el tipo de trabajo, la experiencia y la técnica sean necesarias para tutelar la integridad psicofísica y la dignidad de los trabajadores, debiendo evitar los efectos perniciosos de las tareas penosas, riesgosas o determinantes de vejez o agotamiento prematuro, así como también los derivados de ambientes insalubres o ruidosos.
 
-Está obligado a obsear las disposiciones legales y reglamentarias pertinentes sobre higiene y seguridad en el trabajo. El trabajador podrá rehusar la prestación de trabajo, sin que ello le ocasiones pérdida o disminución de la remuneración, si el mismo le fuera exigido en transgresión a tales condiciones, siempre que exista peligro inminente de daño o se hubiera configurado el incumplimiento de la obligación, mediante constitución en mora, o si habiendo el organismo competente declarado la insalubridad del lugar, el empleador no realizara los trabajos o proporcionara los elementos que dicha autoridad establezca.
+Está obligado a observar las disposiciones legales y reglamentarias pertinentes sobre higiene y seguridad en el trabajo. El trabajador podrá rehusar la prestación de trabajo, sin que ello le ocasiones pérdida o disminución de la remuneración, si el mismo le fuera exigido en transgresión a tales condiciones, siempre que exista peligro inminente de daño o se hubiera configurado el incumplimiento de la obligación, mediante constitución en mora, o si habiendo el organismo competente declarado la insalubridad del lugar, el empleador no realizara los trabajos o proporcionara los elementos que dicha autoridad establezca.
 
 (Artículo sustituido por art. 1º de la Ley Nº 27.323 B.O. 15/12/2016)
 
@@ -530,7 +530,7 @@ De la formación profesional
 
 Art. s/n.- La promoción profesional y la formación en el trabajo, en condiciones igualitarias de acceso y trato será un derecho fundamental para todos los trabajadores y trabajadoras.
 
-Art. s/n El empleador implementará acciones de formación profesional profesional y/o capacitación con la participación de los trabajadores y con la asistencia de los organismos competentes al Estado.
+Art. s/n.- El empleador implementará acciones de formación profesional profesional y/o capacitación con la participación de los trabajadores y con la asistencia de los organismos competentes al Estado.
 
 Art. s/n.- La capacitación del trabajador se efectuará de acuerdo a los requerimientos del empleador, a las características de las tareas, a las exigencias de la organización del trabajo y a los medios que le provea el empleador para dicha capacitación.
 
@@ -612,7 +612,7 @@ El contrato de trabajo a plazo fijo durará hasta el vencimiento del plazo conve
 
 Art. 94. —Deber de preavisar - Conversión del contrato. —Las partes deberán preavisar la extinción del contrato con antelación no menor de un (1) mes ni mayor de dos (2), respecto de la expiración del plazo convenido, salvo en aquellos casos en que el contrato sea por tiempo determinado y su duración sea inferior a un (1) mes. Aquélla que lo omitiera, se entenderá que acepta la conversión del mismo como de plazo indeterminado, salvo acto expreso de renovación de un plazo igual o distinto del previsto originariamente, y sin perjuicio de lo dispuesto en el artículo 90, segunda parte, de esta ley.
 
-Art. 95. —Despido antes del vencimiento deplazo - Indemnización.
+Art. 95. —Despido antes del vencimiento del plazo - Indemnización.
 
 En los contratos a plazo fijo, el despido injustificado dispuesto antes del vencimiento del plazo, dará derecho al trabajador, además de las indemnizaciones que correspondan por extinción del contrato en tales condiciones, a la de daños y perjuicios provenientes del derecho común, la que se fijará en función directa de los que justifique haber sufrido quien los alegue o los que, a falta de demostración, fije el juez o tribunal prudencialmente, por la sola ruptura anticipada del contrato.
 
@@ -700,7 +700,7 @@ A los fines de esta ley, se entiende por remuneración la contraprestación que 
 
 Art. 103 BIS. — Beneficios sociales.
 
-Se denominan beneficios sociales a las prestaciones de naturaleza jurídica de seguridad social, no remunerativas, no dinerarias, no acumulables ni sustituibles en dinero, que brinda el empleador al trabajad por sí o por medio de terceros, que tiene por objeto mejorar la calidad de vida del dependiente o de su familia a cargo.
+Se denominan beneficios sociales a las prestaciones de naturaleza jurídica de seguridad social, no remunerativas, no dinerarias, no acumulables ni sustituibles en dinero, que brinda el empleador al trabajador por sí o por medio de terceros, que tiene por objeto mejorar la calidad de vida del dependiente o de su familia a cargo.
 
 Son beneficios sociales las siguientes prestaciones:
 
@@ -764,7 +764,7 @@ Cuando el trabajador sea remunerado en base a comisión, ésta se liquidará sob
 
 Art. 109. — Comisiones colectivas o porcentajes sobre ventas - Distribución.
 
-Si se hubiesen pactado comisiones o porcentajes colectivos sobre ventas, para ser distribuidos entre la totidad del personal, esa distribución deberá hacerse de modo tal que aquéllas beneficien a todos los trabajadores, según el criterio que se fije para medir su contribución al resultado económico obtenido.
+Si se hubiesen pactado comisiones o porcentajes colectivos sobre ventas, para ser distribuidos entre la totalidad del personal, esa distribución deberá hacerse de modo tal que aquéllas beneficien a todos los trabajadores, según el criterio que se fije para medir su contribución al resultado económico obtenido.
 
 Art. 110. — Participación en las utilidades - Habilitación o formas similares.
 
@@ -878,7 +878,7 @@ c) Al personal remunerado por pieza o medida, cada semana o quincena respecto de
 
 Art. 127. —Remuneraciones accesorias.
 
-Cuao se hayan estipulado remuneraciones accesorias, deberán abonarse juntamente con la retribución principal.
+Cuando se hayan estipulado remuneraciones accesorias, deberán abonarse juntamente con la retribución principal.
 
 En caso que la retribución accesoria comprenda como forma habitual la participación en las utilidades o la habilitación, la época del pago deberá determinarse de antemano.
 
@@ -944,7 +944,7 @@ Si el empleador hubiere retenido aportes del trabajador con destino a los organi
 
 (Artículo incorporado por art. 43 de la Ley N° 25.345 B.O. 17/11/2000)
 
-Art. 133. —Porcentaje máximo de retención. Conformidad del tbajador. Autorización administrativa.
+Art. 133. —Porcentaje máximo de retención. Conformidad del trabajador. Autorización administrativa.
 
 Salvo lo dispuesto en el artículo 130 de esta ley, en el caso de adelanto de remuneraciones, la deducción, retención o compensación no podrá insumir en conjunto más del veinte (20) por ciento del monto total de la remuneración en dinero que tenga que percibir el trabajador en el momento en que se practique.
 
@@ -980,7 +980,7 @@ Art. 136. —Contratistas e intermediarios.
 
 Sin perjuicio de lo dispuesto en los artículos 29 y 30 de esta ley, los trabajadores contratados por contratistas o intermediarios tendrán derecho a exigir al empleador principal solidario, para los cuales dichos contratistas o intermediarios presten servicios o ejecuten obras, que retengan, de lo que deben percibir éstos, y les hagan pago del importe de lo adeudado en concepto de remuneraciones u otros derechos apreciables en dinero provenientes de la relación laboral.
 
-El emplear principal solidario podrá, así mismo, retener de lo que deben percibir los contratistas o intermediarios, los importes que éstos adeudaren a los organismos de seguridad social con motivo de la relación laboral con los trabajadores contratados por dichos contratistas o intermediarios, que deberá depositar a la orden de los correspondientes organismos dentro de los quince (15) días de retenidos. La retención procederá aunque los contratistas o intermediarios no adeudaren a los trabajadores importe alguno por los conceptos indicados en el párrafo anterior.
+El empleador principal solidario podrá, así mismo, retener de lo que deben percibir los contratistas o intermediarios, los importes que éstos adeudaren a los organismos de seguridad social con motivo de la relación laboral con los trabajadores contratados por dichos contratistas o intermediarios, que deberá depositar a la orden de los correspondientes organismos dentro de los quince (15) días de retenidos. La retención procederá aunque los contratistas o intermediarios no adeudaren a los trabajadores importe alguno por los conceptos indicados en el párrafo anterior.
 
 Art. 137. —Mora.
 
@@ -1084,7 +1084,7 @@ c) De veintiocho (28) días corridos cuando la antigüedad siendo mayor de diez 
 
 d) De treinta y cinco (35) días corridos cuando la antigüedad exceda de veinte (20) años.
 
-Para determinar la extensión de las vacaciones atendiendo a la tigüedad en el empleo, se computará como tal aquélla que tendría el trabajador al 31 de diciembre del año que correspondan las mismas.
+Para determinar la extensión de las vacaciones atendiendo a la antigüedad en el empleo, se computará como tal aquélla que tendría el trabajador al 31 de diciembre del año que correspondan las mismas.
 
 Art. 151. —Requisitos para su goce. Comienzo de la licencia.
 
@@ -1118,7 +1118,7 @@ El trabajador percibirá retribución durante el período de vacaciones, la que 
 
 a) Tratándose de trabajos remunerados con sueldo mensual, dividiendo por veinticinco (25) el importe del sueldo que perciba en el momento de su otorgamiento.
 
-b) Si la remuneración se hubiere fijado por día o por hora, se abonará por cada día de vacación el importe que le hubiere correspondido percibir al trabajador en la jornada anterior a la fecha en que comience en el goce de las mismas, tomando a tal efecto la remuneración que deba abonarse conforme a las normas legales o convencionales o a lo pactado, si fuere mayor. Si la jornada habitual fuere superior a la de ocho (8) horas, se tomará cexceda de nueve (9) horas. Cuando la jornada tomada en consideración sea, por razones circunstanciales, inferior a la habitual del trabajador la remuneración se calculará como si la misma coincidiera con la legal. Si el trabajador remunerado por día o por hora hubiere percibido además remuneraciones accesorias, tales como por horas complementarias, se estará a lo que prevén los incisos siguientes:
+b) Si la remuneración se hubiere fijado por día o por hora, se abonará por cada día de vacación el importe que le hubiere correspondido percibir al trabajador en la jornada anterior a la fecha en que comience en el goce de las mismas, tomando a tal efecto la remuneración que deba abonarse conforme a las normas legales o convencionales o a lo pactado, si fuere mayor. Si la jornada habitual fuere superior a la de ocho (8) horas, se tomará como jornada la real, en tanto no exceda de nueve (9) horas. Cuando la jornada tomada en consideración sea, por razones circunstanciales, inferior a la habitual del trabajador la remuneración se calculará como si la misma coincidiera con la legal. Si el trabajador remunerado por día o por hora hubiere percibido además remuneraciones accesorias, tales como por horas complementarias, se estará a lo que prevén los incisos siguientes:
 
 c) En caso de salario a destajo, comisiones individuales o colectivas, porcentajes u otras formas variables, de acuerdo al promedio de los sueldos devengados durante el año que corresponda al otorgamiento de las vacaciones o, a opción del trabajador, durante los últimos seis (6) meses de prestación de servicios.
 
@@ -1182,7 +1182,7 @@ Los trabajadores que presten servicios discontinuos o de temporada, tendrán der
 
 Art. 164. —Acumulación.
 
-Podrá acumularse a un período de vacaciones la tercera parte de un período inmediatamente anterior que no se hubiere gozado en la extensión fijada por esta ley. La acumulación y consiguiente reducción del tiempo de vacaciones en uno de los períos, deberá ser convenida por las partes.
+Podrá acumularse a un período de vacaciones la tercera parte de un período inmediatamente anterior que no se hubiere gozado en la extensión fijada por esta ley. La acumulación y consiguiente reducción del tiempo de vacaciones en uno de los períodos, deberá ser convenida por las partes.
 
 El empleador, a solicitud del trabajador, deberá conceder el goce de las vacaciones previstas en el artículo 150 acumuladas a las que resulten del artículo 158, inciso b), aun cuando ello implicase alterar la oportunidad de su concesión frente a lo dispuesto en el artículo 154 de esta ley. Cuando un matrimonio se desempeñe a las órdenes del mismo empleador, las vacaciones deben otorgarse en forma conjunta y simultánea, siempre que no afecte notoriamente el normal desenvolvimiento del establecimiento.
 
@@ -1282,7 +1282,7 @@ Se presume, salvo prueba en contrario, que el despido de la mujer trabajadora ob
 
 Art. 179. —Descansos diarios por lactancia.
 
-Toda trabajadora madre de lactante podrá disponer de dos (2) descansos de media hora para amamantar a su hijo, en el transcurso de la jornada de trabajo, y por un período no superior a un (1año posterior a la fecha del nacimiento, salvo que por razones médicas sea necesario que la madre amamante a su hijo por lapso más prolongado. En los establecimientos donde preste servicios el número mínimo de trabajadoras que determine la reglamentación, el empleador deberá habilitar salas maternales y guarderías para niños hasta la edad y en las condiciones que oportunamente se establezcan.
+Toda trabajadora madre de lactante podrá disponer de dos (2) descansos de media hora para amamantar a su hijo, en el transcurso de la jornada de trabajo, y por un período no superior a un (1) año posterior a la fecha del nacimiento, salvo que por razones médicas sea necesario que la madre amamante a su hijo por lapso más prolongado. En los establecimientos donde preste servicios el número mínimo de trabajadoras que determine la reglamentación, el empleador deberá habilitar salas maternales y guarderías para niños hasta la edad y en las condiciones que oportunamente se establezcan.
 
 CAPITULO III
 
@@ -1377,7 +1377,8 @@ Cuando, por cualquier vínculo o acto, o mediante cualquiera de las formas de de
 Art. 190. —Jornada de trabajo. Trabajo nocturno.
 
 No podrá ocuparse a personas de dieciséis (16) a dieciocho (18) años en ningún tipo de tareas durante más de seis (6) horas diarias o treinta y seis (36) semanales. La distribución desigual de las horas laborables no podrá superar las siete (7) horas diarias.
-a jornada de las personas menores de más de dieciséis (16) años, previa autorización de la autoridad administrativa laboral de cada jurisdicción, podrá extenderse a ocho (8) horas diarias o cuarenta y ocho (48) semanales.
+
+La jornada de las personas menores de más de dieciséis (16) años, previa autorización de la autoridad administrativa laboral de cada jurisdicción, podrá extenderse a ocho (8) horas diarias o cuarenta y ocho (48) semanales.
 
 No se podrá ocupar a personas menores de dieciocho (18) años en trabajos nocturnos, entendiéndose como tales el intervalo comprendido entre las veinte (20) y las seis (6) horas del día siguiente. En los casos de establecimientos fabriles que desarrollen tareas en tres turnos diarios que abarquen las veinticuatro (24) horas del día, el período de prohibición absoluta en cuanto al empleo de personas menores, estará regido por este título, sustituyéndose la prohibición por un lapso comprendido entre las veintidós (22) y las seis (6) horas del día siguiente, pero sólo para las personas menores de más de dieciséis (16) años.
 
@@ -1435,7 +1436,7 @@ Entre el cese de una jornada y el comienzo de la otra deberá mediar una pausa n
 
 Art. 198. —Jornada reducida.
 
-La reducción  la jornada máxima legal solamente procederá cuando lo establezcan las disposiciones nacionales reglamentarias de la materia, estipulación particular de los contratos individuales o Convenios Colectivos de Trabajo.
+La reducción de la jornada máxima legal solamente procederá cuando lo establezcan las disposiciones nacionales reglamentarias de la materia, estipulación particular de los contratos individuales o Convenios Colectivos de Trabajo.
 
 Estos últimos podrán establecer métodos de cálculo de la jornada máxima en base a promedio, de acuerdo con las características de la actividad.
 
@@ -1475,7 +1476,7 @@ La interrupción de la rotación al término de cada ciclo semanal no privará a
 
 Art. 203. —Obligación de prestar servicios en horas suplementarias.
 
-El trabajador no estará obligado a prestar servicios en horas suplementarias, salvo cdente ocurrido o inminente de fuerza mayor, o por exigencias excepcionales de la economía nacional o de la empresa, juzgado su comportamiento en base al criterio de colaboración en el logro de los fines de la misma.
+El trabajador no estará obligado a prestar servicios en horas suplementarias, salvo casos de peligro o accidente ocurrido o inminente de fuerza mayor, o por exigencias excepcionales de la economía nacional o de la empresa, juzgado su comportamiento en base al criterio de colaboración en el logro de los fines de la misma.
 
 CAPITULO II
 
@@ -1547,7 +1548,7 @@ Art. 214. —Reserva del empleo. Cómputo como tiempo de servicio.
 
 El empleador conservará el empleo al trabajador cuando éste deba prestar servicio militar obligatorio, por llamado ordinario, movilización o convocatorias especiales desde la fecha de su convocación y hasta treinta (30) días después de concluido el servicio.
 
-El tiempo de permanencia en el servicio será considerado período de trabajo a los efectos del cómputo de su antigüedad, frente a los beneficios que por esta ley, estatutos profesionales o convenciones colectivas de trabajo le hubiesen correspondido en el caso de haber prestado servicios. El tiempo de permanencia en servicio no será considerado para determinar los promedios de remuneracionea los fines de la aplicación de las mismas disposiciones.
+El tiempo de permanencia en el servicio será considerado período de trabajo a los efectos del cómputo de su antigüedad, frente a los beneficios que por esta ley, estatutos profesionales o convenciones colectivas de trabajo le hubiesen correspondido en el caso de haber prestado servicios. El tiempo de permanencia en servicio no será considerado para determinar los promedios de remuneraciones a los fines de la aplicación de las mismas disposiciones.
 
 CAPITULO III
 
@@ -1595,7 +1596,7 @@ Las suspensiones por fuerza mayor debidamente comprobadas podrán extenderse has
 
 En este supuesto, así como en la suspensión por falta o disminución del trabajo, deberá comenzarse por el personal menos antiguo dentro de cada especialidad.
 
-Respecto del personal ingresado en un mismo semestre, debmenzarse por el que tuviere menos cargas de familia, aunque con ello se alterase el orden de antigüedad.
+Respecto del personal ingresado en un mismo semestre, deberá comenzarse por el que tuviere menos cargas de familia, aunque con ello se alterase el orden de antigüedad.
 
 Art. 222. —Situación de despido.
 
@@ -1629,7 +1630,7 @@ En caso de transferencia por cualquier título del establecimiento, pasarán al 
 
 Art. 226. —Situación de despido.
 
-El trabajador podrá considerar extinguido el contrato de trabajo si, con motivo de la transferencia del establecimiento, se le infiriese un perjuicio que, apreciado con el criterio del artícificare el acto de denuncia. A tal objeto se ponderarán especialmente los casos en que, por razón de la transferencia, se cambia el objeto de la explotación, se alteran las funciones, cargo o empleo, o si mediare una separación entre diversas secciones, dependencia o sucursales de la empresa, de modo que se derive de ello disminución de la responsabilidad patrimonial del empleador.
+El trabajador podrá considerar extinguido el contrato de trabajo si, con motivo de la transferencia del establecimiento, se le infiriese un perjuicio que, apreciado con el criterio del artículo 242, justificare el acto de denuncia. A tal objeto se ponderarán especialmente los casos en que, por razón de la transferencia, se cambia el objeto de la explotación, se alteran las funciones, cargo o empleo, o si mediare una separación entre diversas secciones, dependencia o sucursales de la empresa, de modo que se derive de ello disminución de la responsabilidad patrimonial del empleador.
 
 Art. 227. —Arrendamiento o cesión transitoria del establecimiento.
 
@@ -1683,7 +1684,7 @@ La parte que omita el preaviso o lo otorgue de modo insuficiente deberá abonar 
 
 Art. 233. —Comienzo del plazo. Integración de la indemnización con los salarios del mes del despido.
 
-Los plazos del artículo 231 correrán a partir del día siguiente al de la notel preaviso.
+Los plazos del artículo 231 correrán a partir del día siguiente al de la notificación del preaviso.
 
 Cuando la extinción del contrato de trabajo dispuesta por el empleador se produzca sin preaviso y en fecha que no coincida con el último día del mes, la indemnización sustitutiva debida al trabajador se integrará con una suma igual a los salarios por los días faltantes hasta el último día del mes en el que se produjera el despido.
 
@@ -1781,7 +1782,7 @@ El importe de esta indemnización en ningún caso podrá ser inferior a UN (1) m
 
 Art. 246. —Despido indirecto.
 
-Cuando el trabajador hiciese denuncia del contrato de trajo fundado en justa causa, tendrá derecho a las indemnizaciones previstas en los artículos 232, 233 y 245.
+Cuando el trabajador hiciese denuncia del contrato de trabajo fundado en justa causa, tendrá derecho a las indemnizaciones previstas en los artículos 232, 233 y 245.
 
 CAPITULO V
 
@@ -1831,7 +1832,7 @@ De la extinción del contrato de trabajo por quiebra o concurso del empleador
 
 Art. 251. —Calificación de la conducta del empleador. Monto de la indemnización.
 
-Si la quiebra del empleador motivara la la extinción del contrato de trabajo y aquélla fuera debida a causas nbles al mismo, la indemnización correspondiente al trabajador será la prevista en el artículo 247. En cualquier otro supuesto dicha indemnización se calculará conforme a los previstos en el artículo 245. La determinación de las circunstancias a que se refiere este artículo será efectuada por el juez de la quiebra al momento de dictar la resolución sobre procedencia y alcances de las solicitudes de verificación formuladas por los acreedores.
+Si la quiebra del empleador motivara la la extinción del contrato de trabajo y aquélla fuera debida a causas no imputables al mismo, la indemnización correspondiente al trabajador será la prevista en el artículo 247. En cualquier otro supuesto dicha indemnización se calculará conforme a los previstos en el artículo 245. La determinación de las circunstancias a que se refiere este artículo será efectuada por el juez de la quiebra al momento de dictar la resolución sobre procedencia y alcances de las solicitudes de verificación formuladas por los acreedores.
 
 (Artículo sustituido por art. 294 de la Ley N° 24.522 B.O. 9/8/1995)
 
@@ -1935,7 +1936,7 @@ Los privilegios no pueden resultar sino de la ley.
 
 En los acuerdos transaccionales, conciliatorios o liberatorios que se celebren, podrá imputarse todo o parte del crédito reconocido a uno o varios rubros incluidos en aquellos acuerdos, si correspondieran más de uno, de modo de garantizar el ejercicio de los derechos reconocidos en este título, si se diera el caso de concurrencia de acreedores.
 
-Los acuerdos que no contuviesen tal requisito podrán ser declarados nulos del trabajador, dado el caso de concurrencia de acreedores sobre bienes del empleador, sea con carácter general o particular.
+Los acuerdos que no contuviesen tal requisito podrán ser declarados nulos a instancia del trabajador, dado el caso de concurrencia de acreedores sobre bienes del empleador, sea con carácter general o particular.
 
 Art. 264. —Irrenunciabilidad.
 
@@ -1981,7 +1982,7 @@ Este privilegio operará tanto en el supuesto que el trabajador fuese contratado
 
 Art. 272. —Subrogación.
 
-El privilegio especial se traslada de pleno derecho sobre los importes que substituyan a los bienes sobre los que recaiga, sea por indemnización, precio otro concepto que permita la subrogación real.
+El privilegio especial se traslada de pleno derecho sobre los importes que substituyan a los bienes sobre los que recaiga, sea por indemnización, precio o cualquier otro concepto que permita la subrogación real.
 
 En cuanto excedan de dichos importes, los créditos a que se refiere el artículo 268, gozarán del privilegio general que resulta del artículo 273 de esta ley, dado el caso de concurso.
 
@@ -2019,7 +2020,7 @@ Todo pago que deba realizarse en los juicios laborales se efectivizará mediante
 
 El desistimiento por el trabajador de acciones y derechos se ratificará personalmente en el juicio y requerirá homologación.
 
-Todo pago realizado sin observar lo prescripto y el pacto de cuota litis o desistimiento no homologados, serán nulos dcho.
+Todo pago realizado sin observar lo prescripto y el pacto de cuota litis o desistimiento no homologados, serán nulos de pleno derecho.
 
 La responsabilidad por el pago de las costas procesales, incluidos los honorarios profesionales de todo tipo allí devengados y correspondientes a la primera o única instancia, no excederán del veinticinco por ciento (25 %) del monto de la sentencia, laudo, transacción o instrumento que ponga fin al diferendo. Si las regulacionese de honorarios practicadas conforme a las leyes arancelarias o usos locales, correspondientes a todas las profesiones y especialidades, superaran dicho porcentaje, el juez procederá a prorratear los montos entre los beneficiarios. Para el cómputo del porcentaje indicado no se tendrá en cuenta el monto de los honorarios profesionales que hubieren representado, patrocinado o asistido a la parte condenada en costas. (Párrafo incorporado por art. 8 de la Ley N° 24.432 B.O. 10/1/1995)
 
