@@ -98,7 +98,7 @@ Si en el ejercicio de sus funciones los servicios de inspección de trabajo comp
 
 Las cooperativas de trabajo no podrán actuar en el ámbito de la presente ley como empresas de provisión de trabajadores para servicios temporarios, ni de cualquier otro modo brindar servicios propios de las agencias de colocación.
 
-ARTICULO 15. — (Artículo derogado por art. 57 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 15. — Empresas de servicios para la provisión de trabajadores temporarios. Prohibición. Se prohíbe la actuación de empresas de servicios temporarios, agencias de colocación o cualquier otra empresa que provea trabajadores para la realización de las tareas y actividades incluidas en la presente ley y de aquellas que de cualquier otro modo brinden servicios propios de las agencias de colocación.
 
 TITULO III
 
@@ -170,7 +170,7 @@ ARTICULO 31. — Obligación de proporcionar traslado. Supuesto. Cuando entre el
 
 Los trabajadores rurales no podrán ser trasladados en camiones. Los vehículos a utilizarse deberán haber sido construidos con destino al transporte de personas.
 
-En caso de ser trasladados en vehículos de carga o en utilitaios, solamente podrán viajar en los lugares diseñados para el traslado de personas.
+En caso de ser trasladados en vehículos de carga o en utilitarios, solamente podrán viajar en los lugares diseñados para el traslado de personas.
 
 La cantidad máxima de trabajadores que podrán viajar en cada vehículo estará determinada por la cantidad de asientos fijos provistos, sea cual fuere la distancia a recorrer.
 
@@ -249,7 +249,7 @@ ARTICULO 41. — Jornada nocturna. Jornada mixta. La jornada ordinaria de trabaj
 
 Cuando se alternen horas diurnas con nocturnas se reducirá proporcionalmente la jornada en ocho (8) minutos por cada hora nocturna trabajada o se pagarán los ocho (8) minutos en exceso como tiempo extraordinario.
 
-ARTICULO 42. — Horas extraordinarias. Límite. El número máximo de horas extraordinarias queda establecido en treinta (30) horas mensuales y doscientas (200) horas anuales, sin necesidad de autorización administrativa previa y sin pjuicio del debido respeto de las previsiones normativas relativas a jornada, pausas y descansos.
+ARTICULO 42. — Horas extraordinarias. Límite. El número máximo de horas extraordinarias queda establecido en treinta (30) horas mensuales y doscientas (200) horas anuales, sin necesidad de autorización administrativa previa y sin perjuicio del debido respeto de las previsiones normativas relativas a jornada, pausas y descansos.
 
 CAPITULO II
 
@@ -321,7 +321,7 @@ CAPITULO I
 
 Edad mínima de admisión al empleo o trabajo
 
-ARTICULO 54. — Prohibición del trabajo infantil. Queda prohibido el trabajo de las personas menores de dieciséis (16) añosn todas sus formas, exista o no relación de empleo, y sea aquél remunerado o no. La inspección del trabajo deberá ejercer las funciones conducentes al cumplimiento de dicha prohibición.
+ARTICULO 54. — Prohibición del trabajo infantil. Queda prohibido el trabajo de las personas menores de dieciséis (16) años en todas sus formas, exista o no relación de empleo, y sea aquél remunerado o no. La inspección del trabajo deberá ejercer las funciones conducentes al cumplimiento de dicha prohibición.
 
 CAPITULO II
 
@@ -379,15 +379,11 @@ ARTICULO 68. — Facultades del Ministerio de Trabajo, Empleo y Seguridad Social
 
 CAPITULO II
 
-De lasolsas de trabajo a cargo de las asociaciones sindicales
+De las bolsas de trabajo a cargo de las asociaciones sindicales
 
-ARTICULO 69. — Bolsa de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial podrán proponer a los empleadores un listado del personal necesario para la realización de tareas temporarias en las actividades contempladas en la presente Ley, conforme las resoluciones que a tal efecto dicte la Comisión de Trabajo Agrario.
+ARTICULO 69. — Bolsas de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial proveerán a los empleadores del personal necesario para la realización de las tareas temporarias en las actividades contempladas en la presente ley, conforme las resoluciones que a tal efecto dicte la Comisión Nacional de Trabajo Agrario (CNTA).
 
-El empleador podrá contratar a la persona sugerida y/o a cualquier otra que disponga.
-
-Queda derogada toda norma que se oponga al presente artículo y/o a la libertad de contratación y elección del personal por parte del empleador.
-
-(Artículo sustituido por art. 89 del Decreto N° 70/2023 B.O. 21/12/2023.)
+Ello, sin perjuicio de la vigencia de las normas que actualmente prevén la obligatoriedad del uso de las bolsas de trabajo para el ámbito rural en determinadas actividades y jurisdicciones.
 
 ARTICULO 70. — Funcionamiento de las bolsas de trabajo. El funcionamiento de las bolsas de trabajo referidas en el artículo anterior se ajustará a lo dispuesto por el presente régimen, sus normas reglamentarias y las resoluciones dictadas por la Comisión Nacional de Trabajo Agrario (CNTA).
 
@@ -417,7 +413,7 @@ Responsabilidad del estado
 
 ARTICULO 76. — Formación profesional. Capacitación. El Poder Ejecutivo Nacional, por intermedio del Ministerio de Trabajo, Empleo y Seguridad Social, arbitrará las medidas y recursos necesarios para concretar una política nacional de capacitación técnica intensiva de los trabajadores agrarios, contemplando la naturaleza de las actividades, las zonas en que éstas se realizaren, los intereses de la producción y el desarrollo del país. A este efecto, el mencionado ministerio deberá impulsar la programación de cursos de capacitación y de perfeccionamiento técnico.
 
-ARTULO 77. — Convenios. Facúltase al Ministerio de Trabajo, Empleo y Seguridad Social para concertar con el Ministerio de Educación, el Ministerio de Agricultura, Ganadería y Pesca y organismos educacionales técnicos, estatales o privados, convenios que aseguren el eficaz cumplimiento de los objetivos enunciados en este capítulo.
+ARTICULO 77. — Convenios. Facúltase al Ministerio de Trabajo, Empleo y Seguridad Social para concertar con el Ministerio de Educación, el Ministerio de Agricultura, Ganadería y Pesca y organismos educacionales técnicos, estatales o privados, convenios que aseguren el eficaz cumplimiento de los objetivos enunciados en este capítulo.
 
 TITULO XII
 
@@ -489,7 +485,7 @@ j) Asesorar a los organismos nacionales, de la Ciudad Autónoma de Buenos Aires,
 
 k) Solicitar de las reparticiones nacionales, de la Ciudad Autónoma de Buenos Aires, provinciales, municipales o entes autárquicos, los estudios técnicos, económicos y sociales vinculados al objeto de la presente ley y sus reglamentaciones;
 
-l) Intervenir en los conflictos colectivos de trabajo que se susciten entre las partes y actuar como árbitro ando de común acuerdo lo soliciten las mismas;
+l) Intervenir en los conflictos colectivos de trabajo que se susciten entre las partes y actuar como árbitro cuando de común acuerdo lo soliciten las mismas;
 
 m) Celebrar acuerdos de cooperación con entidades públicas y privadas, tanto nacionales como internacionales; y
 
@@ -574,7 +570,7 @@ CAPITULO II
 
 Disposiciones complementarias
 
-ARTICULO 100. — Ley de contrato de trabo. Su aplicación. Las disposiciones de esta ley son de orden público y excluyen las contenidas en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y sus modificatorias en cuanto se refieran a aspectos de la relación laboral contempladas en la presente ley, conforme lo establecido en el artículo 2º.
+ARTICULO 100. — Ley de contrato de trabajo. Su aplicación. Las disposiciones de esta ley son de orden público y excluyen las contenidas en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y sus modificatorias en cuanto se refieran a aspectos de la relación laboral contempladas en la presente ley, conforme lo establecido en el artículo 2º.
 
 ARTICULO 101. — Disposiciones complementarias. Vigencia. Las estipulaciones contenidas en los convenios y acuerdos colectivos de trabajo que se encuentren vigentes a la fecha de promulgación de la presente, mantendrán su plena vigencia en todo aquello que no vulnere lo establecido en los artículos 8º y 9º de esta ley.
 
