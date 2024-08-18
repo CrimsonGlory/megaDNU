@@ -210,21 +210,7 @@ Cancelados los gravámenes o restricciones y perfeccionada definitivamente la tr
 
 CAPITULO IV: REGISTRO NACIONAL DE AERONAVES
 
-ARTICULO 45. – En el Registro de Aeronaves se inscribirán por medios electrónicos o en el formato que disponga la autoridad aeronáutica:
-
-1) Los actos, contratos o resoluciones que acrediten la propiedad de la aeronave, la transfieran, modifiquen o extingan.
-
-2) Las hipotecas sobre aeronaves y sobre motores.
-
-3) Los embargos, medidas precautorias e interdicciones que pesen sobre las aeronaves o se decreten contra ellas.
-
-4) Las matrículas con las especificaciones adecuadas para individualizar las aeronaves.
-
-5) La cesación de actividades, la inutilización o la pérdida de las aeronaves y las modificaciones sustanciales que se hagan de ellas.
-
-6) Los contratos de locación de aeronaves y todos aquellos que resulten oponibles a terceros.
-
-7) En general toda inscripción o anotación de cualquier hecho o acto jurídico que pueda alterar o se vincule a la situación jurídica de la aeronave.
+ARTICULO 45. – En el Registro de Aeronaves se inscribirán por medios electrónicos o en el formato que disponga la autoridad aeronáutica: 1) Los actos, contratos o resoluciones que acrediten la propiedad de la aeronave, la transfieran, modifiquen o extingan. 2) Las hipotecas sobre aeronaves y sobre motores. 3) Los embargos, medidas precautorias e interdicciones que pesen sobre las aeronaves o se decreten contra ellas. 4) Las matrículas con las especificaciones adecuadas para individualizar las aeronaves. 5) La cesación de actividades, la inutilización o la pérdida de las aeronaves y las modificaciones sustanciales que se hagan de ellas. 6) Los contratos de locación de aeronaves y todos aquellos que resulten oponibles a terceros. 7) En general toda inscripción o anotación de cualquier hecho o acto jurídico que pueda alterar o se vincule a la situación jurídica de la aeronave.
 
 (Artículo sustituido por art. 192 del Decreto N° 70/2023 B.O. 21/12/2023)
 
@@ -252,7 +238,7 @@ ARTICULO 48. – Para ser propietario de una aeronave argentina se requiere:
 
 ARTICULO 49. – Las aeronaves son cosas muebles registrables. Sólo podrán inscribirse en el Registro Nacional de Aeronaves los actos jurídicos realizados por medio de instrumento público o privado debidamente autenticado.
 
-ARTICULO 50. – La transferencia de dominio de las aeronaves, así como todo acto jurídico relacionado con las mismas previsto en el artílo 45 incisos 1°, 2°, 6° y 7°, no producirán efectos contra terceros si no van seguidos de la inscripción en el Registro Nacional de Aeronaves.
+ARTICULO 50. – La transferencia de dominio de las aeronaves, así como todo acto jurídico relacionado con las mismas previsto en el artículo 45 incisos 1°, 2°, 6° y 7°, no producirán efectos contra terceros si no van seguidos de la inscripción en el Registro Nacional de Aeronaves.
 
 (Artículo sustituido por art. 195 del Decreto N° 70/2023 B.O. 21/12/2023)
 
@@ -340,7 +326,7 @@ ARTICULO 68. – Las formas y tipos de contratos sobre aeronaves se rigen por el
 
 ARTICULO 69. – El locador podrá obligarse a entregar la aeronave armada y equipada, siempre que la conducción técnica de aquélla y la dirección de la tripulación se transfieran al locatario.
 
-En caso en que el locador de la aeronave tomase a su cargo equiparla y tripularla, su obligación se reduce a hacer entrega de la aeronav en el lugar y tiempo convenidos, provista de la documentación para su utilización. En todos los casos, la obligación del locador comprende también la de mantener la aeronave en condiciones de aeronavegabilidad hasta el fin de la vigencia del contrato, obligación que cesa si mediase culpa del locatario.
+En caso en que el locador de la aeronave tomase a su cargo equiparla y tripularla, su obligación se reduce a hacer entrega de la aeronave, en el lugar y tiempo convenidos, provista de la documentación para su utilización. En todos los casos, la obligación del locador comprende también la de mantener la aeronave en condiciones de aeronavegabilidad hasta el fin de la vigencia del contrato, obligación que cesa si mediase culpa del locatario.
 
 ARTICULO 70. – No podrá cederse la locación de una aeronave ni subarrendarla sin consentimiento del locador.
 
@@ -414,7 +400,7 @@ ARTICULO 88. – En todo aeródromo público habrá un jefe que será la autorid
 
 La reglamentación, respectiva determinará los requisitos necesarios para desempeñarse en el cargo.
 
-ARTICULO 89. – La autoridad aeronutica reglamentará las facultades y obligaciones del jefe y demás personal aeronáutico que se desempeñe en los aeródromos públicos.
+ARTICULO 89. – La autoridad aeronáutica reglamentará las facultades y obligaciones del jefe y demás personal aeronáutico que se desempeñe en los aeródromos públicos.
 
 ARTICULO 90. – En los aeródromos privados habrá un encargado, pudiendo dicha función estará a cargo del propietario o tenedor del campo, o de otra persona designada por éste. El nombre, domicilio y fecha de designación del encargado será comunicado la autoridad aeronáutica.
 
@@ -460,7 +446,7 @@ ARTICULO 99. – Las sociedades se constituirán en cualquiera de las formas que
 
 (Artículo sustituido por art. 208 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 100. – Las sociedades podrán establecerse exclusivamente para la explotación de servicios de transporte aéreo o desarrollar esa actividad como principal o accesoria, dentro de un rubro más general. En este caso, se constituirán de acuerdo con las normas establecidas en este código y la discriminación de los negocios se rá en forma de delimitar la gestión correspondiente a los servicios de transporte aéreo y mostrar claramente sus resultados.
+ARTICULO 100. – Las sociedades podrán establecerse exclusivamente para la explotación de servicios de transporte aéreo o desarrollar esa actividad como principal o accesoria, dentro de un rubro más general. En este caso, se constituirán de acuerdo con las normas establecidas en este código y la discriminación de los negocios se hará en forma de delimitar la gestión correspondiente a los servicios de transporte aéreo y mostrar claramente sus resultados.
 
 ARTICULO 101. – El Poder Ejecutivo reglamentará los requisitos a llenar para los registros contables, la duración de los ejercicios financieros y la forma de presentación de la memoria, balance general y cuadro demostrativo de ganancias y pérdidas. Las empresas llevarán, además de los exigidos por el Código de Comercio y leyes vigentes, los libros y registros auxiliares que determine la autoridad aeronáutica.
 
@@ -540,7 +526,7 @@ ARTICULO 115. – El billete de pasaje debe indicar:
 
 SECCION C: Transporte de equipajes
 
-ARTICULO 116. – El transporte de equipajes registrados, se prueba con el talón de equipajes que el transportador deberá expedir con doble ejempl por escrito o digitalmente; uno de éstos será entregado al pasajero y el otro lo conservará el transportador.
+ARTICULO 116. – El transporte de equipajes registrados, se prueba con el talón de equipajes que el transportador deberá expedir con doble ejemplar por escrito o digitalmente; uno de éstos será entregado al pasajero y el otro lo conservará el transportador.
 
 No se incluirán en el talón los objetos personales que el pasajero conserve bajo su custodia.
 
@@ -650,7 +636,7 @@ ARTICULO 133. – Las actividades aeronáuticas comerciales están sujetas a fis
 
 3) Suspender las actividades cuando considere que no estén cumplidas las condiciones de seguridad requeridas o cuando no estén asegurados los riesgos cuya cobertura sea legalmente obligatoria, y autorizar su reanudación, una vez subsanadas tales deficiencias o requisitos, siempre que no resultaren de ellos causales que traigan aparejada la caducidad o retiro de la autorización.
 
-4) Autorizar la interrupción y la reanudación de los servicios solicitados por los prestarios, cuando a su juicio, no se consideren afectadas las razones de necesidad o utilidad general que determinaron el otorgamiento de la autorización, o la continuidad de los servicios.
+4) Autorizar la interrupción y la reanudación de los servicios solicitados por los prestatarios, cuando a su juicio, no se consideren afectadas las razones de necesidad o utilidad general que determinaron el otorgamiento de la autorización, o la continuidad de los servicios.
 
 5) Prohibir el empleo de material de vuelo que no ofrezca seguridad.
 
@@ -690,7 +676,7 @@ ARTICULO 135. – Las autorizaciones otorgadas por plazo determinado se extingui
 
 6) Si no se hubiese dado cumplimiento a la cobertura de riesgos prevista por el título X (Seguros) y en el artículo 112.
 
-7) Si el explotador se opusiese a la fiscalización o inspecciones establecidas en este Código y su reglamación.
+7) Si el explotador se opusiese a la fiscalización o inspecciones establecidas en este Código y su reglamentación.
 
 8) Si el explotador dejase de reunir cualquiera de los requisitos exigidos para la autorización.
 
@@ -728,7 +714,7 @@ ARTICULO 142. – El transportador no será responsable si prueba que él y sus 
 
 ARTICULO 143. – La responsabilidad del transportador podrá ser atenuada o eximida si prueba que la persona que ha sufrido el daño lo ha causado o contribuido a causarlo.
 
-ARTICULO 144. – En el transporte de personas, la responsabilidad del traon relación a cada pasajero, queda limitada hasta la suma equivalente en pesos a mil (1000) argentinos oro, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad. Esta cotización será fijada por el órgano competente de la Administración nacional.
+ARTICULO 144. – En el transporte de personas, la responsabilidad del transportador, con relación a cada pasajero, queda limitada hasta la suma equivalente en pesos a mil (1000) argentinos oro, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad. Esta cotización será fijada por el órgano competente de la Administración nacional.
 
 (Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981.)
 
@@ -786,7 +772,7 @@ El explotador será responsable solidariamente salvo que pruebe que ha tomado la
 
 ARTICULO 159. – La responsabilidad del explotador por daños a terceros en la superficie podrá ser atenuada o eximida, si prueba que el damnificado los ha causado o ha contribuido a causarlos.
 
-ARTICULO 160. – El explotador es responsable por cada accidente hasta el límite de la suma equivalente en pesoo de argentinos oro que resulta de la escala siguiente, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad:
+ARTICULO 160. – El explotador es responsable por cada accidente hasta el límite de la suma equivalente en pesos al número de argentinos oro que resulta de la escala siguiente, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad:
 
 1) 2000 argentinos oro para aeronaves cuyo peso no exceda de 1000 kilogramos;
 
@@ -876,7 +862,7 @@ ARTICULO 177. – No habrá obligación de prestar socorro cuando est asegurado 
 
 ARTICULO 178. – En los casos del artículo anterior, quien prestase el socorro sólo tendrá derecho a ser retribuido si ha salvado o contribuido a salvar alguna persona.
 
-ARTICULO 179. – Los explotadores de las aeronaves que hayan prestado asistencia a otra, o que hayan colaborado en la búsqueda de que trata el artículo 175, o que hayan salvado a alguna persona, tendrá n derecho a sados por los gastos y daños emergentes de la operación o producidos como consecuencia directa de ésta.
+ARTICULO 179. – Los explotadores de las aeronaves que hayan prestado asistencia a otra, o que hayan colaborado en la búsqueda de que trata el artículo 175, o que hayan salvado a alguna persona, tendrá n derecho a ser indemnizados por los gastos y daños emergentes de la operación o producidos como consecuencia directa de ésta.
 
 Las indemnizaciones estarán a cargo del explotador de la aeronave socorrida y no podrán exceder, en conjunto, el valor que tenía la aeronave antes de producirse el hecho.
 
@@ -902,7 +888,7 @@ ARTICULO 186. – Toda persona que tomase conocimiento de cualquier accidente o 
 
 (Artículo sustituido por art. 232 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 187. – La autoridad responsable de la vigilancia de los restos o despojos del accidente, evitará que en los mismos y en las zonas donde puedan haberse dispersado, intervengan personas no autorizadas. La remoción o liberación de la aeronave, de los elementos afectados y de los objetos que pudiesen haber concurrido a producir el accidente sólo podrá practicarse con el consentimiento de la autoridad competente en materia de investigación de accidentes de aviación. La intervención de aquella autoridad no impide la acción judicial ni la intervenc en los casos de accidentes vinculados con hechos ilícitos, en que habrá de actuarse conforme a las leyes de procedimiento penal, o cuando deban practicarse operaciones de asistencia o salvamento.
+ARTICULO 187. – La autoridad responsable de la vigilancia de los restos o despojos del accidente, evitará que en los mismos y en las zonas donde puedan haberse dispersado, intervengan personas no autorizadas. La remoción o liberación de la aeronave, de los elementos afectados y de los objetos que pudiesen haber concurrido a producir el accidente sólo podrá practicarse con el consentimiento de la autoridad competente en materia de investigación de accidentes de aviación. La intervención de aquella autoridad no impide la acción judicial ni la intervención policial, coordinadas, en los casos de accidentes vinculados con hechos ilícitos, en que habrá de actuarse conforme a las leyes de procedimiento penal, o cuando deban practicarse operaciones de asistencia o salvamento.
 
 (Artículo sustituido por art. 233 del Decreto N° 70/2023 B.O. 21/12/2023)
 
@@ -978,7 +964,7 @@ ARTICULO 203. – Toda vez que se compruebe una infracción a este código o a s
 
 Cuando en caso de delito deba detenerse a miembros de la tripulación de una aeronave que realice servicios de transporte aéreo, la autoridad que efectúe el procedimiento deberá tomar de inmediato las medidas para posibilitar la continuación del vuelo.
 
-ARTICULO 204. – Si durante un vuelo se cometiese algún delito o infracción, el comandante de la aeronave deberá tomar las medidas necesarias para asegurar la persona del delincuente o infractor, quien será puesto a disposición de la autoridad competente del lugar del primer  levantándose acta con las formalidades establecidas en el artículo anterior.
+ARTICULO 204. – Si durante un vuelo se cometiese algún delito o infracción, el comandante de la aeronave deberá tomar las medidas necesarias para asegurar la persona del delincuente o infractor, quien será puesto a disposición de la autoridad competente del lugar del primer aterrizaje, levantándose acta con las formalidades establecidas en el artículo anterior.
 
 ARTICULO 205. – La autoridad policial, judicial u otra competente se incautará de los objetos mencionados en el artículo 9° que se encuentren a bordo de aeronaves sin la autorización especial exigida. Si el comiso quedase firme, serán entregados a la autoridad aeronáutica a su requerimiento.
 
@@ -1014,7 +1000,7 @@ b. Para los titulares de certificados de idoneidad en el ejercicio de funciones 
 
 c. Para el Prestador de los Servicios de la navegación aérea; y respecto de los titulares explotadores, concesionarios y/o responsables de la infraestructura de aeropuertos, aeródromos o lugares aptos denunciados, se establece la suma de hasta TRESCIENTOS (300) ARGENTINOS ORO.
 
-d. Para las restantes actividades aeronáuticas se establece la suma de hasta Cincuenta (50) ARGENTINOS ORO, apreciando la gravedad de la acción cometida y antecedentes del infractor. La Autoridad Aeronáutica, se encontrará facultada para disminuir las sanciones previstas, hasta en un CINCUO (50%) del monto que resultaría aplicable para la infracción de la cual se trate, previendo por vía reglamentaria un sistema de pago anticipado o voluntario, de carácter general y con principios de transparencia, por el cual el infractor reconozca la responsabilidad del hecho infraccional que se le endilgue. Dicha conducta, resultará igualmente computable como antecedente infraccional, a los efectos de la consideración de su condición de reincidente. Si el infractor fuese reincidente y la falta cometida se considerase grave, esta reincidencia será considerada como un agravante.
+d. Para las restantes actividades aeronáuticas se establece la suma de hasta Cincuenta (50) ARGENTINOS ORO, apreciando la gravedad de la acción cometida y antecedentes del infractor. La Autoridad Aeronáutica, se encontrará facultada para disminuir las sanciones previstas, hasta en un CINCUENTA POR CIENTO (50%) del monto que resultaría aplicable para la infracción de la cual se trate, previendo por vía reglamentaria un sistema de pago anticipado o voluntario, de carácter general y con principios de transparencia, por el cual el infractor reconozca la responsabilidad del hecho infraccional que se le endilgue. Dicha conducta, resultará igualmente computable como antecedente infraccional, a los efectos de la consideración de su condición de reincidente. Si el infractor fuese reincidente y la falta cometida se considerase grave, esta reincidencia será considerada como un agravante.
 
 Se entiende con poder de policía delegado a aquellas personas humanas u organizaciones que, mediante acto administrativo, han sido investidos con facultades determinadas por las autoridades competentes. Por ejemplo, los inspectores de seguridad designados o delegados.
 
@@ -1102,7 +1088,7 @@ ARTICULO 221. – Será reprimido con prisión de 6 meses a 4 años:
 
 1) El que efectuase funciones aeronáuticas, careciendo de habilitación;
 
-2) El que, sin autorización, efectuase vuelos arriesgad poniendo en peligro la vida o bienes de terceros;
+2) El que, sin autorización, efectuase vuelos arriesgados poniendo en peligro la vida o bienes de terceros;
 
 3) El que efectuase vuelos estando bajo la acción de bebidas alcohólicas, estimulantes o estupefacientes.
 
@@ -1190,7 +1176,7 @@ Antecedentes Normativos
 
 - Artículo 133 sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981;
 
-- Artículo 133 reglamentado por art. 1° del Decreto N1982 B.O. 15/2/1982;
+- Artículo 133 reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982;
 
 - Artículo 110 (Nota Infoleg: Por art. 2° del Decreto N° 1401/1998 B.O. 17/12/1998, se dispone que para poder aprobarse las propuestas de operación en código compartido o explotación conjunta en los términos del Artículo 110 del Código Aeronáutico, los explotadores deberán ser titulares de las autorizaciones o concesiones que les permitan realizar el servicio aéreo de que se trate.);
 
@@ -1226,7 +1212,7 @@ Antecedentes Normativos
 
 – Nota Infoleg: Por art. 1° del Decreto N° 642/1975 B.O. 18/3/1975, se dispone que al solo efecto de la aplicación del artículo 102 del Código Aduanero serán reconocidas como "aeronaves de reducido porte" aquellas cuyo peso máximo de despegue no exceda de 5700 dilogramos;
 
-– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 102 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya convenienad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
+– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 102 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
 
 – Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 129 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
 
