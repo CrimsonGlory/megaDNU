@@ -222,7 +222,7 @@ Capítulo II
 
 De los accidentes y enfermedades inculpables.
 
-ARTICULO 34. — Plazo. Cada enfermedad o accidente inculpable que impida la prestación del servicio no afectará el derecho de la trabajadora/or a percibir su remuneración durante un período de hasta tres (3) meseal año, si la antigüedad en el servicio fuera menor de cinco (5) años y de seis (6) meses si fuera mayor.
+ARTICULO 34. — Plazo. Cada enfermedad o accidente inculpable que impida la prestación del servicio no afectará el derecho de la trabajadora/or a percibir su remuneración durante un período de hasta tres (3) meses al año, si la antigüedad en el servicio fuera menor de cinco (5) años y de seis (6) meses si fuera mayor.
 
 ARTICULO 35. — Enfermedad infectocontagiosa. En caso de enfermedad infectocontagiosa de la empleada/o, del empleador o de algún integrante del grupo conviviente de cualquiera de las partes, que conforme acreditación médica, amerite el apartamiento temporario de la empleada/o o de su grupo conviviente a fin de evitar riesgos a la salud de los mismos o del empleador o de los integrantes de su grupo familiar, se deberán adoptar las medidas necesarias para conjurar dichos riesgos, las que estarán a cargo del empleador. Lo aquí estipulado no será de aplicación cuando el cuidado del enfermo sea el objeto de la contratación de la empleada/o.
 
@@ -312,7 +312,7 @@ i) Por abandono de trabajo. El abandono del trabajo como acto de incumplimiento 
 
 j) Incapacitación permanente y definitiva. Cuando la extinción del contrato de trabajo obedece a la incapacidad física o mental para cumplir con sus obligaciones, y fuese sobreviniente a la iniciación de la prestación de los servicios, la situación estará regida por lo dispuesto por el artículo 212 del Régimen de Contrato de Trabajo, aprobado por la ley 20.744 (t. o. 1976) y sus modificatorias.
 
-ARTICU 47. — Obligación de desocupar el inmueble. Plazo. En caso de extinción del contrato de trabajo el personal sin retiro deberá, en un plazo máximo de cinco (5) días, desocupar y entregar en perfectas condiciones de higiene la habitación que le fuera otorgada, con los muebles y demás elementos que se le hubieran facilitado. La misma obligación tendrán las personas que convivieran con dicho personal y que no mantuvieran una relación laboral con el empleador.
+ARTICULO 47. — Obligación de desocupar el inmueble. Plazo. En caso de extinción del contrato de trabajo el personal sin retiro deberá, en un plazo máximo de cinco (5) días, desocupar y entregar en perfectas condiciones de higiene la habitación que le fuera otorgada, con los muebles y demás elementos que se le hubieran facilitado. La misma obligación tendrán las personas que convivieran con dicho personal y que no mantuvieran una relación laboral con el empleador.
 
 Título XI
 
@@ -324,7 +324,7 @@ En ningún caso la indemnización podrá ser menor a un (1) mes de sueldo calcul
 
 ARTICULO 49. — Despido indirecto. En los casos en que la empleada/o denunciare el contrato de trabajo con justa causa tendrá derecho a las indemnizaciones previstas en los artículos 43, 44 y 48 de esta ley.
 
-ARTICULO 50. — Agravamiento por ausencia y/o deficiencia en la registración. La indemnización prevista por el artículo 48 de esta ley, o las que en el futuro las reemplacen, se duplicará cuando se trate de una relación laboral que al momento del despido no estuviera registrada o lo esté de modo deficiente.
+ARTICULO 50. — (Artículo derogado por art. 58 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Título XII
 
@@ -363,7 +363,7 @@ ARTICULO 57. — Sustanciación y resolución del recurso. Recibidas las actuaci
 
 ARTICULO 58. — Determinación y ejecución de deudas con la Seguridad Social. Si por resolución o sentencia firme se determinara que la relación laboral al momento del despido no estaba registrada o lo hubiese estado de modo deficiente, o si de cualquier otro modo se apreciare que el empleador hubiera omitido ingresar en los organismos pertinentes los aportes o las contribuciones correspondientes a los distintos sistemas de la seguridad social, el Presidente del Tribunal o el Secretario del Juzgado interviniente deberán remitir los autos a la Administración Federal de Ingresos Públicos (AFIP) a efectos de la determinación y ejecución de la deuda que por aquellos conceptos se hubiera generado. Para hacer efectiva esa remisión deberá emitir los testimonios y certificaciones necesarios que permitan la continuación del procedimiento de ejecución hasta la efectiva satisfacción de los créditos deferidos en condena.
 
-Eresidente del Tribunal o el Secretario que omitiere actuar del modo establecido en esta norma quedará incurso en grave incumplimiento de sus deberes como funcionario y será, en consecuencia, pasible de las sanciones y penalidades previstas para tales casos.
+El Presidente del Tribunal o el Secretario que omitiere actuar del modo establecido en esta norma quedará incurso en grave incumplimiento de sus deberes como funcionario y será, en consecuencia, pasible de las sanciones y penalidades previstas para tales casos.
 
 ARTICULO 59. — Trámite de ejecución. Organo competente. Las resoluciones definitivas, las sentencias condenatorias y los acuerdos conciliatorios serán ejecutables por intermedio del Juzgado Nacional de Primera Instancia del Trabajo que hubiere prevenido o, en su caso, que resultase sorteado por la Cámara Nacional de Apelaciones del Trabajo de la Capital Federal al formularse el pedido de ejecución ante el Tribunal de Trabajo para el Personal de Casas Particulares, que deberá remitir las actuaciones dentro del plazo de tres (3) días de presentado el requerimiento ejecutorio por el interesado.
 
@@ -393,7 +393,7 @@ ARTICULO 66. — Asistencia legal y técnico administrativa. El Ministerio de Tr
 
 ARTICULO 67. — Atribuciones y deberes. Serán atribuciones y deberes de la Comisión Nacional de Trabajo en Casas Particulares (CNTCP):
 
-a) Dictar su reglamento terno y organizar su funcionamiento;
+a) Dictar su reglamento interno y organizar su funcionamiento;
 
 b) Constituir comisiones asesoras regionales, dictar su reglamento interno, organizar su funcionamiento determinando sus respectivas jurisdicciones conforme las características sociales, culturales y económicas de cada zona, fijando sus atribuciones en materia de determinación de salarios, categorías profesionales, condiciones de trabajo y demás prestaciones a cargo del empleador;
 
@@ -428,7 +428,7 @@ ARTICULO 70. — Actualización. Tasa aplicable. Los créditos demandados proven
 
 ARTICULO 71. — Autoridad de aplicación. Competencia. El Ministerio de Trabajo, Empleo y Seguridad Social de la Nación será la autoridad de aplicación de la presente ley.
 
-ARTICULstituciones. Exclusión. Aplicación.
+ARTICULO 72. — Sustituciones. Exclusión. Aplicación.
 
 a) Sustitúyese el texto del inciso b) del artículo 2° del Régimen de Contrato de Trabajo, aprobado por la ley 20.744 (t.o. 1976) y sus modificatorias que quedará redactado de la siguiente manera:
 
