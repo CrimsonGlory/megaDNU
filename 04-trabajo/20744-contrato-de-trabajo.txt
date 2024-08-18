@@ -28,17 +28,17 @@ e) Por los usos y costumbres.
 
 Art. 2° — Ambito de aplicación.
 
-La vigencia de esta ley quedará condicionada a que la aplicación de sus disposiciones resulte compatible con la naturaleza y modalidades de la actividad de que se trate y con el específico régimen jurídico a que se halle sujeta.
+La vigencia de esta ley quedará condicionada a que la aplicación de sus disposiciones resulte compatible con la naturaleza y modalidades de la actividad de que se trate y con el específico régimen jurídico a que se halle sujeta. Las disposiciones de esta ley no serán aplicables:
 
-Las disposiciones de esta ley no serán aplicables:
+a) A los dependientes de la Administración Pública nacional, provincial, de la Ciudad Autónoma de Buenos Aires o municipal, excepto que por acto expreso se los incluya en la misma o en el régimen de las convenciones colectivas de trabajo;
 
-a) A los dependientes de la Administración Pública Nacional, Provincial o Municipal, excepto que por acto expreso se los incluya en la misma o en el régimen de las convenciones colectivas de trabajo.
+b) Al personal de casas particulares, sin perjuicio que las disposiciones de la presente ley serán de aplicación en todo lo que resulte compatible y no se oponga a la naturaleza y modalidades propias del régimen específico o cuando así se lo disponga expresamente;
 
-b) Al personal de casas particulares, sin perjuicio que las disposiciones de la presente ley serán de aplicación en todo lo que resulte compatible y no se oponga a la naturaleza y modalidades propias del régimen específico o cuando así se lo disponga expresamente. (Inciso sustituido por art. 72 inc. a) de la Ley N° 26.844. Vigencia: de aplicación a todas las relaciones laborales alcanzadas por este régimen al momento de su entrada en vigencia)
+c) A los trabajadores agrarios, sin perjuicio de las disposiciones de la presente ley serán de aplicación supletoria en todo lo que resulte compatible y no se oponga a la naturaleza y modalidades propias del Régimen de Trabajo Agrario;
 
-c) A los trabajadores agrarios, sin perjuicio que las disposiciones de la presente ley serán de aplicación supletoria en todo lo que resulte compatible y no se oponga a la naturaleza y modalidades propias del Régimen de Trabajo Agrario. (Inciso sustituido por art. 104 de la Ley N° 26.727 B.O. 28/12/2011)
+d) A las contrataciones de obra, servicios, agencia y todas las reguladas en el Código Civil y Comercial de la Nación.
 
-(Artículo sustituido por art. 3° de la Ley N° 22.248 B.O. 18/7/1980)
+(Artículo sustituido por art. 88 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 3° — Ley aplicable.
 
@@ -72,9 +72,11 @@ Art. 9° — El principio de la norma más favorable para el trabajador.
 
 En caso de duda sobre la aplicación de normas legales o convencionales prevalecerá la más favorable al trabajador, considerándose la norma o conjuntos de normas que rija cada una de las instituciones del derecho del trabajo.
 
-Si la duda recayese en la interpretación o alcance de la ley, o en apreciación de la prueba en los casos concretos, los jueces o encargados de aplicarla se decidirán en el sentido más favorable al trabajador.
+Si la duda recayese en la interpretación o alcance de la ley, o en la apreciación de la prueba, en los casos concretos, los jueces o encargados de aplicarla se decidirán en el sentido más favorable al trabajador, cuando hubieran agotado todos los medios de investigación a su alcance y persistiera duda probatoria insuperable, valorando los principios de congruencia y defensa en juicio.
 
-(Artículo sustituido por art. 1º de la Ley Nº 26.428 B.O. 26/12/2008)
+En tal sentido se aplicará la regla general procesal, en virtud de la cual los hechos deben ser probados por quien los invoca, con plena vigencia de la facultad de los magistrados en la obtención de la verdad objetiva y el respeto a la seguridad jurídica.
+
+(Artículo sustituido por art. 66 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Artículo 10. — Conservación del contrato.
 
@@ -84,11 +86,13 @@ Artículo 11. — Principios de interpretación y aplicación de la ley.
 
 Cuando una cuestión no pueda resolverse por aplicación de las normas que rigen el contrato de trabajo o por las leyes análogas, se decidirá conforme a los principios de la justicia social, a los generales del derecho del trabajo, la equidad y la buena fe.
 
-Art. 12. — Irrenunciabilidad.
+Art. 12. — Protección de los trabajadores. Irrenunciabilidad.
 
-Será nula y sin valor toda convención de partes que suprima o reduzca los derechos previstos en esta ley, los estatutos profesionales, las convenciones colectivas o los contratos individuales de trabajo, ya sea al tiempo de su celebración o de su ejecución, o del ejercicio de derechos provenientes de su extinción.
+Será nula y sin valor toda convención de partes que suprima o reduzca los derechos previstos en esta ley, los estatutos profesionales y las convenciones colectivas de trabajo, ya sea al tiempo de su celebración o de su ejecución, o del ejercicio de derechos provenientes de su extinción.
 
-(Artículo sustituido por art. 1° de la Ley N° 26.574 B.O. 29/12/2009)
+Cuando se celebren acuerdos relativos a modificaciones de elementos esenciales del contrato de trabajo o de desvinculación en los términos del artículo 241 de esta Ley, las partes podrán solicitar a la autoridad de aplicación su homologación en los términos del artículo 15 de la presente Ley.
+
+(Artículo sustituido por art. 67 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 13. — Substitución de las cláusulas nulas.
 
@@ -102,11 +106,11 @@ Art. 15. — Acuerdos transaccionales conciliatorios o liberatorios. Su validez.
 
 Los acuerdos transaccionales, conciliatorios o liberatorios sólo serán válidos cuando se realicen con intervención de la autoridad judicial o administrativa, y mediare resolución fundada de cualquiera de ésta que acredite que mediante tales actos se ha alcanzado una justa composición de los derechos e intereses de las partes.
 
-Sin perjuicio de ello, si una o ambas partes pretendieren que no se encuentran alcanzadas por las normas que establecen la obligación de pagar o retener los aportes con destino a los organismos de la seguridad social, o si de las constancias disponibles surgieren indicios de que el trabajador afectado no se encuentra regularmente registrado o de que ha sido registrado tardíamente o con indicación de una remuneración inferior a la realmente percibida o de que no se han ingresado parcial o totalmente aquellos aportes y contribuciones, la autoridad administrativa o judicial interviniente deber remitir las actuaciones a la Administración Federal de Ingresos Públicos con el objeto de que la misma establezca si existen obligaciones omitidas y proceda en su consecuencia. (Párrafo incorporado por art. 44 de la Ley N° 25.345 B.O. 17/11/2000)
+Sin perjuicio de ello, si una o ambas partes pretendieren que no se encuentran alcanzadas por las normas que establecen la obligación de pagar o retener los aportes con destino a los organismos de la seguridad social, o si de las constancias disponibles surgieren indicios de que el trabajador afectado no se encuentra regularmente registrado o de que ha sido registrado tardíamente o con indicación de una remuneración inferior a la realmente percibida o de que no se han ingresado parcial o totalmente aquellos aportes y contribuciones, la autoridad administrativa o judicial interviniente deber remitir las actuaciones a la Administración Federal de Ingresos Públicos con el objeto de que la misma establezca si existen obligaciones omitidas y proceda en su consecuencia. (Párrafo incorporado por art. 44 de la Ley N° 25.345 B.O. 17/11/2000. Artículo 44 de la Ley N° 25.345 derogado por art. 56 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-La autoridad judicial o administrativa que omitiere actuar del modo establecido en esta norma quedará incursa en grave incumplimiento de sus deberes como funcionario y será, en consecuencia, pasible de las sanciones y penalidades previstas para tales casos. (Párrafo incorporado por art. 44 de la Ley N° 25.345 B.O. 17/11/2000)
+La autoridad judicial o administrativa que omitiere actuar del modo establecido en esta norma quedará incursa en grave incumplimiento de sus deberes como funcionario y será, en consecuencia, pasible de las sanciones y penalidades previstas para tales casos. (Párrafo incorporado por art. 44 de la Ley N° 25.345 B.O. 17/11/2000. Artículo 44 de la Ley N° 25.345 derogado por art. 56 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-En todos los casos, la homologación administrativa o judicial de los acuerdos conciliatorios, transaccionales o liberatorios les otorgar la autoridad de cosa juzgada entre las partes que los hubieren celebrado, pero no les hará oponibles a los organismos encargados de la recaudación de los aportes, contribuciones y demás cotizaciones destinados a los sistemas de la seguridad social, en cuanto se refiera a la calificación de la naturaleza de los vínculos habidos entre las partes y a la exigibilidad de las obligaciones que de esos vínculos se deriven para con los sistemas de seguridad social. (Párrafo incorporado por art. 44 de la Ley N° 25.345 B.O. 17/11/2000)
+En todos los casos, la homologación administrativa o judicial de los acuerdos conciliatorios, transaccionales o liberatorios les otorgar la autoridad de cosa juzgada entre las partes que los hubieren celebrado, pero no les hará oponibles a los organismos encargados de la recaudación de los aportes, contribuciones y demás cotizaciones destinados a los sistemas de la seguridad social, en cuanto se refiera a la calificación de la naturaleza de los vínculos habidos entre las partes y a la exigibilidad de las obligaciones que de esos vínculos se deriven para con los sistemas de seguridad social. (Párrafo incorporado por art. 44 de la Ley N° 25.345 B.O. 17/11/2000. Artículo 44 de la Ley N° 25.345 derogado por art. 56 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 Art. 16. — Aplicación analógica de las convenciones colectivas de trabajo. — Su exclusión.
 
@@ -154,9 +158,11 @@ Habrá relación de trabajo cuando una persona realice actos, ejecute obras o pr
 
 Art. 23. — Presunción de la existencia del contrato de trabajo.
 
-El hecho de la prestación de servicios hace presumir la existencia de un contrato de trabajo, salvo que por las circunstancias, las relaciones o causas que lo motiven se demostrase lo contrario.
+El hecho de la prestación de servicios hace presumir la existencia de un contrato de trabajo, salvo que, por las circunstancias, las relaciones o causas que lo motiven se demostrase lo contrario.
 
-Esa presunción operará igualmente aún cuando se utilicen figuras no laborales, para caracterizar al contrato, y en tanto que por las circunstancias no sea dado calificar de empresario a quien presta el servicio.
+La presunción contenida en el presente artículo no será de aplicación cuando la relación se trate de contrataciones de obras o de servicios profesionales o de oficios y se emitan los recibos o facturas correspondientes a dichas formas de contratación o el pago se realice conforme los sistemas bancarios determinados por la reglamentación correspondiente. Dicha ausencia de presunción se extenderá a todos los efectos, inclusive a la seguridad social.
+
+(Artículo sustituido por art. 89 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 24. — Efectos del contrato sin relación de trabajo.
 
@@ -184,13 +190,11 @@ Art. 28. — Auxiliares del trabajador.
 
 Si el trabajador estuviese autorizado a servirse de auxiliares, éstos serán considerados como en relación directa con el empleador de aquél, salvo excepción expresa prevista por esta ley o los regímenes legales o convencionales aplicables.
 
-Art. 29. — Interposición y mediación — Solidaridad.
+Art. 29. — Mediación. Intermediación. Solidaridad. Subsidiariedad.
 
-Los trabajadores que habiendo sido contratados por terceros con vista a proporcionarlos a las empresas, serán considerados empleados directos de quien utilice su prestación.
+Los trabajadores serán considerados empleados directos de aquellos que registren la relación laboral, sin perjuicio de haber sido contratados con vistas a utilizar su prestación o de proporcionarlos a terceras empresas. La empresa usuaria será responsable solidaria por las obligaciones laborales y de la seguridad social respecto de los trabajadores proporcionados, exclusivamente respecto de aquellas devengadas durante el tiempo de efectiva prestación para esta última.
 
-En tal supuesto, y cualquiera que sea el acto o estipulación que al efecto concierten, los terceros contratantes y la empresa para la cual los trabajadores presten o hayan prestado servicios responderán solidariamente de todas las obligaciones emergentes de la relación laboral y de las que se deriven del régimen de la seguridad social.
-
-Los trabajadores contratados por empresas de servicios eventuales habilitadas por la autoridad competente para desempeñarse en los términos de los artículos 99 de la presente y 77 a 80 de la Ley Nacional de Empleo, serán considerados en relación de dependencia, con carácter permanente contínuo o discontínuo, con dichas empresas. (Párrafo sustituido por art. 75 de la Ley N° 24.013 B.O. 17/12/1991)
+(Artículo sustituido por art. 90 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 29 BIS. — El empleador que ocupe trabajadores a través de una empresa de servicios eventuales habilitada por la autoridad competente, será solidariamente responsable con aquélla por todas las obligaciones laborales y deberá retener de los pagos que efectúe a la empresa de servicios eventuales los aportes y contribuciones respectivos para los organismos de la Seguridad Social y depositarlos en término. El trabajador contratado a través de una empresa de servicios eventuales estará regido por la Convención Colectiva, será representado por el Sindicato y beneficiado por la Obra Social de la actividad o categoría en la que efectivamente preste servicios en la empresa usuaria.
 
@@ -472,15 +476,13 @@ Art. 79. —Deber de diligencia e iniciativa del empleador.
 
 El empleador deberá cumplir con las obligaciones que resulten de esta ley, de los estatutos profesionales, convenciones colectivas de trabajo y de los sistemas de seguridad social, de modo de posibilitar al trabajador el goce íntegro y oportuno de los beneficios que tales disposiciones le acuerdan. No podrá invocar en ningún caso el incumplimiento de parte del trabajador de las obligaciones que le están asignadas y del que se derive la pérdida total o parcial de aquellos beneficios, si la observancia de las obligaciones dependiese de la iniciativa del empleador y no probase el haber cumplido oportunamente de su parte las que estuviese en su cargo como agente de retención, contribuyente u otra condición similar.
 
-Art. 80. —Deber de observar las obligaciones frente a los organismos sindicales y de la seguridad social - Certificado de trabajo.
+Art. 80. —Entrega de certificados.
 
-La obligación de ingresar los fondos de seguridad social por parte del empleador y los sindicales a su cargo, ya sea como obligado directo o como agente de retención, configurará asimismo una obligación contractual.
+El Poder Ejecutivo Nacional establecerá en orden a la obligación de entrega de los certificados del artículo 80 de la Ley N° 20.744, un mecanismo opcional de cumplimiento de entrega a través de una plataforma virtual.
 
-El empleador, por su parte, deberá dar al trabajador, cuando éste lo requiriese a la época de la extinción de la relación, constancia documentada de ello. Durante el tiempo de la relación deberá otorgar tal constancia cuando medien causas razonables.
+Se considera efectivamente cumplida dicha obligación por parte de los empleadores cuando se hubieran incorporado a la plataforma virtual los certificados pertinentes. Asimismo, también se considera cumplimentada cuando la información se encuentre actualizada y disponible para el trabajador a través de la página web del organismo de la seguridad social.
 
-Cuando el contrato de trabajo se extinguiere por cualquier causa, el empleador estará obligado a entregar al trabajador un certificado de trabajo, conteniendo las indicaciones sobre el tiempo de prestación de servicios, naturaleza de éstos, constancia de los sueldos percibidos y de los aportes y contribuciones efectuados con destino a los organismos de la seguridad social.
-
-Si el empleador no hiciera entrega de la constancia o del certificado previstos respectivamente en los apartados segundo y tercero de este artículo dentro de los dos (2) días hábiles computados a partir del día siguiente al de la recepción del requerimiento que a tal efecto le formulare el trabajador de modo fehaciente, será sancionado con una indemnización a favor de este último que será equivalente a tres veces la mejor remuneración mensual, normal y habitual percibida por el trabajador durante el último año o durante el tiempo de prestación de servicios, si éste fuere menor. Esta indemnización se devengará sin perjuicio de las sanciones conminatorias que para hacer cesar esa conducta omisiva pudiere imponer la autoridad judicial competente. (Párrafo incorporado por art. 45 de la Ley N° 25.345 B.O. 17/11/2000)
+(Artículo sustituido por art. 70 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 81. —Igualdad de trato.
 
@@ -568,25 +570,33 @@ Art. 92. —Prueba.
 
 La carga de la prueba de que el contrato es por tiempo determinado estará a cargo del empleador.
 
-Art. 92 bis. — El contrato de trabajo por tiempo indeterminado, excepto el referido en el artículo 96, se entenderá celebrado a prueba durante los primeros TRES (3) meses de vigencia. Cualquiera de las partes podrá extinguir la relación durante ese lapso sin expresión de causa, sin derecho a indemnización con motivo de la extinción, pero con obligación de preavisar según lo establecido en los artículos 231 y 232.
+Art. 92 bis. — Período de prueba.
+
+El contrato de trabajo por tiempo indeterminado se entenderá celebrado a prueba durante los primeros seis (6) meses de vigencia. Las convenciones colectivas de trabajo podrán ampliar dicho período de prueba:
+
+a) hasta ocho (8) meses, en las empresas de seis (6) y hasta cien (100) trabajadores; y
+
+b) hasta un (1) año en las empresas de hasta cinco (5) trabajadores.
+
+Cualquiera de las partes podrá extinguir la relación durante ese lapso sin expresión de causa, sin derecho a indemnización con motivo a la extinción.
 
 El período de prueba se regirá por las siguientes reglas:
 
-1. Un empleador no puede contratar a un mismo trabajador, más de una vez, utilizando el período de prueba. De hacerlo, se considerará de pleno derecho, que el empleador ha renunciado al período de prueba.
+(i) Un empleador no puede contratar a un mismo trabajador, más de una vez, utilizando el período de prueba. De hacerlo, se considerará de pleno derecho, que el empleador ha renunciado al período de prueba.
 
-2. El uso abusivo del período de prueba con el objeto de evitar la efectivización de trabajadores será pasible de las sanciones previstas en los regímenes sobre infracciones a las leyes de trabajo. En especial, se considerará abusiva la conducta del empleador que contratare sucesivamente a distintos trabajadores para un mismo puesto de trabajo de naturaleza permanente.
+(ii) El uso abusivo del período de prueba con el objeto de evitar la efectivización de trabajadores será pasible de las sanciones previstas en los regímenes sobre infracciones a las leyes de trabajo. En especial, se considerará abusiva la conducta del empleador que contratare sucesivamente a distintos trabajadores para un mismo puesto de trabajo de naturaleza permanente.
 
-3. El empleador debe registrar al trabajador que comienza su relación laboral por el período de prueba. Caso contrario, sin perjuicio de las consecuencias que se deriven de ese incumplimiento, se entenderá de pleno derecho que ha renunciado a dicho período.
+(iii) Las partes tienen los derechos y las obligaciones propias de la relación laboral, con las excepciones que se establecen en este artículo. Tal reconocimiento respecto del trabajador incluye los derechos sindicales.
 
-4. Las partes tienen los derechos y obligaciones propias de la relación laboral, con las excepciones que se establecen en este artículo. Tal reconocimiento respecto del trabajador incluye los derechos sindicales.
+(iv) Las partes están obligadas al pago de los aportes y contribuciones a la seguridad social, con los beneficios establecidos en cada caso.
 
-5. Las partes están obligadas al pago de los aportes y contribuciones a la Seguridad Social.
+(v) El trabajador tiene derecho, durante el período de prueba, a las prestaciones por accidente o enfermedad del trabajo. También por accidente o enfermedad inculpable, que perdurará exclusivamente hasta la finalización del período de prueba si el empleador rescindiere el contrato de trabajo durante ese lapso. Queda excluida la aplicación de lo prescripto en el cuarto párrafo del artículo 212.
 
-6. El trabajador tiene derecho, durante el período de prueba, a las prestaciones por accidente o enfermedad del trabajo. También por accidente o enfermedad inculpable, que perdurará exclusivamente hasta la finalización del período de prueba si el empleador rescindiere el contrato de trabajo durante ese lapso. Queda excluida la aplicación de lo prescripto en el cuarto párrafo del artículo 212.
+(vi) El período de prueba se computará como tiempo de servicio a todos los efectos laborales y de la seguridad social.
 
-7. El período de prueba, se computará como tiempo de servicio a todos los efectos laborales y de la Seguridad Social.
+El empleador deberá registrar al trabajador desde la fecha de inicio de la relación; caso contrario, se considerará que ha renunciado al período de prueba.
 
-(Artículo sustituido por art. 2° de la Ley N° 25.877 B.O. 19/3/2004)
+(Artículo sustituido por art. 91 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 92 TER. —Contrato de Trabajo a tiempo parcial.
 
@@ -782,7 +792,9 @@ El empleador estará obligado a garantizar la dación de trabajo en cantidad ade
 
 Art. 113. —Propinas.
 
-Cuando el trabajador, con motivo del trabajo que preste, tuviese oportunidad de obtener beneficios o ganancias, los ingresos en concepto de propinas o recompensas serán considerados formando parte de la remuneración, si revistieran el carácter de habituales y no estuviesen prohibidas.
+Cuando el trabajador, con motivo del trabajo que preste, tuviese oportunidad de obtener beneficios o ganancias en concepto de propinas o recompensas, no serán considerados parte de la remuneración.
+
+(Artículo sustituido por art. 1° del Decreto N° 731/2024 B.O. 14/8/2024. Vigencia: a partir de su publicación en el BOLETÍN OFICIAL)
 
 Art. 114. —Determinación de la remuneración por los jueces.
 
@@ -850,17 +862,9 @@ CAPITULO IV
 
 De la tutela y pago de la remuneración
 
-Art. 124. —Medios de pago. Control. Ineficacia de los pagos.
+Art. 124. — Las remuneraciones en dinero debidas al trabajador deberán pagarse, bajo pena de nulidad, en efectivo, cheque a la orden del trabajador para ser cobrado personalmente por este o quien él indique o mediante la acreditación en cuenta abierta a su nombre en entidad bancaria, en institución de ahorro oficial o en otras categorías de entidades que la autoridad de aplicación del sistema de pagos considere aptas, seguras, interoperables y competitivas.
 
-Las remuneraciones en dinero debidas al trabajador deberán pagarse, bajo pena de nulidad, en efectivo, cheque a la orden del trabajador para ser cobrado personalmente por éste o quien él indique o mediante la acreditación en cuenta abierta a su nombre en entidad bancaria o en institución de ahorro oficial.
-
-Dicha cuenta, especial tendrá el nombre de cuenta sueldo y bajo ningún concepto podrá tener límites de extracciones, ni costo alguno para el trabajador, en cuanto a su constitución, mantenimiento o extracción de fondos en todo el sistema bancario, cualquiera fuera la modalidad extractiva empleada.
-
-La autoridad de aplicación podrá disponer que en determinadas actividades, empresas, explotaciones o establecimientos o en determinadas zonas o épocas, el pago de las remuneraciones en dinero debidas al trabajador se haga exclusivamente mediante alguna o algunas de las formas previstas y con el control y supervisión de funcionarios o agentes dependientes de dicha autoridad. El pago que se formalizare sin dicha supervisión podrá ser declarado nulo.
-
-En todos los casos el trabajador podrá exigir que su remuneración le sea abonada en efectivo.
-
-(Artículo sustituido por art. 1º de la Ley Nº 26.590 B.O. 5/5/2010)
+(Artículo sustituido por art. 72 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 125. —Constancias bancarias. Prueba de pago.
 
@@ -924,7 +928,7 @@ a) Adelanto de remuneraciones hechas con las formalidades del Art. 130 de esta l
 
 b) Retención de aportes jubilatorios y obligaciones fiscales a cargo del trabajador.
 
-c) Pago de cuotas, aportes periódicos o contribuciones a que estuviesen obligados los trabajadores en virtud de normas legales o provenientes de las convenciones colectivas de trabajo, o que resulte de su carácter de afiliados a asociaciones profesionales de trabajadores con personería gremial, o de miembros de sociedades mutuales o cooperativas, así como por servicios sociales y demás prestaciones que otorguen dichas entidades.
+c) Pago de cuotas, aportes periódicos o contribuciones a que estuviesen obligados los trabajadores en virtud de normas legales o provenientes de las convenciones colectivas de trabajo o que resulte de su carácter de afiliados a asociaciones profesionales de trabajadores con personería gremial o de miembros de sociedades mutuales o cooperativas así como por servicios sociales y demás prestaciones que otorguen dichas entidades, solo si existe un consentimiento explícito del empleado autorizando el mismo. (Inciso sustituido por art. 73 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 d) Reintegro de precios por la adquisición de viviendas o arrendamientos de las mismas, o por compra de mercaderías de que sean acreedores entidades sindicales, mutualistas o cooperativistas
 
@@ -942,7 +946,7 @@ Art. 132 BIS.
 
 Si el empleador hubiere retenido aportes del trabajador con destino a los organismos de la seguridad social, o cuotas, aportes periódicos o contribuciones a que estuviesen obligados los trabajadores en virtud de normas legales o provenientes de las convenciones colectivas de trabajo, o que resulten de su carácter de afiliados a asociaciones profesionales de trabajadores con personería gremial, o de miembros de sociedades mutuales o cooperativas, o por servicios y demás prestaciones que otorguen dichas entidades, y al momento de producirse la extinción del contrato de trabajo por cualquier causa no hubiere ingresado total o parcialmente esos importes a favor de los organismos, entidades o instituciones a los que estuvieren destinados, deberá a partir de ese momento pagar al trabajador afectado una sanción conminatoria mensual equivalente a la remuneración que se devengaba mensualmente a favor de este último al momento de operarse la extinción del contrato de trabajo, importe que se devengará con igual periodicidad a la del salario hasta que el empleador acreditare de modo fehaciente haber hecho efectivo el ingreso de los fondos retenidos. La imposición de la sanción conminatoria prevista en este artículo no enerva la aplicación de las penas que procedieren en la hipótesis de que hubiere quedado configurado un delito del derecho penal.
 
-(Artículo incorporado por art. 43 de la Ley N° 25.345 B.O. 17/11/2000)
+(Artículo incorporado por art. 43 de la Ley N° 25.345 B.O. 17/11/2000. Artículo 43 de la Ley N° 25.345 derogado por art. 56 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 133. —Porcentaje máximo de retención. Conformidad del trabajador. Autorización administrativa.
 
@@ -978,9 +982,13 @@ Producido el daño, el empleador deberá consignar judicialmente el porcentaje d
 
 Art. 136. —Contratistas e intermediarios.
 
-Sin perjuicio de lo dispuesto en los artículos 29 y 30 de esta ley, los trabajadores contratados por contratistas o intermediarios tendrán derecho a exigir al empleador principal solidario, para los cuales dichos contratistas o intermediarios presten servicios o ejecuten obras, que retengan, de lo que deben percibir éstos, y les hagan pago del importe de lo adeudado en concepto de remuneraciones u otros derechos apreciables en dinero provenientes de la relación laboral.
+Los trabajadores contratados por contratistas o intermediarios tendrán derecho a solicitar a la empresa principal para los cuales dichos contratistas o intermediarios presten servicios o ejecuten obras, que retengan, de lo que deben percibir estos, y den en pago por cuenta y orden de su empleador, los importes adeudados en concepto de remuneraciones, indemnizaciones u otros derechos apreciables en dinero provenientes de la relación laboral.
 
-El empleador principal solidario podrá, así mismo, retener de lo que deben percibir los contratistas o intermediarios, los importes que éstos adeudaren a los organismos de seguridad social con motivo de la relación laboral con los trabajadores contratados por dichos contratistas o intermediarios, que deberá depositar a la orden de los correspondientes organismos dentro de los quince (15) días de retenidos. La retención procederá aunque los contratistas o intermediarios no adeudaren a los trabajadores importe alguno por los conceptos indicados en el párrafo anterior.
+Conforme lo dispuesto en el artículo 30 de la ley 20.744 (t.o. 1976) y sus modificatorias, el principal estará facultado a retener sin preaviso, de lo que deben percibir los contratistas o intermediarios, los importes que estos adeuden a los organismos de seguridad social con motivo de la relación laboral mantenida con los trabajadores contratados por dichos contratistas o intermediarios. Dichas sumas deberán depositarse a la orden de los correspondientes organismos en las formas y condiciones que determine la reglamentación.
+
+La Administración Federal de Ingresos Públicos, dentro de los noventa (90) días de sancionada la Ley de Bases y Puntos de Partida para la Libertad de los Argentinos establecerá un mecanismo simplificado a fin de poder efectivizar la retención correspondiente a la seguridad social establecida en el presente artículo.
+
+(Artículo sustituido por art. 92 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 137. —Mora.
 
@@ -990,35 +998,37 @@ Art. 138. —Recibos y otros comprobantes de pago.
 
 Todo pago en concepto de salario u otra forma de remuneración deberá instrumentarse mediante recibo firmado por el trabajador, o en las condiciones del artículo 59 de esta ley, si fuese el caso, los que deberán ajustarse en su forma y contenido en las disposiciones siguientes:
 
-Art. 139. —Doble ejemplar.
+Art. 139. —Modalidad.
 
-El recibo será confeccionado por el empleador en doble ejemplar, debiendo hacer entrega del duplicado al trabajador.
+El recibo será confeccionado por el empleador debiendo hacer entrega de una copia fiel del original al trabajador la que podrá ser instrumentada de forma electrónica.
+
+(Artículo sustituido por art. 75 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 140. —Contenido necesario.
 
 El recibo de pago deberá necesariamente contener, como mínimo, las siguientes enunciaciones:
 
-a) Nombre íntegro o razón social del empleador y su domicilio y su Clave Unica de Identificación Tributaria (C.U.I.T); (Inciso sustituido por art. 1º de la Ley N° 24.692 B.O. 27/9/1996)
+a) Nombre íntegro o razón social del empleador y su domicilio y su Clave Única de Identificación Tributaria (C.U.I.T);
 
-b) Nombre y apellido del trabajador y su calificación profesional y su Código Unico de Identificación Laboral (C.U.I.L.); (Inciso sustituido por art. 1º de la Ley N° 24.692 B.O. 27/9/1996)
+b) Nombre y apellido del trabajador y su calificación profesional y su Código Único de Identificación Laboral (C.U.I.L.);
 
-c) Todo tipo de remuneración que perciba, con indicación substancial de su determinación. Si se tratase de porcentajes o comisiones de ventas, se indicarán los importes totales de estas últimas, y el porcentaje o comisión asignada al trabajador.
+c) Total de remuneración que perciba, con indicación substancial de su determinación. Si se tratase de porcentajes o comisiones de ventas, se indicarán los importes totales de estas últimas, y el porcentaje o comisión asignada al trabajador.
 
-d) Los requisitos del artículo 12 del decreto-ley 17.250/67.
+d) Los requisitos del artículo 12 del Decreto-Ley N° 17.250/67.
 
-e) Total bruto de la remuneración básica o fija y porcentual devengado y tiempo que corresponda. En los trabajos remunerados a jornal o por hora, el número de jornadas u horas trabajadas, y si se tratase de remuneración por pieza o medida, número de éstas, importe por unidad adoptado y monto global correspondiente al lapso liquidado.
+e) Total bruto de la remuneración básica o fija y porcentual devengado y tiempo que corresponda. En los trabajos remunerados a jornal o por hora, el número de jornadas u horas trabajadas, y si se tratase de remuneración por pieza o medida, número de estas, importe por unidad adoptado y monto global correspondiente al lapso liquidado.
 
 f) Importe de las deducciones que se efectúan por aportes jubilatorios u otras autorizadas por esta ley; embargos y demás descuentos que legalmente correspondan.
 
 g) Importe neto percibido, expresado en números y letras.
 
-h) Constancia de la recepción del duplicado por el trabajador.
+h) En el caso de los artículos 124 y 129 de esta ley, firma y sello de los funcionarios o agentes dependientes de la autoridad, la que podrá ser electrónica y supervisión de los pagos.
 
-i) Lugar y fecha que deberán corresponder al pago real y efectivo de la remuneración al trabajador.
+i) Fecha de ingreso o antigüedad reconocida y tarea cumplida o categoría en que efectivamente se desempeñó durante el período de pago.
 
-j) En el caso de los artículos 124 y 129 de esta ley, firma y sello de los funcionarios o agentes dependientes de la autoridad y supervisión de los pagos.
+j) Total de contribuciones abonadas por el empleador por disposición legal.
 
-k) Fecha de ingreso y tarea cumplida o categoría en que efectivamente se desempeñó durante el período de pago.
+(Artículo sustituido por art. 76 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 141. —Recibos separados.
 
@@ -1034,7 +1044,11 @@ Art. 143. —Conservación - Plazo.
 
 El empleador deberá conservar los recibos y otras constancias de pago durante todo el plazo correspondiente a la prescripción liberatoria del beneficio de que se trate.
 
+A efectos de la conservación de los recibos y otras constancias de pago, los mismos podrán ser digitalizados, los cuales tendrán la misma validez que en formato papel.
+
 El pago hecho por un último o ulteriores períodos no hace presumir el pago de los anteriores.
+
+(Artículo sustituido por art. 77 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 144. —Libros y registros - Exigencia del recibo de pago.
 
@@ -1266,15 +1280,19 @@ De la protección de la maternidad
 
 Art. 177. —Prohibición de trabajar. Conservación del Empleo.
 
-Queda prohibido el trabajo del personal femenino durante los cuarenta y cinco (45) días anteriores al parto y hasta cuarenta y cinco (45) días después del mismo. Sin embargo, la interesada podrá optar por que se le reduzca la licencia anterior al parto, que en tal caso no podrá ser inferior a treinta (30) días; el resto del período total de licencia se acumulará al período de descanso posterior al parto. En caso de nacimiento pre-término se acumulará al descanso posterior todo el lapso de licencia que no se hubiere gozado antes del parto, de modo de completar los noventa (90) días.
+Queda prohibido el trabajo del personal femenino o persona gestante durante los cuarenta y cinco (45) días anteriores al parto y hasta cuarenta y cinco (45) días después del mismo.
 
-La trabajadora deberá comunicar fehacientemente su embarazo al empleador, con presentación de certificado médico en el que conste la fecha presunta del parto, o requerir su comprobación por el empleador. La trabajadora conservará su empleo durante los períodos indicados, y gozará de las asignaciones que le confieren los sistemas de seguridad social, que garantizarán a la misma la percepción de una suma igual a la retribución que corresponda al período de licencia legal, todo de conformidad con las exigencias y demás requisitos que prevean las reglamentaciones respectivas.
+Sin embargo, la persona interesada podrá optar por que se le reduzca la licencia anterior al parto, que en tal caso no podrá ser inferior a diez (10) días; el resto del período total de licencia se acumulará al período de descanso posterior al parto. En caso de nacimiento pretérmino se acumulará al descanso posterior todo el lapso de licencia que no se hubiere gozado antes del parto, de modo de completar los noventa (90) días.
 
-Garantízase a toda mujer durante la gestación el derecho a la estabilidad en el empleo. El mismo tendrá carácter de derecho adquirido a partir del momento en que la trabajadora practique la notificación a que se refiere el párrafo anterior.
+La trabajadora o persona gestante deberá comunicar fehacientemente su embarazo al empleador, con presentación de certificado médico en el que conste la fecha presunta del parto, o requerir su comprobación por el empleador.
 
-En caso de permanecer ausente de su trabajo durante un tiempo mayor, a consecuencia de enfermedad que según certificación médica deba su origen al embarazo o parto y la incapacite para reanudarlo vencidos aquellos plazos, la mujer será acreedora a los beneficios previstos en el artículo 208 de esta ley.
+La misma conservará su empleo durante los períodos indicados, y gozará de las asignaciones que le confieren los sistemas de seguridad social, que garantizarán a la misma la percepción de una suma igual a la retribución que corresponda al período de licencia legal, todo de conformidad con las exigencias y demás requisitos que prevean las reglamentaciones respectivas.
 
-(Artículo sustituido por art. 1 ° de la Ley N° 21.824 B.O. 30/6//1978)
+Garantízase a toda mujer o persona gestante durante la gestación el derecho a la estabilidad en el empleo, el que tendrá carácter de derecho adquirido a partir del momento en que la misma practique la notificación a que se refiere el párrafo anterior.
+
+En caso de permanecer ausente de su trabajo durante un tiempo mayor, a consecuencia de enfermedad que según certificación médica deba su origen al embarazo o parto y la incapacite para reanudarlo vencidos aquellos plazos, la mujer o persona gestante será acreedora a los beneficios previstos en el artículo 208 de esta ley.
+
+(Artículo sustituido por art. 93 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 178. —Despido por causa del embarazo. Presunción.
 
@@ -1433,6 +1451,12 @@ Integrarán la jornada de trabajo los períodos de inactividad a que obliguen la
 La distribución de las horas de trabajo será facultad privativa del empleador y la diagramación de los horarios, sea por el sistema de turnos fijos o bajo el sistema rotativo del trabajo por equipos no estará sujeta a la previa autorización administrativa, pero aquél deberá hacerlos conocer mediante anuncios colocados en lugares visibles del establecimiento para conocimiento público de los trabajadores.
 
 Entre el cese de una jornada y el comienzo de la otra deberá mediar una pausa no inferior a doce (12) horas.
+
+Art. 197 bis. — Las convenciones colectivas de trabajo, respetando los mínimos indisponibles de 12 horas de descanso entre jornada y jornada por razones de salud y seguridad en el trabajo, así como los límites legales conforme la naturaleza de cada actividad, podrán establecer regímenes que se adecuen a los cambios en las modalidades de producción, las condiciones propias de cada actividad, contemplando especialmente el beneficio e interés de los trabajadores.
+
+A tal efecto, se podrá disponer colectivamente del régimen de horas extras, banco de horas, francos compensatorios, entre otros institutos relativos a la jornada laboral.
+
+(Artículo incorporado por art. 79 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 198. —Jornada reducida.
 
@@ -1752,9 +1776,23 @@ De la extinción del contrato de trabajo por justa causa
 
 Art. 242. —Justa causa.
 
-Una de las partes podrá hacer denuncia del contrato de trabajo en caso de inobservancia por parte de la otra de las obligaciones resultantes del mismo que configuren injuria y que, por su gravedad, no consienta la prosecución de la relación.
+Una de las partes podrá hacer denuncia del contrato de trabajo en caso de inobservancia por parte de la otra de las obligaciones resultantes del mismo que configuren injuria y que, por su gravedad, no consientan la prosecución de la relación.
 
 La valoración deberá ser hecha prudencialmente por los jueces, teniendo en consideración el carácter de las relaciones que resulta de un contrato de trabajo, según lo dispuesto en la presente ley, y las modalidades y circunstancias personales en cada caso.
+
+Podrá configurar grave injuria laboral, como objetiva causal de extinción del contrato de trabajo, la participación activa en bloqueos o tomas de establecimiento.
+
+Se presume que existe injuria grave cuando, durante una medida de acción directa:
+
+a) se afecte la libertad de trabajo de quienes no adhieran a la medida de fuerza, mediante actos, hechos, intimidaciones o amenazas;
+
+b) se impida u obstruya total o parcialmente el ingreso o egreso de personas y/o cosas al establecimiento;
+
+c) se ocasionen daños en personas o en cosas de propiedad de la empresa o de terceros situadas en el establecimiento (instalaciones, mercaderías, insumos y materias primas, herramientas, etc.) o se las retenga indebidamente.
+
+Previo al distracto el empleador debe intimar al trabajador al cese de la conducta injuriosa, excepto en el supuesto de daños a las personas o cosas previsto en el inciso c), donde la producción del daño torna inoficiosa la intimación.
+
+(Artículo sustituido por art. 94 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 243. —Comunicación. Invariabilidad de la causa de despido.
 
@@ -1766,19 +1804,37 @@ El abandono del trabajo como acto de incumplimiento del trabajador sólo se conf
 
 Art. 245. —Indemnización por antigüedad o despido.
 
-En los casos de despido dispuesto por el empleador sin justa causa, habiendo o no mediado preaviso, éste deberá abonar al trabajador una indemnización equivalente a UN (1) mes de sueldo por cada año de servicio o fracción mayor de TRES (3) meses, tomando como base la mejor remuneración mensual, normal y habitual devengada durante el último año o durante el tiempo de prestación de servicios si éste fuera menor.
+En los casos de despido dispuesto por el empleador sin justa causa, habiendo o no mediado preaviso y luego de transcurrido el periodo de prueba, se deberá abonar al trabajador una indemnización equivalente a UN (1) mes de sueldo por cada año de servicio o fracción mayor de TRES (3) meses, tomando como base de cálculo la mejor remuneración mensual, normal y habitual devengada durante el último año o durante el tiempo de prestación de servicios si este fuera menor. La base de cálculo de esta indemnización no incluirá el Sueldo Anual Complementario, ni conceptos de pago semestral o anual.
 
-Dicha base no podrá exceder el equivalente de TRES (3) veces el importe mensual de la suma que resulte del promedio de todas las remuneraciones previstas en el convenio colectivo de trabajo aplicable al trabajador, al momento del despido, por la jornada legal o convencional, excluida la antigüedad. Al MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL le corresponderá fijar y publicar el promedio resultante, juntamente con las escalas salariales de cada Convenio Colectivo de Trabajo.
+Para aquellos trabajadores remunerados a comisión o con remuneraciones mensuales variables, será de aplicación el promedio de los últimos SEIS (6) meses, o del último año si fuera más favorable al trabajador.
 
-Para aquellos trabajadores excluidos del convenio colectivo de trabajo el tope establecido en el párrafo anterior será el del convenio aplicable al establecimiento donde preste servicios o al convenio más favorable, en el caso de que hubiera más de uno.
+Dicha base no podrá exceder el equivalente de TRES (3) veces el importe mensual de la suma que resulte del promedio de todas las remuneraciones previstas en el convenio colectivo de trabajo aplicable al trabajador, al momento del despido, por la jornada legal o convencional, excluida la antigüedad. Le corresponderá a la Autoridad de Aplicación fijar y publicar el promedio resultante, conjuntamente con las escalas salariales de cada convenio colectivo de trabajo.
 
-Para aquellos trabajadores remunerados a comisión o con remuneraciones variables, será de aplicación el convenio al que pertenezcan o aquel que se aplique en la empresa o establecimiento donde preste servicios, si éste fuere más favorable.
+Para aquellos trabajadores excluidos de todo convenio colectivo de trabajo, el tope establecido en el párrafo anterior será el del convenio aplicable al establecimiento donde preste servicios o al convenio más favorable, en el caso de que hubiera más de uno.
 
-El importe de esta indemnización en ningún caso podrá ser inferior a UN (1) mes de sueldo calculado sobre la base del sistema establecido en el primer párrafo.
+La base de cálculo de la indemnización no podrá en ningún caso ser inferior al SESENTA Y SIETE POR CIENTO (67 %) del importe correspondiente a UN (1) mes de sueldo, obtenido conforme el método descripto en el primer y segundo párrafo del presente.
 
-(Artículo sustituido por art. 5° de la Ley N° 25.877 B.O. 19/3/2004)
+La indemnización en ningún caso podrá ser inferior a UN (1) mes de sueldo calculado sobre la base del sistema establecido en el primer y segundo párrafo del presente.
 
-(Nota Infoleg: Ver Ley N° 25.323 Indemnizaciones Laborales. Incrementos)
+Mediante convenio colectivo de trabajo, las partes podrán sustituir el presente régimen indemnizatorio por un fondo o sistema de cese laboral cuyo costo estará siempre a cargo del empleador, con un aporte mensual que no podrá ser superior al OCHO POR CIENTO (8%) de la remuneración computable.
+
+Por su parte, los empleadores podrán optar por contratar un sistema privado de capitalización a su costo, a fin de solventar la indemnización prevista en el presente artículo y/o la suma que libremente se pacte entre las partes para el supuesto de desvinculación por mutuo acuerdo conforme artículo 241 de la presente ley.
+
+(Artículo sustituido por art. 81 del Decreto N° 70/2023 B.O. 21/12/2023.)
+
+(Nota Infoleg: Ver - Fondo de cese- art. 96 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
+
+Art. 245 bis. — Agravamiento indemnizatorio por despido motivado por un acto discriminatorio.
+
+Será considerado despido por un acto de discriminación aquel originado por motivos de raza o etnia, religión, nacionalidad, ideología, opinión política o gremial, sexo o género, orientación sexual, posición económica, caracteres físicos o discapacidad.
+
+En este supuesto la prueba estará a cargo de quien invoque la causal, y en caso de sentencia judicial que corrobore el origen discriminatorio del despido, corresponderá el pago de una indemnización agravada especial que ascenderá a un monto equivalente al cincuenta por ciento (50%) de la establecida por el artículo 245 de la ley 20.744 (t.o. 1976) y sus modificatorias o de la indemnización por antigüedad del régimen especial aplicable al caso.
+
+Según la gravedad de los hechos, los jueces podrán incrementar esta indemnización hasta el cien por ciento (100%), conforme los parámetros referidos anteriormente. La indemnización prevista en el presente artículo no será acumulable con ningún otro régimen especial que establezca agravamientos indemnizatorios.
+
+El despido dispuesto, en todos los casos, producirá la extinción definitiva del vínculo laboral a todos los efectos.
+
+(Artículo sustituido por art. 95 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Art. 246. —Despido indirecto.
 
@@ -1876,11 +1932,11 @@ Disposición común
 
 Art. 255. —Reingreso del trabajador. Deducción de las indemnizaciones percibidas.
 
-La antigüedad del trabajador se establecerá conforme a lo dispuesto en los artículos 18 y 19 de esta ley, pero si hubiera mediado reingreso a las órdenes del mismo empleador se deducirá de las indemnizaciones de los artículos 245, 246, 247, 250, 251, 253 y 254 lo pagado en forma nominal por la misma causal de cese anterior.
+La antigüedad del trabajador se establecerá conforme a lo dispuesto en los artículos 18 y 19 de esta ley, pero si hubiera mediado reingreso a las órdenes del mismo empleador se deducirá de las indemnizaciones de los artículos 245, 246, 247, 250, 251, 253 y 254 lo pagado oportunamente, actualizado por el Índice de Precios al Consumidor (IPC) con más una tasa de interés pura del 3% anual, por la causal de cese anterior.
 
 En ningún caso la indemnización resultante podrá ser inferior a la que hubiera correspondido al trabajador si su período de servicios hubiera sido solo el último y con prescindencia de los períodos anteriores al reingreso.
 
-(Artículo sustituido por art. 1º de la Ley Nº 27.325 B.O. 15/12/2016)
+(Artículo sustituido por art. 83 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 255 bis: Plazo de Pago.
 
@@ -2006,33 +2062,79 @@ Se considerarán especialmente comprendidos en esta disposición los casos en qu
 
 Cuando por falta de cumplimiento de un acuerdo homologado en sede judicial o administrativa el trabajador se vea precisado a continuar y/o promover la acción judicial, independientemente de las sanciones que tal actitud genere, dicha conducta será calificada como ‘temeraria y maliciosa’ y la suma adeudada devengará a favor del trabajador, desde la fecha de la mora y hasta su efectiva cancelación, el máximo del interés contemplado en el presente artículo.(Párrafo incorporado por art. 1° de la Ley N° 26.696 B.O. 29/8/2011).
 
-Art. 276. —Actualización por depreciación monetaria.
+Art. 276. —Actualización y repotenciación de los créditos laborales por depreciación monetaria.
 
-Los créditos provenientes de las relaciones individuales de trabajo, serán actualizados, cuando resulten afectados por la depreciación monetaria, teniendo en cuenta la variación que experimente el índice de los precios al consumidor en la Capital Federal, desde la fecha en que debieron haberse abonado hasta el momento del efectivo pago.
+Los créditos provenientes de las relaciones individuales de trabajo serán actualizados y/o repotenciados y/o devengarán intereses.
 
-Dicha actualización será aplicada por los jueces o por la autoridad administrativa de aplicación de oficio o a petición de parte incluso en los casos de concurso del deudor, así como también, después de la declaración de quiebra.
+La suma que resulte de dicha actualización y/o repotenciación y/o aplicación de intereses en ningún caso podrá ser superior a la que resulte de calcular el capital histórico actualizado por el Índice de Precios al Consumidor (IPC) con más una tasa de interés pura del 3% anual.
 
-(Artículo sustituido por art. 1º de la Ley N° 23.616 B.O. 10/11/1988)
+La presente disposición es de orden público federal y será aplicada por los jueces o por la autoridad administrativa, de oficio o a petición de parte, incluso en los casos de concurso del deudor, así como también, después de la declaración de quiebra.
+
+(Artículo sustituido por art. 84 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Art. 277. —Pago en juicio.
 
-Todo pago que deba realizarse en los juicios laborales se efectivizará mediante depósito bancario en autos a la orden del Tribunal interviniente y giro judicial personal al titular del crédito o sus derecho-habientes, aún en el supuesto de haber otorgado poder. Queda prohibido el pacto de cuota litis que exceda del veinte por ciento (20%) el que, en cada caso, requerirá ratificación personal y homologación judicial.
+Todo pago que deba realizarse en los juicios laborales se efectivizará mediante depósito bancario en autos a la orden del Tribunal interviniente y giro judicial personal al titular del crédito o sus derecho-habientes, aún en el supuesto de haber otorgado poder.
+
+Queda prohibido el pacto de cuota litis que exceda del veinte por ciento (20%) el que, en cada caso, requerirá ratificación personal y homologación judicial.
+
+Las personas humanas y las personas jurídicas alcanzadas por la Ley N° 24.467, ante una sentencia judicial condenatoria, podrán acogerse al pago total de la misma en hasta un máximo de doce (12) cuotas mensuales consecutivas, las que serán ajustadas conforme la pauta establecida en el artículo 276 de la presente Ley.
 
 El desistimiento por el trabajador de acciones y derechos se ratificará personalmente en el juicio y requerirá homologación.
 
-Todo pago realizado sin observar lo prescripto y el pacto de cuota litis o desistimiento no homologados, serán nulos de pleno derecho.
+Todo pago realizado sin observar lo prescripto, así como el pacto de cuota litis o el desistimiento no homologados, serán nulos de pleno derecho.
 
-La responsabilidad por el pago de las costas procesales, incluidos los honorarios profesionales de todo tipo allí devengados y correspondientes a la primera o única instancia, no excederán del veinticinco por ciento (25 %) del monto de la sentencia, laudo, transacción o instrumento que ponga fin al diferendo. Si las regulacionese de honorarios practicadas conforme a las leyes arancelarias o usos locales, correspondientes a todas las profesiones y especialidades, superaran dicho porcentaje, el juez procederá a prorratear los montos entre los beneficiarios. Para el cómputo del porcentaje indicado no se tendrá en cuenta el monto de los honorarios profesionales que hubieren representado, patrocinado o asistido a la parte condenada en costas. (Párrafo incorporado por art. 8 de la Ley N° 24.432 B.O. 10/1/1995)
+La responsabilidad por el pago de las costas procesales, incluidos los honorarios profesionales de todo tipo allí devengados y correspondientes a la primera o única instancia, no excederán del veinticinco por ciento (25 %) del monto de la sentencia, laudo, transacción o instrumento que ponga fin al diferendo. Si las regulaciones de honorarios practicadas conforme a las leyes arancelarias o usos locales, correspondientes a todas las profesiones y especialidades superaran dicho porcentaje, el juez procederá a prorratear los montos entre los beneficiarios. Para el cómputo del porcentaje indicado no se tendrá en cuenta el monto de los honorarios profesionales que hubieren representado, patrocinado o asistido a la parte condenada en costas.
+
+(Artículo sustituido por art. 85 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Antecedentes Normativos
 
+- Artículo 2° sustituido por art. 65 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 23 sustituido por art. 68 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 29 sustituido por art. 69 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 92 bis sustituido por art. 71 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 136 sustituido por art. 74 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 177 sustituido por art. 78 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 242 sustituido por art. 80 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 245 bis incorporado por art. 82 del Decreto N° 70/2023 B.O. 21/12/2023;
+
 - Artículo 147, tercer párrafo incorporado por art. 1º de la Ley Nº 27.320 B.O. 15/12/2016;
 
+- Artículo 255 sustituido por art. 1º de la Ley Nº 27.325 B.O. 15/12/2016;
+
+- Artículo 2°, inciso b) sustituido por art. 72 inc. a) de la Ley N° 26.844 B.O. 12/4/2013. Vigencia: de aplicación a todas las relaciones laborales alcanzadas por este régimen al momento de su entrada en vigencia;
+
+- Artículo 2°, inciso c) sustituido por art. 104 de la Ley N° 26.727 B.O. 28/12/2011;
+
+- Artículo 124 sustituido por art. 1º de la Ley Nº 26.590 B.O. 5/5/2010;
+
+- Artículo 12 sustituido por art. 1° de la Ley N° 26.574 B.O. 29/12/2009;
+
+- Artículo 9° sustituido por art. 1º de la Ley Nº 26.428 B.O. 26/12/2008;
+
+- Artículo 92 bis sustituido por art. 2° de la Ley N° 25.877 B.O. 19/3/2004;
+
+- Artículo 245 sustituido por art. 5° de la Ley N° 25.877 B.O. 19/3/2004; (Nota Infoleg: Ver Ley N° 25.323 Indemnizaciones Laborales. Incrementos);
+
 - Artículo 103 BIS, inciso b) sustituido por art. 1º del Decreto N° 815/2001 B.O. 22/6/2001;
+
+- Artículo 80, último párrafo incorporado por art. 45 de la Ley N° 25.345 B.O. 17/11/2000;
 
 - Artículo 92 BIS sustituido por art. 1° de la Ley N° 25.250 B.O. 2/6/2000;
 
 - Artículo 92 BIS Sustituido por art. 3° de la Ley Nº 25.013 B.O. 24/9/1998;
+
+- Artículo 140, inciso a) sustituido por art. 1º de la Ley N° 24.692 B.O. 27/9/1996;
+
+- Artículo 140, inciso b) sustituido por art. 1º de la Ley N° 24.692 B.O. 27/9/1996;
 
 - Artículo 75 sustituido por art. 49 de la Ley N° 24.557 B.O. 4/10/1995;
 
@@ -2040,7 +2142,11 @@ Antecedentes Normativos
 
 - Artículo 92 TER incorporado por art. 2° de la Ley Nº 24.465 B.O. 28/3/1995;
 
+- Artículo 277, párrafo incorporado por art. 8 de la Ley N° 24.432 B.O. 10/1/1995;
+
 - Artículo 252, primer párrafo sustituido por art. 6° de la Ley N° 24.347 B.O. 29/6/1994;
+
+- Artículo 29, tercer párrafo sustituido por art. 75 de la Ley N° 24.013 B.O. 17/12/1991;
 
 - Artículo 245, sustituido por art. 153 de la Ley N° 24.013 B.O. 17/12/1991;
 
@@ -2048,10 +2154,16 @@ Antecedentes Normativos
 
 - Artículo 245 sustituido por art. 48 de la Ley N° 23.697 B.O. 25/9/1989;
 
+- Artículo 276 sustituido por art. 1º de la Ley N° 23.616 B.O. 10/11/1988;
+
 - Artículo 266 sustituido por art. 11 de la Ley N° 23.472 B.O. 25/3/1987;
 
 - Artículo 276 sustituido por art. 1º de la Ley N° 22.311 B.O. 7/11/1980;
 
 - Artículo 192 sustituido por art. 1º de la Ley N° 22.276 B.O. 28/8/1980;
+
+- Artículo 2° sustituido por art. 3° de la Ley N° 22.248 B.O. 18/7/1980;
+
+- Artículo 177 sustituido por art. 1 ° de la Ley N° 21.824 B.O. 30/6//1978;
 
 - Artículo 252 sustituido por art. 1º de la Ley N° 21.659 B.O. 12/10/1977.

@@ -117,7 +117,7 @@ d) Invitar a las correspondientes partes interesadas, especialmente al sector do
 _______
 1 Subsecretaría de Defensa del Consumidor.
 
-ARTICULO 2º — Carácter y alcances de la definición. La actividad realizada por los servicios de comunicación audiovisual se considera una actividad de interés público, de carácter fundamental para el desarrollo sociocultural de la población por el que se exterioriza el derecho humano inalienable de expresar, recibir, difundir e investigar informaciones, ideas y opiniones. La explotación de los servicios de comunicación audiovisual podrá ser efectuada por prestadores de gestión estatal, de gestión privada con fines de lucro y de gestión privada sin fines de lucro, los que deberán tener capacidad de operar y tener acceso equitativo a todas las platafoas de transmisión disponibles.
+ARTICULO 2º — Carácter y alcances de la definición. La actividad realizada por los servicios de comunicación audiovisual se considera una actividad de interés público, de carácter fundamental para el desarrollo sociocultural de la población por el que se exterioriza el derecho humano inalienable de expresar, recibir, difundir e investigar informaciones, ideas y opiniones. La explotación de los servicios de comunicación audiovisual podrá ser efectuada por prestadores de gestión estatal, de gestión privada con fines de lucro y de gestión privada sin fines de lucro, los que deberán tener capacidad de operar y tener acceso equitativo a todas las plataformas de transmisión disponibles.
 
 La condición de actividad de interés público importa la preservación y el desarrollo de las actividades previstas en la presente como parte de las obligaciones del Estado nacional establecidas en el artículo 75 inciso 19 de la Constitución Nacional. A tal efecto, la comunicación audiovisual en cualquiera de sus soportes resulta una actividad social de interés público, en la que el Estado debe salvaguardar el derecho a la información, a la participación, preservación y desarrollo del Estado de Derecho, así como los valores de la libertad de expresión.
 
@@ -179,7 +179,7 @@ A Nuestra visión común de la Sociedad de la Información
 
 2 Nuestro desafío es encauzar el potencial de la tecnología de la información y la comunicación para promover los objetivos de desarrollo de la Declaración del Milenio, a saber, erradicar la pobreza extrema y el hambre, instaurar la enseñanza primaria universal, promover la igualdad de género y la autonomía de la mujer, reducir la mortalidad infantil, mejorar la salud materna, combatir el VIH/SIDA, el paludismo y otras enfermedades, garantizar la sostenibilidad del medio ambiente y fomentar asociaciones mundiales para el desarrollo que permitan forjar un mundo más pacífico, justo y próspero. Reiteramos asimismo nuestro compromiso con la consecución del desarrollo sostenible y los objetivos de desarrollo acordados, que se señalan en la Declaración y el Plan de Aplicación de Johannesburgo y en el Consenso de Monterrey, y otros resultados de las Cumbres pertinentes de las Naciones Unidas.
 
-3 Reafirmamos la universalidad, indivisibilidad, interdependencia e interrelación de todos los derechos humanos y las libertades fundamentales, incluido el derecho al desarrollo, tal como se consagran en la Declaración de Viena. Reafirmamos asimismo que la democracia, el desarrollo sostenible y el respeto de los derechos humanos y las libertades fundamentales, así como el buen gobierno a todos los niveles, son interdependientes y se refuerzan entre sí. Estamos además determinados a reforzar el respeto del imperio de la ley en los asuntos internacionales y nacionales.
+3 Reafirmamos la universalidad, indivisibilidad, interdependencia e interrelación de todos los derechos humanos y las libertades fundamentales, incluido el derecho al desarrollo, tal como se consagran en la Declaración de Viena. Reafirmamos asimismo que la democracia, el desarrollo sostenible y el respeto de los derechos humanos y las libertades fundamentales, así como el buen gobierno a todos los niveles, son interdependientes y se refuerzan entre sí. Estamos además determinados a reforzar el respeto del imperio de la ley en los asuntos internacionales y naciones.
 
 4 Reafirmamos, como fundamento esencial de la Sociedad de la Información, y según se estipula en el artículo 19 de la Declaración Universal de Derechos Humanos, que todo individuo tiene derecho a la libertad de opinión y de expresión, que este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir información y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión. La comunicación es un proceso social fundamental, una necesidad humana básica y el fundamento de toda organización social. Constituye el eje central de la Sociedad de la Información. Todas las personas, en todas partes, deben tener la oportunidad de participar, y nadie debería quedar excluido de los beneficios que ofrece la Sociedad de la Información.
 
@@ -195,7 +195,7 @@ En materia de derecho de acceso a la información: Principio 4 de la Declaració
 
 En lo atinente a la Sociedad de la Información cabe también tener en cuenta entre los antecedentes que el 14 de febrero de 2003, en Bávaro, República Dominicana, los países representados en la Conferencia Ministerial Regional preparatoria de América Latina y el Caribe para la Cumbre Mundial sobre la Sociedad de la Información, realizada con la colaboración de la CEPAL, en la que participó la República Argentina, suscribieron la "Declaración de Bávaro sobre la Sociedad de la Información" 11.
 
-En tal Declaración se acordaron principios rectores y temas prioritarios en el marco de la Sociedad de la Información "conscientes (los Estados participantes) de la necesidad de generar igualdad de oportunidades en el acceso y uso de las tecnologías de la información y comunicación, se comprometen a desarrollar acciones tendientes a superar la brecha digital, la cual refleja e incide en las diferencias económicas, sociales, culturales, educaonales, de salud y de acceso al conocimiento, entre los países y dentro de ellos".
+En tal Declaración se acordaron principios rectores y temas prioritarios en el marco de la Sociedad de la Información "conscientes (los Estados participantes) de la necesidad de generar igualdad de oportunidades en el acceso y uso de las tecnologías de la información y comunicación, se comprometen a desarrollar acciones tendientes a superar la brecha digital, la cual refleja e incide en las diferencias económicas, sociales, culturales, educacionales, de salud y de acceso al conocimiento, entre los países y dentro de ellos".
 
 Así, vale recordar que el principio rector de la Declaración, en el punto 1.b) establece que: "la sociedad de la información debe estar orientada a eliminar las diferencias socioeconómicas existentes en nuestras sociedades y evitar la aparición de nuevas formas de exclusión y transformarse en una fuerza positiva para todos los pueblos del mundo, reduciendo la disparidad entre los países en desarrollo y los desarrollados, así como en el interior de los países".
 
@@ -207,7 +207,7 @@ En el mismo sentido la Resolución del Parlamento Europeo sobre el peligro que c
 
 7. Señala que los medios de comunicación digitales no garantizarán de forma automática una mayor libertad de elección, dado que las mismas empresas de medios de comunicación que ya dominan los mercados nacionales y mundiales de los medios de comunicación también controlan los portales de contenidos dominantes en Internet, y que la promoción de la formación básica en la comunicación y la técnica digitales es un aspecto estratégico del desarrollo de un pluralismo duradero de los medios de comunicación; expresa su preocupación por el abandono de las frecuencias analógicas en algunas zonas de la Unión.
 
-14. Acoge favorablemente la creación en algunos Estados miembros de una autoridad de propiedad de medios de comunicación cuyo deber es supervisar la propiedad de los medios de comunicación y emprender investigaciones de propia iniciativa; subraya que tales autoridades deberían vigilar también el respeto efectivo de las leyes, el acceso equitativo de los diversos agentes sociales, culturales y políticos a los medios de comunicación, la objetividad y la corrección de la información ofrecida.
+14. Acoge favorablemente la creación en algunos Estados miembros de una autoridad de propiedad de medios de comunicación cuyo deber es supervisar la propiedad de los medios de comunicación y emprender investigaciones de propia iniciativa; subraya que tales autoridades deberían vigilar también el respeto efectivo de las leyes, el acceso eitativo de los diversos agentes sociales, culturales y políticos a los medios de comunicación, la objetividad y la corrección de la información ofrecida.
 
 15. Señala que la diversidad en la propiedad de los medios de comunicación y la competencia entre operadores no es suficiente para garantizar un pluralismo de contenidos, y que el creciente recurso a agencias de prensa tiene como resultado que aparezcan en todas partes los mismos titulares y contenidos.
 
@@ -229,7 +229,7 @@ Medios de comunicación comerciales
 
 32. Señala que incluso fusiones entre medios de comunicación de tamaño medio pueden repercutir sensiblemente sobre el pluralismo, por lo que propone que las fusiones sean examinadas de manera sistemática desde el punto de vista del pluralismo, bien por un organismo regulador de la competencia o un organismo específico, como propone la OECD, sin poner en peligro la libertad de las redacciones y las editoriales mediante intervenciones gubernamentales o reglamentarias.
 
-33 Hace hincapié en la diversidad de métodos existentes para determinar el grado de implantación (horizontal) de un medio de comunicación (cuota de audiencia; cuota de licencias; relación entre beneficios y frecuencias asignadas y relación entre catal de empresa y esfuerzo de radiodifusión), así como el grado de integración vertical y el de integración ‘diagonal o transversal’ de los medios de comunicación.
+33 Hace hincapié en la diversidad de métodos existentes para determinar el grado de implantación (horizontal) de un medio de comunicación (cuota de audiencia; cuota de licencias; relación entre beneficios y frecuencias asignadas y relación entre capital de empresa y esfuerzo de radiodifusión), así como el grado de integración vertical y el de integración ‘diagonal o transversal’ de los medios de comunicación.
 
 79 Pide a la Comisión que examine la posibilidad de incluir los siguientes puntos en el plan de acción para el fomento del pluralismo en todos los ámbitos de actividades de la Unión Europea:
 
@@ -253,11 +253,11 @@ i) Un examen de la necesidad de introducir en el Reglamento de la UE sobre conce
 
 j) Directrices sobre la manera en que la Comisión va a tener en cuenta cuestiones de interés público, como el pluralismo, a la hora de aplicar la legislación en materia de competencia a las fusiones de medios de comunicación;
 
-k) El examen de si el mercado publicitario puede distorsionar la competencia en el ámbito de los medios de comunicación y si se requieren medidas de control específicas para garantizar un acceso equitativo en el ámbito publicitario;
+k) El examen de si el mercado publicitario puede distorsionar la competencia en el ámbito de los medios de comunicación y si se requieren medidas de control específicas para garantizar un acceso equitativo en el ámbito publicitao;
 
 l) Una revisión de las obligaciones ‘must carry’ (obligación de transmisión) a las que están sujetos los operadores de telecomunicaciones en los Estados miembros en relación con la retransmisión de producciones de los entes de radiodifusión públicos, las tendencias del mercado y la conveniencia de adoptar nuevas medidas para facilitar la distribución de las producciones de los entes de radiodifusión públicos;
 
-m) El establecimiento de un derecho general de los ciudadanos europeos con respto a todos los medios de comunicación por cuanto se refiere a informaciones no veraces, conforme a lo que recomienda el Consejo de Europa;
+m) El establecimiento de un derecho general de los ciudadanos europeos con respecto a todos los medios de comunicación por cuanto se refiere a informaciones no veraces, conforme a lo que recomienda el Consejo de Europa;
 
 n) Un examen de la necesidad de reservar la suficiente capacidad de transmisión digital a los entes de radiodifusión públicos;
 
@@ -281,7 +281,7 @@ Participación en la Sociedad de la información y el conocimiento - Coalición 
 5 CTA, AMSAFE, ATE.
 6 COSITMECOS.
 7 Foro Misiones Sol Producciones.
-8 Red Par, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoria H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Féminas, AMUNRA, legisladoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría de DDHH dea Nación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
+8 Red Par, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoa H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Féminas, AMUNRA, legisladoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría de DDHH de la Nación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
 9 Bloque de Senadores Justicialistas de Entre Ríos; Federación Argentina de Instituciones de Ciegos y Amblíopes, INADI, CO.NA.DIS, Federación Argentina de Instituciones de Ciegos y Amblíopes, INADI, Organización Invisibles de Bariloche.
 10 Encuentro de organizaciones de los pueblos originarios: OCASTAFE, ASAMBLEA PUEBLO GUARANI, CONSEJO DE CACIQUE GUARANI, FEDERACION PILAGA, PUEBLO KOLLA DE LA PUNA, INTERTOBA, CONSEJO DE LA NACION TONOCOTE LLUTQUI, KEREIMBA IYAMBAE, UNION DE LOS PUEBLOS DE LA NACION DIAGUITA, CONFEDERACION MAPUCHE NEUQUINA, ONPIA, COORDINADORA PARLAMENTO MAPUCHE RIO NEGRO, MESA DE ORGANIZACION DE PUEBLOS ORIGINARIOS DE ALTE. BROWN, MALAL PINCHEIRA DE MENDOZA, COMUNIDAD HUARPE GUENTOTA, ORGANIZACION TERRITORIAL MAPUCHE TEHUELCHE DE PUEBLOS ORIGINARIOS SANTA CRUZ, ORGANIZACION RANQUEL MAPUCHE DE LA PAMPA, ORGANIZACION DEL PUEBLO GUARANÍ.
 11 Ver "Los caminos hacia una sociedad de la información en América Latina y el Caribe". Naciones Unidas - CEPAL Santiago de Chile, julio de 2003. Libros de la CEPAL. Nro. 72. Anexo, Pág. 119 y ss.
@@ -306,7 +306,7 @@ Comunicación audiovisual: La actividad cultural cuya responsabilidad editorial 
 
 Coproducción: Producción realizada conjuntamente entre un licenciatario y/o autorizado y una productora independiente en forma ocasional.
 
-Distribución: Puesta a disposición del servicio de comunicación audiovisual prestado a través de cualquier tipo de vínculo hasta el domicilio del usuario o en el aparato receptor cuando éste fil13.
+Distribución: Puesta a disposición del servicio de comunicación audiovisual prestado a través de cualquier tipo de vínculo hasta el domicilio del usuario o en el aparato receptor cuando éste3.
 
 Dividendo digital: El resultante de la mayor eficiencia en la utilización del espectro que permitirá transportar un mayor número de canales a través de un menor número de ondas y propiciará una mayor convergencia de los servicios.
 
@@ -336,7 +336,7 @@ Producción propia: Producción directamente realizada por los licenciatarios o 
 
 Producción vinculada: Producción realizada por productoras con vinculación jurídica societaria o comercial, no ocasional con los licenciatarios o autorizados.
 
-Productora: Persona de existencia visible o ideal responsable y titular o rel proceso de operaciones por las que se gestionan y organizan secuencialmente diversos contenidos sonoros o audiovisuales, para configurar una señal o programa, o productos audiovisuales18.
+Productora: Persona de existencia visible o ideal responsable y titular o realizadora del proceso de operaciones por las que se gestionan y organizan secuencialmente diversos contenidos sonoros o audiovisuales, para configurar una señal o programa, o productos audiovisuales18.
 
 Productora publicitaria: Entidad destinada a la preparación, producción y/o contratación de publicidad en los medios previstos en esta ley por solicitud de un tercero reconocido como anunciante.
 
@@ -360,7 +360,7 @@ Radiodifusión móvil: Toda forma de radiocomunicación primordialmente unidirec
 
 Radiodifusión por suscripción (Definición derogada por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-Radiodifusión por suscripción con uso de espectro radioeléctrico (Definición derogada por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+Radiodifusión por suscripción con uso de espectro radioeléctrico (Definición derogada por art. 22 l Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
 Radiodifusión por suscripción mediante vínculo físico (Definición derogada por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
@@ -395,7 +395,7 @@ _______
 
 ARTICULO 5º — Remisión a otras definiciones. Para la interpretación de los vocablos y conceptos técnicos que no estén previstos en la presente, se tendrán en cuenta las definiciones contenidas en la Ley Nacional de Telecomunicaciones 19.798, su reglamentación y los tratados internacionales, de telecomunicaciones o radiodifusión en los que la República Argentina sea parte.
 
-ARTICULO 6º — Servicios conexos. La prestación de servicios conexos tales como los telemáticos, de provisión, de transporte o de acceso a información, por parte de titulares de servicios de radiodifusión o de terceros autorizados por éstos, mediante el uso de sus vínculos físicos, radioeléctricos o satelitales, es libre y sujeta al acuerdre proveedor y transportista conforme las normas que reglamenten la actividad. Se consideran servicios conexos y habilitados a la prestación por los licenciatarios y autorizados:
+ARTICULO 6º — Servicios conexos. La prestación de servicios conexos tales como los telemáticos, de provisión, de transporte o de acceso a información, por parte de titulares de servicios de radiodifusión o de terceros autorizados por éstos, mediante el uso de sus vínculos físicos, radioeléctricos o satelitales, es libre y sujeta al acuerdo necesario de partes entre proveedor y transportista conforme las normas que reglamenten la actividad. Se consideran servicios conexos y habilitados a la prestación por los licenciatarios y autorizados:
 
 a) Teletexto;
 
@@ -423,9 +423,7 @@ NOTAS artículos 4º al 7º
 
 Convenios de la Unión Internacional de Telecomunicaciones y leyes ratificatorias que definen telecomunicaciones y radiodifusión. La reglamentación internacional sobre este tópico surge de los Convenios de la Unión Internacional de Telecomunicaciones, cuyo articulado específico, en la Recomendación 2 de la Resolución 69 UIT (incorporada a los Acuerdos de Ginebra de diciembre 1992 en Kyoto durante 1994) se expone: "teniendo en cuenta la Declaración de Derechos Humanos de 1948, la Conferencia de Plenipotenciarios de la Unión Internacional de las Telecomunicaciones, consciente de los nobles principios de la libre difusión de la información y que el derecho a la comunicación es un derecho básico de la comunidad RECOMIENDA: a los Estados parte que faciliten la libre difusión de información por los servicios de telecomunicaciones".
 
-En el artículo 1° apartado 11 se establece en la Constitución de la UIT que: "la Unión efectuará la atribución de frecuencias del espectro radioeléctrico y la adjudicación de frecuencias radioeléctricas y llevará el registro de las asignaciones de las frecuencias y las posiciones orbitales asociadas en la órbita de los satélites geoestacionarios, a fin de evitar toda interferencia perjudicial entre las estaciones de radiocomunicación de los distintos países".
-
-En el artículo 44 inciso 195) se menciona que: "Los (Estados) procurarán limitar las frecuencias y el espectro utilizado al mínimo indispensable para obtener el funcionamiento satisfactorio de los servicios necesarios. A tal fin se esforzarán por aplicar los últimos adelantos de la técnica". En el inciso 2 (apartado 196): "En la utilización de bandas de frecuencias para las radiocomunicaciones, los Miembros tendrán en cuenta que las frecuencias y la órbita de los satélites geoestacionarios son recursos naturales limitados que deben utilizarse de forma racional, eficaz y económica, de conformidad con lo establecido en el Reglamento de Radiocomunicaciones, para permitir el acceso equitativo a esta órbita y a esas frecuencias a los diferentes países o grupos de países, teniendo en cuenta las necesidades especiales de los países en desarrollo y la situación geográfica de determinados países".
+En el artículo 1° apartado 11 se establece en la Constitución de la UIT que: "la Unión efectuará la atribución de frecuencias del espectro radioeléctrico y la adjudicación de frecuencias radioeléctricas y llevará el registro de las asignaciones de las frecuencias y las posiciones orbitales asociadas en la órbita de los satélites geoestacionarios, a fin de evitar toda interferencia perjudicial entre las estaciones de radiocomunicación de los distintos paíso 44 inciso 1 (apartado 195) se menciona que: "Los (Estados) procurarán limitar las frecuencias y el espectro utilizado al mínimo indispensable para obtener el funcionamiento satisfactorio de los servicios necesarios. A tal fin se esforzarán por aplicar los últimos adelantos de la técnica". En el inciso 2 (apartado 196): "En la utilización de bandas de frecuencias para las radiocomunicaciones, los Miembros tendrán en cuenta que las frecuencias y la órbita de los satélites geoestacionarios son recursos naturales limitados que deben utilizarse de forma racional, eficaz y económica, de conformidad con lo establecido en el Reglamento de Radiocomunicaciones, para permitir el acceso equitativo a esta órbita y a esas frecuencias a los diferentes países o grupos de países, teniendo en cuenta las necesidades especiales de los países en desarrollo y la situación geográfica de determinados países".
 
 La definición de Comunicación Audiovisual está planteada recogiendo las preocupaciones a la Ronda de Doha y la Conferencia Ministerial de la OMC, donde se ha exigido que los servicios históricos de radiodifusión sonora y televisiva, así como la actividad de la televisión a demanda, la definición de publicidad y productora, por sus características y consecuencias en virtud de las cuales se las incluye, entre las que se alinean los servicios audiovisuales, se excluyan de la liberalización en el marco de la Ronda de negociación relativa al AGCS. En el mismo orden de ideas, en tanto nuestro país ha ratificado la Convención de la UNESCO sobre la Protección y Promoción de la Diversidad de las Expresiones Culturales, donde se afirma, en particular, «que las actividades, los bienes y los servicios culturales son de índole a la vez económica y cultural, porque son portadores de identidades, valores y significados, y por consiguiente no deben tratarse como si solo tuviesen un valor comercial», dichas circunstancias toman un valor preponderante.
 
@@ -443,7 +441,7 @@ ARTICULO 8º — Carácter de la recepción. La recepción de las emisiones de r
 
 NOTA artículo 8º
 
-Sigue la definición de radiodifusión de la UIT como dirigida al público en general. Los servicios por abono en el derecho cn ser onerosos. Sin perjuicio de ello, el desarrollo de la televisión paga tiene en Argentina un estándar poco común en términos de tendido y alcance domiciliario.
+Sigue la definición de radiodifusión de la UIT como dirigida al público en general. Los servicios pel derecho comparado suelen ser onerosos. Sin perjuicio de ello, el desarrollo de la televisión paga tiene en Argentina un estándar poco común en términos de tendido y alcance domiciliario.
 
 ARTICULO 9º — Idioma. La programación que se emita a través de los servicios contemplados por esta ley, incluyendo los avisos publicitarios y los avances de programas, debe estar expresada en el idioma oficial o en los idiomas de los Pueblos Originarios21, con las siguientes excepciones:
 
@@ -488,7 +486,7 @@ ARTICULO 12. — Misiones y funciones. La Autoridad Federal de Servicios de Comu
 
 3) Formar parte de las representaciones del Estado nacional que concurran ante los organismos internacionales que correspondan y participar en la elaboración y negociación de tratados, acuerdos o convenios internacionales de radiodifusión, telecomunicaciones en cuanto fuera pertinente por afectar las disposiciones de esta ley y los referidos a los procesos vinculados a los proyectos de la Sociedad de la Información y el Conocimiento, cuando correspondiere en conjunto con otras autoridades estatales con incumbencias temáticas.
 
-4) Elaborar y actualizar la Norma Nacional de Servicio y las normas técnicas que regulan la actividad, en conjunto con la autoridad regulatoria y la aplicación en materia de telecomunicaciones.
+4) Elaborar y actualizar la Norma Nacional de Servicio y las normas técnicas que regulan la actividad, en conjunto con la auridad regulatoria y la autoridad de aplicación en materia de telecomunicaciones.
 
 5) Promover la participación de los servicios de comunicación audiovisual en el desarrollo de la Sociedad de la Información y el Conocimiento.
 
@@ -528,7 +526,7 @@ ARTICULO 12. — Misiones y funciones. La Autoridad Federal de Servicios de Comu
 
 23) Crear y administrar el Fondo de Jerarquización del personal afectado a su funcionamiento25.
 
-24) Proveer los recursos necesarios para el funcionamiento del Consejo Federal de Comunicación Audiovisual.
+24) Proveer los recursos necesarios para el funcionamiento del Consejo Federal de Comunicacvisual.
 
 25) Ejercer su conducción administrativa y técnica26.
 
@@ -540,7 +538,9 @@ ARTICULO 12. — Misiones y funciones. La Autoridad Federal de Servicios de Comu
 
 29) Comprar, gravar y vender bienes muebles e inmuebles, conforme la normativa vigente.
 
-30) Celebrar toda clase de contratos y convenios de reciprocidad o de prestación de servicios con otros organismos, entidades o personas físicas o jurídicas, conforme la normativa viContratar créditos con arreglo a lo dispuesto por la normativa vigente.
+30) Celebrar toda clase de contratos y convenios de reciprocidad o de prestación de servicios con otros organismos, entidades o personas físicas o jurídicas, conforme la normativa vigente.
+
+31) Contratar créditos con arreglo a lo dispuesto por la normativa vigente.
 
 32) Nombrar, promover y remover a su personal.
 
@@ -578,7 +578,7 @@ Su funcionamiento será reglamentado por la autoridad de aplicación de la ley. 
 
 a) La elaboración de propuestas dirigidas a incrementar la calidad de la programación dirigida a los niños, niñas y adolescentes;
 
-b) Establece diagnósticos de contenidos recomendados o prioritarios y, asimismo, señalar los contenidos inconvenientes o dañinos para los niños, niñas y adolescentes, con el aval de argumentos teóricos y análisis empíricos;
+b) Establecer criterios y diagnósticos de contenidos recomendados o prioritarios y, asimismo, señalar los contenidos inconvenientes o dañinos para los niños, niñas y adolescentes, con el aval de argumentos teóricos y análisis empíricos;
 
 c) Seleccionar con base en un modelo objetivo de evaluación, los proyectos que se presenten al Fondo de Fomento Concursable previsto en el artículo 153;
 
@@ -606,7 +606,7 @@ j) Elaborar un Programa de Formación en Recepción Crítica de Medios y Tecnolo
 
 k) Monitorear el cumplimiento de la normativa vigente sobre el trabajo de los niños, niñas y adolescentes en la televisión;
 
-l) Establecer y concertar con los sectores de que se trate, criterios básicos para los contenidos de los mensajes publicitarios, de modo de evitar que éstos tengan un impacto negativo en la infancia y la juventud, teniendo en cuenta que una de las principales fdizaje de los niños es imitar lo que ven.
+l) Establecer y concertar con los sectores de que se trate, criterios básicos para los contenidos de los mensajes publicitarios, de modo de evitar que éstos tengan un impacto negativo en la infancia y la juvend, teniendo en cuenta que una de las principales formas de aprendizaje de los niños es imitar lo que ven.
 
 NOTA artículo 17
 
@@ -653,7 +653,7 @@ ARTICULO 19. — Defensoría del Público de Servicios de Comunicación Audiovis
 
 a) Recibir y canalizar las consultas, reclamos y denuncias del público de la radio y la televisión y demás servicios regulados por la presente teniendo legitimación judicial y extrajudicial para actuar de oficio, por sí y/o en representación de terceros, ante toda clase de autoridad administrativa o judicial. No obstará a su legitimación judicial la existencia o no de causa individual, siendo su legitimación tanto subjetiva como objetiva y por los derechos de incidencia colectiva previstos expresa o implícitamente en la Constitución Nacional y otros que hacen al desarrollo del Estado democrático y social de derecho y a la forma republicana de gobierno;
 
-b) Llevar un registro de las consultas, reclamos y denuncias presentados por los usuarios en forma pública o privada y a través de los medios habilitados a tal efecto;
+b) Llevar un registro de las consultas, reclamos y denuncias presentados por los usuarios en forma públicas de los medios habilitados a tal efecto;
 
 c) Convocar a las organizaciones intermedias públicas o privadas, centros de estudios e investigación u otras entidades de bien público en general, para crear un ámbito participativo de debate permanente sobre el desarrollo y funcionamiento de los medios de comunicación;
 
@@ -679,10 +679,10 @@ La Defensoría del Público fue incorporada al Proyecto de Ley de Radiodifusión
 
 Otro supuesto es contemplar que cada estación radiodifusora tenga su propio defensor. En este sentido la legislación colombiana prevé en el artículo 11 de la ley 335 de 1996.— "Los operadores privados del servicio de televisión deberán reservar el CINCO POR CIENTO (5%) del total de su programación para presentación de programas de interés público y social. Uno de estos espacios se destinará a la defensoría del televidente. El defensor del televidente será designado por cada operador privado del servicio de televisión".
 
-La Corte Constitucional en Sentencia C— 350 del 29 de julio de 1997 declaró EXEQUIBLE el presente artículo en el entendido de que dicha norma no se refiere a ninguna forma de participación ciudadana, para la gestión y fiscalización del servicio público de la televisión, ni la desarrolla. Dicha forma de participación deberá r regulada por el legislador en el menor tiempo posible).
+La Corte Constitucional en Sentencia C— 350 del 29 de julio de 1997 declaró EXEQUIBLE el presente artículo en el entendido de que dicha norma no se refiere a ninguna forma de participación ciudadana, para la gestión y fiscalización del servicio público de la televisión, ni la desarrolla. Dicha forma de participación deberá ser regulada por el legislador en el menor tiempo posible).
 
 _______
-37 Red PAR, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoria H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Feminas, AMUNRA, legisladoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría de DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría de DDHH de la Nación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
+37 Red PAR, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoria H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Feminas, AMUNoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría de DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría de DDHH de la Nación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
 38 En respuesta a múltiples pedidos de federalizar la Defensoría, Liliana Córdoba, CEA, Córdoba; Alejandro Claudis, UNER; Edgardo Massarotti, Paraná; Bloque Senadores Justicialistas, Entre Ríos; Dr. Ernesto Salas López, Subsecretarío Gral. Gobierno, Tucumán; Néstor Banega, Entre Ríos; entre otros.
 
 ARTICULO 20. — Titular de la Defensoría del Público. Requisitos. El titular de la Defensoría del Público será designado por resolución conjunta de ambas Cámaras, a propuesta de la Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, debiendo reunir los mismos requisitos que los exigidos para integrar el directorio de la Autoridad Federal de Servicios de Comunicación Audiovisual.
@@ -717,7 +717,7 @@ b) Personas de existencia visible o de existencia ideal, de derecho privado, con
 
 NOTA artículo 21
 
-La existencia de tres franjas de la actividad radiodifusora sin condicionamientos que violen estándares de libertad de expresión responde a múltiples e históricas demandas que en el país recién fueron reparadas por la ley 26.053. No obstante, parece importante recoger que en la reciente reunión de los Relatores de Libertad de Expresión en la mencionada Declaración Conjunta sobre la Diversidad en la Radiodifusión (Amsterdam, diciembre de 2007), se expresó: "Los diferentes tipos de medios de comunicación — comerciales, de servios públicos y comunitarios — deben ser capaces de operar en, y tener acceso equitativo a todas las plataformas de transmisión disponibles. Las medidas especificas para promover la diversidad pueden incluir el reservar frecuencias adecuadas para diferentes tipos de medios, contar con must-carry rules (sobre el deber de transmisión), requerir que tanto las tecnologías de distribución como las de recepción sean complementarias y/o interoperables, inclusive a través de las fronteras nacionales, y proveer acceso no discriminatorio a servicios de ayuda, tales como guías de programación electrónica.
+La existencia de tres franjas de la actividad radiodifusora sin condicionamientos que violen estándares de libertad de expresión responde a múltiples e históricas demandas que en el país recién fueron reparadas por la ley 26.053. No obstante, parece importante recoger que en la reciente reunión de los Relatores de Libertad de Expresión en la mencionada Declaración Conjunta sobre la Diversidad en la Radiodifusión (Amsterdam, diciembre de 2007), se expresó: "Los diferentes tipos de medios de comuniomerciales, de servicios públicos y comunitarios — deben ser capaces de operar en, y tener acceso equitativo a todas las plataformas de transmisión disponibles. Las medidas especificas para promover la diversidad pueden incluir el reservar frecuencias adecuadas para diferentes tipos de medios, contar con must-carry rules (sobre el deber de transmisión), requerir que tanto las tecnologías de distribución como las de recepción sean complementarias y/o interoperables, inclusive a través de las fronteras nacionales, y proveer acceso no discriminatorio a servicios de ayuda, tales como guías de programación electrónica.
 
 En un estudio presentado en septiembre de 2007 por el Parlamento Europeo39, titulado El Estado de los medios comunitarios en la Unión Europea se advierte sobre la importancia del reconocimiento legal de los medios comunitarios. La investigación muestra que el reconocimiento de dicho status legal posibilita a las organizaciones de los medios comunitarios a comprometerse con las reglas de las autoridades regulatorias, asociarse con otras organizaciones, establecer alianzas como así también contar con anunciantes, lo cual contribuye a su desarrollo sustentable.
 
@@ -729,7 +729,7 @@ Se ve también recogida esta tesitura de universalidad de medios y sujetos por l
 
 Asimismo, la Corte Interamericana entiende que: "Cuando la Convención proclama que la libertad de pensamiento y expresión comprende el derecho de difundir informaciones e ideas "por cualquier...procedimiento", está subrayando que la expresión y la difusión del pensamiento y de la información son indivisibles, de modo de que una restricción de las probabilidades de divulgación representa directamente, y en la misma medida, un límite al derecho de expresarse libremente" (Opinión Consultiva OC-5/85, Cons. 31).
 
-Si se toma en cuenta el Derecho Comparado cabe resaltar que Francia a través de la ley 86-1067 del 30 de septiemb de 1986, reconoce los tres sectores a los que denomina como público, privado comercial y privado asociativo no comercial (texto de la ley disponible en www.csa.fr).
+Si se toma en cuenta el Derecho Comparado cabe resaltar que Francia a través de la ley 86-1 septiembre de 1986, reconoce los tres sectores a los que denomina como público, privado comercial y privado asociativo no comercial (texto de la ley disponible en www.csa.fr).
 
 Irlanda también reconoce estos tres sectores, en la Broadcasting Act del año 2001, situación que se repite en el Reino Unido a partir de la aprobación de la Ley de Comunicaciones del año 2003.
 
@@ -768,7 +768,7 @@ d) Poder demostrar el origen de los fondos comprometidos en la inversión a real
 
 e) Las personas de existencia visible en cuanto socios de las personas de existencia ideal con fines de lucro y los integrantes de los órganos de administración y fiscalización de las personas de existencia ideal sin fines de lucro deberán acreditar el origen de los fondos en tanto comprometan inversiones a título personal;
 
-f) No estar incapacitado o inhabilitado, civil o penalmente,ara contratar o ejercer el comercio, ni haber sido condenado por delito doloso, de acción pública o instancia privada;
+f) No estar incapacitado o inhabilitado, civil o para contratar o ejercer el comercio, ni haber sido condenado por delito doloso, de acción pública o instancia privada;
 
 g) No ser deudor moroso de obligaciones fiscales, previsionales, sindicales, de seguridad social o de las entidades gestoras de derechos42, ni ser deudor del gravamen y/o multas instituidas en la presente ley;
 
@@ -794,11 +794,11 @@ Las condiciones establecidas en los incisos b) y c) no serán aplicables cuando 
 
 d) No ser titular o accionista que posea el DIEZ POR CIENTO (10%) o más de las acciones o cuotas partes que conforman la voluntad social de una persona jurídica titular o accionista de una persona jurídica a quien el estado nacional, provincial o municipal le haya otorgado una licencia, concesión o permiso para la prestación de un servicio público; (Inciso sustituido por art. 13 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-e) Las personas jurídicas no podrán emitir acciones, bonos, debentures, títulos o cualquier tipo de obligaciones negociables, sin autdel ENACOM, cuando de estas operaciones resultare comprometido un porcentaje mayor al TREINTA POR CIENTO (30%) del capital social que concurre a la formación de la voluntad social.
+e) Las personas jurídicas no podrán emitir acciones, bonos, debentures, títulos o cualquier tipo de obligaciones negociables, sin autorización del ENACOM, cuando de estas operaciones resultare comprometido un porcentaje mayor al TREINTA POR CIENTO (30%) del capital social que concurre a la formación de la voluntad social.
 
 La constitución de fideicomisos sobre acciones se regirá por las disposiciones del artículo 55; (Inciso sustituido por art. 13 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-f) No ser deudor moroso de obligaciones fiscales, previsionales, sindicales, de seguridad social o de las entidades gestoras de derechos, ni ser deudor del gravamen y/o multas instituidas en la presente ley;
+f) No ser deudor moroso de obligaciones fiscales, previsionales, sindiles, de seguridad social o de las entidades gestoras de derechos, ni ser deudor del gravamen y/o multas instituidas en la presente ley;
 
 g) Poder demostrar el origen de los fondos comprometidos en la inversión a realizar.
 
@@ -827,7 +827,7 @@ Conforme ley 25.750, que determina el carácter de "bien cultural" de los servic
 En este sentido ha señalado que "Las restricciones a la propiedad extranjera puede estar legítimamente diseñadas para promover la producción cultural nacional y las opiniones. En muchos países, el control dominante local sobre un recurso nacional de tal importancia es también considerado necesario"47.
 
 ____________
-47 Broadcasting, Voice, and Accountability: A Public Interest Appicy, Law, and Regulation Steve Buckley • Kreszentia Duer, Toby Mendel • Seán O Siochrú, with Monroe E. Price • Mark Raboy (Copyright © 2008 by The International Bank for Reconstruction and Development, The World Bank Group All rights reserved Published in the United States of America by The World Bank Group Manufactured in the United States of America cISBN-13: 978-0-8213-7295-1 (cloth : alk. paper).
+47 Broadcasting, Voice, and Accountability: A Public Inproach to Policy, Law, and Regulation Steve Buckley • Kreszentia Duer, Toby Mendel • Seán O Siochrú, with Monroe E. Price • Mark Raboy (Copyright © 2008 by The International Bank for Reconstruction and Development, The World Bank Group All rights reserved Published in the United States of America by The World Bank Group Manufactured in the United States of America cISBN-13: 978-0-8213-7295-1 (cloth : alk. paper).
 
 ARTICULO 30. — Excepción48. No será aplicable lo dispuesto en el inciso d) del artículo 25 cuando se tratare de personas de existencia ideal sin fines de lucro, las que podrán ser titulares de licencias de servicios de comunicación audiovisual49.
 
@@ -857,7 +857,7 @@ a) En caso de tratarse de sociedades por acciones, las acciones deberán ser nom
 
 b) Se considerará como una misma persona a las sociedades controlantes y controladas, de conformidad con lo instituido por el artículo 33 de la Ley de Sociedades Comerciales 19.550 y modificatorias;
 
-c) (Inciso derogado por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigenciaa partir de la fecha de su publicación en el Boletín Oficial)
+c) (Inciso derogado por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
 CAPITULO II
 
@@ -881,8 +881,9 @@ NOTA artículo 32
 
 A nivel internacional se recogen básicamente tres lineamientos sobre la cuestión de la administración del espectro en general. Sobre todo para las telecomunicaciones: "La respuesta de los reguladores a estas dificultades no ha sido homogénea: en un extremo de la escala están los países que, como España, se mantienen fieles al modelo tradicional de mando y control, con atribución rígida y asignación concursada, en caso de escasez de frecuencias, mientras que en un lugar intermedio se situarían las legislaciones y los reguladores que optan por adjudicar cada vez más segmentos del espectro en base a competiciones de mercado (subastas) o, en tercer lugar, admiten posteriormente un mercado secundario de los derechos de uso que (con alguna variante) proporciona esa convergencia"50.
 
-Opta por la recomendación de mecanismos democráticos y transparentes el Sistema Interamericano de DDHH en la Declaración de Octubre de 2000 (punto 12) y particularmente el Informe 2001 sobre Guatemala, de la Relatoría de Libertad de Expresión de la OEA, en el punto 30 se expone: "El Relator Especial recibió información sobre aspectos relacionados con radiodifusión y la preocupación que existe en relación con el marco jurídico y criterios para la concesión de frecuencias de radio. Una de las preocupaciones fundamentales es que el Gobierno siga otorgando concesiones basándose únicamente en criterios económicos que dejan sin acceso a sectores minoritarios de la sociedad guatemalteca tales como los indígenas, los jóvenes y las mujeres. En este sentido, la entrega o renovación de licencias de radiodifusión, debe estar sujeta a un procedimiento claro, justo y objetivo que tome en consideración la importancia de los medios de comunicación para que la ciudadanía participe informadamente en el proceso democrático".
-sí también la mayoría de los proyectos existentes de leyes de radiodifusión optan primordialmente por este método.
+Opta por la recomendación de mecanismos democráticos y transparentes el Sistema Interamericano de DDHH en la Declaración de Octubre de 2000 (punto 12) y particularmente el Informe 2001 sobre Guatemala, de la Relatoría de Libertad de Expresión de la OEA, en el punto 30 se expone: "El Relator Especial recibió información sobre aspectos relacionados con radiodifusión y la preocupación que existe en relación con el marco jurídico y criterios para la concesión de frecuencias de radio. Una de las preocupacintales es que el Gobierno siga otorgando concesiones basándose únicamente en criterios económicos que dejan sin acceso a sectores minoritarios de la sociedad guatemalteca tales como los indígenas, los jóvenes y las mujeres. En este sentido, la entrega o renovación de licencias de radiodifusión, debe estar sujeta a un procedimiento claro, justo y objetivo que tome en consideración la importancia de los medios de comunicación para que la ciudadanía participe informadamente en el proceso democrático".
+
+Así también la mayoría de los proyectos existentes de leyes de radiodifusión optan primordialmente por este método.
 
 Existen antecedentes que distinguen el modo de acceso a las licencias que involucran asignación de espectro por medio de concursos. Se sigue un criterio orientado a que no se entregue a simple petición de parte un bien que no es ilimitado.
 
@@ -894,7 +895,7 @@ La posibilidad de inserción de localizaciones radioeléctricas no previstas ini
 
 En los planes de frecuencias a priori, las bandas de frecuencias específicas y las zonas de servicio asociadas se reservan para aplicaciones particulares mucho antes de que éstas entren en funcionamiento real. La distribución del recurso del espectro se realiza basándose en las necesidades previstas o declaradas por las partes interesadas. Este método fue utilizado, por ejemplo, en la Conferencia Mundial de Radiocomunicaciones de 1997 (CMR-97) que estableció otro plan para el servicio de radiodifusión por satélite en las bandas de frecuencias 11,7-12,2 GHz en la Región 3 y 11,7-12,5 GHz en la Región 1 y un plan para los enlaces de conexión del servicio de radiodifusión por satélite en el servicio fijo por satélite en las bandas de frecuencias 14,5-14,8 y 17,3-18,1 GHz en las Regiones 1 y 3. Ambos planes están anexos al Reglamento de Radiocomunicaciones.
 
-Los defensores del enfoque a priori indican que el método ad hoc no es equitativo porque traslada todos los problemas a los últimos en llegar que deben acomodar sus necesidades a las de los usuarios ya existentes. Los que se oponen, por otro lado, indican que la planificación a priori paraliza los progresos tecnológicos y desemboca en un "almacenamiento" de los recursos, entendido este término en el sentido de que los recursos no se utilizan sino que se mantienen en reserva. Sin embargo, cuando no se emplean los recursos no rinden beneficios"53.
+Los defensores del enfoque a priori indican que el método ad hoc no es equitativo porque traslada todos los problemas a los últimos en llegar que deben acomodar sus necesidades a las de los usuarios ya existentes. Los que se oponen, por otro lado, indican que la planificación a priori paraliza los progresos tecnológicos y desboca en un "almacenamiento" de los recursos, entendido este término en el sentido de que los recursos no se utilizan sino que se mantienen en reserva. Sin embargo, cuando no se emplean los recursos no rinden beneficios"53.
 
 Se entiende apropiado agregar cómo un seminario de la UIT examina la situación: "Las empresas privadas están realizando actividades considerables de investigación y desarrollo sobre sistemas radioeléctricos cognoscitivos y las correspondientes configuraciones de red. Por consiguiente, y dado que se ha de comenzar a trabajar sobre el punto 1.19 del orden del día de la CMR-11, el UIT-R organizó el 4 de febrero de 2008 un seminario sobre sistemas radioeléctricos definidos por soporte lógico y sistemas radioeléctricos cognoscitivos, con miras a examinar cuestiones de radiocomunicaciones que podrían mejorarse con la utilización de ese tipo de sistemas".
 
@@ -917,7 +918,7 @@ a) La ampliación o, en su defecto, el mantenimiento del pluralismo en la oferta
 
 b) Las garantías para la expresión libre y pluralista de ideas y opiniones en los servicios de comunicación audiovisual cuya responsabilidad editorial y de contenidos vaya a ser asumida por el adjudicatario;
 
-c) La satisfacción de los intereses y necesidades de los potenciales usuarios del servicio de comunicación audiovisual, teniendo en cuenta el ámbito de cobertura del servicio, las características del servicio o las señales que se difundirían y, si parteel servicio se va prestar mediante acceso pagado, la relación más beneficiosa para el abonado entre el precio y las prestaciones ofrecidas, en tanto no ponga en peligro la viabilidad del servicio;
+c) La satisfacción de los intereses y necesidades de los potenciales usuarios del servicio de comunicación audiovisual, teniendo en cuenta el ámbito de cobertura del servicio, las características del servicio o las señales que se difundirían y, si paservicio se va prestar mediante acceso pagado, la relación más beneficiosa para el abonado entre el precio y las prestaciones ofrecidas, en tanto no ponga en peligro la viabilidad del servicio;
 
 d) El impulso, en su caso, al desarrollo de la Sociedad de la Información que aportará el servicio mediante la inclusión de servicios conexos, servicios adicionales interactivos y otras prestaciones asociadas;
 
@@ -950,7 +951,7 @@ ARTICULO 37. — Asignación a personas de existencia ideal de derecho público 
 
 NOTA artículo 37
 
-Se compadece con el reconocimiento de las personas de existencia ideal de carácter público como prestadores de servicios de comunicación audiovisual. Asimismo reconoce la naturaleza jurídica que la Constitución Nacional le atribuye a los Pueblos Originarios y el estatus jurídico de la Iglesia Católica en nuestro país.
+Se compadece con el reconocimiento de las personas de existencia ideal de carácter público como prestadores de servicios de comunicación audiovisual. Asimismo naturaleza jurídica que la Constitución Nacional le atribuye a los Pueblos Originarios y el estatus jurídico de la Iglesia Católica en nuestro país.
 
 _____________
 58 Pueblos Originarios, Episcopado.
@@ -980,7 +981,7 @@ Las licencias serán susceptibles de una primera prórroga, por CINCO (5) años,
 
 Con carácter excepcional y previo dictámen técnico, aún no vencida la licencia el ENACOM podrá convocar al licenciatario y proponerle una actualización tecnológica dentro de los plazos y condiciones que determine el MINISTERIO DE COMUNICACIONES.
 
-Las prórrogas posteriores serán de DIEZ (10) años, y serán otorgadas por el ENACOM; no obstante, el MINISTERIO DE COMUNICACIONES podrá llamar a concurso a nuevosicenciatarios en los términos del artículo 32 de la presente ley, fundado en razones de interés público, la introducción de nuevas tecnologías o el cumplimiento de acuerdos internacionales. En este caso los licenciatarios anteriores no tendrán derecho adquirido alguno respecto a su licencia.
+Las prórrogas posteriores serán de DIEZ (10) años, y serán otorgadas por el ENACOM; no obstante, el MINISTERIO DE COMUNICACIONES podrá llamar a concurso a nuevos licenciatariosinos del artículo 32 de la presente ley, fundado en razones de interés público, la introducción de nuevas tecnologías o el cumplimiento de acuerdos internacionales. En este caso los licenciatarios anteriores no tendrán derecho adquirido alguno respecto a su licencia.
 
 La solicitud de prórroga deberá ajustarse a los requisitos y procedimiento que establezca reglamentariamente el ENACOM y a las siguientes condiciones:
 
@@ -1010,7 +1011,7 @@ ________
 61 Participando en las audiencias públicas.
 En el régimen norteamericano, se plantea que el LTF realizará audiencias en seis ciudades del país. El sitio web de LTF, www.fcc.gov/localism el horario y el lugar en donde se llevarán cabo tales audiencias.
 El propósito de estas audiencias es conocer la opinión de los ciudadanos, de las organizaciones cívicas y de la industria sobre las transmisiones de radio y televisión y el localismo. A pesar de que el formato puede cambiar de una audiencia a otra, el LTF espera que cada audiencia les dé a los ciudadanos la oportunidad de participar a través de un micrófono abierto. El LTF anunciará los detalles sobre cada audiencia antes de su fecha programada y publicará esta información en su sitio web para los miembros del público que estén interesados en participar en la misma. Se invita a que los radioescuchas y televidentes que tengan comentarios generales sobre las transmisiones de radio y televisión y el servicio local, den sus puntos de vista en estas audiencias.
-Estas audiencias no tienen como fin resolver las inquietudes o disputas relacionadas con una estación en particular; lo que se logra mejor a través del proceso de quejas y renovación de licencias descrito anteriormente. Sin embargo se agradece los comentarios de los radioescuchas y televidentes sobre el desempeño de una estación específica con licencia para transmitir en las comunidades del áa donde se realiza cada audiencia. Dichos comentarios podrían ayudar a que el LTF identifique más ampliamente cuáles son las tendencias de las transmisiones de radio y televisión en cuanto a los asuntos e interés locales.
+Estas audiencias no tienen como fin resolver las inquietudes o disputas relacionadas con una estación en particular; lo que se logra mejor a través del proceso de quejas y renovación de licencias descrito anteriormente. Sin embargo se agradece los comentarios de los radioescuchas y televidentes sobre el desempeño de una estación específica con licencia para transmitir en las comunidades del área donde se realiza cada audiencia. Dichos comentarios podrían ayudar a que el LTF identifique más ampliamente cuáles son las tendencias de las transmisiones de radio y televisión en cuanto a los asuntos e interés locales.
 
 ARTICULO 41. — Las licencias de servicios de comunicación audiovisual y las acciones y cuotas partes de sociedades licenciatarias sólo son transferibles a aquellas personas que cumplan con las condiciones de admisibilidad establecidas para su adjudicación.
 
@@ -1034,8 +1035,7 @@ Un control estricto de las transferencias es advertido especialmente por la doct
 
 (Nota Infoleg: por art. 6° de la Resolución N° 473/2010 de la Autoridad Federal de Servicios de Comunicación Audiovisual B.O. 31/12/2010 se fija el 24 de junio de 2010 como fecha de inicio del régimen del presente Artículo)
 _______
-62 Coalición por una Raddifusión Democrática.
-
+62 Coalición por una Radiodifusión Democrática
 ARTICULO 42. — Inembargabilidad. Cualquiera fuese la naturaleza de la licencia y/o la autorización, las mismas son inembargables y no se puede constituir sobre ellas más derechos que los expresamente contemplados en la presente ley.
 
 ARTICULO 43. — (Artículo derogado por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
@@ -1058,15 +1058,7 @@ NOTA artículo 44
 
 La indelegabilidad de la prestación obedece al mantenimiento de la titularidad efectiva de la explotación de la emisora por quienes accedieron a la condición de licenciatario por estar calificados para la misma, y que en forma previa fueron evaluados por la Autoridad de aplicación. Si se autorizara a que un tercero se hiciera cargo por vías indirectas se estaría faltando a la rigurosidad del procedimiento adjudicatario y a los principios que la propia ley intenta impulsar. Sí se admite, como en muchísimos países, la posibilidad de convenios de coproducción con externos vinculados o no, situación que los procesos de integración vertical de la actividad de la comunicación audiovisual han mostrado, aunque con la limitación de la no delegación de la prestación.
 
-ARTICULO 45. — Multiplicidad de Licencias. A fin de garantizar los principios de diversidad, pluralidad y respeto por lo local las personas humanas o jurídicas podrán ser titulares o tener participación en sociedades titulares de licencias de servicios de comunicación audiovisual, con sujeción a los siguientes límites:
-
-1. En el orden nacional:
-
-a) UNA (1) licencia de servicios de comunicación audiovisual sobre soporte satelital. La titularidad de una licencia de servicios de comunicación audiovisual satelital por suscripción excluye la posibilidad de ser titular de cualquier otro tipo de licencias de servicios de comunicación audiovisual y servicios TIC regulados por la Ley N° 27.078;
-
-b) Hasta QUINCE (15) licencias de servicios de comunicación audiovisual cuando se trate de radiodifusión de televisión abierta o de radiodifusión sonora.
-
-2. En el orden local:
+ARTICULO 45. — Multiplicidad de Licencias. A fin de garantizar los principios de diversidad, pluralidad y respeto por lo local las personas humanas o jurídicas podrán ser titulares o tener participación en sociedades titulares de licencias de servicios de comunicación audiovisual, con sujeción a los siguientes límites, en el orden local:
 
 a) UNA (1) licencia de radiodifusión sonora por modulación de amplitud (AM);
 
@@ -1074,9 +1066,9 @@ b) UNA (1) licencia de radiodifusión sonora por modulación de frecuencia (FM) 
 
 c) UNA (1) licencia de radiodifusión televisiva abierta.
 
-En ningún caso la suma total de licencias otorgadas en la misma área primaria de servicio o conjunto de ellas que se superpongan de modo mayoritario podrá exceder la cantidad de CUATRO (4) licencias.
+En ningún caso la suma total de licencias otorgadas en la misma área primaria de servicio o conjunto de ellas que se superpongan de modo mayoritario podrá exceder la cantidad de CUATRO (4) licencias.”
 
-(Artículo sustituido por art. 17 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+(Artículo sustituido por art. 326 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 NOTA artículo 45
 
@@ -1084,7 +1076,7 @@ La primera premisa a considerar radica en el Principio 12 de la Declaración de 
 
 "D. Conclusiones
 
-La Relatoría reitera que la existencia de prácticas monopólicas y oligopólicas en la propiedad de los medios de comunicación social afecta seriamente la libertad de expresión y el derecho de información de los ciudadanos de los Estados miembros, y no son compatibles con el ejercicio del derecho a la libertad de expresión en una sociedad democrática.
+La Relatoría reitera que la existencia de prácticas monopólicas y oligopólicas en la propiedad de los medios de comunicación social afecta seriamente la libeel derecho de información de los ciudadanos de los Estados miembros, y no son compatibles con el ejercicio del derecho a la libertad de expresión en una sociedad democrática.
 
 Las continuas denuncias recibidas por la Relatoría en relación con prácticas monopólicas y oligopólicas en la propiedad de los medios de comunicación social de la región indican que existe una grave preocupación en distintos sectores de la sociedad civil en relación con el impacto que el fenómeno de la concentración en la propiedad de los medios de comunicación puede representar para garantizar el pluralismo como uno de los elementos esenciales de la libertad de expresión.
 
@@ -1096,9 +1088,9 @@ La segunda premisa se asienta en consideraciones, ya expuestas, del derecho comp
 
 En orden a la tipología de la limitación a la concentración, tal como el reciente trabajo "Broadcasting, Voice, and Accountability: A Public Interest Approach to Policy, Law, and Regulation" de Steve Buckley • Kreszentia Duer, Toby Mendel • Seán ’O Siochrú, con Monroe E. Price y Mark Raboy sostiene "Las reglas generales de concentración de la propiedad diseñadas para reformar la competencia y proveer a bajo costo mejor servicio, son insuficientes para el sector de la radiodifusión. Sólo proveen niveles mínimos de diversidad, muy lejanos de aquello que es necesario para maximizar la capacidad del sector de la radiodifusión para entregar a la sociedad valor agregado. La excesiva concentración de la propiedad debe ser evitada no sólo por sus efectos sobre la competencia, sino por sus efectos en el rol clave de la radiodifusión en la sociedad, por lo que requiere específicas y dedicadas medidas. Como resultado, algunos países limitan esta propiedad, por ejemplo, con un número fijo de canales o estableciendo un porcentaje de mercado. Estas reglas son legítimas en tanto no sean indebidamente restrictivas, teniendo en cuenta cuestiones como la viabilidad y la economía de escala y cómo pueden afectar la calidad de los contenidos. Otras formas de reglas para restringir la concentración y propiedad cruzada son legítimas e incluyen medidas para restringir la concentración vertical Por ejemplo, propiedad de radiodifusores y agencias de publicidad, y propiedad cruzada por dueños de diarios en el mismo mercado o mercados solapados".
 
-En cuanto a la porción de mercado asequible por un mismo licenciatario, se ha tomado en consideración un sistema mixto de control de concentración, viendo al universo de posibles destinatarios no solo por la capacidad efectiva de llegada a los mismos por una sola licenciataria, sino también por la cantidad y calidad de las licencias a recibir por un mismo interesado. Se ha tomado en cuenta para tal diseño el modelo regulatorio de los Estados Unidos que cruza la cantidad de licencias por área de cobertura y por naturaleza de los servicios adjudicados por las mismas, atendiendo a la cantidad de mios de igual naturaleza ubicados en esa área en cuestión, con los límites nacionales y locales emergentes del cálculo del porcentaje del mercado que se autoriza a acceder, tratándose los distintos universos de diferente manera, ya sea que se trate de abonados en servicios por suscripción o de población cuando se tratare de servicios de libre recepción o abiertos.
+En cuanto a la porción de mercado asequible por un mismo licenciatario, se ha tomado en consideración un sistema mixto de control de concentración, viendo al universo de posibles destinatarios no solo por la capacidad efectiva de llegada por una sola licenciataria, sino también por la cantidad y calidad de las licencias a recibir por un mismo interesado. Se ha tomado en cuenta para tal diseño el modelo regulatorio de los Estados Unidos que cruza la cantidad de licencias por área de cobertura y por naturaleza de los servicios adjudicados por las mismas, atendiendo a la cantidad de medios de igual naturaleza ubicados en esa área en cuestión, con los límites nacionales y locales emergentes del cálculo del porcentaje del mercado que se autoriza a acceder, tratándose los distintos universos de diferente manera, ya sea que se trate de abonados en servicios por suscripción o de población cuando se tratare de servicios de libre recepción o abiertos.
 
-ARTICULO 46. — No concurrencia. Las licencias de servicios de radiodifusión directa por satélite y las licencias de servicios de radiodifusión móvil tendrán como condición de otorgamiento y continuidad de su vigencia —cada una de ellas— que no podrán ser acumuladas con licencias de otros servicios propios de distinta clase o naturaleza, salvo para la transmisión del servicio de televisión terrestre abierta existente en forma previa a los procesos de transición a los servicios digitalizados y el canal que lo reemplace oportunamente.
+ARTICULO 46. — (Artículo derogado por art. 327 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 47. — Adecuación por incorporación de nuevas tecnologías. Preservando los derechos de los titulares de licencias o autorizaciones, la autoridad de aplicación deberá elevar un informe al Poder Ejecutivo nacional y a la Comisión Bicameral, en forma bianual, analizando la adecuación de las reglas sobre multiplicidad de licencias y no concurrencia con el objeto de optimizar el uso del espectro por la aplicación de nuevas tecnologías65.
 
@@ -1160,7 +1152,7 @@ i) Por pérdida o incumplimiento de los requisitos para la adjudicación estable
 
 j) Por suspensión injustificada de las emisiones durante más de quince (15) días en el plazo de un (1) año;
 
-Continuid del servicio. En caso de producirse la extinción de la licencia por alguna de las causales previstas, la autoridad de aplicación podrá disponer medidas transitorias que aseguren la continuidad del servicio hasta su normalización con el objeto de resguardar el interés público y social.
+Continuidad del servicio. En caso de producirse la extinción de la licencia por alguna de las causales previstas,  autoridad de aplicación podrá disponer medidas transitorias que aseguren la continuidad del servicio hasta su normalización con el objeto de resguardar el interés público y social.
 
 ARTICULO 51. — Fallecimiento del titular. En el caso de fallecimiento del titular de una licencia, sus herederos deberán en un plazo máximo de sesenta (60) días comunicar dicha circunstancia a la autoridad de aplicación.
 
@@ -1193,7 +1185,7 @@ __________
 
 ARTICULO 56. — Registro de accionistas. El registro de accionistas de las sociedades por acciones deberá permitir verificar en todo momento, el cumplimiento de las disposiciones relativas a la titularidad del capital accionario y las condiciones de los accionistas. El incumplimiento de esta disposición configurará falta grave.
 
-ARTICULO 57. — Registro Público de Licencias y Autorizaciones. La Autoridad Federal de Servicios de Comunicación Audiovisual llevará actualizado, con carácter público, el Registro Público de Licencias y Autorizaciones que deberá contener los datos que permitan identificar al licenciatario o autorizado, sus socios, integrantes de los órganos de administración y fiscalización, parámetros técnicos, fechas de inicio y vencimiento de licencias y prórrogas, infracciones, sanciones y demás datos que resulten de interés para asegurar la transparencia. La autoridad de aplicación deberá establecer un mecanismo de consulta pública vía Internet68.
+ARTICULO 57. — Registro Público de Licencias y Autorizaciones. La Autoridad Federal de Servicios de Comunicación Audiollevará actualizado, con carácter público, el Registro Público de Licencias y Autorizaciones que deberá contener los datos que permitan identificar al licenciatario o autorizado, sus socios, integrantes de los órganos de administración y fiscalización, parámetros técnicos, fechas de inicio y vencimiento de licencias y prórrogas, infracciones, sanciones y demás datos que resulten de interés para asegurar la transparencia. La autoridad de aplicación deberá establecer un mecanismo de consulta pública vía Internet68.
 
 _______
 68 Dr. Ernesto Salas Lopez, Subsecretario General, Gob. de Tucumán.
@@ -1232,13 +1224,13 @@ La falta de cumplimiento de las disposiciones será considerada falta grave, as�
 
 Los licenciatarios o autorizados a prestar los servicios regulados en la presente ley no podrán difundir o retransmitir señales generadas en el exterior que no cumplan los requisitos mencionados.
 
-ARTICULO 61. — Agencias de Publicidad y Productoras Publicitarias. Los licenciatarios o autorizados a prestar los servicios regulados en la presente ley no podrán difundir avisos publicitarios de cualquier tipo, provenientes de agencias de publicidad o productoras publicitarias que no hayan dado cumplimiento a lo dispuesto en el registro creado por el artículo 59.
+ARTICULO 61. — Agencias de Publicidad y Productoras Publicitarias. Los licenciatarios o autorizados a prestar los servicios regulados en la presentán difundir avisos publicitarios de cualquier tipo, provenientes de agencias de publicidad o productoras publicitarias que no hayan dado cumplimiento a lo dispuesto en el registro creado por el artículo 59.
 
 CAPITULO IV
 
 Fomento de la diversidad y contenidos regionales
 
-ARTICULO 62. — Autorización de redes. Las emisoras de radiodifusión integrantes de una red, no podrán iniciatransmisiones simultáneas hasta tanto la Autoridad Federal de Servicios de Comunicación Audiovisual no hubiere dictado la autorización del correspondiente convenio o contrato de creación de la red y de acuerdo a lo previsto en el artículo 63.
+ARTICULO 62. — Autorización de redes. Las emisoras de radiodifusión integrantes de una red, no podrán iniciar transmisiones simultáneas hasta tanto la Autoridad Federal de Servicios de Comunicación Audiovisual no hubiere dictado la autorización del correspondiente convenio o contrato de creación de la red y de acuerdo a lo previsto en el artículo 63.
 
 La Autoridad Federal de Servicios de Comunicación Audiovisual dispondrá de sesenta (60) días hábiles para expedirse sobre la solicitud. En caso de silencio de la administración se tendrá por conferida la autorización si la presentación contara con la totalidad de los elementos requeridos.
 
@@ -1271,13 +1263,13 @@ Contenidos de la programación
 
 ARTICULO 65. — Contenidos. Los titulares de licencias o autorizaciones para prestar servicios de comunicación audiovisual deberán cumplir con las siguientes pautas respecto al contenido de su programación diaria:
 
-1. Los servicios de radiodifusión sonora:
+1. Los seiodifusión sonora:
 
 a. Privados y no estatales:
 
 i. Deberán emitir un mínimo de setenta por ciento (70%) de producción nacional.
 
-ii. Como mínimo el treinta por ciento (30%) de la música emitida deberá ser de origen nacional, sea de autores o intérpretes nacionales, cualquiera sea el tipo de música de que se trate por cada media jornada de transmisión. Esta cuota de música nacional deberá ser repartida proporcionalmente a lo largo de la programación, debiendo además asegurar la emisión de un cincuenta por ciento (50 %) de música producida en forma independiente donde el autor y/o intérprete ejerza los derechos de comercialización de sus propios fonogramas mediante la transcripción de los mismos por cualquier sistema de soporte teniendo la libertad absoluta para explotar y comercializar su obra72. La Autoridad Federal de Servicios de Comunicación Audiovisimir de esta obligación a estaciones de radiodifusión sonora dedicadas a colectividades extranjeras o a emisoras temáticas.
+ii. Como mínimo el treinta por ciento (30%) de la música emitida deberá ser de origen nacional, sea de autores o intérpretes nacionales, cualquiera sea el tipo de música de que se trate por cada media jornada de transmisión. Esta cuota de música nacional deberá ser repartida proporcionalmente a lo largo de la programación, debiendo además asegurar la emisión de un cincuenta por ciento (50 %) de música producida en forma independiente donde el autor y/o intérprete ejerza los derechos de comercialización de sus propios fonogramas mediante la transcripción de los mismos por cualquier sistema de soporte teniendo la libertad absoluta para explotar y comercializar su obra72. La Autoridad Federal de Servicios de Comunicación Audiovisual podrá eximir de esta obligación a estaciones de radiodifusión sonora dedicadas a colectividades extranjeras o a emisoras temáticas.
 
 iii. Deberán emitir un mínimo del cincuenta por ciento (50%) de producción propia que incluya noticieros o informativos locales.
 
@@ -1307,13 +1299,13 @@ d. Los servicios de televisión por suscripción no satelital deberán incluir, 
 
 e. Los servicios de televisión por suscripción no satelital deberán incluir, sin codificar, las señales generadas por los Estados provinciales, Ciudad Autónoma de Buenos Aires y municipios y universidades nacionales que se encuentren localizadas en su área de prestación de servicio;
 
-f. Los servicios de televisión por suscripción satelital deberán incluir, sin codificar, las señales abiertas generadas por los Estados provinciales, por la Ciudad Autónoma de Buenos Aires y municipios, y por las universidades nacionales;
+f. Los servicios de televisión por suscripción satelital deberán incluir, sin codificar, las señales abiertas generadas por los Estados provinciales, por la Ciudade Buenos Aires y municipios, y por las universidades nacionales;
 
 g. Los servicios de televisión por suscripción satelital deberán incluir como mínimo una (1) señal de producción nacional propia76 que satisfaga las mismas condiciones que esta ley establece para las emisiones de televisión abierta;
 
 h. Los servicios de televisión por suscripción deberán incluir en su grilla de canales un mínimo de señales originadas en países del MERCOSUR y en países latinoamericanos con los que la República Argentina haya suscripto o suscriba a futuro convenios a tal efecto, y que deberán estar inscriptas en el registro de señales previsto en esta ley77.
 
-Televisión Móvil. El Poder Ejecutivo nacional establecerá las condiciones pertinentes en la materia objeto de este artículo para el servicio de televisión móvil, sujetas a la ratificación de las mismas por parte de lista en esta ley.
+Televisión Móvil. El Poder Ejecutivo nacional establecerá las condiciones pertinentes en la materia objeto de este artículo para el servicio de televisión móvil, sujetas a la ratificación de las mismas por parte de la Comisión Bicameral prevista en esta ley.
 
 NOTA artículo 65
 
@@ -1325,7 +1317,7 @@ En la planificación de la transición de la radiodifusión análoga a la digita
 
 Las previsiones reglamentarias tienden a que se permita la actualización de las grillas en una forma consistente con las facultades de la Autoridad de aplicación y del Poder Ejecutivo nacional, que están inspiradas en la sección 202 h) de la Ley de Comunicaciones de Estados Unidos.
 
-En cuanto a la protección de las cuotas nacionales de programación, importa reconocer que la legislación canadiense es estricta en materia de defensa de su producción audiovisual78, como también lo son las premisas de la Directiva Europea de Televisión de 1989 (art. 4)79. En nuestro país, se trata de cumplir el mandato del artículo 75 inciso 19 de la Constitución Nacional y de los compromisos firmados ante la UNESCO al suscribir la Convención sobre la Protección y la Promoción de la diversidad de las Expresiones Culturales.
+En cuanto a la protección de las cuotas nacionales de programación, importa reconocer que la legislación canadiense es estricta en materia de defensa de su producción audiovisual78, como también lo son las premisas de la Directiva Europea de Televisión de 1989 (art. 4)79. En nuestro país, se trata de cumplir el mandato del artículo 75 inciso 19 de la Constitución Nacional y de los compromisos firmados ante la UNESCO al suscribir³n sobre la Protección y la Promoción de la diversidad de las Expresiones Culturales.
 
 _______
 72 Diego Boris, Unión de Músicos Independientes.
@@ -1339,7 +1331,7 @@ El desarrollo y puesta en conocimiento del público del talento canadiense.
 La maximización del uso de la creatividad canadiense.
 La utilización de la capacidad del sector de la producción independiente.
 La Canadian Broadcasting Corp. como sistema de radiodifusión público, debe contribuir activamente con el flujo e intercambio de las expresiones culturales.
-La sección 10 de la Broadcasting Act (section 10) facultó a la CRTC a decidir qué es aquello que constituye "programa canadiense" y la proporción de tiempo que en los servicios debe ser destinado a la difusión de la programación canadiense. La CRTC ha establecido un sistema de cuotas para regular la cantidad de programación canadiense en un contexto de dominación estadounidense en la actividad. La CRTC utiliza un sistema de puntajes para determinar la calidad de la programación canadiense en TV y radio AM (incluida la música) quatiende a la cantidad de canadienses involucrados en la producción de una canción, álbum, film o programa. La sección 7 de la "TV Broadcasting Regulations" requiere al licenciatario público (CBC — Televisión de Québec, etc) dedicar no menos del sesenta por ciento (60 %) de la programación de la última tarde y noche (prime time) a la emisión de programación canadiense y no menos del cincuenta por ciento (50%) a los licenciatarios privados.
+La sección 10 de la Broadcasting Act (section 10) facultó a la CRTC a decidir qué es aquello que constituye "programa canadiense" y la proporción de tiempo que en los servicios debe ser destinado a la difusión de la programación canadiense. La CRTC ha establecido un sistema de cuotas para regular la cantidad de programación canadiense en un contexto de dominación estadounidense en la actividad. La CRTC utiliza un sistema de puntajes para determinar la calidad de la programación canadiense en TV y radio AM (incluida la música) que atiende a la cantidad de canadienses involucrados en la producción de una canción, álbum, film o programa. La sección 7 de la "TV Broadcasting Regulations" requiere al licenciatario público (CBC — Televisión de Québec, etc) dedicar no menos del sesenta por ciento (60 %) de la programación de la última tarde y noche (prime time) a la emisión de programación canadiense y no menos del cincuenta por ciento (50%) a los licenciatarios privados.
 En definiciones tomadas por la CRTC desde el año 1998, la CRTC aumentó los contenidos canadienses en radiodifusión sonora (tanto AM como FM) al treinta y cinco por ciento (35 %). También definió mínimos canadienses en las estaciones que difunden "specialty channels"
 79 CAPITULO III. Promoción de la distribución y de la producción de programas televisivos. Artículo 4:
 1. Los Estados miembros velarán, siempre que sea posible y con los medios adecuados, para que los organismos de radiodifusión televisiva reserven para obras europeas, con arreglo al artículo 6°, una proporción mayoritaria de su tiempo de difusión, con exclusión del tiempo dedicado a las informaciones, a manifestaciones deportivas, a juegos, a la publicidad o a los servicios de teletexto. Dicha proporción, habida cuenta de las responsabilidades del organismo de radiodifusión televisiva para con su público en materia de información, de educación, de cultura y de entretenimiento, deberá lograrse progresivamente con arreglo a criterios adecuados.
@@ -1350,7 +1342,7 @@ NOTA artículo 66
 
 La previsión incorporada tiende a satisfacer las necesidades comunicacionales de personas con discapacidades auditivas que no solamente pueden ser atendidas con lenguaje de señas, ya que en programas con ambientación ellas resultan evidentemente insuficientes. Los sistemas de closed caption están establecidos con un marco de progresividad exigible en el 47 C.F.R. § 79.1 de la legislación estadounidense.
 
-Asimismo, lo recoge el punto 64 de los Fundamentos de la Directiva 65/2007 de la UE y el artículo 3 quater en cuanto establece que: "Los Estados miembros alentarán a los servicios de comunicación audiovisual bajo su jurisdicción a garantizar que sus servicios sean gradualmente accesibles a las personas con una discapacidad visual o auditiva".
+Asimismo, lo recoge el punto 64 de los Fundamentos de la Directiva 65/2007 de la UE y el artículo 3 quateen cuanto establece que: "Los Estados miembros alentarán a los servicios de comunicación audiovisual bajo su jurisdicción a garantizar que sus servicios sean gradualmente accesibles a las personas con una discapacidad visual o auditiva".
 
 En el mismo sentido Francia aprobó la ley 2005-102 (en febrero de 2005) tendiente a garantizar la igualdad de oportunidades y derechos de las personas con discapacidades visuales y auditivas.
 
@@ -1361,7 +1353,7 @@ ARTICULO 67. — Cuota de pantalla del cine y artes audiovisuales nacionales81. 
 
 Los licenciatarios de servicios de televisión abierta deberán exhibir en estreno televisivo en sus respectivas áreas de cobertura, y por año calendario, ocho (8) películas de largometraje nacionales, pudiendo optar por incluir en la misma cantidad hasta tres (3) telefilmes nacionales, en ambos casos producidos mayoritariamente por productoras independientes nacionales, cuyos derechos de antena hubieran sido adquiridos con anterioridad a la iniciación del rodaje.
 
-Todos los licenciatarios de servicios de televisión por suscripción del país y los licenciae servicios de televisión abierta cuya área de cobertura total comprenda menos del veinte por ciento (20%) de la población del país, podrán optar por cumplir la cuota de pantalla adquiriendo, con anterioridad al rodaje, derechos de antena de películas nacionales y telefilmes producidos por productoras independientes nacionales, por el valor del cero coma cincuenta por ciento (0,50%) de la facturación bruta anual del año anterior82.
+Todos los licenciatarios de servicios de televisión por suscripción del país y los licenciatarios de servicios de televisión abierta cuya área de cobertura total comprenda menos del veinte por ciento (20%) de la población del país, podrán optar por cumplir la cuota de pantalla adquiriendo, con anterioridad al rodaje, derechos de antena de películas nacionales y telefilmes producidos por productoras independientes nacionales, por el valor del cero coma cincuenta por ciento (0,50%) de la facturación bruta anual del año anterior82.
 
 Las señales que no fueren consideradas nacionales, autorizadas a ser retransmitidas por los servicios de televisión por suscripción, que difundieren programas de ficción en un total superior al cincuenta por ciento (50%) de su programación diaria, deberán destinar el valor del cero coma cincuenta por ciento (0,50%) de la facturación bruta anual del año anterior a la adquisición, con anterioridad a la iniciación del rodaje, de derechos de antena de películas nacionales.
 
@@ -1374,7 +1366,7 @@ Como antecedente normativo el Decreto 1248/2001 de "Fomento de la Actividad Cine
 En este marco cabe tener presente que conforme el artículo 1º Res. Nº 1582/2006/INCAA — 15-08-2006, modificatoria de la Res. Nº 2016/04, la cuota pantalla es "la cantidad mínima de películas nacionales que deben exhibir obligatoriamente las empresas que por cualquier medio o sistema exhiban películas, en un período determinado".
 
 ____________
-81 INCAA, Asoc Arg. de Actores, Asoc. Argentina de Directores de Cine, Asoc. Bonaerense de Cinematografistas, Asoc. De Directores Productores de Cine Documental Independiente de Argentina, Asoc. De Productores de Cine Infantil, Asoc. De Productotes Independientes, Asoc. Argentina de Productores de Cine y Medios Audiovisuales, Sociedad General de Autores de la Argentina, Asoc. de Realizadores y Productores de Artes Audiovisuales, Asoc. Gral. Independiente de Medios Audiovisuales, Cámara Argentina de la Industria Cinematográfica, Directores Argentinos Cinematográficos, Directores Independientes de Cine, Federación Argentina de Cooperativas de Trabajo Cinematográfico, Federación Arg. de Prods. Cinematográficos y Audiovisuales, Proyecto Cine Independiente, Sindicato de la Industria Cinematográfica Argentina, Unión de la Ind. Cinematográfica, Unión de Prods. Independientes de Medios Audiovisuales.
+81 INCAA, Asoc Arg. de Actores,gentina de Directores de Cine, Asoc. Bonaerense de Cinematografistas, Asoc. De Directores Productores de Cine Documental Independiente de Argentina, Asoc. De Productores de Cine Infantil, Asoc. De Productotes Independientes, Asoc. Argentina de Productores de Cine y Medios Audiovisuales, Sociedad General de Autores de la Argentina, Asoc. de Realizadores y Productores de Artes Audiovisuales, Asoc. Gral. Independiente de Medios Audiovisuales, Cámara Argentina de la Industria Cinematográfica, Directores Argentinos Cinematográficos, Directores Independientes de Cine, Federación Argentina de Cooperativas de Trabajo Cinematográfico, Federación Arg. de Prods. Cinematográficos y Audiovisuales, Proyecto Cine Independiente, Sindicato de la Industria Cinematográfica Argentina, Unión de la Ind. Cinematográfica, Unión de Prods. Independientes de Medios Audiovisuales.
 82 Sol Producciones.
 
 ARTICULO 68. — Protección de la niñez y contenidos dedicados83. En todos los casos los contenidos de la programación, de sus avances y de la publicidad deben ajustarse a las siguientes condiciones:
@@ -1403,7 +1395,7 @@ a) Alentarán a los medios de comunicación a difundir información y materiales
 
 b) Promoverán la cooperación internacional en la producción, el intercambio y la difusión de esa información y esos materiales procedentes de diversas fuentes culturales, nacionales e internacionales; y
 
-c) Promoverán la elaboración de directrices apropiadas para proteger al niño contra toda información y material perjudicial para su bienestar, teniendo en cuenta las disposiciones de los artículos. 13 y 18.
+c) Promoverán la elaboración de directrices apropiadas para proteger al niño contra ión y material perjudicial para su bienestar, teniendo en cuenta las disposiciones de los artículos. 13 y 18.
 
 En México, Perú, Venezuela y otros países, existen sistemas legales de protección de la niñez a través del sistema de horario de protección.
 
@@ -1413,7 +1405,7 @@ __________
 
 ARTICULO 69. — Codificación. No serán de aplicación el inciso a) del artículo 68 en los servicios de televisión por suscripción de emisiones codificadas, en las que se garantice que a las mismas sólo se accede por acción deliberada de la persona que las contrate o solicite.
 
-ARTICULO 70. — La programación de los servicios previstos en esta ley deberá evitar contenidos que promuevan o inciten tratos discriminatorios basados en la raza, el color, el sexo, la orientación sexual, el idioma, la religión, las opiniones políticas o de cualquier otra índole, el orin nacional o social, la posición económica, el nacimiento, el aspecto físico, la presencia de discapacidades o que menoscaben la dignidad humana o induzcan a comportamientos perjudiciales para el ambiente o para la salud de las personas y la integridad de los niños, niñas o adolescentes85.
+ARTICULO 70. — La programación de los servicios previstos en esta ley deberá evitar contenidos que promuevan o inciten tratos discriminatorios basados en la raza, el color, el sexo, la orientación sexual, el idioma, la religión, las opiniones políticas o de cualquier otra índole, el origen nacional o social, la posición económica, el nacimiento, el aspecto físico, la presencia de discapacidades o que menoscaben la dignidad humana o induzcan a comportamientos perjudiciales para el ambiente o para la salud de las personas y la integridad de los niños, niñas o adolescentes85.
 
 ___________
 85 Periodistas de Argentina en Red por una Comunicación No Sexista –PAR-Red PAR, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoria H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Feminas, AMUNRA, legisladoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría de DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría de DDHH de la Nación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
@@ -1421,7 +1413,7 @@ ___________
 ARTICULO 71. — Quienes produzcan, distribuyan, emitan o de cualquier forma obtengan beneficios por la transmisión de programas y/o publicidad velarán por el cumplimiento de lo dispuesto por las leyes 23.344, sobre publicidad de tabacos, 24.788 —Ley Nacional de lucha contra el Alcoholismo—, 25.280, por la que se aprueba la Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad, 25.926, sobre pautas para la difusión de temas vinculados con la salud, 26.485 —Ley de protección integral para prevenir, sancionar, y erradicar la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales— y 26.061, sobre protección integral de los derechos de las niñas, niños y adolescentes así como de sus normas complementarias y/o modificatorias y de las normas que se dicten para la protección de la salud y de protección ante conductas discriminatorias86.
 
 ________
-86 Periodistas de Argentina en Red por una Comunicación No Sexista –PAR, Red PAR, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoria H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Feminas, AMUNRA, legisladoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría de DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría de DDHH de la Nación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
+86 Periodistas de Argentina en Red por una Comunicación No Sexista –PAR, Red PAR, Consejo Nacional de la Mujer, INADI, Centro Cultural de la Memoria H. Conti, periodistas, ADEM, Alianza MenEngage, Red Nacional de Jóvenes y Adolescentes para la Salud Sexual y Reproductiva, estudiantes CS. Sociales, Feministas en Acción, ATEM y Red No a la Trata, ONG Mentes Activas, FEIM, Fundación Mujeres en Igualdad (MEI), Grupo de Estudios Sociales, Revista Digital Feminas, AMUNRA, legisladoras, Grupos Vulnerables, Unidad para la Erradicación de la Explotación Sexual Infantil (Secretaría de DDHH), Consejo Federal de DDHH, FM Azoteas, AMARC, Secretaría deación, Programa Juana Azurduy, Comunicación del Archivo Nacional de la Memoria.
 
 CAPITULO VI
 
@@ -1435,7 +1427,7 @@ b) Prestar gratuitamente a la autoridad de aplicación el servicio de monitoreo 
 
 c) Registrar o grabar las emisiones, conservándolas durante el plazo y en las condiciones que establezca la autoridad de aplicación;
 
-d) Mantener un arcla producción emitida cuyos contenidos deberán estar disponibles para el resguardo público. A tales fines, las emisoras deberán remitir al Archivo General de la Nación los contenidos que le sean requeridos. Queda prohibida la utilización comercial de estos archivos;
+d) Mantener un archivo de la producción emitida cuyos contenidos deberán estar disponibles para el resguardo público. A tales fines, las emisoras deberán remitir al Archivo General de la Nación los contenidos que le sean requeridos. Queda prohibida la utilización comercial de estos archivos;
 
 e) Cada licenciatario o autorizado debe poner a disposición, como información fácilmente asequible, una carpeta de acceso público a la que deberá sumarse su exhibición sobre soporte digital en internet. En la misma deberán constar:
 
@@ -1493,7 +1485,7 @@ ARTICULO 74. — Publicidad política. Los licenciatarios de servicios de comuni
 
 ARTICULO 75. — Cadena nacional o provincial. El Poder Ejecutivo nacional y los poderes ejecutivos provinciales podrán, en situaciones graves, excepcionales o de trascendencia institucional, disponer la integración de la cadena de radiodifusión nacional o provincial, según el caso, que será obligatoria para todos los licenciatarios.
 
-ARTICULO 76. — Avisos oficiales y de interés público. La Autoridad unicación Audiovisual podrá disponer la emisión de mensajes de interés público. Los titulares de licencias de radiodifusión deberán emitir, sin cargo, estos mensajes según la frecuencia horaria determinada y conforme a la reglamentación.
+ARTICULO 76. — Avisos oficiales y de interés público. La Autoridad Federal de Servicios de Comunicación Audiovisual podrá disponer la emisión de mensajes de interés público. Los titulares de licencias de radiodifusión deberán emitir, sin cargo, estos mensajes según la frecuencia horaria determinada y conforme a la reglamentación.
 
 Los mensajes declarados de interés público no podrán tener una duración mayor a los ciento veinte (120) segundos y no se computarán en el tiempo de emisión de publicidad determinado en el artículo 82 de la presente.
 
@@ -1521,7 +1513,7 @@ Dicho listado será elaborado después de dar audiencia pública a las partes in
 
 El listado será elaborado anualmente con una anticipación de al menos seis (6) meses, pudiendo ser revisado por el Consejo Federal de Comunicación Audiovisual en las condiciones que fije la reglamentación.
 
-ARTICULO 78. — Listado. Criterios. Para la inclusión en el listado de acontecimientos de interés general deberán tenerse en cuenta, al menos, los siguientes criterios:
+ARTICULO 78. — Listado. Criterios. Para la inclusión en el listado de acontecimientos de interés general deberán tenerse en cuenta, os siguientes criterios:
 
 a) Que el acontecimiento haya sido retransmitido o emitido tradicionalmente por televisión abierta;
 
@@ -1535,7 +1527,7 @@ ARTICULO 80. — Cesión de derechos. Ejercicio del derecho de acceso.
 
 La cesión de los derechos para la retransmisión o emisión, tanto si se realiza en exclusiva como si no tiene tal carácter, no puede limitar o restringir el derecho a la información.
 
-Tal situaciÃión y la concentración de los derechos de exclusividad no deben condicionar el normal desarrollo de la competición ni afectar la estabilidad financiera e independencia de los clubes. Para hacer efectivos tales derechos, los titulares de emisoras de radio o televisión dispondrán de libre acceso a los recintos cerrados donde vayan a producirse los mismos.
+Tal situación de restricción y la concentración de los derechos de exclusividad no deben condicionar el normal desarrollo de la competición ni afectar la estabilidad financiera e independencia de los clubes. Para hacer efectivos tales derechos, los titulares de emisoras de radio o televisión dispondrán de libre acceso a los recintos cerrados donde vayan a producirse los mismos.
 
 El ejercicio del derecho de acceso a que se refiere el párrafo anterior, cuando se trate de la obtención de noticias o imágenes para la emisión de breves extractos libremente elegidos en programas informativos no estarán sujetos a contraprestación económica cuando se emitan por televisión, y tengan una duración máxima de tres (3) minutos por cada acontecimiento o, en su caso, competición deportiva, y no podrán transmitirse en directo.
 
@@ -1557,7 +1549,7 @@ CAPITULO VIII
 
 Publicidad
 
-ARTICULO 81. — Emisión de publicidad. Los licenciatarios o autorizados de los servicios de comunicación audiovisual podrán emitir publicidad conforme a las siguientes previsiones:
+ARTICULO 81. — Emisión de pos licenciatarios o autorizados de los servicios de comunicación audiovisual podrán emitir publicidad conforme a las siguientes previsiones:
 
 a) Los avisos publicitarios deberán ser de producción nacional cuando fueran emitidos por los servicios de radiodifusión abierta o en los canales o señales propias de los servicios por suscripción o insertas en las señales nacionales;
 
@@ -1565,7 +1557,7 @@ b) En el caso de servicios de televisión por suscripción, sólo podrán insert
 
 c) En el caso de la retransmisión de las señales de TV abierta, no se podrá incluir tanda publicitaria a excepción de aquellos servicios por suscripción ubicados en el área primaria de cobertura de la señal abierta;
 
-d) Las señales transmitidas por servicios por suscripción sólo podrán disponer de los tiempos de tanda publicitaria previstos eno 82 mediante su contratación directa con cada licenciatario y/o autorizado92;
+d) Las señales transmitidas por servicios por suscripción sólo podrán disponer de los tiempos de tanda publicitaria previstos en el artículo 82 mediante su contratación directa con cada licenciatario y/o autorizado92;
 
 e) Se emitirán con el mismo volumen de audio y deberán estar separados del resto de la programación93;
 
@@ -1633,7 +1625,7 @@ NOTA artículos 81 y 82
 
 Las previsiones vinculadas a la difusión de publicidad se vinculan a la necesidad de garantizar la subsistencia de las estaciones de televisión abierta del interior del país. En el mismo orden de ideas, se prevé un gravamen que tiene como hecho imponible a la publicidad inserta en señales no nacionales y la imposibilidad de desgravar, de conformidad a las previsiones del impuesto a las ganancias, las inversiones en publicidad extranjeras o señales no nacionales que pudieran realizar anunciantes argentinos. Este criterio se inspira en las previsiones del artículo 19 de la Ley Income Tax Act de Canadá.
 
-En orden a los límites de tiempo, se amparan en las previsiones del derecho comparado, sobre todo la Unión Europea, a cuya colación corresponde mencionar que el 6 de mayo ppdo, la Comisión Europea notificó a España un dictamen motivado por no respetar las normas de la Directiva «Televisión sin fronteras» en materia de publicidad televisada. Este procedimiento de infracción, comenzado en julio de 2007, se basa en un informe de vigilancia que reveló que las cadenas de televisión españolas más importantes, tanto públicas como privadas, superan ampliamente y de forma regular el límite de 12 minutos de anuncios publicitarios y telecompras por hora de reloj. Este límite, que es el que mantiene también la nueva Directiva «Servicios de medios audiovisuales sin fronteras», tiene como objetivo proteger al público contra un exceso de interrupciones publicitarias y promover un modelo europeo de televisión de calidad.
+En orden a los límites de tiempo, se amparan en las previsiones del derecho comparado, sobre todo la Unión Europea, a cuya colación corresponde mencionar que el 6 de mayo ppdo, la Comisión Europea notificó a España un dictamen motivado por no respetar las normas de la Directiva «Televisión sin fronteras» en materia de publicidad televisada. Este procedimiento de infracción, comenzado en julio de 2007, se basa en un informe de vigilancia que reveló que las cadenas de televisión españolas más importantes, tanto públicas como privadas, superan ampliamente y de forma regular el lÃminutos de anuncios publicitarios y telecompras por hora de reloj. Este límite, que es el que mantiene también la nueva Directiva «Servicios de medios audiovisuales sin fronteras», tiene como objetivo proteger al público contra un exceso de interrupciones publicitarias y promover un modelo europeo de televisión de calidad.
 
 ________
 101 CTA Brown.
@@ -1650,7 +1642,7 @@ CAPITULO I
 
 Habilitación y regularidad de los servicios
 
-ARTICULO 84. — Inicio de las transmisiones. Los adjudicatarios de licencias y autorizaciones deben cumplimenr los requisitos técnicos establecidos en un plazo no mayor de ciento ochenta (180) días corridos contados a partir de la adjudicación o autorización. Cumplidos los requisitos, la Autoridad Federal de Servicios de Comunicación Audiovisual conjuntamente con la autoridad técnica pertinente, procederá a habilitar técnicamente las instalaciones y dictar la resolución de inicio regular del servicio.
+ARTICULO 84. — Inicio de las transmisiones. Los adjudicatarios de licencias y autorizaciones deben cumplimentar los requisitos técnicos establecidos en un plazo no mayor de ciento ochenta (180) días corridos contados a partir de la adjudicación o autorización. Cumplidos los requisitos, la Autoridad Federal de Servicios de Comunicación Audiovisual conjuntamente con la autoridad técnica pertinente, procederá a habilitar técnicamente las instalaciones y dictar la resolución de inicio regular del servicio.
 
 Hasta tanto no se dicte el acto administrativo autorizando el inicio de transmisiones regulares, las mismas tendrán carácter de prueba y ajuste de parámetros técnicos, por lo que queda prohibida la difusión de publicidad.
 
@@ -1714,7 +1706,7 @@ ARTICULO 87. — Instalación y operatividad. Los servicios de comunicación aud
 
 El equipamiento técnico y las obras civiles de sus instalaciones se ajustarán al proyecto técnico presentado.
 
-ARTICULO 88. — Norma nacional de servicio. La Autoridad Federal de Servicios de Comunicación Audiovisual confeccionará y modificará, con la participación de la respectiva autoridad técnica, la Norma Nacional de Servicio con sujeción a los siguientes criterios:
+ARTICULO 88. — Norma nacional de servicio. La Autoridad Federal de Servicios de Comunicación Audiovisual confeccionará y modificará, con la participación de la respectiva autoridad técnica, la Norma Nrvicio con sujeción a los siguientes criterios:
 
 a) Las normas y restricciones técnicas que surjan de los tratados internacionales vigentes en los que la Nación Argentina sea signataria;
 
@@ -1747,7 +1739,7 @@ f) El treinta y tres por ciento (33%) de las localizaciones radioeléctricas pla
 
 Las reservas de frecuencias establecidas en el presente artículo no pueden ser dejadas sin efecto.
 
-Teniendo en cuenta las previsiones del artículo 160, la Autoridad Federal de Servicios de Comunicación Audiovisual destinará las frecuencias recuperadas por extinción, caducidad de licencia o autorización, o por reasignación de bandas por migración de estándar tecnológico, a la satisfacción de las reservas enunciadas en el presente artículo, especialmente las contempladas en los incisos e) y f).
+Teniendo en cuenta las previsiones del artículo 160, la Autoridad Federal de Servicios de Comunicación Audiovisual destinará las frecuencias recuperadas por extinción, caducidad de licencia o autorización, o por reasignación de bandas por migración de estándar tecnológico, a la satisfacción de las reservas enunciadas en el presente artículo, especialmente las contos incisos e) y f).
 
 NOTA artículo 89
 
@@ -1756,7 +1748,7 @@ Las previsiones vinculadas a la reserva de espectro radioeléctrico se apoyan en
 _________
 105 AMARC.
 
-ARTICULO 90. — Variación de parámetros técnicos. La autoridad de aplicación de esta ley, por aplicación de la Norma Nacional de Servicio, en conjunto con la autoridad regulatoria y la autoridad de aplicación en materia de Telecomunicaciones, podrán variar los parámetros técnicos de las estaciones de radiodifusión, sin afectar las condiciones de competencia en el área de cobertura de la licencia, sin que se genere para sus titulares ningún tipo de derecho indemnizatorio o resartorio.
+ARTICULO 90. — Variación de parámetros técnicos. La autoridad de aplicación de esta ley, por aplicación de la Norma Nacional de Servicio, en conjunto con la autoridad regulatoria y la autoridad de aplicación en materia de Telecomunicaciones, podrán variar los parámetros técnicos de las estaciones de radiodifusión, sin afectar las condiciones de competencia en el área de cobertura de la licencia, sin que se genere para sus titulares ningún tipo de derecho indemnizatorio o resarcitorio.
 
 En la notificación por la que se comunique la modificación del parámetro técnico se determinará el plazo otorgado, que en ningún caso será menor a los ciento ochenta (180) días corridos.
 
@@ -1782,9 +1774,9 @@ En el caso de presencia de posiciones dominantes en el mercado de servicios exis
 
 NOTA artículo 92
 
-La Declaración sobre Diversidad en la Radiodifusión de 2007 de la Relatoría de Libertad de Expresión sostiene: "En la planificación de la transición de la radiodifusión análoga a la digital se debe considerar el impacto que tiene en el acceso a los medios de comunicación y en los diferentes tipos de medios. Esto requiere un plan claro para el cambio que promueva, en lugar de limitar, los medios públicos. Se deben adoptar medidas para asegurar que el costo de la transición digital no limite la capacidad de los medios comunitarios para operar. Cuando sea apropiado, se debe considerar reservar, a mediano plazo, parte del espectro para la transmisión análoga de radio. Al menos parte del espectro liberado a través de la transición digital se debe reservar para uso de radiodifusión".
+La Declaración sobre Diversidad en la Radiodifusión de 2007 de la Relatoría de Libertad de Expresión sostiene: "En la planificación de la transición de la radiodifusión análoga a la digitansiderar el impacto que tiene en el acceso a los medios de comunicación y en los diferentes tipos de medios. Esto requiere un plan claro para el cambio que promueva, en lugar de limitar, los medios públicos. Se deben adoptar medidas para asegurar que el costo de la transición digital no limite la capacidad de los medios comunitarios para operar. Cuando sea apropiado, se debe considerar reservar, a mediano plazo, parte del espectro para la transmisión análoga de radio. Al menos parte del espectro liberado a través de la transición digital se debe reservar para uso de radiodifusión".
 
-Ahora bien, al plantearse la necesidad de nuevos actores, además de instancias de democratización y desconcentración en la propiedad de los medios de comunicación y contenidos, en virtud de las cuestiones ya expuestas, se recogen instancias de protección a la compncia como las resueltas por la Comisión Europea al autorizar condicionadamente los procesos de fusión entre Stream y Telepiú106, como dice Herbert Ungerer, Jefe de División de la Comisión Europea para la Competencia en el área de Información, Comunicación y Multimedia en su trabajo "Impact of European Competition Policy on Media (Impacto de la Política Europea de la Competencia en los Medios)".
+Ahora bien, al plantearse la necesidad de nuevos actores, además de instancias de democratización y desconcentración en la propiedad de los medios de comunicación y contenidos, en virtud de las cuestiones ya expuestas, se recogen instancias de protección a la competencia como las resueltas por la Comisión Europea al autorizar condicionadamente los procesos de fusión entre Stream y Telepiú106, como dice Herbert Ungerer, Jefe de División de la Comisión Europea para la Competencia en el área de Información, Comunicación y Multimedia en su trabajo "Impact of European Competition Policy on Media (Impacto de la Política Europea de la Competencia en los Medios)".
 
 "Como la digitalización multiplica la capacidad de canales disponibles en números del 5 a 10, el mayor punto de preocupación desde una perspectiva de la competencia debe ser transformar este medio ambiente multicarrier en una verdaderamente más ancha opción para los usuarios. Esto implica que el mayor objetivo de las políticas de competencia en el área es el mantenimiento, o creación, de un nivel de campo de juego durante la transición. En pocas palabras, la digitalización debe llevarnos a más actores en el mercado y no menos. No debe llevar a los actores tradicionales, en muchas instancias ya muy poderosos, a usar los nuevos canales para reforzar su situación aún más, en detrimento de los entrantes a los mercados y los nuevos medios que están desarrollando tales como los nuevos proveedores con base en Internet. Tampoco debe llevar a actores poderosos en los mercados aledaños a elevar sus posiciones dominantes indebidamente ni los recientemente en desarrollo mercados de los medios. Durante la transición nosotros debemos fortalecer el pluralismo y las estructuras pro competitivas"106107 .
 
@@ -1796,11 +1788,11 @@ ARTICULO 93. — Transición a los servicios digitales. En la transición a los 
 
 Se deja establecido que durante el período en el que el licenciatario emita en simultáneo de manera analógica y digital, y siempre que se trate de los mismos contenidos, la señal adicional no se computará a los efectos del cálculo de los topes previstos en la cláusula de multiplicidad de licencias del artículo 45.
 
-Las condiciones de emisión durante la transición serán reglamentadas por medio del Plan Nacional de Servicios de Comunicación Audiovisual Digitales, que será aprobado por el Poder Ejecutivo nacional dentro de los ciento ochenta (180) días de la entrada en vigencia de la presente. El Poder Ejecutivo nacional fijará la fecha de finalización del proceso de transición tecnológica para cada servicio.
+Las condiciones de emisión durante la transición serán reglamentadas por medio del Plan Nacional de Servicios de Comunicación Audiovisual Digitales, que será aprobado por el Poder Ejecutivo nacional dentro los ciento ochenta (180) días de la entrada en vigencia de la presente. El Poder Ejecutivo nacional fijará la fecha de finalización del proceso de transición tecnológica para cada servicio.
 
 Este Plan deberá prever que los licenciatarios o autorizados que operen servicios digitales no satelitales fijos o móviles, deberán reservar una porción de la capacidad de transporte total del canal radioeléctrico asignado, para la emisión de contenidos definidos como de "alcance universal" por la reglamentación a dictar por el Poder Ejecutivo nacional. Asimismo deberá prever las condiciones de transición de las emisoras de titularidad estatal, universitarias, de los Pueblos Originarios y de la Iglesia Católica.
 
-A fin de garantizar la participación ciudadana, la universalización del acceso a nuevas tecnologías y la satisfacción de los objetivos pra presente ley, previo a cualquier toma de decisión se deberán cumplir con la sustanciación de un procedimiento de elaboración participativa de normas y otro de audiencias públicas, de acuerdo a las normas y principios pertinentes.
+A fin de garantizar la participación ciudadana, la universalización del acceso a nuevas tecnologías y la satisfacción de los objetivos previstos en la presente ley, previo a cualquier toma de decisión se deberán cumplir con la sustanciación de un procedimiento de elaboración participativa de normas y otro de audiencias públicas, de acuerdo a las normas y principios pertinentes.
 
 Una vez finalizado el proceso de transición a los servicios digitales en las condiciones que se establezcan luego de cumplimentadas las obligaciones fijadas en el párrafo anterior, las bandas de frecuencias originalmente asignadas a licenciatarios y autorizados para servicios analógicos, quedarán disponibles para ser asignadas por el Poder Ejecutivo nacional para el cumplimiento de los objetivos fijados en el inciso e) del artículo 3º de la presente ley.
 
@@ -1820,7 +1812,7 @@ De la facturación bruta sólo serán deducibles las bonificaciones y descuentos
 
 (Nota Infoleg: por art. 1° de la Resolución N° 783/2015 de la Autoridad Federal de Servicios de Comunicación Audiovisual B.O. 8/9/2015 se otorga una reducción del CINCUENTA POR CIENTO (50%) del monto total del gravamen dispuesto por el artículo 94 de la Ley N° 26.522 por el periodo de SEIS (6) meses a los titulares de licencias de servicios de comunicación audiovisual cuyos domicilio de estudio o planta transmisora se encuentren ubicados en alguna de las Zonas comprendidas en el ANEXO al Decreto N° 1765/2015, y su facturación bruta promedio mensual del primer trimestre del año en curso por todo concepto, tomando el conjunto de licencias y servicios que presta, no supere la suma de DOSCIENTOS CINCUENTA MIL ($ 250.000), conforme al total que surja de las Declaraciones Juradas del Gravamen de los periodos mencionados. En la parte dispositiva de la Resolución de referencia se menciona el Decreto N° 1765/2015, siendo correcto el Decreto N° 1756/2015 como surge de los considerandos)
 
-(Nota Infoleg: por art. 1° de la Resolución General N° 3675/2014 de la AFIP B.O. 12/9/2014 se establece que los contribuyentes y responsables alcanzados por el gravamen establecido en el presente artículo,  incluidos los sujetos que gozan de alguna exención otorgada por la Autoridad Federal de Servicios de Comunicación Audiovisual —excepto aquellos contemplados en el inciso e) del Artícul norma legal—, a los fines de la determinación del impuesto correspondiente al período fiscal enero de 2013 y siguientes, deberán utilizar el programa aplicativo denominado “SERVICIOS DE COMUNICACION AUDIOVISUAL - Versión 3.0”. Vigencia: de aplicación respecto de las declaraciones juradas —originarias o rectificativas— que se presenten a partir del día de su publicación en el Boletín Oficial )
+(Nota Infoleg: por art. 1° de la Resolución General N° 3675/2014 de la AFIP B.O. 12/9/2014 se establece que los contribuyentes y responsables alcanzados por el gravamen establecido en el presente artículo,  incluidos los sujetos que gozan de alguna exención otorgada por la Autoridad Federal de Servicios de Comunicación Audiovisual —excepto aquellos contemplados en el inciso e) del Artículo 98 de ésta norma legal—, a los fines de la determinación del impuesto correspondiente al período fiscal enero de 2013 y siguientes, deberán utilizar el programa aplicativo denominado “SERVICIOS DE COMUNICACION AUDIOVISUAL - Versión 3.0”. Vigencia: de aplicación respecto de las declaraciones juradas —originarias o rectificativas— que se presenten a partir del día de su publicación en el Boletín Oficial )
 
 (Nota Infoleg: por art. 1° de la Resolución N° 1110/2013 de la Autoridad Federal de Servicios de Comunicación Audiovisual B.O. 01/10/2013 se dispone la exención del CIEN POR CIENTO (100%) del pago del gravamen instituido por el presente artículo por el plazo de 10 años, en los términos del artículo 98 inciso e). Por art. 2° de la norma de referencia se establece que la mencionada exención incluye a los sujetos mencionados en el artículo 37 de la presente Ley que hubieran obtenido la autorización pertinente por parte de la AUTORIDAD FEDERAL DE SERVICIOS DE COMUNICACION AUDIOVISUAL o por parte del COMITE FEDERAL DE RADIODIFUSION)
 
@@ -1840,7 +1832,7 @@ Categoría A: servicios con área de prestación en la Ciudad Autónoma de Bueno
 
 Categoría B: servicios con área de prestación en ciudades con seiscientos mil (600.000) o más habitantes.
 
-Categoría C: servicios con área de prestación en ciudades con menos de seiscientos mil (600.000) habitantes.
+Categoría C: servicios con área de prestación en udades con menos de seiscientos mil (600.000) habitantes.
 
 Categoría D: servicios con área de prestación en ciudades con menos de cien mil (100.000) habitantes.
 
@@ -1856,7 +1848,9 @@ Media y alta potencia Categoría C 2,5%
 
 Media y alta potencia Categoría D 2%
 
-b) Radiodifusión sonorría A 2,5%
+b) Radiodifusión sonora.
+
+AM Categoría A 2,5%
 
 AM Categoría B 1,5%
 
@@ -1934,13 +1928,13 @@ T = [N x V] / 166,386= [S (km2) x B(kHz) x x F (C1, C2, C3, C4, C5)] / 166,386
 
 En donde:
 
-T = es la tasa anual por reserva de dominio público radioeléctrico.
+T = es la tasa anl por reserva de dominio público radioeléctrico.
 
 N = es el número de unidades de reserva radioeléctrica.
 
 (URR) que se calcula como el producto de S x B, es decir, superficie en kilómetros cuadrados de la zona de servicio, por ancho de banda expresado en kHz.
 
-V = es el valor de la URR, que viene determinado en función de los cinco coeficientes Ci, establecidos en la Ley General  Telecomunicaciones, y cuya cuantificación, de conformidad con dicha ley, será la establecida en la Ley de Presupuestos Generales del Estado.
+V = es el valor de la URR, que viene determinado en función de los cinco coeficientes Ci, establecidos en la Ley General de Telecomunicaciones, y cuya cuantificación, de conformidad con dicha ley, será la establecida en la Ley de Presupuestos Generales del Estado.
 
 F (C1, C2, C3, C4, C5) = es la función que relaciona los CINCO (5) coeficientes Ci. Esta función es el producto de los CINCO (5) coeficientes indicados anteriormente.
 
@@ -2014,7 +2008,7 @@ Usos derivados de la demanda de mercado.
 
 Coeficiente C5: Este coeficiente considera los aspectos de relevancia social de un determinado servicio frente a otros servicios de similar naturaleza desde el punto de vista radioeléctrico. También contempla el relativo interés económico o rentabilidad del servicio prestado, gravando más por unidad de anchura de banda aquellos servicios de alto interés y rentabilidad frente a otros que, aún siendo similares desde el punto de vista radioeléctrico, ofrezcan una rentabilidad muy distinta y tengan diferente consideración desde el punto de vista de relevancia social.
 
-En radiodifusión, dadas las peculiaridades del servicio, se ha considerado un factor determinante para fijar la tasa de una determinada reserva de dominio público radioeléctrico, la densidad de población dentro de la zona de servicio de la emisora considerada.
+En radiodifusión, dadas las peculiaridades del servicio, se ha considerado un factor determinante para fijar la tasa de una determinada reserva de dominio pÃdensidad de población dentro de la zona de servicio de la emisora considerada.
 
 Cálculo de la tasa por reserva de dominio público radioeléctrico.
 
@@ -2026,7 +2020,7 @@ Se consideran los siguientes grupos o clasificaciones:
 
 1.1 Servicio móvil terrestre y otros asociados.
 
-1.2 Servicio móvil terrestbertura nacional.
+1.2 Servicio móvil terrestre con cobertura nacional.
 
 1.3 Sistemas de telefonía móvil automática (TMA).
 
@@ -2099,9 +2093,7 @@ f) Establécese una reducción del veinte por ciento (20%) del gravamen para las
 
 3) Tener adjudicada una categoría cuya área de cobertura sea de hasta cuarenta (40) kilómetros.
 
-4) Tener más de diez (10) empleados.
-
-g) Establécese una reducción del diez por ciento (10%) del gravamen para las licenciatarias de servicios de comunicación audiovisual por suscripción que reúnan las siguientes condiciones:
+4) Tener más de diez (10) eg) Establécese una reducción del diez por ciento (10%) del gravamen para las licenciatarias de servicios de comunicación audiovisual por suscripción que reúnan las siguientes condiciones:
 
 1) Poseer sólo una licencia.
 
@@ -2134,13 +2126,13 @@ ARTICULO 102. — Procedimiento. La instrucción inicial y la aplicación de san
 
 ARTICULO 103. — Sanciones. El incumplimiento de las obligaciones establecidas en la presente ley, sus reglamentaciones o las condiciones de adjudicación, dará lugar a la aplicación de las siguientes sanciones mínimas y máximas:
 
-1) Para los prestadores de gestión privada con o sin fines de lucro, para los prestadores autorizados de carácter no estatal y para los titulares de los regiros regulados en la presente ley:
+1) Para los prestadores de gestión privada con o sin fines de lucro, para los prestadores autorizados de carácter no estatal y para los titulares de los registros regulados en la presente ley:
 
 a) Llamado de atención;
 
 b) Apercibimiento;
 
-c) Multa del cero coma uno por ciento (0,1%) al diez por ciento (10%) de la facturación de publicidad obtenida en el mes anterior a la comisión del hecho pasible de sanción. El instrumento mediante el cual se determine la multa tendrá el carácter de título ejecutivo;
+c) Multa del cero coma uno por ciento (0,1%) al diez por ciento (1) de la facturación de publicidad obtenida en el mes anterior a la comisión del hecho pasible de sanción. El instrumento mediante el cual se determine la multa tendrá el carácter de título ejecutivo;
 
 d) Suspensión de publicidad;
 
@@ -2205,7 +2197,7 @@ ARTICULO 107. — Sanciones en relación con el horario. Dentro de los horarios 
 
 a) Los mensajes que induzcan al consumo de sustancias psicoactivas;
 
-b) Las escenas que contengan violencia verbal y/o fisica injustificada;
+b) Las escenas que contengan violenc y/o fisica injustificada;
 
 c) Los materiales previamente editados que enfaticen lo truculento, morboso o sórdido;
 
@@ -2253,9 +2245,9 @@ ARTICULO 112. — Jurisdicción. Una vez agotada la vía administrativa, las san
 
 La interposición de los recursos administrativos y de las acciones judiciales previstas en este artículo no tendrá efecto suspensivo salvo en el caso de caducidad de licencia, en el que deberán analizarse las circunstancias del caso.
 
-ARTICULO 113. — Caducidad de la licencia. Al declararse la caducidad de la licencia, la autoridad de aplicación efectuará un nuevo llamado a concurso dentro de los treinta (30) días de quedar firme la sanción. Hasta tanto se adjudique la nueva licencia, la autoridad de aplicación se hará cargo de la administración de la emisora. Si el concurso fuese declarado desierto, la emisora deberá cesar sus emisiones. Los equipos destinados al funcionamiento no podrán ser desafectados de dicho uso por su propietario mientras no se produzca tal cese de emisiones.
+ARTICULO 113. — Caducidad de la licencia. Al declararse la caducidad de la licencia, la autoridad de aplicación efectuará un nuevo llamado a concurso dentro de los treinta (30) días de quedar firme la sanción. Hasta tanto se adjudique la nueva licenciala autoridad de aplicación se hará cargo de la administración de la emisora. Si el concurso fuese declarado desierto, la emisora deberá cesar sus emisiones. Los equipos destinados al funcionamiento no podrán ser desafectados de dicho uso por su propietario mientras no se produzca tal cese de emisiones.
 
-ARTICULO 114. — Inhabilitación. La sanc³n de caducidad inhabilita a la titular sancionada y a los integrantes de sus órganos directivos por el término de cinco (5) años para ser titular de licencias, o socio de licenciatarias o administrador de las mismas.
+ARTICULO 114. — Inhabilitación. La sanción de caducidad inhabilita a la titular sancionada y a los integrantes de sus órganos directivos por el término de cinco (5) años para ser titular de licencias, o socio de licenciatarias o administrador de las mismas.
 
 ARTICULO 115. — Prescripción. Las acciones para determinar la existencia de infracciones a la presente prescribirán a los cinco (5) años de cometidas.
 
@@ -2277,6 +2269,8 @@ Creación. Objetivos.
 
 ARTICULO 119. — Creación. Créase, bajo la jurisdicción del Poder Ejecutivo nacional, Radio y Televisión Argentina Sociedad del Estado (RTA S.E.), que tiene a su cargo la administración, operación, desarrollo y explotación de los servicios de radiodifusión sonora y televisiva del Estado nacional.
 
+(Nota Infoleg: por art. 1° del Decreto N° 117/2024 B.O. 5/2/2024 se dispone la intervención de RADIO Y TELEVISIÓN ARGENTINA SOCIEDAD DEL ESTADO por el plazo de UN (1) año. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+
 NOTA artículos 119 y subsiguientes
 
 Se siguen los lineamientos de la estructura organizativa de la Televisión Nacional de Chile en la conformación de su autoridad para encabezar la conducción de la gestión de los medios del Estado. En los estudios comparados sobre medios públicos en el ámbito de América Latina, el ejemplo recogido es elogiado en su estructura.
@@ -2293,7 +2287,7 @@ La legislación que regula la Australian Broadcasting Corporation es la Australi
 
 Proveer dentro de Australia una innovativa y comprensiva programación de altos estándares como parte de un sistema integral con medios privados y públicos.
 
-Difundir programas que contribuyan al sentido de la identidad nacional, así como informar y entretener reflejando la diversidad cultural.
+Difundir programas que contribuyan al sentido de la identidad nacional, así como informar entretener reflejando la diversidad cultural.
 
 Difundir programas educativos.
 
@@ -2301,7 +2295,7 @@ Transmitir fuera de Australia programas de noticias y de actualidad que destaque
 
 De acuerdo a esta ley, la ABC está regida por un "Board of directors" que posee un Director General que está designado por el Board y dura cinco (5) años en el cargo.
 
-Asimismo, en el Board de Directores existe un "Staff Director" que es un miembro del personal periodístico de la emisora además de otros (de 5 a 7) que pueden o no ser Directores Ejecutivos y que son desigdos por el Gobernador General.
+Asimismo, en el Board de Directores existe un "Staff Director" que es un miembro del personal periodístico de la emisora además de otros (de 5 a 7) que pueden o no ser Directores Ejecutivos y que son designados por el Gobernador General.
 
 El Board de Directores debe asegurar el cumplimiento de los fines encomendados por ley a la Corporación y garantizar la independencia editorial, pese a la jurisdicción que el gobierno posee sobre ella.
 
@@ -2343,7 +2337,7 @@ Sus directores generales los designa el Consejo Superior del Audiovisual.
 
 Radiotelevisión Española es un Ente Público —adscrito administrativamente a la Sociedad Estatal de Participaciones Industriales desde el 1° de enero de 2001— cuyos altos órganos de control y gestión son el Consejo de Administración y la Dirección General.
 
-El Consejo de Administración de RTVE —a cuyas reuniones asiste la Directora General de RTVE— está formado por doce (12) miembros, la mitad de ellos designados por el Congreso y la otra mitad por el Senado, con un mandato cuya duración coincide con la Legislatura vigente en el momento de su nombramiento.
+El Consejo de Administración de RTVE —a cuyas reuniones asiste la Directora General de RTVE— está formado por doce (12) miembros, la mitad de elsignados por el Congreso y la otra mitad por el Senado, con un mandato cuya duración coincide con la Legislatura vigente en el momento de su nombramiento.
 
 La Dirección General es el órgano ejecutivo del Grupo RadioTelevisión Española y su titular es nombrado por el Gobierno, tras opinión del Consejo de Administración, por un período de cuatro (4) años, salvo disolución anticipada de las Cortes Generales.
 
@@ -2399,7 +2393,7 @@ CAPITULO II
 
 Disposiciones orgánicas. Consejo consultivo.
 
-ARTICULO 124. — Consejo Consultivo Honorario de los Medios Públicos. Creación. Créase el Consejo Consultivo Honorario de los Medios Públicos, que ejercerá el control social del cumplimiento de los objetivos de la presente ley por parte de Radio y levisión Argentina Sociedad del Estado y funcionará como ámbito consultivo extraescalafonario de la entidad.
+ARTICULO 124. — Consejo Consultivo Honorario de los Medios Públicos. Creación. Créase el Consejo Consultivo Honorario de los Medios Públicos, que ejercerá el control social del cumplimiento de los objetivos de la presente ley por parte de Radio y Televisión Argentina Sociedad del Estado y funcionará como ámbito consultivo extraescalafonario de la entidad.
 
 Sin perjuicio de las facultades de incorporación de miembros conforme el artículo 126, estará integrado, por miembros de reconocida trayectoria en los ámbitos de la cultura, educación o la comunicación del país.
 
@@ -2429,7 +2423,7 @@ ARTICULO 127. — Reuniones. El Consejo Consultivo Honorario de los Medios Públ
 
 ARTICULO 128. — Publicidad de las reuniones. Las reuniones del Consejo Consultivo Honorario de los Medios Públicos serán públicas. Será obligatoria la confección de un informe respecto de los temas considerados y su publicidad a través de las emisoras que integran Radio y Televisión Argentina Sociedad del Estado.
 
-ARTICULO 129. — Recursos. A fin de garantizar el mejor funcionamiento del Consejo Consultivo Honorario de los Medios Públicos, el directorio de Radio y Televisión Argentina Sociedad del Estado asignará los recursos físicos, financieros y humanos que estime necesarios para su gestión.
+ARTICULO 129. — Recursos. A fin de garantizar el mejor funcionamiento del Consejo Consultivo Honorario de los Medios PÃdirectorio de Radio y Televisión Argentina Sociedad del Estado asignará los recursos físicos, financieros y humanos que estime necesarios para su gestión.
 
 ARTICULO 130. — Competencia del Consejo Consultivo Honorario de los Medios Públicos. Compete al Consejo:
 
@@ -2437,7 +2431,7 @@ a) Convocar a audiencias públicas para evaluar la programación, los contenidos
 
 b) Aportar propuestas destinadas a mejorar el funcionamiento de Radio y Televisión Argentina Sociedad del Estado;
 
-c) Habilitar canales de comunicación directa cs ciudadanos cualquiera sea su localización geográfica y nivel socioeconómico;
+c) Habilitar canales de comunicación directa con los ciudadanos cualquiera sea su localización geográfica y nivel socioeconómico;
 
 d) Fiscalizar el cumplimiento de los objetivos de creación de la presente ley y denunciar su incumplimiento por ante la Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual;
 
@@ -2471,7 +2465,7 @@ La conformación del Directorio se efectuará dentro de los dos (2) años anteri
 
 La remoción será realizada conforme las cláusulas estatutarias.
 
-ARTICULO 133. — Incompatibilidades. Sin perjuicio de la aplicación de las incompatibilidades o inhabilidades establecidas para el ejercicio de la función pública, el ejercicio de los cargos de presidente y directores de Radio y Televisión Argentina Sociedad del Estado será incompatible con el desempeño de cargos políticos partidarios directivos y/o electivos, o cualquier forma de vinculación societaria con empresas periodísticas y/o medios electrónicos de comunicación social creados o a crearse y/o de prestación de servicios vinculados a los que se prestarán en Radio y Televisión Argentina Sociedad del Estado.
+ARTICULO 133. — Incompatibilidades. Sin perjuicio de la aplicación de las incompatibilidades o inhabilidades establecidas para el ejercicio de la función pública, el ejercicio de los cargos de presidente y directores de Radio y Televisión Argentina Sociedad del Estado será incompatible con el desempeño de cargos políticos partidarios directivos y/o electivos, o cualquier forma de vinculación societaria con empresas periodísticas y/trónicos de comunicación social creados o a crearse y/o de prestación de servicios vinculados a los que se prestarán en Radio y Televisión Argentina Sociedad del Estado.
 
 ARTICULO 134. — Atribuciones y obligaciones. El directorio de Radio y Televisión Argentina Sociedad del Estado tendrá las siguientes atribuciones y obligaciones:
 
@@ -2523,13 +2517,13 @@ ARTICULO 137. — Exención. Las emisoras de Radio y Televisión Argentina Socie
 
 ARTICULO 138. — Disposición de los bienes. La disposición de bienes inmuebles así como la de archivos sonoros documentales, videográficos y cinematográficos declarados por autoridad competente como de reconocido valor histórico y/o cultural que integran el patrimonio de Radio y Televisión Argentina Sociedad del Estado, sólo podrá ser resuelta por ley.
 
-ARTICULO 139. — Sistema de control. La operatoria de Radio y Televisión Argentina Sociedad del Estado será objeto de control por parte de la Sindicatura General de la Nación y de la Auditoría General de la Nación. Es obligación permanente e inexcusable del directorio dar a sus actos la mayor publicidad y transparencia en materia de recursos, gastos, nombramientos de personal y contrataciones, sin perjuicio de la sujeción al régimen de la ley 24.156 y sus modificatorias.
+ARTICULO 139. — Sistema de control. La operatoria de Radio y Televisión Argentina Sociedadserá objeto de control por parte de la Sindicatura General de la Nación y de la Auditoría General de la Nación. Es obligación permanente e inexcusable del directorio dar a sus actos la mayor publicidad y transparencia en materia de recursos, gastos, nombramientos de personal y contrataciones, sin perjuicio de la sujeción al régimen de la ley 24.156 y sus modificatorias.
 
 CAPITULO V
 
 Disposiciones complementarias
 
-ARTICULO 140. — Transición. Radio y Televisión Argentina Sociedad del Estado será la continuadora de todos los trámites de adjudicación de y servicios de radiodifusión iniciados por el Sistema Nacional de Medios Públicos Sociedad del Estado creado por el decreto 94/2001, y sus modificatorios.
+ARTICULO 140. — Transición. Radio y Televisión Argentina Sociedad del Estado será la continuadora de todos los trámites de adjudicación de frecuencia y servicios de radiodifusión iniciados por el Sistema Nacional de Medios Públicos Sociedad del Estado creado por el decreto 94/2001, y sus modificatorios.
 
 ARTICULO 141. — Transferencia de frecuencias. Transfiérense a Radio y Televisión Argentina Sociedad del Estado, las frecuencias de radiodifusión sonora y televisiva cuya titularidad tiene el Sistema Nacional de Medios Públicos Sociedad del Estado creado por el decreto 94/2001, y sus modificatorios, correspondientes a Radiodifusión Argentina al Exterior y a las siguientes estaciones de radiodifusión: LS82 TV CANAL 7; LRA1 RADIO NACIONAL BUENOS AIRES, LRA2 RADIO NACIONAL VIEDMA; LRA3 RADIO NACIONAL SANTA ROSA; LRA4 RADIO NACIONAL SALTA; LRA5 RADIO NACIONAL ROSARIO; LRA6 RADIO NACIONAL MENDOZA; LRA7 RADIO NACIONAL CORDOBA; LRA8 RADIO NACIONAL FORMOSA; LRA9 RADIO NACIONAL ESQUEL; LRA10 RADIO NACIONAL USHUAIA; LRA11 RADIO NACIONAL COMODORO RIVADAVIA; LRA12 RADIO NACIONAL SANTO TOME; LRA13 RADIO NACIONAL BAHIA BLANCA; LRA14 RADIO NACIONAL SANTA FE; LRA15 RADIO NACIONAL SAN MIGUEL DE TUCUMAN; LRA16 RADIO NACIONAL LA QUIACA; LRA17 RADIO NACIONAL ZAPALA; LRA18 RADIO NACIONAL RIO TURBIO; LRA19 RADIO NACIONAL PUERTO IGUAZU; LRA20 RADIO NACIONAL LAS LOMITAS; LRA21 RADIO NACIONAL SANTIAGO DEL ESTERO; LRA22 RADIO NACIONAL SAN SALVADOR DE JUJUY; LRA23 RADIO NACIONAL SAN JUAN; LRA24 RADIO NACIONAL RIO GRANDE; LRA25 RADIO NACIONAL TARTAGAL; LRA26 RADIO NACIONAL RESISTENCIA; LRA27 RADIO NACIONAL CATAMARCA; LRA28 RADIO NACIONAL LA RIOJA; LRA29 RADIO NACIONAL SAN LUIS; LRA30 RADIO NACIONAL SAN CARLOS DE BARILOCHE; LRA42 RADIO NACIONAL GUALEGUAYCHU; LRA51 RADIO NACIONAL JACHAL; LRA52 RADIO NACIONAL CHOS MALAL; LRA53 RADIO NACIONAL SAN MARTIN DE LOS ANDES; LRA54 RADIO NACIONAL INGENIERO JACOBACCI; LRA55 RADIO NACIONAL ALTO RIO SENGUERR; LRA56 RADIO NACIONAL PERITO MORENO; LRA57 RADIO NACIONAL EL BOLSON; LRA58 RADIO NACIONAL RIO MAYO; LRA59 RADIO NACIONAL GOBERNADOR GREGORES; LRA 36 RADIO NACIONAL ARCANGEL SAN GABRIEL —ANTARTIDA ARGENTINA— e incorpóranse asimismo las emisoras comerciales LV19 RADIO MALARGÜE; LU23 RADIO LAGO ARGENTINO; LU4 RADIO PATAGONIA ARGENTINA; LT11 RADIO GENERAL FRANCISCO RAMIREZ; LT12 RADIO GENERAL MADARIAGA; LU91 TV CANAL 12; LT14 RADIO GENERAL URQUIZA; LV8 RADIO LIBERTADOR GENERAL SAN MARTIN y LV4 RADIO SAN RAFAEL.
 
@@ -2537,13 +2531,13 @@ ARTICULO 142. — Personal. El personal que se encuentra en relación de depende
 
 Es principio de interpretación de la presente la preservación de los derechos de los trabajadores que se desempeñan en las emisoras detalladas en el artículo anterior.
 
-ARTICULO 143. — Reglamentación y estatuto social. El Poder Ejecutivo nacional, en el término de sesenta (60) días a partir de la sanción de la presente ley, dictará la norma que reglamente la creación de Radio y Televisión Argentina Sociedad del Estado y su estatuto social a fin de que posibilite el cumplimiento de los objetivos y obligaciones determinados por la presente.
+ARTICULO 143. — Reglamentación y estatuto social. El Poder Ejecutivn el término de sesenta (60) días a partir de la sanción de la presente ley, dictará la norma que reglamente la creación de Radio y Televisión Argentina Sociedad del Estado y su estatuto social a fin de que posibilite el cumplimiento de los objetivos y obligaciones determinados por la presente.
 
 ARTICULO 144. — Transferencia de activos. Transfiérense a Radio y Televisión Argentina Sociedad del Estado los activos, cualquiera sea su naturaleza, que a la fecha pertenecen al Sistema Nacional de Medios Públicos Sociedad del Estado creado por el decreto 94/01, y sus modificatorios, tales como inmuebles, con todos sus equipos y enseres, muebles, archivos documentales, videográficos y cinematográficos así como todos los bienes y derechos que posea en la actualidad.
 
 Los pasivos no corrientes de Canal 7 y de Radio Nacional no se transferirán a Radio y Televisión Argentina Sociedad del Estado incorporándose al Tesoro nacional.
 
-A solicitud de Radio y Televisión Argentina Sociedad del Estado, los registros correspondientes deben cancelar toda restricción ue afecte a bienes transferidos por la presente ley.
+A solicitud de Radio y Televisión Argentina Sociedad del Estado, los registros correspondientes deben cancelar toda restricción al dominio que afecte a bienes transferidos por la presente ley.
 
 TITULO VIII
 
@@ -2581,7 +2575,7 @@ TITULO IX
 
 Servicios de comunicación audiovisual de Pueblos Originarios
 
-ARTICULO 151. — Autorización. Los Pueblos Originarios, podrán ser autorizados para la instalación y funcionamiento de servicios de comunicación audiovisual por radiodifusión sonora con amplitud modulada (AM) y modulación de frecuencia (FM) así como de radiodifusión televisiva abierta en los términos y condiciones establecidos en la presente ley.
+ARTICULO 151. — Autorización. Los Pueblos Originarios, podrán ser autorizados para la instalación y funcionamiento de servicios de comunicación audiovisual por radiodifusión sonora con amplitud modulada (AM) y modulación de frecuencia (FM) así como de radiodivisiva abierta en los términos y condiciones establecidos en la presente ley.
 
 Los derechos previstos en la presente ley se ejercerán en los términos y el alcance de la ley 24.071.
 
@@ -2603,7 +2597,7 @@ TITULO X
 
 Determinación de políticas públicas
 
-ARTICULO 153. — Facúltase al Poder Ejecutivo nacional a implementar políticas públicas estratégicas para la promoción y defensa de la industria audiovisual nacional en el marco de las previsiones del artículo 75 inciso 19 de la Constitución Nacional. A tal efecto, deberá adoptar medidas destinadas a y desarrollo de conglomerados de producción de contenidos audiovisuales nacionales para todos los formatos y soportes, facilitando el diálogo, la cooperación y la organización empresarial entre los actores económicos y las instituciones públicas, privadas y académicas, en beneficio de la competitividad. Para ello, se establecerán marcos que tengan por finalidad:
+ARTICULO 153. — Facúltase al Poder Ejecutivo nacional a implementar políticas públicas estratégicas para la promoción y defensa de la industria audiovisual nacional en el marco de las previsiones del artículo 75 inciso 19 de la Constitución Nacional. A tal efecto, deberá adoptar medidas destinadas a promover la conformación y desarrollo de conglomerados de producción de contenidos audiovisuales nacionales para todos los formatos y soportes, facilitando el diálogo, la cooperación y la organización empresarial entre los actores económicos y las instituciones públicas, privadas y académicas, en beneficio de la competitividad. Para ello, se establecerán marcos que tengan por finalidad:
 
 a) Capacitar a los sectores involucrados sobre la importancia de la creación de valor en el área no sólo en su aspecto industrial sino como mecanismo de la promoción de la diversidad cultural y sus expresiones;
 
@@ -2633,7 +2627,7 @@ ARTICULO 155. — Habilitaciones. La habilitación para actuar como locutor, ope
 
 ARTICULO 156. — Reglamentos. Plazos. La Autoridad Federal de Servicios de Comunicación Audiovisual deberá elaborar los reglamentos que a continuación se identifican, en los siguientes plazos contados a partir de su constitución:
 
-a) Reglamento de funcionamiento interno del directorio, treinta (30) días;
+a) Reglamento ento interno del directorio, treinta (30) días;
 
 b) Proyecto de reglamentación de la presente incluyendo el régimen de sanciones, para su aprobación por decreto del Poder Ejecutivo nacional, sesenta (60) días;
 
@@ -2643,7 +2637,7 @@ Hasta tanto se elaboren y aprueben los reglamentos mencionados en este artículo
 
 Consejo Federal de Comunicación Audiovisual. Dentro del plazo de treinta (30) días de la entrada en vigencia de la presente ley, el Poder Ejecutivo nacional convocará a los sectores a los que refieren los incisos c, d, e, f, g y h del artículo 16, a fin de establecer el procedimiento de designación de sus representantes a los efectos de la conformación inicial del Consejo Federal de Comunicación Audiovisual.
 
-El Consejo debe quedar integrado dentro del plazo de noventa (90) días desde la entrada en vincia de la presente ley.
+El Consejo debe quedar integrado dentro del plazo de noventa (90) días desde la entrada en vigencia de la presente ley.
 
 ARTICULO 157. — Transferencia de activos. Transfiérense a la Autoridad Federal de Servicios de Comunicación Audiovisual los activos, cualquiera sea su naturaleza, que a la fecha pertenezcan al Comité Federal de Radiodifusión, organismo autárquico dependiente de la Secretaría de Medios de Comunicación de la Jefatura de Gabinete de Ministros, creado por disposición de los artículos 92 y 96 de la Ley de Radiodifusión 22.285, tales como inmuebles, con todos sus equipos y enseres muebles, archivos documentales cualquiera fuera su soporte, así como todos los bienes y derechos que posean en la actualidad.
 
@@ -2659,7 +2653,7 @@ ARTICULO 160. — Resolución de conflictos. La autoridad de aplicación tendrá
 
 ARTICULO 161. — (Artículo derogado por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-ARTICULO 162. — Emisoras ilegales. Hasta tanto finalicen los procedimientos de normalización de espectro, la autoridad de aplicación deberá, como previo a toda declaración de ilegalidad, requerir a la sumariada la totalidad de los trámites que hubieren iniciado requiriendo su legalización, y a la autoridad regulatoria y la autoridad de aplicación en materia de telecomunicaciones los informes sobre si la emisora causa interferencias y si tiene factibilidad de previsión en el Plan Técnico la localización radioeléctrica en cuestión. En caso de encontrarse la emisora en condiciones de haber solicitado su legalización, la autoridad de aplicación deberá exobre ella como condición para el dictado del acto administrativo.
+ARTICULO 162. — Emisoras ilegales. Hasta tanto finalicen los procedimientos de normalización de espectro, la autoridad de aplicación deberá, como previo a toda declaración de ilegalidad, requerir a la sumariada la totalidad de los trámites que hubieren iniciado requiriendo su legalización, y a la autoridad regulatoria y la autoridad de aplicación en materia de telecomunicaciones los informes sobre si la emisora causa interferencias y si tiene factibilidad de previsión en el Plan Técnico la localización radioeléctrica en cuestión. En caso de encontrarse la emisora en condiciones de haber solicitado su legalización, la autoridad de aplicación deberá expedirse sobre ella como condición para el dictado del acto administrativo.
 
 TITULO XII
 
@@ -2686,8 +2680,10 @@ JULIO C. C. COBOS. — EDUARDO A. FELLNER. — Enrique Hidalgo. — Juan H. Estr
 
 Antecedentes Normativos:
 
+- Artículo 45 sustituido por art. 17 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
+
 - Artículo 10, Nota Infoleg: por art. 1° del Decreto N° 236/2015 B.O. 23/12/2015 se dispone la intervención de la Autoridad Federal de Servicios de Comunicación Audiovisual (AFSCA) por el plazo, prorrogable, de CIENTO OCHENTA (180) días corridos a contar desde la fecha de publicación del Decreto de referencia;
 
 - Artículo 161, Nota Infoleg: por art. 1º de la Resolución Nº 1295/2011 de la Autoridad Federal de Servicios de Comunicación Audiovisual B.O. 30/09/2011 se prorroga el plazo establecido en el artículo 2° de la Resolución N° 297/2010 de la Autoridad Federal de Servicios de Comunicación Audiovisual, por el término de SESENTA (60) días, contados a partir del siguiente hábil al de la publicación de la norma de referencia;
 
-- Artículo 161, Nota Infoleg: por art. 1° de la Resolución N° 297/2010 de la Autoridad Federal de Servicios de Comunicación Audiovisual B.O. 8/9/2010 se establecen los mecanismos de transición previstos en el presente artículo. Y por art. 2° de la misma norma se establece que el plazo no mayor a UN (1) año previsto en éste artículo, comenzará a regir a partir del día siguiente de la publicación de la resolución de referencia.
+- Artículo 161, Nota Infoleg: por art. 1° dción N° 297/2010 de la Autoridad Federal de Servicios de Comunicación Audiovisual B.O. 8/9/2010 se establecen los mecanismos de transición previstos en el presente artículo. Y por art. 2° de la misma norma se establece que el plazo no mayor a UN (1) año previsto en éste artículo, comenzará a regir a partir del día siguiente de la publicación de la resolución de referencia.

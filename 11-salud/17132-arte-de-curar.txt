@@ -118,11 +118,11 @@ Artículo 19. — Los profesionales que ejerzan la medicina están, sin perjuici
 
 6º) ajustarse a lo establecido en las disposiciones legales vigentes para prescribir alcaloides;
 
-7º) Prescribir o certificar en recetas manuscritas, electrónicas o digitales, en las que debe constar la siguiente información en idioma nacional: nombre, apellido, profesión, número de matrícula, domicilio, número telefónico y correo electrónico cuando corresponda. Solo pueden anunciarse cargos técnicos o títulos que consten registrados en la autoridad de aplicación competente y en las condiciones que se reglamenten. Las prescripciones y/o recetas deben ser formuladas en idioma nacional, fechadas y firmadas en forma manuscrita, electrónica o digital. En caso de ser redactadas electrónicamente, la firma y demás requisitos técnicos y legales deben adecuarse a la legislación vigente.
+7º) Prescribir o certificar en recetas cargadas en formularios electrónicos o digitales, en las que debe constar la siguiente información en idioma nacional: nombre, apellido, profesión, número de matrícula, domicilio, número telefónico y correo electrónico cuando corresponda. Solo podrán anunciarse cargos técnicos o títulos que consten registrados en la autoridad competente y en las condiciones que se reglamenten. Las prescripciones y/o recetas deberán ser formuladas en idioma nacional, fechadas y firmadas.
 
-En caso de utilizar la firma digital, la misma debe adecuarse a la ley 25.506, de firma digital, adhiriendo al régimen e intermediando una autoridad certificante.
+La prescripción podrá consignar únicamente con el nombre genérico del medicamento o denominación común internacional.
 
-En el caso de que la prescripción incluya un ingrediente farmacéutico activo (IFA) que tenga actividad antimicrobiana sistémica, deberá registrar el diagnóstico por el cual el mismo se prescribe. (Inciso sustituido por art. 10 de la Ley Nº 27.680 B.O. 24/8/2022.)
+(Inciso 7°) sustituido por art. 310 del Decreto N° 70/2023 B.O. 21/12/2023) 
 
 8º) extender los certificados de defunción de los pacientes fallecidos bajo su asistencia debiendo expresar los datos de identificación, la causa de muerte, el diagnóstico de la última enfermedad de acuerdo con la nomenclatura que establezca la Secretaría de Estado de Salud Pública y los demás datos que con fines estadísticos les fueran requeridos por las autoridades sanitarias;
 
@@ -236,7 +236,7 @@ Podrán ejercerla:
 
 3) los que tengan título otorgado por una Universidad extranjera y que en virtud de tratados internacionales en vigor hayan sido habilitados por universidades nacionales
 
-4) los profesionales de prestigio internacional reconocido que estuvieran de tránsito en el país y fueran requeridos en consultas sobre asuntos de su exclusiva especialidad. Esta autorización será concedida a solicitud de los interesados por un plazo de seis meses, que podrá ser prorrogado a un año como máximo, por la Secretaría de Estado de Salud Pública. ta autorización sólo podrá ser nuevamente concedida a una misma persona cuando haya transcurrido un plazo no menor de cinco (5) años desde su anterior habilitación.
+4) los profesionales de prestigio internacional reconocido que estuvieran de tránsito en el país y fueran requeridos en consultas sobre asuntos de su exclusiva especialidad. Esta autorización será concedida a solicitud de los interesados por un plazo de seis mesesque podrá ser prorrogado a un año como máximo, por la Secretaría de Estado de Salud Pública. Esta autorización sólo podrá ser nuevamente concedida a una misma persona cuando haya transcurrido un plazo no menor de cinco (5) años desde su anterior habilitación.
 
 Esta autorización precaria en ningún caso podrá significar una actividad profesional privada y deberá limitarse a la consulta requerida por instituciones sanitarias, científicas o profesionales reconocidas.
 
@@ -326,9 +326,9 @@ Artículo 30. — Queda prohibido a los profesionales que ejerzan la odontologí
 
 Capítulo II — De los Especialistas Odontólogos
 
-Artículo 31. — Para emplear el título o certificación de especialista y anunciarse como tales, los profesionales que ejerzan la odontología, deberán acreditar alguna de las condiciones siguientes para obtener la autorización del Ministerio de Salud y Acción Social:
+Artículo 31. — Para emplear el título o certificación de especialista y anunciarse como tales, los profesionales que ejerzan la odontología, deberán acreditar alguna de las condiciones siguientes para obtener la autorizaciÃdel Ministerio de Salud y Acción Social:
 
-a) Poseer certificación otorgada por comisiones especles de evaluación designadas al efecto por la autoridad de aplicación, en las condiciones que se reglamenten, las que deberán incluir como mínimo acreditación de (cinco) 5 años de egresado y (tres) 3 de antigüedad de ejercicio de la especialidad; valoración de títulos, antecedentes y trabajos; y examen de competencia;
+a) Poseer certificación otorgada por comisiones especiales de evaluación designadas al efecto por la autoridad de aplicación, en las condiciones que se reglamenten, las que deberán incluir como mínimo acreditación de (cinco) 5 años de egresado y (tres) 3 de antigüedad de ejercicio de la especialidad; valoración de títulos, antecedentes y trabajos; y examen de competencia;
 
 b) Poseer título de especialista o de capacitación especializada otorgado o revalidado por universidad nacional o privada reconocida por el Estado;
 
@@ -374,7 +374,7 @@ Exceptúanse de las limitaciones del artículo 20, inciso 21, los médicos que i
 
 Capítulo II — De los Exámenes Anatomopatológicos
 
-Artículo 33. — Los exámenes anatomopatológicos de material humano sólo podrán ser efectuados por profesionales especializados, habilitados para el ejercicio de la medicina u odontología, según el caso.
+Artículo 33. — Los exámenes anatomopatológicos de material humano sólo podrán ser efectuados por profesionales especializos, habilitados para el ejercicio de la medicina u odontología, según el caso.
 
 Dichos profesionales deberán estar inscriptos en la Secretaría de Estado de Salud Pública en registro especial, acreditando los requisitos de los artículos 21 ó 31, según el caso.
 
@@ -424,7 +424,7 @@ d) número mínimo de personal en actividades de colaboración.
 
 Capítulo III — De la Dirección Técnica
 
-Artículo 40. — Los establecimientos asistenciales deberánener a su frente un director, médico y odontólogo, según sea el caso, el que será responsable ante las autoridades del cumplimiento de las leyes, disposiciones y reglamentaciones vigentes en el ámbito de actuación del establecimiento bajo su dirección y sus obligaciones serán reglamentadas.
+Artículo 40. — Los establecimientos asistenciales deberán tener a su frente un director, médico y odontólogo, según sea el caso, el que será responsable ante las autoridades del cumplimiento de las leyes, disposiciones y reglamentaciones vigentes en el ámbito de actuación del establecimiento bajo su dirección y sus obligaciones serán reglamentadas.
 
 La responsabilidad del director no excluye la responsabilidad personal de los profesionales o colaboradores ni de las personas físicas o ideales propietarias del establecimiento.
 
@@ -498,11 +498,11 @@ c) los argentinos nativos, diplomados en universidades extranjeras que hayan cum
 
 d) Los que posean título otorgado por escuelas reconocidas por la Secretaría de Estado de Salud Pública, en las condiciones que se reglamenten.
 
-Artículo 45. — Las personas referidas en el artículo 42, limitarán su actividad a la colaboración con el profesional responsable, sea en la asistencia o recuperación de enfermos, sea en la preservación de la salud de los sanos, y deberán ejercer su actividad dentro de los límites que en cada caso fije la presente ley y su reglamentación.
+Artículo 45. — Las personas referidas en el artículo 42, limitarán su actividad a la colaboración con el profesional respoable, sea en la asistencia o recuperación de enfermos, sea en la preservación de la salud de los sanos, y deberán ejercer su actividad dentro de los límites que en cada caso fije la presente ley y su reglamentación.
 
 Para la autorización del ejercicio de cualquiera de las actividades mencionadas en el artículo 42, es indispensable la inscripción del título habilitante y la obtención de la matrícula de los organismos competentes de la Secretaría de Estado de Salud Pública, en las condiciones que se reglamenten.
 
-Artículo 46. — Las personas a que hace referencia el artículo 42 podrán despeñarse en las condiciones que se reglamenten, en las siguientes formas:
+Artículo 46. — Las personas a que hace referencia el artículo 42 podrán desempeñarse en las condiciones que se reglamenten, en las siguientes formas:
 
 a) Ejercicio privado autorizado;
 
@@ -566,7 +566,7 @@ Las obstétricas o parteras no pueden tener en su consultorio instrumental médi
 
 Artículo 52. — Las obstétricas o parteras que deseen recibir embarazadas en su consultorio en carácter de internadas deberán obtener autorización previa de la Secretaría de Estado de Salud Pública, la que fijará las condiciones higiénico—sanitarias a que deberán ajustarse los locales y los elementos de que deberán estar dotados, no pudiendo utilizar la denominación de "Maternidades o Clínicas Maternales", reservándose dicha calificación para los establecimientos que cuenten con dirección médica y cuerpo profesional especializado en obstetricia.
 
-En los mencionados locales podrán ser admitidas Ãbarazadas que se encuentren en los tres últimos meses de embarazo o en trabajo de parto.
+En los mencionados locales podrán ser admitidas únicamente embarazadas que se encuentren en los tres últimos meses de embarazo o en trabajo de parto.
 
 El derecho de inspección de la Secretaría de Estado de Salud Pública es absoluto y se podrá ordenar la inmediata clausura cuando sus instalaciones técnicas o higiénicas no sean satisfactorias, o cuando existan internadas fuera de las condiciones reglamentarias o estén atacadas de enfermedades infecto—contagiosas, debiendo efectuarse de inmediato la correspondiente denuncia si se presupone la comisión de un delito.
 
@@ -606,7 +606,7 @@ Artículo 62. — Se entiende por ejercicio de la terapia ocupacional la aplicac
 
 Artículo 63. — La terapia ocupacional podrá ser ejercida por las personas que tengan título de terapistas ocupacional acorde con lo dispuesto en el artículo 44 en las condiciones que se reglamenten.
 
-Artículo 64. — Los que ejerzan la terapia ocupacional podrán actuar únicamente por indicación y bajo control médico en los límites que se reglamenten. Ante la comprobación de cualquier signo o síntoma anormal en el transcurso del tratamiento o cuando se observare la posibilidad de que surjan o amenacen surgir complicaciones, deberán requerir el inmediato control médico.
+Artículo 64. — Los quejerzan la terapia ocupacional podrán actuar únicamente por indicación y bajo control médico en los límites que se reglamenten. Ante la comprobación de cualquier signo o síntoma anormal en el transcurso del tratamiento o cuando se observare la posibilidad de que surjan o amenacen surgir complicaciones, deberán requerir el inmediato control médico.
 
 Artículo 65. — Los terapistas ocupacionales podrán realizar exclusivamente sus actividades en establecimientos asistenciales oficiales o privados habilitados y en el domicilio del paciente y anunciar u ofrecer sus servicios únicamente a médicos.
 
@@ -646,7 +646,7 @@ Capítulo IX — De los Auxiliares de Radiología
 
 Artículo 83. — Se entiende como ejercicio auxiliar de radiología la obtención de radiografías y las labores correspondientes de cámara oscura.
 
-Artículo 84. — Podrán ejercer como auxiliares de radiología los que tengan título de técnicos en radiología, ayudantes de radiología y/o radiógrafos, acordes con lo dispuesto en el artículo 44º, en las condiciones que se reglamenten.
+Artículo 84. — Podrán ejercer como auxiliaresología los que tengan título de técnicos en radiología, ayudantes de radiología y/o radiógrafos, acordes con lo dispuesto en el artículo 44º, en las condiciones que se reglamenten.
 
 Artículo 85. — Los que ejerzan como auxiliares de radiología podrán actuar únicamente por indicación y bajo control médico u odontológico directo y en los límites de su autorización.
 
@@ -658,7 +658,7 @@ Capítulo X — De los Auxiliares de Psiquiatría
 
 Artículo 87. — Se entiende como ejercicio auxiliar de la siquiatría la obtención de tests mentales y la recopilación de antecedentes y datos ambientales de los pacientes.
 
-Artículo 88. — Podrán ejercer la actividad a que se refiere el artículo precedente o de auxiliar de siquiatría, acorde con lo dispuesto en el artículo 44º, en las condiciones que se reglamenten.
+Artículo 88. — Podrán ejercer la actividad a que se refiere el artículo precedente los que posean el título de auxiliar de siquiatría, acorde con lo dispuesto en el artículo 44º, en las condiciones que se reglamenten.
 
 Artículo 89. — Los que ejerzan como auxiliares de siquiatría podrán actuar únicamente por indicación y bajo control del médico especialista habilitado y dentro de los límites de su autorización.
 
@@ -690,7 +690,7 @@ Artículo 97. — Podrán ejercer la actividad a que se refiere el artículo pre
 
 Artículo 98. — Los que ejerzan como auxiliares de anestesia podrán actuar únicamente bajo indicación y control directo del profesional y en el límite estricto de su autorización. En ningún caso podrán aplicar anestesias.
 
-Sin perjuicio de las penalidades impuestas por esta ley, los que actuaren fuera de los límites en que deben ser desarrolladas sus actividades, serán denunciados por infracción al artículo 208º del Código Penal.
+Sin perjuicio de las penalidades impuestas por esta ley, los que actuaren fuera de los lue deben ser desarrolladas sus actividades, serán denunciados por infracción al artículo 208º del Código Penal.
 
 Artículo 99. — Los auxiliares de anestesia podrán realizar el ejercicio de su actividad exclusivamente en establecimientos asistenciales oficiales o privados habilitados y/o como personal auxiliar de médico especializado.
 
@@ -746,7 +746,7 @@ Artículo 115. — Se entiende por ejercicio de la Técnica Ortésica y Protési
 
 Artículo 116. — Podrán ejercer la actividad a la que se refiere el artículo precedente, los que posean el título de técnico en ortesis y prótesis o técnico en aparatos ortopédicos, acorde con lo dispuesto por el artículo 44º, en las condiciones que se reglamenten.
 
-Artículo 117. — Los que ejerzan como técnicos en ortesis y prótesis o técnicos en aparatos ortopédicos podrán actuar únicamente por indicación, prescripción y control médico, mente en tales condiciones podrán realizar medidas y pruebas de aparatos en los pacientes.
+Artículo 117. — Los que ejerzan como técnicos en ortesis y prótesis o técnicos en aparatos ortopédicos podrán actuar únicamente por indicación, prescripción y control médico, y exclusivamente en tales condiciones podrán realizar medidas y pruebas de aparatos en los pacientes.
 
 Artículo 118. — Los técnicos en ortesis y prótesis o en aparatos ortopédicos podrán realizar actividad privada o en establecimientos asistenciales oficiales o privados habilitados y controlados por la Secretaría de Estado de Salud Pública, en las condiciones que se reglamenten.
 
@@ -776,7 +776,7 @@ a) apercibimiento;
 
 b) Multa de un millón de pesos ($ 1.000.000) a cuatrocientos millones de pesos ($ 400.000.000), susceptible de ser aumentada hasta el décuplo del máximo establecido, en caso de reincidencia; (Inciso sustituido por art. 1º de la Ley Nº 22.650 B.O. 11/10/1982)
 
-(Nota Infoleg: las actualizaciones a los montos consignados en el presente inciso pueden consultarse clickeando en el enlace "Esta norma es complementada o modificada por X norma(s).")
+(Nota Inleg: las actualizaciones a los montos consignados en el presente inciso pueden consultarse clickeando en el enlace "Esta norma es complementada o modificada por X norma(s).")
 
 c) inhabilitación en el ejercicio de un (1) mes a cinco (5) años (suspensión temporaria de la matrícula);
 
@@ -810,7 +810,7 @@ Artículo 133. — Cuando la sanción a imponerse fuera la de inhabilitación po
 
 Artículo 134. — Toda resolución definitiva deberá ser notificada al interesado, quedando definitivamente consentida a los cinco (5) días de la notificación si no presentara dentro de ese plazo el recurso establecido en el artículo siguiente.
 
-Artículo 135. — Contra las resoluciones que dicten los organismos competentes de la autoridad sanitaria nacional, sólo podrá interponerse recurso de nulidad y apelación ante el Juzgado Nacional de Primera Instancia Federal en lo Contencioso Administrativo y dentro del plazo fijado por el artículo 134, cuando se trate de penas de inhabilitación o clausura establecidas en el artículo126, y en las penas pecuniarias, previstas en este último artículo y en el 140, prel total de la multa
+Artículo 135. — Contra las resoluciones que dicten los organismos competentes de la autoridad sanitaria nacional, sólo podrá interponerse recurso de nulidad y apelación ante el Juzgado Nacional de Primera Instancia Federal en lo Contencioso Administrativo y dentro del plazo fijado por el artículo 134, cuando se trate de penas de inhabilitación das en el artículo126, y en las penas pecuniarias, previstas en este último artículo y en el 140, previo pago del total de la multa
 
 (Artículo sustituido por art. 2º de la Ley Nº 22.650 B.O. 11/10/1982)
 
@@ -836,7 +836,7 @@ Los jueces con habilitación de día y hora, acordarán de inmediato a los funci
 
 (Artículo sustituido por art. 3º de la Ley Nº 22.650 B.O. 11/10/1982)
 
-Artículo 141. — Facúltase al Poder Ejecutivo Nacional a actualizar, por intermedio del Ministerio de Salud Pública y Medio Ambiente, los montos de las sanciones de multas tomando como base de cálculo la variación semestral registrada al 1º de enero y al 1º de julio de cada año en el índice de precios al por mayor —Nivel General—, que elabore el Instituto Nacional de Estadística y Censos o el organiemplazare.
+Artículo 141. — Facúltase al Poder Ejecutivo Nacional a actualizar, por intermedio del Ministerio de Salud Pública y Medio Ambiente, los montos de las sanciones de multas tomando como base de cálculo la variación semestral registrada al 1º de enero y al 1º de julio de cada año en el índice de precios al por mayor —Nivel General—, que elabore el Instituto Nacional de Estadística y Censos o el organismo que lo reemplazare.
 
 (Artículo sustituido por art. 4º de la Ley Nº 22.650 B.O. 11/10/1982)
 
@@ -849,6 +849,8 @@ Artículo 144. — Comuníquese, publíquese, dése a la Dirección Nacional del
 Onganía. — Roberto Petracca. — Ezequiel A. D. Holmberg.
 
 Antecedentes Normativos
+
+- Articulo 19 Inciso 7°) sustituido por art. 10 de la Ley Nº 27.680 B.O. 24/8/2022;
 
 - Artículo 19, inciso 7º) sustituido por art. 5º de la Ley Nº 27.553 B.O. 11/8/2020;
 

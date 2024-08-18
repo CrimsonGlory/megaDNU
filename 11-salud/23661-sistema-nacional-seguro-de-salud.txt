@@ -24,7 +24,9 @@ ARTICULO 1º.- Créase el Sistema Nacional del Seguro de Salud, con los alcances
 
 ART. 2º.- El seguro tendrá como objetivo fundamental proveer el otorgamiento de prestaciones de salud igualitarias, integrales y humanizadas, tendientes a la promoción, protección, recuperación y rehabilitación de la salud, que respondan al mejor nivel de calidad disponible y garanticen a los beneficiarios la obtención del mismo tipo y nivel de prestaciones eliminando toda forma de discriminación en base a un criterio de justicia distributiva.
 
-Se consideran agentes del seguro a las obras sociales nacionales, cualquiera sea su naturaleza o denominación, las obras sociales de otras jurisdicciones y demás entidades que adhieran al sistema que se constituye, las que deberán adecuar sus prestaciones de salud a las normas que se dicten y se regirán por lo establecido en la presente ley, su reglamentación y la ley de Obras Sociales, en lo pertinente.
+Se consideran agentes del seguro a las obras sociales nacionales, cualquiera sea su naturaleza o denominación, las obras sociales de otras jurisdicciones, las entidades incorporadas al inciso i) del artículo 1° de la Ley N° 23.660 y demás entidades que adhieran al sistema que se constituye, las que deberán adecuar sus prestaciones de salud a las normas que se dicten y se regirán por lo establecido en la presente ley, su reglamentación y la ley de Obras Sociales, en lo pertinente. (Párrafo sustituido por art. 295 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+(Nota Infoleg: por art. 1° de la Resolución N° 232/2024 de la Superintendencia de Servicios de Salud B.O. 4/3/2024 se modifica la denominación del REGISTRO NACIONAL DE OBRAS SOCIALES (RNOS) por la de REGISTRO NACIONAL DE AGENTES DEL SEGURO (RNAS). Por art. 2° de la misma norma se establece que las entidades comprendidas en el artículo 1° de la Ley N° 26.682 que decidan aplicar los fondos percibidos con destino a las prestaciones de salud, deberán solicitar su inscripción en el REGISTRO NACIONAL DE AGENTES DEL SEGURO (RNAS) con encuadre en el inciso i) del artículo 1° de la Ley N° 23.660. Ver Resolución de referencia - 232/2024-.)
 
 ART. 3.- El seguro adecuará sus acciones a las políticas que se dicten e instrumenten a través del Ministerio de Salud y Acción Social.
 
@@ -40,7 +42,7 @@ De los Beneficiarios
 
 ART. 5.- Quedan incluídos en el seguro:
 
-a) Todos los beneficiarios comprendidos en la Ley de Obras Sociales.
+a) Todos los beneficiarios comprendidos en la Ley 23.660. (Inciso sustituido por art. 296 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 b) Los trabajadores autónomos comprendidos en el régimen nacional de jubilaciones y pensiones, con las condiciones, modalidades y aportes que fija la reglamentación y el respectivo régimen legal complementario en lo referente a la inclusión de productores agropecuarios.
 
@@ -132,13 +134,15 @@ CAPITULO IV
 
 De los Agentes del Seguro
 
-ART. 15.- Las obras sociales comprendidas en la Ley de Obras Sociales serán agentes naturales del seguro, así como aquellas otras obras sociales que adhieran al régimen de la presente ley.
+ART. 15.- Las entidades comprendidas en la Ley N° 23.660 serán agentes naturales del seguro, así como aquellas otras obras sociales que adhieran al régimen de la presente ley.
+
+(Artículo sustituido por art. 297 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ART. 16.- Las entidades mutuales podrán integrarse al seguro, suscribiendo los correspondientes convenios de adhesión con la Secretaría de Salud de la Nación. En tal caso las mutuales se inscribirán en el Registro Nacional de Agentes del Seguro tienen respecto de sus beneficiarios y del sistema.
 
 ART. 17.- La ANSSAL, llevará un Registro Nacional de agentes del Seguro, en el que inscribirá:
 
-a) A las obras sociales comprendidas en la Ley de Obras Sociales;
+a) A las entidades comprendidas en la Ley N° 23.660. (Inciso sustituido por art. 298 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 b) A las asociaciones de obras sociales;
 
@@ -148,7 +152,7 @@ d) A las entidades mutuales inscriptas en las condiciones del artículo anterior
 
 Formalizada la inscripción expedirá un certificado que acredita la calidad de agente del seguro.
 
-La inscripción, habilitará el agente para aplicar los recursos destinados a las prestaciones de salud, previstos en la ley de Obras Sociales.
+La inscripción, habilitará el agente para aplicar los recursos destinados a las prestaciones de salud, previstos en la Ley N° 23.660. (Párrafo sustituido por art. 299 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ART. 18.- Los agentes del seguro, cualquiera sea su naturaleza, dependencia y forma de administración, deberán presentar anualmente a la ANSSAL para su aprobación, en el tiempo y forma que establezca la reglamentación;
 
@@ -190,7 +194,7 @@ De la financiación
 
 ART. 21.- El Sistema Nacional del Seguro de Salud, para garantizar las prestaciones a que se refiere el artículo 2 de la presente ley, contará con:
 
-a) La cobertura de prestaciones que tienen que dar a sus beneficiarios las obras Sociales, a la que destinarán como mínimo el ochenta por ciento (80%) de sus recursos brutos en los términos del artículo 5 de la Ley de Obras Sociales, que a tal fin serán administrados y dispuestos por aquéllos.
+a) La cobertura de prestaciones que tienen que dar a sus beneficiarios las entidades comprendidas en la Ley N° 23.660. (Inciso sustituido por art. 300 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 b) Los aportes que se determinen en el Presupuesto General de la Nación, discriminados por jurisdicción adherida, y los de éstas, con destino a la incorporación de la población sin cobertura y carente de recursos. A tal efecto, y a partir de la fecha de promulgación de la presente ley, se creará en el ámbito de la Secretaria de Salud, dependiente del Ministerio de Salud y Acción social, una cuenta especial, a través de la cual se recepcionarán las contribuciones del Tesoro nacional con destino al Fondo Solidario de Redistribución, como contrapartida de lo que las jurisdicciones adheridas aporten en igual sentido en sus respectivos ámbitos, dándose apertura a las partidas necesarias en el presupuesto de gastos de dicha Secretaría.
 
@@ -204,7 +208,7 @@ d) Con las sumas que ingresen al Fondo Solidario de Redistribución.
 
 ART. 22.- En el ámbito de la ANSSAL funcionará, bajo su administración y como cuenta especial, un Fondo Solidario de Redistribución ;que se integrará con los siguientes recursos:
 
-a) El QUINCE POR CIENTO (15%) o el DIEZ POR CIENTO (10%), respectivamente, de la suma de las contribuciones y los aportes que prevén los incisos a) y b) del artículo 16 de la Ley Nº 23.660 —seºn se supere o no el tope de las remuneraciones brutas mensuales de PESOS UN MIL ($ 1.000.-) inclusive—. Para las Obras Sociales del Personal de Dirección y de las Asociaciones Profesionales de Empresarios el porcentaje mencionado precedentemente será del VEINTE POR CIENTO (20%) o del QUINCE POR CIENTO (15%), respectivamente, según se supere o no la retribución mencionada; (Inciso sustituido por art. 22 del Decreto N° 486/2002 B.O. 13/03/2002)
+a) Los previstos en la Ley N° 23.660 y sus modificaciones. (Inciso sustituido por art. 301 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 b) El cincuenta por ciento (50%) de los recursos de distinta naturaleza a que se refiere la última parte del artículo 16 de la Ley de Obras Sociales;
 
@@ -254,7 +258,7 @@ ART. 26.- Los agentes del seguro mantendrán y podrán desarrollar los servicios
 
 Asimismo articularán sus programas de prestaciones médico asistenciales con otras entidades del seguro, procurando su efectiva integración en las acciones de salud con las autoridades sanitarias que correspondan. En tal sentido, los servicios propios de los agentes del seguro estarán disponibles para los demás beneficiarios del sistema, de acuerdo con las normas generales que al respecto establezca la Secretaría de Salud de la nación o el directorio de la ANSSAL, y las particulares de los respectivos convenios.
 
-ART. 27.- Las prestaciones de salud serán otorgadas por los agentes del seguro según las modalidades operativas de contratación y pago que normatice la ANSSAL de conformidad a lo establecido en los artículos 13, inciso f) y 35 de esta ley, las que deberán asegurar a sus beneficiarios servicios accesibles, suficientes y oportunos.
+ART. 27.- Las prestaciones de salud serán otorgadas por los agentes del seguro según las modalidades operativas de contratación y pago que normatice la ANSSAL de conformidad a lo establecido en los artículos 13, inciso f) y 35 de es ley, las que deberán asegurar a sus beneficiarios servicios accesibles, suficientes y oportunos.
 
 ART. 28.- Los agentes del seguro deberán desarrollar un programa de prestaciones de salud, a cuyo efecto la ANSSAL establecerá y actualizará periódicamente, de acuerdo a lo normado por la Secretaría de Salud de la nación, las prestaciones que deberán otorgarse obligatoriamente, dentro de las cuales deberán incluirse todas aquéllas que requieran la rehabilitación de las personas discapacitadas. Asimismo, deberán asegurar la cobertura de medicamentos que las aludidas prestaciones requieran.
 
@@ -316,7 +320,7 @@ ART. 39.- La ANSSAL y los agentes del seguro estarán exentos del pago de tasas 
 
 ART. 40.- A instancia de la ANSSAL, previo traslado por diez (10) días hábiles al agente del seguro cuestionado, la Secretaría de Salud de la nación podrá requerir al Poder Ejecutivo Nacional la intervención de la entidad cuando se produzcan en ella acciones u omisiones que por su carácter o magnitud impidan o alteren su funcionamiento en cuanto a las prescripciones de la presente ley. Al mismo tiempo la ANSSAL deberá disponer los mecanismos sumarios que permitan la continuidad y normalización de las prestaciones de salud.
 
-ART. 41.- Será reprimido con prisión de un mes a seis años el obligado que dentro de los quince (15) días corridos de intimado formalmente no depositare los importes previstos en los incisos b), d) y e) del artículo 19 de la Ley de Obras Sociales, dtinados al Fondo Solidario de Redistribución.
+ART. 41.- Será reprimido con prisión de un mes a seis años el obligado que dentro de los quince (15) días corridos de intimado formalmente no depositare los importes previstos en los incisos b), d) y e) del artículo 19 de la Ley de Obras Sociales, destinados al Fondo Solidario de Redistribución.
 
 Cuando se tratare de personas jurídicas, sociedades, asociaciones y otras entidades de derecho privado, fallidos o incapaces, la pena corresponderá a los directores, gerentes o representantes responsables de la omisión.
 
@@ -330,7 +334,7 @@ a) La violación de las disposiciones de la presente ley y su reglamentación, l
 
 b) La violación por parte de los prestadores de las condiciones contenidas en las contrataciones de los servicios;
 
-c) La negativa de un ataque del seguro a proporcionar la documentación informativa y demás elementos de juicio que la ANSSAL o los síndicos requieran en el ejercicio de sus funciones, derechos y atribuciones;
+c) La negativa de un ataque del seguro a proporcionar la documentación informativa y dems elementos de juicio que la ANSSAL o los síndicos requieran en el ejercicio de sus funciones, derechos y atribuciones;
 
 d) El incumplimiento de las directivas impartidas por las autoridades de aplicación;
 
@@ -398,7 +402,7 @@ CAPITULO IX
 
 Disposiciones transitorias
 
-ART. 51.- Las autoridades de la ANSSAL asumirán sus funciones en un plazo máximo e improrrogable de noventa (90) días corridos a partir de la promulgación de la presente ley, lapso dentro del cual el Poder Ejecutivo reglamentará el artíco 10. Mientras tanto, las funciones y atribuciones previstas para la ANSSAL serán asumidas por el Instituto Nacional de Obras Sociales (INOS).
+ART. 51.- Las autoridades de la ANSSAL asumirán sus funciones en un plazo máximo e improrrogable de noventa (90) días corridos a partir de la promulgación de la presente ley, lapso dentro del cual el Poder Ejecutivo reglamentará el artículo 10. Mientras tanto, las funciones y atribuciones previstas para la ANSSAL serán asumidas por el Instituto Nacional de Obras Sociales (INOS).
 
 ART. 52.- Los directores que a partir de la sanción de esta ley sean designados para integrar el directorio de la ANSSAL cesarán automáticamente el día 10 de diciembre de 1989. Podrán ser designados nuevamente por el plazo y en las demás condiciones establecidas en los artículos 10 y 11 de la presente.
 
@@ -407,6 +411,8 @@ ART. 53.- Comuníquese al Poder Ejecutivo.
 DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTINUEVE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y OCHO.- Juan Carlos Pugliese.- Victor H. Martínez.- Carlos A. Bravo.- Antonio J. Macris.
 
 Antecedentes Normativos:
+
+- Artículo 22, inciso a) sustituido por art. 22 del Decreto N° 486/2002 B.O. 13/03/2002;
 
 - Art. 22, inc. a) sustituido por art. 17 del Decreto N° 446/2000 B.O. 06/06/2000. Vigencia: a partir del 1º de enero de 2001;
 

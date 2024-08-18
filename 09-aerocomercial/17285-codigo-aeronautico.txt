@@ -34,23 +34,35 @@ SANCIONA Y PROMULGA CON FUERZA DE LEY:
 
 TITULO I: GENERALIDADES
 
-ARTICULO 1° – Este código rige la aeronáutica civil en el territorio de la República Argentina, sus aguas jurisdiccionales y el espacio aéreo que los cubre.
+ARTICULO 1° – Este Código rige la aeronáutica civil en el territorio de la República Argentina, su mar territorial y aguas adyacentes y el espacio aéreo que los cubre.
 
-A los efectos de este código, aeronáutica civil es el conjunto de actividades vinculadas con el empleo de aeronaves privadas y públicas, excluidas las militares. Sin embargo, las normas relativas a circulación aérea, responsabilidad y búsqueda, asistencia y salvamento, son aplicables también a las aeronaves militares. Cuando en virtud de sus funciones específicas las aeronaves públicas, incluidas las militares, deban apartarse de las normas referentes a circulación aérea, se comunicar dicha circunstancia con la anticipación necesaria a la autoridad aeronáutica, a fin de que sean adoptadas las medidas de seguridad que corresponda.
+El ámbito de aplicación de este Código se extiende asimismo a todos aquellos espacios en los que la República Argentina ejerza jurisdicción y/o derechos de soberanía, conforme a y en cumplimiento de los tratados internacionales de los que es parte.
 
-ARTICULO 2° – Si una cuestión no estuviese prevista en este código, se resolverá por los principios generales del derecho aeronáutico y por los usos y costumbres de la actividad aérea; y si aún la solución fuese dudosa, por las leyes análogas o por los principios generales del derecho común, teniendo en consideración las circunstancias del caso.
+A reserva de los tratados internacionales vigentes para la República, la Argentina tiene soberanía plena y exclusiva sobre el espacio aéreo que cubre su territorio, su mar territorial y sus aguas adyacentes. El ámbito espacial aéreo mencionado en el presente y en los párrafos precedentes se denomina en adelante “espacio aéreo argentino.
 
-Las normas del libro 1 del Código Penal se aplicarán a las faltas y los delitos previstos en este código, en cuanto sean compatibles.
+(Artículo sustituido por art. 181 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 2° – La aeronáutica civil aerocomercial es un servicio esencial. A los efectos de este Código, aeronáutica civil es el conjunto de actividades vinculadas con el empleo de aeronaves privadas y públicas, que involucran las actividades de navegación aérea y todas aquellas relaciones de derecho derivadas del comercio aéreo en general.
+
+Las aeronaves militares y las operadas por las fuerzas de seguridad en ejercicio de las funciones propias de su competencia, quedan excluidas de la aplicación de esta Ley. Sin embargo, las normas relativas a circulación aérea, responsabilidad y búsqueda, asistencia y salvamento, le serán aplicables también a las aeronaves militares, y las operadas por las fuerzas de seguridad.
+
+La aeronáutica civil en la REPÚBLICA ARGENTINA se rige por los Tratados e Instrumentos Internacionales ratificados por la Nación Argentina, la presente ley y sus normas reglamentarias, las Regulaciones Aeronáuticas de Aviación Civil y normas complementarias.
+
+Si una cuestión no estuviese prevista en esta Ley ni en los tratados internacionales de los que la República Argentina es parte o en las leyes y reglamentos complementarios, se resolverá´ por los principios generales del derecho aeronáutico y por los usos y costumbres de la actividad aérea; y si aún la solución fuese dudosa, por las leyes análogas o por los principios generales del derecho común.
+
+(Artículo sustituido por art. 182 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 TITULO II: CIRCULACION AEREA
 
 CAPITULO I: PRINCIPIOS GENERALES
 
-ARTICULO 3° – El despegue, la circulación y el aterrizaje de aeronaves es libre en el territorio argentino, sus aguas jurisdiccionales y el espacio aéreo que los cubre, en cuanto no fueren limitados por la legislación vigente.
+ARTICULO 3° – El despegue, la circulación y el aterrizaje de aeronaves es libre en el espacio aéreo argentino, en cuanto no fueren limitados por la legislación vigente.
 
 El tránsito será regulado de manera que posibilite el movimiento seguro y ordenado de las aeronaves. A tal efecto, la autoridad aeronáutica establecerá las normas generales relativas a circulación aérea.
 
 Las disposiciones relativas al aterrizaje se aplican al acuatizaje.
+
+(Artículo sustituido por art. 183 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 4° – Las aeronaves deben partir de o aterrizar en aeródromos públicos o privados. No rige esta obligación en caso de fuerza mayor o de tratarse de aeronaves públicas en ejercicio de sus funciones, ni en casos de búsqueda, asistencia y salvamento, o de aeronaves en funciones sanitarias.
 
@@ -80,13 +92,9 @@ ARTICULO 12. – La autoridad competente podrá practicar las versificaciones re
 
 CAPITULO II: PROTECCION AL VUELO
 
-ARTICULO 13. – Los servicios de protección al vuelo serán prestados en forma exclusiva por el Estado nacional.
+ARTICULO 13. – Los servicios esenciales de navegación aérea serán prestados conforme la reglamentación vigente. La autoridad regulatoria y de contralor fiscalizará a los prestadores de los servicios de navegación aérea, bajo los principios de garantía de la seguridad, libre competencia y acceso a los mercados. Los servicios estarán sujetos al pago de tasas, conforme reglamentación vigente. La defensa del espacio aéreo y su control policial es potestad exclusiva del Poder Ejecutivo Nacional.
 
-La planificación, habilitación, contralor y ejecución de los servicios, estarán a cargo exclusivo de la autoridad aeronáutica.
-
-Sin embargo, ésta podrá, por razones de utilidad pública, efectuar convenios con empresas privadas para la realización de aspectos parciales de aquéllos.
-
-Los servicios estarán sujetos al pago de tasas que abonarán los usuarios. El Poder Ejecutivo determinará estos servicios y los importes a satisfacer por su prestación.
+(Artículo sustituido por art. 184 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 14. – El Poder Ejecutivo podrá acordar la conexión y coordinación de los servicios de protección al vuelo con otros países.
 
@@ -98,7 +106,9 @@ ARTICULO 16. – La entrada al territorio argentino de aeronaves públicas o pri
 
 ARTICULO 17. – La autoridad aeronáutica podrá disponer excepciones al régimen de ingreso de aeronaves extranjeras, privadas o públicas, cuando se trate de operaciones de búsqueda, asistencia y salvamento, o de vuelos que respondan a razones sanitarias o humanitarias.
 
-ARTICULO 18. – Para realizar actividad aérea en territorio argentino, las aeronaves extranjeras deben estar provistas de certificados de matriculación y aeronavegabilidad, libros de a bordo y licencia del equipo radioeléctrico, en su caso. Cuando existan acuerdos sobre la materia, regirán las cláusulas de éstos.
+ARTICULO 18. – Para realizar actividad aérea en territorio argentino, las aeronaves tripuladas o no tripuladas extranjeras deben estar provistas de documentación de ley, en el formato que disponga la autoridad aeronáutica y de los seguros obligatorios establecidos por ley y reglamentación vigente. Cuando existan acuerdos sobre la materia, regirán las cláusulas de éstos. La República Argentina fomentará el libre acceso reciproco de circulación y operación de aeronaves de aviación general y comercial.
+
+(Artículo sustituido por art. 185 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 19. – Las personas que desempeñen funciones aeronáuticas a bordo de aeronaves extranjeras deben poseer, para el ejercicio de las mismas, certificados de idoneidad aceptados por la autoridad aeronáutica argentina o expedidos de conformidad con los acuerdos internacionales en que la Nación sea parte.
 
@@ -108,7 +118,9 @@ Salvo caso de fuerza mayor, las aeronaves no aterrizarán entre la frontera y el
 
 ARTICULO 21. – Las aeronaves privadas que no se destinen a servicios de transporte aéreo, deberán cumplir los requisitos de fiscalización en el aeródromo o aeropuerto internacional más próximo a la frontera.
 
-Excepcionalmente y en cada caso, podrán ser dispensadas de esta obligación por la autoridad aeronáutica, la que indicará ruta a seguir y aeródromo de fiscalización.
+Dichas aeronaves podrán ser dispensadas de esta obligación por la autoridad aeronáutica, la que indicará ruta a seguir y aeródromo de fiscalización.
+
+(Artículo sustituido por art. 186 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 22. – Cuando por razones de fuerza mayor una aeronave hubiese aterrizado fuera de un aeródromo o aeropuerto internacional o del aeródromo o aeropuerto designado en el caso del artículo anterior, el comandante o en defecto de éste cualquier otro miembro de la tripulación, estará obligado a comunicarlo de inmediato a la autoridad más próxima. No podrá efectuarse el desplazamiento de la aeronave sino en caso de necesidad para asegurar el salvamento o cuando lo determine la autoridad competente.
 
@@ -140,6 +152,14 @@ ARTICULO 28. – Los servicios y prestaciones que no sean los del artículo 13, 
 
 ARTICULO 29. – Es obligación del propietario o del usuario, comunicar a la autoridad aeronáutica la existencia de todo lugar apto para la actividad aérea que sea utilizado habitual o periódicamente, para este fin.
 
+Los lugares aptos denunciados no son aeródromos. La operación se realizará siempre bajo responsabilidad del piloto al mando de la aeronave que operen en, desde o hacia ellos. (Párrafo incorporado por art. 187 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTÍCULO 29 bis.- Los servicios aeroportuarios en la República Argentina, serán regulados y fiscalizados por la autoridad aeronáutica. La autoridad aeronáutica reglamentará la prestación de los servicios esenciales aeroportuarios, bajo los principios de garantía de la seguridad, libre competencia y acceso a los mercados.
+
+Se considera como servicio aeroportuario a todo aquel prestado en el ámbito de un aeropuerto, con excepción de los servicios de navegación aérea tratados en el capítulo respectivo. Se entiende por servicios esenciales aeroportuarios a los servicios de rampa en general.
+
+(Artículo incorporado por art. 188 del Decreto N° 70/2023 B.O. 21/12/2023)
+
 CAPITULO II: LIMITACIONES AL DOMINIO
 
 ARTICULO 30. – A los fines de este código, denominase superficies de despeje de obstáculos, a las áreas imaginarias, oblicuas y horizontales, que se extienden sobre cada aeródromo y sus inmediaciones, tendientes a limitar la altura de los obstáculos a la circulación aérea.
@@ -150,9 +170,9 @@ ARTICULO 32. – La autoridad aeronáutica determinar las superficies de despeje
 
 ARTICULO 33. – La habilitación de todo aeródromo estará supeditada a la eliminación previa de las construcciones, plantaciones o estructuras de cualquier naturaleza que se erijan a una altura mayor que la limitada por las superficies de despeje de obstáculos determinadas para dicho aeródromo.
 
-ARTICULO 34. – Si con posteridad a la aprobación de las superficies de despeje de obstáculos en un aeródromo público se comprobase una infracción a la norma a que se refieren los artículos 30 y 31 de este código, el propietario del aeródromo intimará al infractor la eliminación del obstáculo y, en su caso, requerir judicialmente su demolición o supresión, lo que no dará derecho a indemnización. Los gastos que demande la supresión del obstáculo serán a cargo de quien lo hubiese creado.
+ARTICULO 34. – Si con posteridad a la aprobación de las superficies de despeje de obstáculos en un aeródromo se comprobase un delito o una infracción a la norma a que se refieren los artículos 30 y 31 de este código, violando la seguridad operacional, el propietario del aeródromo, la autoridad o un tercero interesado, intimará al infractor la eliminación del obstáculo. El intimado deberá, a su exclusivo costo e inmediatamente eliminarlo e indemnizar todos los daños ocasionados.
 
-Si el propietario no requiriese la demolición o supresión del obstáculo dentro del término de treinta días, la autoridad aeronáutica intimará su cumplimiento; en su defecto podrá proceder por sí, conforme a lo previsto en el párrafo anterior.
+(Artículo sustituido por art. 189 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 35. – Es obligatorio en todo el territorio de la República el señalamiento de los obstáculos que constituyen peligro para la circulación aérea estando a cargo del propietario los gastos de instalación y funcionamiento de las marcas, señales o luces que corresponda. El señalamiento se hará de acuerdo con la reglamentación respectiva.
 
@@ -160,7 +180,9 @@ TITULO IV:AERONAVES
 
 CAPITULO I: CONCEPTO
 
-ARTICULO 36. – Se consideran aeronaves los aparatos o mecanismos que puedan circular en el espacio aérea y que sean aptos para transportar personas o cosas.
+ARTICULO 36. – Se consideran aeronaves tripuladas y no tripuladas los aparatos o mecanismos que puedan circular en el espacio aéreo y que sean aptos para transportar personas o cosas.
+
+(Artículo sustituido por art. 190 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO II: CLASIFICACION
 
@@ -176,17 +198,9 @@ ARTICULO 40. – A las aeronaves inscriptas en el Registro Nacional de Aeronaves
 
 ARTICULO 41. – Los motores de aeronaves podrán ser inscriptos en el Registro Nacional de Aeronaves. También podrán inscribirse en dicho registro las aeronaves en construcción.
 
-ARTICULO 42. – Podrá inscribirse de manera provisoria a nombre del comprador, y sujeta a las restricciones del respectivo contrato, toda aeronave de más de 6 toneladas de peso máximo autorizado por certificado de aeronavegabilidad, adquirida mediante un contrato de compraventa, sometido a condición o a crédito u otros contratos celebrados en el extranjero, por los cuales el vendedor se reserva el título de propiedad de la aeronave hasta el pago total del precio de venta o hasta el cumplimiento de la respectiva condición.
+ARTICULO 42. – Podrá inscribirse provisoriamente, a nombre del comprador, toda aeronave adquirida mediante cualquier tipo de contratos celebrados en el país o en el extranjero, por los cuales el vendedor se reserve el dominio de la aeronave hasta el pago total del precio de venta, el cumplimiento del plazo o hasta el cumplimiento de la respectiva condición. Para ello se requiere que: 1) El contrato se ajuste a la legislación del país de procedencia de la aeronave y se lo inscriba en el Registro Nacional de Aeronaves. 2) El contrato se formalice mientras la aeronave no posea matrícula argentina; 3) Se llenen los recaudos exigidos por este Código para ser propietario de una aeronave argentina.
 
-Para ello se requiere que:
-
-1) El contrato se ajuste a la legislación del país de procedencia de la aeronave y se lo inscriba en el Registro Nacional de Aeronaves.
-
-2) El contrato se formalice mientras la aeronave no posea matrícula argentina;
-
-3) Se llenen los recaudos exigidos por este Código para ser propietario de una aeronave argentina.
-
-Las aeronaves de menor peso del indicado, podrán igualmente ser sometidas a este régimen, cuando sean destinadas a la prestación de servicios regulares de transporte aéreo.
+(Artículo sustituido por art. 191 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 43. – También podrán ser inscriptas, provisoriamente, a nombre de sus compradores, que deberán cumplir los requisitos exigidos por el artículo 48, las aeronaves argentinas adquiridas en el país por contrato de compra y venta con pacto de reserva de dominio, cuyo régimen legal será el de la condición resolutoria.
 
@@ -196,7 +210,7 @@ Cancelados los gravámenes o restricciones y perfeccionada definitivamente la tr
 
 CAPITULO IV: REGISTRO NACIONAL DE AERONAVES
 
-ARTICULO 45. – En el Registro de Aeronaves se anotarán:
+ARTICULO 45. – En el Registro de Aeronaves se inscribirán por medios electrónicos o en el formato que disponga la autoridad aeronáutica:
 
 1) Los actos, contratos o resoluciones que acrediten la propiedad de la aeronave, la transfieran, modifiquen o extingan.
 
@@ -204,15 +218,15 @@ ARTICULO 45. – En el Registro de Aeronaves se anotarán:
 
 3) Los embargos, medidas precautorias e interdicciones que pesen sobre las aeronaves o se decreten contra ellas.
 
-4) Las matrículas con las especificaciones adecuadas para individualizar las aeronaves y los certificados de aeronavegabilidad;
+4) Las matrículas con las especificaciones adecuadas para individualizar las aeronaves.
 
-5) La cesación de actividades, la inutilización o la pérdida de las aeronaves y las modificaciones sustanciales que se hagan de ellas;
+5) La cesación de actividades, la inutilización o la pérdida de las aeronaves y las modificaciones sustanciales que se hagan de ellas.
 
-6) Los contratos de locación de aeronaves;
+6) Los contratos de locación de aeronaves y todos aquellos que resulten oponibles a terceros.
 
-7) El estatuto o contrato social y sus modificaciones, así como el nombre y domicilio de los directores o administradores y mandatarios de las sociedades propietarias de aeronaves argentinas;
+7) En general toda inscripción o anotación de cualquier hecho o acto jurídico que pueda alterar o se vincule a la situación jurídica de la aeronave.
 
-8) En general, cualquier hecho o acto jurídico que pueda alterar o se vincule a la situación jurídica de la aeronave.
+(Artículo sustituido por art. 192 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 46. – La reglamentación de este código determinará los requisitos a que deberá ajustarse la inscripción de las aeronaves, así como el procedimiento para su registro y cancelación.
 
@@ -220,33 +234,37 @@ La cesación o pérdida de los requisitos exigidos por el artículo 48 de este c
 
 Igualmente se operará la cancelación cuando la autoridad aeronáutica establezca la pérdida de la individualidad de la aeronave.
 
-ARTICULO 47. – El Registro Nacional de Aeronaves es público. Todo interesado podrá obner copia certificada de las anotaciones de ese registro solicitándola a la autoridad encargada del mismo.
+ARTICULO 47. – El Registro Nacional de Aeronaves es público y estará disponible para su acceso a través de medios electrónicos.
+
+(Artículo sustituido por art. 193 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO V: PROPIEDAD DE AERONAVES
 
 ARTICULO 48. – Para ser propietario de una aeronave argentina se requiere:
 
-1) Si se trata de una persona física, tener su domicilio real en la República;
+1) Si se trata de una persona humana, tener domicilio legal en la República;
 
-2) Si se trata de varios copropietarios, la mayoría cuyos derechos exceden de la mitad del valor de la aeronave, deben mantener su domicilio real en la República;
+2) Si se trata de varios copropietarios, la mayoría cuyos derechos exceden de la mitad del valor de la aeronave, deben mantener su domicilio legal en la República;
 
 3) Si se trata de una sociedad de personas, de capitales o asociaciones, estar constituida conforme a las leyes argentinas y tener su domicilio legal en la República.
 
+(Artículo sustituido por art. 194 del Decreto N° 70/2023 B.O. 21/12/2023)
+
 ARTICULO 49. – Las aeronaves son cosas muebles registrables. Sólo podrán inscribirse en el Registro Nacional de Aeronaves los actos jurídicos realizados por medio de instrumento público o privado debidamente autenticado.
 
-ARTICULO 50. – La transferencia de dominio de las aeronaves, así como todo acto jurídico relacionado con las mismas previsto en el artículo 45 incisos 1°, 2°, 6° y 8°, no producirán efectos contra terceros si no van seguidos de la inscripción en el Registro Nacional de Aeronaves.
+ARTICULO 50. – La transferencia de dominio de las aeronaves, así como todo acto jurídico relacionado con las mismas previsto en el artílo 45 incisos 1°, 2°, 6° y 7°, no producirán efectos contra terceros si no van seguidos de la inscripción en el Registro Nacional de Aeronaves.
 
-ARTICULO 51. – Los actos y contratos mencionados en el artículo 45 incisos 1°, 2°, 6° y 8°, realizados en el extranjero y destinados a producir efectos en la República, deberán ser hechos por escritura pública o ante la autoridad consular argentina.
+(Artículo sustituido por art. 195 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 51. – Los actos y contratos mencionados en el artículo 45 incisos 1°, 2° y 6°, realizados en el extranjero y destinados a producir efectos en la República, deberán ser formalizadas por instrumento público o ante la autoridad consular argentina.
+
+(Artículo sustituido por art. 196 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO VI: HIPOTECA
 
-ARTICULO 52. – Las aeronaves pueden ser hipotecadas en todo o en sus partes indivisas y aún cuando estén en construcción. También pueden hipotecarse los motores inscritos conforme al artículo 41 de este código.
+ARTICULO 52. – Las aeronaves pueden ser hipotecadas y garantizadas en todo o en sus partes indivisas y aun cuando estén en construcción. También pueden hipotecarse los motores inscritos conforme al artículo 41 de este código. Ni las aeronaves ni los motores son susceptibles de afectación de prenda con registro. No podrá ser hipotecada ni afectada como garantía real de ningún crédito, la aeronave inscrita conforme al artículo 42 y concordantes de este código, hasta tanto se proceda a su inscripción y matriculación definitivas. Cuando los bienes hipotecados sean motores, el deudor deberá notificar al acreedor en qué aeronaves serán instalados y el uso que se haga de aquéllos. La hipoteca de motores mantiene sus efectos aun cuando ellos se instalen en una aeronave hipotecada a distinto acreedor.
 
-Ni las aeronaves ni los motores son susceptibles de afectación de prenda con registro.
-
-No podrá ser hipotecada ni afectada como garantía real de ningún crédito, la aeronave inscrita conforme a los artículos 42 y 43 de este código, hasta tanto se proceda a su inscripción y matriculación definitivas.
-
-Cuando los bienes hipotecados sean motores, el deudor deberá notificar al acreedor en qué aeronaves serán instalados y el uso que se haga de aquéllos. La hipoteca de motores mantiene sus efectos aún cuando ellos se instalen en una aeronave hipotecada a distinto acreedor.
+(Artículo sustituido por art. 197 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 53. – La hipoteca deberá constituirse por instrumento público o privado debidamente autenticado e inscribirse en el Registro Nacional de Aeronaves. La inscripción confiere al acreedor un derecho de preferencia según el orden en que se han efectuado.
 
@@ -282,17 +300,9 @@ ARTICULO 58. – Los privilegios establecidos en el presente capítulo son prefe
 
 ARTICULO 59. – En caso de destrucción o inutilización del bien objeto del privilegio, éste será ejercitado sobre los materiales o efectos recuperados o sobre su producido.
 
-ARTICULO 60. – Tendrán privilegio sobre la aeronave:
+ARTICULO 60. – Tendrán privilegio sobre la aeronave: 1) Los créditos por gastos causídicos que beneficien al acreedor hipotecario. 2) Los créditos derivados de tasas y tributos relacionados con la aviación civil limitándose al período de dos años anteriores a la fecha del reclamo del privilegio. 3) Los créditos provenientes de la búsqueda, asistencia o salvamento de la aeronave. 4) Los créditos por reparaciones extraordinarias hechas fuera del punto de destino, para continuar el viaje. 5) Los emolumentos de la tripulación por el último mes de trabajo.
 
-1) Los créditos por gastos causídicos que beneficien al acreedor hipotecario.
-
-2) Los créditos por derechos de utilización de aeródromos o de los servicios accesorios o complementarios de la aeronavegación, limitándose al período de un año anterior a la fecha del reclamo del privilegio.
-
-3) Los créditos provenientes de la búsqueda, asistencia o salvamento de la aeronave.
-
-4) Los créditos por aprovisionamiento y reparaciones hechas fuera del punto de destino, para continuar el viaje.
-
-5) Los emolumentos de la tripulación por el último mes de trabajo.
+(Artículo sustituido por art. 198 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 61. – Los créditos que se refieren a un mismo viaje son privilegiados en el orden que se establece en el artículo anterior Cuando se trate de privilegios de igual categoría, los créditos se cobrarán a prorrata.
 
@@ -302,13 +312,9 @@ ARTICULO 62. – Los privilegios se ejercen únicamente sobre la aeronave y sus 
 
 La carga y el flete se verán afectados por ellos sólo en el caso de que los gastos previstos en el inciso 3° del artículo 60 los hayan beneficiado directamente.
 
-ARTICULO 63. – Los privilegios se extinguen:
+ARTICULO 63. – Los privilegios se extinguen: 1) Por la extinción de la obligación principal. 2) Por el vencimiento del plazo de dos años desde su inscripción si ésta no fuese renovada. 3) Por la venta judicial de la aeronave, después de satisfechos los créditos privilegiados de mejor grado inscriptos conforme al artículo 58 de este código.
 
-1) Por la extinción de la obligación principal.
-
-2) Por el vencimiento del plazo de un año desde su inscripción si ésta no fuese renovada.
-
-3) Por la venta judicial de la aeronave, después de satisfechos los créditos privilegiados de mejor grado inscriptos conforme al artículo 58 de este código.
+(Artículo sustituido por art. 199 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 64. – Los privilegios sobre la carga se extinguen si la acción no se ejercita dentro de los quince días siguientes a su descarga.
 
@@ -324,15 +330,17 @@ ARTICULO 67. – La inscripción del contrato mencionado en el artículo anterio
 
 En caso de no haberse inscripto el contrato, el propietario y el explotador serán responsables solidariamente de cualquier infracción o daños que se produjesen por causa de la aeronave.
 
-CAPITULO IX: LOCACION DE AERONAVES
+CAPITULO IX: CONTRATOS SOBRE AERONAVES.
 
-ARTICULO 68. – El contrato de locación de aeronaves produce la transferencia del carácter de explotador del locador al locatario.
+(Capítulo sustituido por art. 200 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-El contrato deber constar por escrito y ser inscripto en el Registro Nacional de Aeronaves, a los fines de los artículos 66 y 67 de este código.
+ARTICULO 68. – Las formas y tipos de contratos sobre aeronaves se rigen por el principio de la libertad contractual y serán válidos entre partes. Los contratos en que las partes acuerden, expresamente, transferir la calidad de explotador deben ser realizados por escrito e inscriptos en el Registro Nacional de Aeronaves, a los fines de los artículos 66 y 67 de este código.
+
+(Artículo sustituido por art. 201 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 69. – El locador podrá obligarse a entregar la aeronave armada y equipada, siempre que la conducción técnica de aquélla y la dirección de la tripulación se transfieran al locatario.
 
-En caso en que el locador de la aeronave tomase a su cargo equiparla y tripularla, su obligación se reduce a hacer entrega de la aeronave, en el lugar y tiempo convenidos, provista de la documentación para su utilización. En todos los casos, lobligación del locador comprende también la de mantener la aeronave en condiciones de aeronavegabilidad hasta el fin de la vigencia del contrato, obligación que cesa si mediase culpa del locatario.
+En caso en que el locador de la aeronave tomase a su cargo equiparla y tripularla, su obligación se reduce a hacer entrega de la aeronav en el lugar y tiempo convenidos, provista de la documentación para su utilización. En todos los casos, la obligación del locador comprende también la de mantener la aeronave en condiciones de aeronavegabilidad hasta el fin de la vigencia del contrato, obligación que cesa si mediase culpa del locatario.
 
 ARTICULO 70. – No podrá cederse la locación de una aeronave ni subarrendarla sin consentimiento del locador.
 
@@ -352,11 +360,11 @@ ARTICULO 73. – El embargo traerá aparejada la inmovilización de la aeronave 
 
 CAPITULO XI: ABANDONO DE AERONAVES
 
-ARTICULO 74. – Las aeronaves de bandera nacional o extranjera, accidentadas o inmovilizadas de hecho en territorio argentino o sus aguas jurisdiccionales y sus partes o despojos, se reputarán abandonadas a favor del Estado nacional, cuando su dueño o explotador no se presentase a reclamarlas y retirarlas dentro del término de seis meses de producida la notificación del accidente o inmovilización.
+ARTICULO 74. – Las aeronaves de bandera nacional o extranjera, accidentadas o inmovilizadas de hecho en el espacio aéreo argentino y sus partes o despojos, se reputarán abandonadas a favor del Estado nacional, cuando su dueño o explotador no se presentase a reclamarlas y retirarlas dentro del término de seis meses de producida la notificación del accidente o inmovilización.
 
 El Poder Ejecutivo reglamentará la forma y procedimiento para efectuar la notificación del accidente o inmovilización al propietario o explotador y la intimación para que remueva la aeronave, sus partes o despojos.
 
-(Nota Infoleg: Por art. 2° del Decreto N° 5764/1967 B.O. 18/8/1967, se dispone que transcurrido el plazo de 6 meses a que se refiere el artículo 74 del Código Aeronáutico y configurado el abandono del material a favor del Estado Nacional, la autoridad aeronáutica dispondrá las registraciones que correspondan en el Registro Nacional de Aeronaves para perfeccionar la transmisión de dominio.)
+(Artículo sustituido por art. 202 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 75. – Cuando la aeronave, sus partes o despojos representen un peligro para la navegación aérea, la infraestructura o los medios de comunicación o cuando la permanencia en el lugar del accidente o inmovilización pueda producir un deterioro del bien, la autoridad aeronáutica podrá proceder a su inmediata remoción.
 
@@ -378,9 +386,11 @@ En los casos en que no existiesen acuerdos, dichos certificados podrán ser reva
 
 ARTICULO 78. – La autoridad aeronáutica determinará la integración mínima de la tripulación de vuelo de las aeronaves destinadas al servicio de transporte aéreo. Cuando lo considere necesario para la seguridad de vuelo, hará extensivo este requisito a las demás aeronaves.
 
-ARTICULO 79. – Toda aeronave debe tener a bordo un piloto habilitado para conducirla, investido de las funciones de comandante. Su designación corresponde al explotador, de quien será representante.
+ARTICULO 79. – Toda aeronave tripulada debe tener a bordo un piloto habilitado para conducirla, investido de las funciones de comandante. Su designación corresponde al explotador, de quien será representante. Cuando no exista persona específicamente designada, se presumirá que el piloto al mando es el comandante de la aeronave. En las aeronaves no tripuladas el piloto a distancia será el comandante de aquellas.
 
-Cuando no exista persona específicamente designada, se presumirá que el piloto al mando es el comandante de la aeronave.
+Las aeronaves conducidas por inteligencia artificial serán objeto de una reglamentación especial.
+
+(Artículo sustituido por art. 203 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 80. – En las aeronaves destinadas al servicio de transporte aéreo el nombre de la persona investida de las funciones de comandante y los poderes especiales que le hayan sido conferidos, deben constar en la documentación de a bordo. La reglamentación establecerá los requisitos para desempeñarse en el cargo.
 
@@ -404,7 +414,7 @@ ARTICULO 88. – En todo aeródromo público habrá un jefe que será la autorid
 
 La reglamentación, respectiva determinará los requisitos necesarios para desempeñarse en el cargo.
 
-ARTICULO 89. – La autoridad aeronáutica reglamentará las facultadey obligaciones del jefe y demás personal aeronáutico que se desempeñe en los aeródromos públicos.
+ARTICULO 89. – La autoridad aeronutica reglamentará las facultades y obligaciones del jefe y demás personal aeronáutico que se desempeñe en los aeródromos públicos.
 
 ARTICULO 90. – En los aeródromos privados habrá un encargado, pudiendo dicha función estará a cargo del propietario o tenedor del campo, o de otra persona designada por éste. El nombre, domicilio y fecha de designación del encargado será comunicado la autoridad aeronáutica.
 
@@ -412,7 +422,9 @@ TITULO VI: AERONAUTICA COMERCIAL
 
 CAPITULO I: GENERALIDADES
 
-ARTICULO 91. – El concepto aeronáutica comercial comprende los servicios de transporte aéreo y los de trabajo aéreo.
+ARTICULO 91. – El concepto aeronáutica comercial comprende los servicios esenciales de transporte aéreo y los de trabajo aéreo.
+
+(Artículo sustituido por art. 204 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 92. – Se considera servicio de transporte aéreo a toda serie de actos destinados a trasladar en aeronave a personas o cosas, de un aeródromo a otro.
 
@@ -424,7 +436,9 @@ Se entiende por servicio de transporte aéreo regular el que se realiza con suje
 
 ARTICULO 94. – Se considera interno el transporte aéreo realizado entre dos o más puntos de la República. Se considera internacional el transporte aéreo realizado entre el territorio de la República y el de un estado extranjero o entre dos puntos de la República, cuando se hubiese pactado un aterrizaje intermedio en el territorio de un Estado extranjero.
 
-ARTICULO 95. – La explotación de toda actividad comercial aérea requiere concesión o autorización previa, conforme a las prescripciones de este código y su reglamentación.
+ARTICULO 95. – La explotación de toda actividad comercial aérea requiere autorización previa, conforme a las prescripciones de este código y su reglamentación. Cuando la autorización fuera a empresas de bandera extranjera la misma deberá sujetarse a las normas y Acuerdos internacionales de los que la Nación Argentina sea parte. A su vez el Poder Ejecutivo procurará obtener principios de reciprocidad.
+
+(Artículo sustituido por art. 205 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 96. – Las concesiones o autorizaciones no podrán ser cedidas.
 
@@ -434,79 +448,85 @@ CAPITULO II: SERVICIOS DE TRANSPORTE AEREO INTERNO
 
 SECCION A: Explotación
 
-ARTICULO 97. – La explotación de servicios de transporte aéreo interno será realizada por personas físicas o sociedades comerciales que se ajusten a las prescripciones de este código. Las sociedades mixtas y las empresas del Estado quedan sujetas a dichas normas en cuanto les sean aplicables.
+ARTICULO 97. – La explotación de servicios de transporte aéreo interno será realizada por personas humanas o sociedades que se ajusten a las prescripciones de este código.
 
-Las empresas aéreas extranjeras no podrán tomar pasajeros, carga o correspondencia en la República Argentina, para su transporte a otro punto del país. Sin embargo, el Poder Ejecutivo por motivos de interés general, podrá autorizar a dichas empresas a realizar tales servicios bajo condición de reciprocidad.
+(Artículo sustituido por art. 206 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 98. – Las personas físicas que exploten servicios de transporte aéreo interno deben ser argentinas y mantener su domicilio real en la República.
+ARTICULO 98. – Las personas humanas que exploten servicios de transporte aéreo interno deben acreditar domicilio legal en la República.
 
-ARTICULO 99. – Las sociedades se constituirán en cualquiera de las formas que autoricen las leyes, condicionadas en particular a las siguientes exigencias:
+(Artículo sustituido por art. 207 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-1) El domicilio de la empresa debe estar en la República.
+ARTICULO 99. – Las sociedades se constituirán en cualquiera de las formas que autoricen las leyes argentinas aplicables y vigentes, sujetas a la reglamentación aeronáutica y condicionadas en particular a las siguientes exigencias: 1) Tener domicilio permanente de la empresa en la República, 2) El control y la dirección de la empresa deben estar en manos de personas humanas con domicilio legal en la República, 3) El presidente del directorio o consejo de administración, los gerentes y por lo menos dos tercios de los directores o administradores deberán ser argentinos con domicilio legal en la REPÚBLICA ARGENTINA.
 
-2) El control y la dirección de la empresa deben estar en manos de personas con domicilio real en la República.
+(Artículo sustituido por art. 208 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-3) Si se trata de una sociedad de personas, la mitad más uno por lo menos de los socios deben ser argentinos con domicilio en la República y poseer la mayoría del capital social;
-
-4) Si se trata de una sociedad de capitales, la mayoría de las acciones, a la cual corresponda la mayoría de votos computables, deberán ser nominales y pertenecer en propiedad a argentinos con domicilio real en la República. La transferencia de estas acciones sólo podrán efectuarse con autorización del directorio, el cual comunicará a la autoridad aeronáutica, dentro de los ocho días de producida la transferencia, los detalles de la autorización acordada.
-
-(Nota Infoleg: Por art. 1° del Decreto N° 52/1994 B.O. 21/1/1994, se dispone que la previsión del artículo 99 inciso 4 del Código Aeronáutico, la mayoría de las acciones, a la cual corresponda la mayoría de votos computables, deberán ser nominales y pertenecer en propiedad a argentinos con domicilio real en la República Argentina, comprende a las personas físicas y jurídicas argentinas, con domicilio real en la República.)
-
-(Nota Infoleg: Por art. 1° del Decreto N° 204/2000 B.O. 7/3/2000, se suspende la aplicación del Decreto Nº 52/1994 por el término de 180 días hábiles administrativos a contar a partir del día siguiente al de publicación de aquel decreto.)
-
-(Nota Infoleg: por art. 10 del Decreto N° 1012/2006 B.O. 8/8/2006 se restablece la vigencia del Decreto N° 52/1994)
-
-5) El presidente del directorio o consejo de administración, los gerentes y por lo menos dos tercios de los directores o administradores deberán ser argentinos.
-
-ARTICULO 100. – Las sociedades podrán establecerse exclusivamente para la explotación de servicios de transporte aéreo o desarrollar esa actividad como principal o accesoria, dentro de un rubro más general. En este caso, se constituirán de acuerdo con las normas establecidas en este código y la discriminación de los negocios se hará en forma de delimitar la gestión correspondiente a los servicios de transporte aéreo y mostrar claramente sus resultados.
+ARTICULO 100. – Las sociedades podrán establecerse exclusivamente para la explotación de servicios de transporte aéreo o desarrollar esa actividad como principal o accesoria, dentro de un rubro más general. En este caso, se constituirán de acuerdo con las normas establecidas en este código y la discriminación de los negocios se rá en forma de delimitar la gestión correspondiente a los servicios de transporte aéreo y mostrar claramente sus resultados.
 
 ARTICULO 101. – El Poder Ejecutivo reglamentará los requisitos a llenar para los registros contables, la duración de los ejercicios financieros y la forma de presentación de la memoria, balance general y cuadro demostrativo de ganancias y pérdidas. Las empresas llevarán, además de los exigidos por el Código de Comercio y leyes vigentes, los libros y registros auxiliares que determine la autoridad aeronáutica.
 
 Asimismo, la autoridad aeronáutica podrá efectuar las verificaciones y requerir los informes necesarios para determinar, en un momento dado, el origen y distribución del capital social.
 
-ARTICULO 102. – Los servicios de transporte aéreo serán realizados mediante concesión otorgada por el Poder Ejecutivo si se trata de servicios regulares, o mediante autorización otorgada por el Poder Ejecutivo o la autoridad aeronáutica, según corresponda, en el caso de transporte aéreo no regular.
+ARTICULO 102. – Los servicios de transporte aéreo regular o no regular serán ejecutados por empresas autorizadas por el Poder Ejecutivo Nacional.
 
-El procedimiento para la tramitación de las concesiones o autorizaciones será fijado por el Poder Ejecutivo quien establecerá un régimen de audiencia pública para analizar la conveniencia, necesidad y utilidad general de los servicios, pudiéndose exceptuar de dicho régimen los servicios a realizar con aeronaves de reducido porte.
+El procedimiento para la tramitación de las autorizaciones será fijado por la autoridad competente de manera eficaz y digitalmente y deberá prever la posibilidad de prórroga de los plazos de estas autorizaciones.
+
+(Artículo sustituido por art. 209 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 103. – Las concesiones serán otorgadas con relación a rutas determinadas y por un período que no excederá de quince años. Sin embargo, si subsistiesen las razones de interés público que motivaron la concesión, esta podrá ser prorrogada por lapsos no mayores al citado a requerimiento de la empresa.
 
 La solicitud de prórroga deberá ser presentada con una anticipación no menor de un año antes del vencimiento de la concesión en vigor.
 
-ARTICULO 104. – La concesión para operar en una ruta no importa exclusividad.
+ARTICULO 104. – La autorización para operar en una ruta no importa exclusividad. Las autoridades competentes promoverán reglas de sana competencia, conforme los principios de libertad de mercado.
 
-ARTICULO 105. – No se otorgará concesión o autorización alguna sin la comprobación previa de la capacidad técnica y económico- financiera del explotador y de la posibilidad de utilizar en forma adecuada los aeródromos, servicios auxiliares y material de vuelo a emplear.
+(Artículo sustituido por art. 210 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 106. – En los servicios de transporte aéreo el personal que desempeña funciones aeronáuticas a bordo deberá ser argentino. Por razones técnicas la autoridad aeronáutica podrá autorizar, excepcionalmente, un porcentaje de peonal extranjero por un lapso que no excederá de dos años a contar desde la fecha de dicha autorización, estableciéndose un procedimiento gradual de reemplazo del personal extranjero por personal argentino.
+ARTICULO 105. – No se otorgará autorización alguna sin la comprobación previa de la capacidad técnica y económico - financiera del explotador y de la posibilidad de utilizar en forma adecuada los aeropuertos, aeródromos, y cualquier lugar apto denunciado, servicios auxiliares y material de vuelo a emplear.
 
-ARTICULO 107. – Las aeronaves afectadas a los servicios deberán tener matrícula argentina. Sin embargo, excepcionalmente, a fin de asegurar la prestación de los mismos o por razones de conveniencia nacional, la autoridad aeronáutica podrá permitir la utilización de aeronaves de matrícula extranjera.
+(Artículo sustituido por art. 211 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-(Nota Infoleg: Por art. 16. del Decreto N° 2836/1971 B.O. 13/8/1971, se dispone que "las aeronaves afectadas a los servicios de trabajo aéreo deberán tener matrícula nacional argentina. Sin embargo el explotante podrá solicitar la aplicación del artículo 107 del Código Aeronáutico, en las circunstancias contempladas en el mismo".)
+ARTICULO 106. – En los servicios aerocomerciales el personal que desempeña funciones aeronáuticas deberá ser argentino. El Poder Ejecutivo Nacional podrá autorizar un porcentaje de personal extranjero, estableciéndose un procedimiento gradual de reemplazo del personal extranjero por personal argentino.
 
-ARTICULO 108. – La autoridad aeronáutica establecerá las normas operativas a las que se sujetarán los servicios de transporte aéreo.
+(Artículo sustituido por art. 212 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 109. – Los itinerarios, frecuencias, capacidad y horarios correspondientes a los servicios de transporte aéreo regular y las tarifas en todos los casos, serán sometidos a aprobación previa de la autoridad aeronáutica.
+ARTICULO 107. – Las aeronaves afectadas a los servicios aerocomerciales y de aviación general deberán tener matrícula argentina. Sin embargo, el Poder Ejecutivo Nacional permitirá la utilización de aeronaves de matrícula extranjera. Cuando esto ocurre el Poder Ejecutivo Nacional procurará obtener principios de reciprocidad y acuerdos de doble vigilancia de seguridad operacional donde se garantice que dichas aeronaves serán tripuladas, asistidas y mantenidas por personal argentino, con las autorizaciones de ley.
 
-ARTICULO 110. – Los acuerdos que impliquen arreglos de "pool", conexión, consolidación o fusión de servicios o negocios, deberán someterse a la aprobación previa de la autoridad aeronáutica. Si ésta no formulase objeciones dentro de los noventa días, el acuerdo se considerará aprobado.
+(Artículo sustituido por art. 213 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-(Nota Infoleg: Por art. 2° del Decreto N° 1401/1998 B.O. 17/12/1998, se dispone que para poder aprobarse las propuestas de operación en código compartido o explotación conjunta en los términos del Artículo 110 del Código Aeronáutico, los explotadores deberán ser titulares de las autorizaciones o concesiones que les permitan realizar el servicio aéreo de que se trate.)
+ARTICULO 108. – La autoridad aeronáutica, ejercida por la Administración Nacional de Aviación Civil o el organismo federal aeroespacial a constituir por el Poder Ejecutivo Nacional que en el futuro la sustituya o reemplace, será única y establecerá o adoptará todas las normas de seguridad operacional de la aviación civil y su sistematización. Dicha autoridad entiende y regula la totalidad de los Anexos Técnicos de los Convenios internacionales sobre la materia.
+
+(Artículo sustituido por art. 214 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 109. – La aprobación de los itinerarios, frecuencias, capacidad del sistema y horarios correspondientes a los servicios de transporte aéreo regular interno e internacional en todos los casos, serán sometidos a autorización previa del poder ejecutivo nacional.
+
+Las tarifas son libremente dispuestas por las empresas y sin ninguna restricción. Estas deberán ser registradas ante la autoridad competente al solo efecto de dar a conocer los términos, condiciones, penalidades y restricciones de cada una de ellas. Se entenderá por tarifa la contraprestación que recibe el transportador a cambio de servicio de transporte. Se excluye de dicho término, todo impuesto, tasa y/o penalidad que deba abonar el pasajero.
+
+(Artículo sustituido por art. 215 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 110. –Los acuerdos empresarios de impacto operativo que impliquen compartir códigos de comercialización, conexión, consolidación o fusión de servicios o negocios, estarán regidos por la Ley de Defensa de la Competencia.
+
+(Artículo sustituido por art. 216 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 111. – A la expiración normal o anticipada de las actividades de la empresa, el Estado nacional tendrá derecho a adquirir directamente, en totalidad o en parte, las aeronaves, repuestos, accesorios, talleres e instalaciones, a un precio fijado por tasadores designados uno por cada parte.
 
 Si el Poder Ejecutivo no hiciese uso de ese derecho dentro de los noventa das de recibida la pertinente comunicación, los bienes enumerados en el párrafo anterior serán ofrecidos en venta en el país, tomando como base los precios de la plaza internacional. Si no surgiese comprador domiciliado en la República se autorizará su exportación.
 
-ARTICULO 112. – Toda empresa a la que se hubiese otorgado una concesión o autorización deberá depositar, como garantía del cumplimiento de sus obligaciones y dentro de los quince días de notificada, una suma equivalente al dos por ciento de su capital social en efectivo, en títulos nacionales de renta o garantía bancaria equivalente. Dicho depósito se efectuará en el Banco de la Nación Argentina y a la orden de la autoridad aeronáutica.
+ARTICULO 112. – Toda empresa a la que se hubiese otorgado una autorización deberá depositar, como garantía del cumplimiento de sus obligaciones y dentro de los quince días de notificada, una suma equivalente al dos por ciento de su capital social en efectivo, en títulos nacionales de renta o garantía bancaria equivalente. Dicho depósito se efectuará a la orden de la autoridad aeronáutica.
 
-La caución se extingue en un cincuenta por ciento cuando haya comenzado la explotación de la totalidad de los servicios concedidos o autorizados y el resto una vez transcurrido un año a partir del momento indicado, siempre que la concesionaria o autorizada haya cumplido eficientemente sus obligaciones.
+La caución se extingue en un cincuenta por ciento cuando haya comenzado la explotación de la totalidad de los servicios autorizados y el resto una vez transcurrido un año a partir del momento indicado, siempre que la autorizada haya cumplido eficientemente sus obligaciones.
 
-El incumplimiento de las obligaciones que establece la concesión o autorización dará lugar a la pérdida de la caución a que se refiere este artículo y su monto ingresar al fondo Permanente para el Fomento de la Aviación Civil.
+El incumplimiento de las obligaciones que establece la autorización dará lugar a la pérdida de la caución a que se refiere este artículo y su monto a cuenta de la autoridad aeronáutica.
+
+(Artículo sustituido por art. 217 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 SECCION B: Transporte de pasajeros
 
-ARTICULO 113. – El contrato de transporte de pasajeros debe ser probado por escrito. Cuando se trate de transporte efectuado por servicios regulares dicho contrato se prueba con el billete de pasaje.
+ARTICULO 113. – El contrato de transporte de pasajeros debe ser probado por escrito o con formato electrónico. Cuando se trate de transporte efectuado por servicios regulares dicho contrato se prueba con el billete de pasaje escrito o digital.
+
+(Artículo sustituido por art. 218 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 114. – La ausencia, irregularidad o pérdida del billete de pasaje, no perjudica la existencia ni la validez del contrato de transporte que quedará sujeto a las disposiciones de este Código.
 
-Si el transportador acepta pasajeros sin expedir el billete de pasaje, no podrá aararse en las disposiciones que limitan su responsabilidad.
+Si el transportador acepta pasajeros sin expedir el billete de pasaje, no podrá ampararse en las disposiciones que limitan su responsabilidad.
 
 ARTICULO 115. – El billete de pasaje debe indicar:
 
@@ -520,9 +540,11 @@ ARTICULO 115. – El billete de pasaje debe indicar:
 
 SECCION C: Transporte de equipajes
 
-ARTICULO 116. – El transporte de equipajes registrados, se prueba con el talón de equipajes que el transportador deberá expedir con doble ejemplar; uno de éstos será entregado al pasajero y el otro lo conservar el transportador.
+ARTICULO 116. – El transporte de equipajes registrados, se prueba con el talón de equipajes que el transportador deberá expedir con doble ejempl por escrito o digitalmente; uno de éstos será entregado al pasajero y el otro lo conservará el transportador.
 
 No se incluirán en el talón los objetos personales que el pasajero conserve bajo su custodia.
+
+(Artículo sustituido por art. 219 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 117. – El talón de equipajes debe indicar:
 
@@ -540,7 +562,9 @@ SECCION D: Transporte de mercancías
 
 ARTICULO 119. – La carta de porte es el título legal del contrato entre remitente y transportador. Debe expresar que se trata de transporte aéreo.
 
-ARTICULO 120. – La carta de porte ser extendida en triple ejemplar; uno para el transportador, con la firma del remitente; otro para el destinatario, con la del transportador y del remitente; y otro para el remitente, con la del transportador.
+ARTICULO 120. – La carta de porte debe ser extendida en triple ejemplar en formato físico o electrónico; uno para el transportador, con la firma del remitente; otro para el destinatario, con la del transportador y del remitente; y otro para el remitente, con la del transportador.
+
+(Artículo sustituido por art. 220 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 121. – La carta de porte debe indicar:
 
@@ -576,39 +600,41 @@ ARTICULO 124. – La carta de porte puede ser extendida al portador, a la orden 
 
 SECCION E: Transporte de carga postal
 
-ARTICULO 125. – Los explotadores de servicios de transporte aéreo regular están obligados a transportar la carga postal que se les asigne, dentro de la capacidad que la autoridad aeronáutica fije para cada tipo de aeronave.
+(Sección derogado por art. 221 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-El transporte de la carga postal cederá únicamente prioridad al transporte de pasajeros.
+ARTICULO 125. –  (Artículo derogado por art. 221 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 126. – Los explotadores de servicios de transporte aéreo regular, podrán ser autorizados a realizar servicios de transporte aéreo regular exclusivamente para carga postal. Cuando el servicio no pueda ser prestado por explotadores de servicios de transporte aéreo regular, la autoridad aeronáutica podrá autorizar su prestación por explotadores de servicios de transporte aéreo no regular.
+ARTICULO 126. – (Artículo derogado por art. 221 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 127. – Las tarifas para el transporte de carga postal serán aprobadas por el Poder Ejecutivo, con intervención de las autoridades aeronáutica y postal.
-
-La legislación postal se aplicar al transporte aéreo de carga postal, en lo que fuese pertinente.
+ARTICULO 127. – (Artículo derogado por art. 221 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO III: SERVICIOS DE TRANSPORTE AEREO INTERNACIONAL
 
-ARTICULO 128. – Las normas fijadas por este Código para la constitión y funcionamiento de empresas dedicadas a la explotación de servicios de transporte aéreo interno, serán aplicables a las empresas argentinas que efectúen servicio al exterior del país.
+ARTICULO 128. – Las normas fijadas por este Código para la constitución y funcionamiento de empresas dedicadas a la explotación de servicios de transporte aéreo interno, serán aplicables a las empresas argentinas que efectúen servicio al exterior del país.
 
-ARTICULO 129. – Las empresas extranjeras podrán realizar servicios de transporte aéreo internacional, de conformidad con las convenciones o acuerdos internacionales en que la Nación sea parte, o mediante autorización previa del Poder Ejecutivo.
+ARTÍCULO 128 bis.- El Poder Ejecutivo Nacional reglamentará y llevará adelante una política de aviación civil que permita su crecimiento, bajo los principios de la seguridad y la libertad de mercado, conforme a los acuerdos con terceros estados.
 
-El procedimiento para tramitar las solicitudes será fijado por el Poder Ejecutivo quien establecerá un régimen de audiencia pública para analizar la conveniencia, necesidad y utilidad general de los servicios cuando corresponda.
+En el marco de los permisos aerocomerciales internos e internacionales, la República Argentina fomentará entre los operadores aerocomerciales nacionales y extranjeros el libre acceso recíproco a los mercados aerocomerciales y la conectividad internacional y de cabotaje.
 
-La autoridad aeronáutica establecerá las normas operativas a las que se ajustarán los servicios de transporte aéreo internacional que exploten las empresas extranjeras. Los itinerarios, capacidad, frecuencias y horarios correspondientes a los servicios de transporte aéreo internacional regular y las tarifas en todos los casos, serán sometidas a aprobación previa de la autoridad aeronáutica.
+(Artículo incorporado por art. 222 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 129. – Las empresas extranjeras podrán realizar servicios de transporte aéreo internacional, de conformidad con las convenciones o acuerdos internacionales en que la Nación sea parte, o mediante autorización previa del Poder Ejecutivo. El procedimiento para tramitar las solicitudes será fijado por el Poder Ejecutivo quien establecerá un régimen de autorizaciones donde se analice la conveniencia, necesidad y utilidad general de los servicios cuando corresponda, conforme a los principios de libertad de mercado y/o los acuerdos bilaterales o multilaterales suscriptos.
+
+La autoridad aeronáutica establecerá las normas operativas a las que se ajustarán los servicios de transporte aéreo internacional que exploten las empresas extranjeras. Los itinerarios, capacidad, frecuencias y horarios correspondientes a los servicios de transporte aéreo internacional regular, en todos los casos, serán sometidas a la aprobación operativa previa de la autoridad aeronáutica.
+
+(Artículo sustituido por art. 223 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 130. – En el transporte internacional, el transportador no deberá embarcar pasajeros sin la verificación previa de que están provistos de los documentos necesarios para desembarcar en el punto de destino.
 
+ARTÍCULO 130 bis.- Atento la integridad y autonomía establecidas para la navegación y comercio aéreo y la propia operatoria comercial de la industria en el orden interno e internacional, la autoridad aeronáutica deberá sancionar un reglamento relativo a la protección de los derechos del pasajero.
+
+(Artículo incorporado por art. 224 del Decreto N° 70/2023 B.O. 21/12/2023)
+
 CAPITULO IV: TRABAJO AEREO
 
-ARTICULO 131. – Para realizar trabajo aéreo en cualquiera de sus especialidades, las personas o empresas deberán obtener autorización previa de la autoridad aeronáutica sujeta a los siguientes recaudos:
+ARTICULO 131. – Para realizar trabajo aéreo en cualquiera de sus especialidades, las personas o empresas deberán obtener autorización previa de la autoridad aeronáutica sujeta a los siguientes recaudos: 1) Reunir los requisitos establecidos en el artículo 48 para ser propietario de aeronave; 2) Poseer capacidad técnica y económica de acuerdo a la especialidad de que se trate; 3) Operar con aeronaves de matrícula argentina o con aeronaves de matrícula extranjera, sujeto a acuerdos de doble vigilancia de seguridad operacional.
 
-1) Reunir los requisitos establecidos en el artículo 48 para ser propietario de aeronave;
-
-2) Poseer capacidad técnica y económica de acuerdo a la especialidad de que se trate;
-
-3) Operar con aeronaves de matrícula argentina.
-
-Excepcionalmente y en cada caso la autoridad aeronáutica podrá disponer del cumplimiento de las exigencias de los incisos 1° y 3° precedentes, cuando no existiesen en el país empresas o aeronaves capacitadas para la realización de una determinada especialidad de trabajo aéreo.
+(Artículo sustituido por art. 225 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 132. – El Poder Ejecutivo establecer las normas a las que deberá ajustarse el trabajo aéreo conforme a sus diversas especialidades y el régimen de su autorización.
 
@@ -616,81 +642,75 @@ CAPITULO V: FISCALIZACION DE ACTIVIDADES COMERCIALES
 
 (Rúbrica sustituida por art. 2° de la Ley N° 22.390 B.O. 13/2/1981.)
 
-ARTICULO 133. – Las actividades aeronáuticas comerciales están sujetas a fiscalización por la autoridad aeronáutica.
+ARTICULO 133. – Las actividades aeronáuticas comerciales están sujetas a fiscalización por la autoridad competente. Al efecto le corresponde:
 
-Al efecto le corresponde:
-
-1) Exigir el cumplimiento de las obligaciones previstas en las concesiones o autorizaciones otorgadas, así como las contenidas en el presente código, leyes, reglamentaciones y demás normas que en su consecuencia se dicten.
+1) Exigir el cumplimiento de las obligaciones previstas en las autorizaciones otorgadas, así como las contenidas en el presente código, leyes, reglamentaciones, Tratados e Instrumentos Internacionales ratificados por la Nación Argentina, y demás normas que en su consecuencia se dicten.
 
 2) Ejercer la fiscalización técnica-operativa, económica y financiera del explotador.
 
-3) Suspender las actividades cuando considere que no estén cumplidas las condiciones de seguridad requeridas o cuando no estén asegurados los riesgos cuya cobertura sea legalmente obligatoria, y autorizar su reanudación, una vez subsanadas tales deficiencias o requisitos, siempre que no resultaren de ellos causales que traigan aparejada la caducidad o retiro de la concesión o autorización.
+3) Suspender las actividades cuando considere que no estén cumplidas las condiciones de seguridad requeridas o cuando no estén asegurados los riesgos cuya cobertura sea legalmente obligatoria, y autorizar su reanudación, una vez subsanadas tales deficiencias o requisitos, siempre que no resultaren de ellos causales que traigan aparejada la caducidad o retiro de la autorización.
 
-4) Autorizar la interrupción y la reanudación de los servicios solicitados por los prestatarios, cuando a su juicio, no se consideren afectadas las razones de necesidad o utilidad general que determinaron el otorgamiento de la concesión o autorización, o la continuidad de los servicios.
+4) Autorizar la interrupción y la reanudación de los servicios solicitados por los prestarios, cuando a su juicio, no se consideren afectadas las razones de necesidad o utilidad general que determinaron el otorgamiento de la autorización, o la continuidad de los servicios.
 
 5) Prohibir el empleo de material de vuelo que no ofrezca seguridad.
 
 6) Exigir que el personal aeronáutico llene las condiciones requeridas por las disposiciones vigentes.
 
-7) Fiscalizar todo tipo de promoción y comercialización de billetes de pasaje, fletes y toda otra venta de capacidad de transporte aéreo llevado a cabo por los transportadores, sus representantes o agentes y por terceros, con el objeto de impedir el desvío o encaminamiento no autorizado de tráficos y de hacer cumplir las tarifas vigentes en sus condiciones y exigencias.
+7) Fiscalizar todo tipo de promoción y comercialización de billetes de pasaje, fletes y toda otra venta de capacidad de transporte aéreo llevado a cabo por los transportadores, sus representantes o agentes y por terceros, para garantizar el cumplimiento de la sana competencia y la adecuada protección de los derechos de los usuarios.
 
-8) Autorizar y pervisar el funcionamiento de las representaciones y agencias de las empresas extranjeras de transporte aéreo internacional que no operen en el territorio nacional y se establezcan en el país, sin perjuicio del cumplimiento de las obligaciones que imponen las demás normas legales respecto de empresas extranjeras.
+8) Autorizar y supervisar el funcionamiento de las representaciones y agencias de las empresas extranjeras de transporte aéreo internacional que no operen en el territorio nacional y se establezcan en el país, sin perjuicio del cumplimiento de las obligaciones que imponen las demás normas legales respecto de empresas extranjeras.
 
 9) Calificar, conforme la ley vigente en materia de policía aérea, la aptitud de las aeronaves destinadas al transporte comercial de pasajeros y carga en función de los servicios a prestar para determinar la conveniencia de su incorporación a tales servicios y autorizar la afectación de las aeronaves a la flota de transportadores de bandera argentina. Intervenir en el trámite de autorización para su ingreso al país.
 
 10) Desempeñar todas las otras funciones de fiscalización que confiera el Poder Ejecutivo nacional.
 
-(Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981.)
+11) La autoridad aeronáutica procurará activamente detectar y someter a fiscalización a los explotadores u operadores clandestinos, entendiéndose por tales a quienes operen al margen de la normativa aeronáutica vigente. A tal fin, podrán afectarse recursos propios o bien requerir el auxilio de las Fuerzas de Seguridad federales o provinciales, que en todos los casos deberán brindarlo.
 
-(Artículo reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982.)
+(Artículo sustituido por art. 226 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 134. – Los transportadores nacionales están obligados a trasladar gratuitamente en sus aeronaves, a un funcionario de la autoridad aeronáutica que deba viajar en misión de inspección. La plaza será reservada hasta veinticuatro horas antes de la fijada para la partida de la aeronave. La misma obligación rige para las empresas extranjeras, con respecto a sus recorridos dentro del territorio argentino, hasta y desde la primera escala fuera de él.
 
-CAPITULO VI: SUSPENSION Y EXTINCION DE LAS CONCESIONES Y AUTORIZACIONES
+CAPITULO VI: SUSPENSION Y EXTINCION DE LAS AUTORIZACIONES.
+
+(Capítulo sustituido por art. 227 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 (Rúbrica sustituida por art. 2° de la Ley N° 22.390 B.O. 13/2/1981.)
 
-ARTICULO 135. – Las concesiones y autorizaciones otorgadas por plazo determinado se extinguirán al vencimiento de éste. No obstante, haya o no plazo de vencimiento, el Poder Ejecutivo nacional o la autoridad aeronáutica según sea el caso, en cualquier momento podrán declarar la caducidad de la concesión o el retiro de la autorización conferidas para la explotación de actividades aeronáuticas comerciales en las siguientes circunstancias:
+ARTICULO 135. – Las autorizaciones otorgadas por plazo determinado se extinguirán al vencimiento de éste. No obstante, haya o no plazo de vencimiento, el Poder Ejecutivo nacional o la autoridad aeronáutica según sea el caso, en cualquier momento podrá cancelar la autorización conferidas para la explotación de actividades aeronáuticas comerciales en las siguientes circunstancias:
 
 1) Si el explotador no cumpliese las obligaciones substanciales a su cargo o si faltase, reiteradamente, a obligaciones de menor importancia.
 
-2) Si el servicio no fuese iniciado dentro del término fijado en la concesión o autorización.
+2) Si el servicio no fuese iniciado dentro del término fijado en la autorización.
 
 3) Si se interrumpiese el servicio, total o parcialmente, sin causas justificadas o permiso de la autoridad aeronáutica.
 
 4) Si la empresa fuera declarada en estado de quiebra, liquidación o disolución por resolución judicial o cuando peticionando su concurso preventivo, no ofrezca a juicio de la autoridad de aplicación garantías que resulten adecuadas para asegurar la prestación de los servicios.
 
-5) Si la concesión o autorización hubiese sido cedida en contravención a lo dispuesto en el artículo 96 de este Código.
+5) Si la autorización hubiese sido cedida en contravención a lo dispuesto en el artículo 96 de este Código.
 
 6) Si no se hubiese dado cumplimiento a la cobertura de riesgos prevista por el título X (Seguros) y en el artículo 112.
 
-7) Si el explotador se opusiese a la fiscalización o inspecciones establecidas en este Código y su reglamentación.
+7) Si el explotador se opusiese a la fiscalización o inspecciones establecidas en este Código y su reglamación.
 
-8) Si el explotador dejase de reunir cualquiera de los requisitos exigidos para la concesión o autorización.
+8) Si el explotador dejase de reunir cualquiera de los requisitos exigidos para la autorización.
 
-9) Si no subsistiesen los motivos de interés público que determinaron el otorgamiento de la concesión o autorización.
+9) Si mediase renuncia del explotador, previa aceptación de la autoridad aeronáutica.
 
-10) Si se tratare de un transportador extranjero y el gobierno del país de su bandera no confiriese a los transportadores argentinos similares o equivalentes derechos y facilidades en reciprocidad a los recibidos por aquél.
+Cuando a juicio de la autoridad de aplicación se configure alguna de las causales previstas en los incisos precedentes que motiven el retiro de la autorización, dicha autoridad podrá disponer la suspensión preventiva de los servicios hasta tanto se substancien las actuaciones administrativas a las que se refiere el artículo 137.
 
-11) Si mediase renuncia del expl, previa aceptación de la autoridad aeronáutica.
-
-Cuando a juicio de la autoridad de aplicación se configure alguna de las causales previstas en los incisos 1º al 10 que motiven caducidad de la concesión o el retiro de la autorización, dicha autoridad podrá disponer la suspensión preventiva de los servicios hasta tanto se substancien las actuaciones administrativas a las que se refiere el artículo 137.
-
-(Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981.)
-
-(Artículo reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982.)
+(Artículo sustituido por art. 228 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 136. – En los casos del inciso 4° del artículo precedente, la autoridad judicial que conozca en el asunto deber comunicarlo a la autoridad aeronáutica, para la defensa de los derechos e intereses del Estado.
 
-ARTICULO 137. – Antes de la declaración de caducidad de la concesión o del retiro de la autorización, debe oírse al interesado a fin de que pueda producir la prueba de descargo. El procedimiento a seguir será determinado por la reglamentación respectiva.
+ARTICULO 137. – Antes de la cancelación de la autorización, debe garantizarse la debida participación al interesado, a fin de que pueda producir la prueba de descargo. El procedimiento a seguir será determinado por la reglamentación respectiva, la cual deberá garantizar el ejercicio del derecho de defensa y el control judicial suficiente
+
+(Artículo sustituido por art. 229 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO VII: SUBVENCIONES
 
-ARTICULO 138. – Con el objeto de cubrir el déficit de una sana explotación, el Poder Ejecutivo podrá subvencionar la realización de servicios de transporte aéreo en aquellas rutas que resulten de interés general para la Nación. Asimismo, podrá subvencionar la explotación de servicios de trabajo aéreo que tengan igual carácter.
+ARTICULO 138. – El Poder Ejecutivo podrá subvencionar la demanda de servicios de transporte aéreo en aquellas rutas que resulten de interés general para la Nación. Asimismo, podrá subvencionar la explotación de servicios de trabajo aéreo que tengan igual carácter.
 
-El Poder Ejecutivo reglamentará la forma y régimen en que serán otorgadas las subvenciones y las condiciones a reunir por las empresas beneficiarias de las mismas.
-
-(Nota Infoleg: Por art. 20. del Decreto N° 2836/1971 B.O. 13/8/1971, se dispone que "el Poder Ejecutivo podrá subvencionar las actividades de trabajo aéreo cuando éstas se refieran a la lucha contra las plagas del agro o contra las calamidades públicas, en los términos del artículo 138 del Código Aduanero".)
+(Artículo sustituido por art. 230 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 TITULO VII: RESPONSABILIDAD
 
@@ -708,7 +728,7 @@ ARTICULO 142. – El transportador no será responsable si prueba que él y sus 
 
 ARTICULO 143. – La responsabilidad del transportador podrá ser atenuada o eximida si prueba que la persona que ha sufrido el daño lo ha causado o contribuido a causarlo.
 
-ARTICULO 144. – En el transporte de personas, la responsabilidad del transportador, con relación a cada pasajero, queda limitada hasta la suma equivalente en pesos a mil (1000) argentinos oro, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad. Esta cotización será fijada por el órgano competente de la Administración nacional.
+ARTICULO 144. – En el transporte de personas, la responsabilidad del traon relación a cada pasajero, queda limitada hasta la suma equivalente en pesos a mil (1000) argentinos oro, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad. Esta cotización será fijada por el órgano competente de la Administración nacional.
 
 (Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981.)
 
@@ -740,7 +760,7 @@ ARTICULO 150. – Si el viaje previsto hubiese sido interrumpido o no se hubiese
 
 El pasajero que no se presentase o que llegase con atraso a participar del vuelo para el cual se le haya expedido el billete de pasaje o interrumpiese el viaje, no tendrá derecho a exigir la devolución total o parcial del importe. Sin embargo, si la aeronave partiese con todas las plazas ocupadas el transportador deberá reintegrar el ochenta por ciento del precio del billete de pasaje.
 
-ARTICULO 151. – El transporte que haya de ejecutarse por varios transportares por vía aérea, sucesivamente, se juzgar como transporte único cuando haya sido considerado por las partes como una sola operación, ya sea que se formalice por medio de un solo contrato o por una serie de ellos. En este caso, el pasajero no podrá accionar sino contra el transportador que haya efectuado el transporte en el curso del cual se hubiese producido el accidente o el retraso, salvo que el primer transportador hubiese asumido expresamente la responsabilidad por todo el viaje.
+ARTICULO 151. – El transporte que haya de ejecutarse por varios transportadores por vía aérea, sucesivamente, se juzgar como transporte único cuando haya sido considerado por las partes como una sola operación, ya sea que se formalice por medio de un solo contrato o por una serie de ellos. En este caso, el pasajero no podrá accionar sino contra el transportador que haya efectuado el transporte en el curso del cual se hubiese producido el accidente o el retraso, salvo que el primer transportador hubiese asumido expresamente la responsabilidad por todo el viaje.
 
 Si se trata de transporte de equipaje o mercancías, el expedidor podrá accionar contra el primer transportador, y el destinatario, o quien tenga derecho a la entrega, contra el último; ambos podrán además accionar contra el transportador que hubiese efectuado el transporte en el curso del cual se haya producido la destrucción, pérdida, avería o retraso. Dichos transportadores serán solidariamente responsables ante el expedidor, el destinatario o quien tenga derecho a la entrega.
 
@@ -766,9 +786,9 @@ El explotador será responsable solidariamente salvo que pruebe que ha tomado la
 
 ARTICULO 159. – La responsabilidad del explotador por daños a terceros en la superficie podrá ser atenuada o eximida, si prueba que el damnificado los ha causado o ha contribuido a causarlos.
 
-ARTICULO 160. – El explotador es responsable por cada accidente hasta el límite de la suma equivalente en pesos al número de argentinos oro que resulta de la escala siguiente, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad:
+ARTICULO 160. – El explotador es responsable por cada accidente hasta el límite de la suma equivalente en pesoo de argentinos oro que resulta de la escala siguiente, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad:
 
-1) 2000 argentinos oro para aeronaves cuyo pesno exceda de 1000 kilogramos;
+1) 2000 argentinos oro para aeronaves cuyo peso no exceda de 1000 kilogramos;
 
 2) 2000 argentinos oro más 1 1/2 argentino oro por cada kilogramo que exceda de los 1000, para aeronaves que pesan más de 1000 y no excedan de 6000 kilogramos;
 
@@ -818,7 +838,7 @@ La aeronave se halla en vuelo desde que se aplica la fuerza motriz para despegar
 
 SECCION B: Daños causados a aeronaves, personas y bienes embarcados
 
-ARTICULO 166. – En caso de daños causados a aeronaves o a personas y bienes a bordo de las mismas por abordaje de dos o más aerona en movimiento, si el abordaje se produjese por culpa de una de las aeronaves, la responsabilidad por los daños es a cargo del explotador de ésta.
+ARTICULO 166. – En caso de daños causados a aeronaves o a personas y bienes a bordo de las mismas por abordaje de dos o más aeronaves en movimiento, si el abordaje se produjese por culpa de una de las aeronaves, la responsabilidad por los daños es a cargo del explotador de ésta.
 
 El explotador no será responsable si prueba que l y sus dependientes han tomado todas las medidas necesarias para evitar el daño o les fue imposible tomarlas.
 
@@ -854,9 +874,9 @@ ARTICULO 176. – El comandante de una aeronave está obligado a prestar los sig
 
 ARTICULO 177. – No habrá obligación de prestar socorro cuando est asegurado en mejores condiciones, o su prestación significase riesgos para las personas a bordo, o no hubiesen posibilidades de prestar un socorro útil.
 
-ARTICULO 178. – En los casos del artículo anterior, quien prestase el socorro sólo tendrá derechouido si ha salvado o contribuido a salvar alguna persona.
+ARTICULO 178. – En los casos del artículo anterior, quien prestase el socorro sólo tendrá derecho a ser retribuido si ha salvado o contribuido a salvar alguna persona.
 
-ARTICULO 179. – Los explotadores de las aeronaves que hayan prestado asistencia a otra, o que hayan colaborado en la búsqueda de que trata el artículo 175, o que hayan salvado a alguna persona, tendrá n derecho a ser indemnizados por los gastos y daños emergentes de la operación o producidos como consecuencia directa de ésta.
+ARTICULO 179. – Los explotadores de las aeronaves que hayan prestado asistencia a otra, o que hayan colaborado en la búsqueda de que trata el artículo 175, o que hayan salvado a alguna persona, tendrá n derecho a sados por los gastos y daños emergentes de la operación o producidos como consecuencia directa de ésta.
 
 Las indemnizaciones estarán a cargo del explotador de la aeronave socorrida y no podrán exceder, en conjunto, el valor que tenía la aeronave antes de producirse el hecho.
 
@@ -874,25 +894,29 @@ ARTICULO 184. – Las disposiciones del presente título serán de aplicación e
 
 TITULO IX: INVESTIGACION DE ACCIDENTES DE AVIACION
 
-ARTICULO 185. – Todo accidente de aviación será investigado por la autoridad aeronáutica para determinar sus causas y establecer las medidas tendientes a evitar su repetición.
+ARTICULO 185. – Todo accidente o incidente de aviación será investigado por la autoridad competente e independiente de investigación técnica de accidentes de aviación, para determinar sus causas y establecer las medidas tendientes a evitar su repetición. Dicha investigación no puede asignar responsabilidad o culpa ni es admisible como prueba judicial.
 
-ARTICULO 186. – Toda persona que tomase conocimiento de cualquier accidente de aviación o de la existencia de restos o despojos de una aeronave, deberá comunicarlo a la autoridad más próxima por el medio más rápido y en el tiempo mínimo que las circunstancias permitan.
+(Artículo sustituido por art. 231 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-La autoridad que tenga conocimiento del hecho o intervenga en él, lo comunicará de inmediato a la autoridad aeronáutica más próxima al lugar, debiendo destacar o gestionar una guardia hasta el arribo de ésta.
+ARTICULO 186. – Toda persona que tomase conocimiento de cualquier accidente o incidente de aviación o de la existencia de restos o despojos de una aeronave, deberá comunicarlo a la autoridad más próxima por el medio más rápido y en el tiempo mínimo que las circunstancias permitan. La primera autoridad que tenga conocimiento del hecho o intervenga en él, lo comunicará de inmediato a la autoridad competente en materia de investigación técnica de accidentes de aviación, debiendo destacar o gestionar una guardia hasta el arribo de ésta.
 
-ARTICULO 187. – La autoridad responsable de la vigilancia de los restos o despojos del accidente, evitar que en los mismos y en las zonas donde puedan haberse dispersado, intervengan personas no autorizadas. La remoción o liberación de la aeronave, de los elementos afectados y de los objetos que pudiesen haber concurrido a producir el accidente sólo podrá practicarse con el consentimiento de la autoridad aeronáutica.
+(Artículo sustituido por art. 232 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-La intervención de la autoridad aeronáutica no impide la acción judicial ni la intervención policial en los casos de accidentes vinculados con hechos ilícitos, en que habrá de actuarse conforme a las leyes de procedimiento penal, o cuando deban practicarse operaciones de asistencia o salvamento.
+ARTICULO 187. – La autoridad responsable de la vigilancia de los restos o despojos del accidente, evitará que en los mismos y en las zonas donde puedan haberse dispersado, intervengan personas no autorizadas. La remoción o liberación de la aeronave, de los elementos afectados y de los objetos que pudiesen haber concurrido a producir el accidente sólo podrá practicarse con el consentimiento de la autoridad competente en materia de investigación de accidentes de aviación. La intervención de aquella autoridad no impide la acción judicial ni la intervenc en los casos de accidentes vinculados con hechos ilícitos, en que habrá de actuarse conforme a las leyes de procedimiento penal, o cuando deban practicarse operaciones de asistencia o salvamento.
 
-(Nota Infoleg: Por art. 7° del Decreto N° 934/1970 B.O. 17/4/1970, se dispone que el Comando de Regiones Aéreas otorgará al personal encargado de la investigación una credencial con transcripción de los artículos 187, 188 y 206 del Código Aeronáutico.)
+(Artículo sustituido por art. 233 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 188. – Toda persona está obligada a declarar ante la autoridad aeronáutica, en todo cuanto se relacione con la investigación de accidentes de aviación.
+ARTICULO 188. – Toda persona está obligada a ser entrevistada por la autoridad competente en materia de investigación de accidentes, en todo cuanto se relacione con la investigación de accidentes de aviación.
 
-(Nota Infoleg: Por art. 7° del Decreto N° 934/1970 B.O. 17/4/1970, se dispone que el Comando de Regiones Aéreas otorgará al personal encargado de la investigación una credencial con transcripción de los artículos 187, 188 y 206 del Código Aeronáutico.)
+(Artículo sustituido por art. 234 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 189. – Las autoridades, personas e instituciones tendrán obligación de producir los informes que les requiera la autoridad aeronáutica, así como permitir a ésta el examen de la documentación y de los antecedentes necesarios a los fines de la investigación de accidentes de aviación.
+ARTICULO 189. – Las autoridades, personas e instituciones tendrán obligación de producir los informes que les requiera la autoridad competente en materia de investigación de accidentes de aviación, así como permitir a ésta el examen de la documentación y de los antecedentes necesarios a los fines de la investigación de accidentes de aviación.
 
-ARTICULO 190. – Las aeronaves privadas extranjeras que sufran accidentes en el territorio argentino y sus aguas jurisdiccionales y las aeronaves privadas argentinas que sufran accidentes en territorio extranjero, quedarán sujetas a la investigación técnica prevista en los convenios internacionales.
+(Artículo sustituido por art. 235 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 190. – Las aeronaves privadas extranjeras que sufran accidentes en el espacio aéreo argentino y las aeronaves privadas argentinas que sufran accidentes en territorio extranjero, quedarán sujetas a la investigación técnica prevista en los convenios internacionales.
+
+(Artículo sustituido por art. 236 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 TITULO X: SEGUROS
 
@@ -918,17 +942,19 @@ ARTICULO 197. – Declárase materia de legislación nacional lo concerniente a 
 
 1) La circulación aérea en general, especialmente el funcionamiento de aeródromos destinados a la navegación aérea internacional e interprovincial o a servicios aéreos conectados con éstas.
 
-2) El otorgamiento de títulos habilitantes del personal aeronáutico, as como la maiculación y certificación de aeronavegabilidad de las aeronaves.
+2) El otorgamiento de títulos habilitantes del personal aeronáutico, as como la matriculación y certificación de aeronavegabilidad de las aeronaves.
 
 3) El otorgamiento de los servicios comerciales aéreos.
 
 ARTICULO 198. – Corresponde a la Corte Suprema de Justicia y a los tribunales inferiores de la Nación el conocimiento y decisión de las causas que versen sobre navegación aérea o comercio aéreo en general y de los delitos que puedan afectarlos.
 
-ARTICULO 199. – Los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave privada argentina sobre territorio argentino, sus aguas jurisdiccionales o donde ningún estado ejerza soberana, est n regidos por las leyes de la Nación Argentina y ser n juzgados por sus tribunales.
+ARTICULO 199. – Los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave privada argentina sobre el espacio aéreo argentino o donde ningún estado ejerza soberanía, están regidos por las leyes de la Nación Argentina y serán juzgados por sus tribunales.
 
-Corresponde igualmente la jurisdicción de los tribunales argentinos y la aplicación de las leyes de la Nación, en el caso de hechos ocurridos, actos realizados o delitos cometidos a bordo de una aeronave privada argentina, sobre territorio extranjero, si se hubiese lesionado un interés legítimo del Estado argentino o de personas domiciliadas en l o se hubiese realizado en la República el primer aterrizaje posterior al hecho, acto o delito.
+Corresponde igualmente la jurisdicción de los tribunales argentinos y la aplicación de las leyes de la Nación, en el caso de hechos ocurridos, actos realizados o delitos cometidos a bordo de una aeronave privada argentina, sobre territorio extranjero, si se hubiese lesionado un interés legítimo del Estado argentino o de personas domiciliadas en el o se hubiese realizado en la República el primer aterrizaje posterior al hecho, acto o delito.
 
-ARTICULO 200. – En los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave privada extranjera en vuelo sobre el territorio argentino o sus aguas jurisdiccionales, la jurisdicción de los tribunales argentinos y la aplicación de las leyes de la Nación sólo corresponde en caso de:
+(Artículo sustituido por art. 237 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 200. – En los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave privada extranjera en vuelo en el espacio aéreo argentino , la jurisdicción de los tribunales argentinos y la aplicación de las leyes de la Nación sólo corresponde en caso de:
 
 1) Que infrinjan leyes de seguridad pública, militares o fiscales.
 
@@ -936,19 +962,23 @@ ARTICULO 200. – En los hechos ocurridos, los actos realizados y los delitos co
 
 3) Que comprometan la seguridad o el orden público, o afecten el interés del Estado o de las personas domiciliadas en él, o se hubiese realizado en la República el primer aterrizaje posterior al hecho, acto o delito si no mediase, en este último caso, pedido de extradición.
 
-ARTICULO 201. – Los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave pública extranjera sobre territorio argentino o sus aguas jurisdiccionales est n regidos por la ley del pabellón y ser n juzgados por sus tribunales.
+(Artículo sustituido por art. 238 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 201. – Los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave pública extranjera en el espacio aéreo argentino están regidos por la ley del pabellón y serán juzgados por sus tribunales.
+
+(Artículo sustituido por art. 239 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 TITULO XII: FISCALIZACION Y PROCEDIMIENTO
 
-ARTICULO 202. – La fiscalización del espacio aéreo, aeródromos y demás lugares aeronáuticos en el territorio de la República y sus aguas jurisdiccionales, será ejercida por la autoridad aeronáutica, con excepción de la que corresponda a la policía de seguridad y judicial que estará a cargo de las policías nacionales existentes.
+ARTICULO 202. – La fiscalización del espacio aéreo, infraestructura aeronáutica y demás servicios y lugares aeronáuticos en el espacio aéreo argentino, será ejercida por la autoridad aeronáutica, con excepción de la que corresponda a la materia estrictamente policial.
 
-La organización y funciones de la policía aeronáutica serán establecidas por una ley especial que se dictará al efecto.
+(Artículo sustituido por art. 240 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 203. – Toda vez que se compruebe una infracción a este código o a su reglamentación o cuando una aeronave ocasione un daño, la autoridad aeronáutica levantará acta con relación circunstanciada de los hechos, autores, damnificados y demás elementos de juicio, remitiendo las actuaciones a la autoridad judicial o administrativa que corresponda.
 
 Cuando en caso de delito deba detenerse a miembros de la tripulación de una aeronave que realice servicios de transporte aéreo, la autoridad que efectúe el procedimiento deberá tomar de inmediato las medidas para posibilitar la continuación del vuelo.
 
-ARTICULO 204. – Si durante un vuelo se cometiese algún delito o infracción, el comandante de la aeronave deberá tomar las medidas necesarias para asegurar la persona del delincuente o infractor, quien será puesto a disposición de la autoridad competente del lugar del primer aterrizaje, levantándose acta con las formalidades idas en el artículo anterior.
+ARTICULO 204. – Si durante un vuelo se cometiese algún delito o infracción, el comandante de la aeronave deberá tomar las medidas necesarias para asegurar la persona del delincuente o infractor, quien será puesto a disposición de la autoridad competente del lugar del primer  levantándose acta con las formalidades establecidas en el artículo anterior.
 
 ARTICULO 205. – La autoridad policial, judicial u otra competente se incautará de los objetos mencionados en el artículo 9° que se encuentren a bordo de aeronaves sin la autorización especial exigida. Si el comiso quedase firme, serán entregados a la autoridad aeronáutica a su requerimiento.
 
@@ -964,33 +994,43 @@ TITULO XIII: FALTAS Y DELITOS
 
 CAPITULO I: INFRACCIONES
 
-ARTICULO 208. – Las infracciones a las disposiciones de este código, las leyes de política aérea y sus reglamentaciones, y demás normas que dicte la autoridad aeronáutica, que no importen delito, serán determinadas por el Poder Ejecutivo nacional y sancionadas con:
+ARTICULO 208. – El Poder Ejecutivo Nacional dictará un Reglamento General de Infracciones de la Aviación Civil. Hasta que ello ocurra estará vigente el actual sistema de infracciones. Este reglamento deberá prever que las infracciones por inobservancia de este código, las leyes vigentes y sus reglamentaciones, y demás normas que dicte la autoridad aeronáutica, que no importen delito, serán sancionadas con:
 
-1) Apercibimiento;
+i. Apercibimiento,
 
-2) Multa.
+ii. Multa, hasta el máximo que determine la reglamentación vigente según el tipo de infracción,
 
-a) Para las infracciones en el transporte aéreo comercial: De 2 hasta 100 veces el valor de la tarifa máxima vigente para el itinerario comprendido en el billete de pasaje o documento de transporte en infracción tarifaria o de 2 hasta 200 veces el valor de la tarifa máxima que correspondiese a 100 kilogramos entre los puntos de origen y destino de la carga cuyo transporte estuviera en infracción tarifaria. Cuando la infracción cometida no fuese de naturaleza tarifaria y sí relacionada con el régimen administrativo general resultante de este Código, las leyes de política aérea, sus reglamentaciones y normas complementarias, o las condiciones de otorgamiento de las concesiones, autorizaciones o permisos, la multa tendrá como índice los de 2 hasta 100 veces el valor de la tarifa máxima vigente para pasajeros o desde 2 hasta 200 veces la tarifa vigente para 100 kilogramos de carga –según sea el caso– que correspondiese al mayor trayecto contenido en el instrumento que confirió la concesión, autorización o permiso de servicio o –a falta de éste– al trayecto desde el punto de origen del vuelo.
+iii. Inhabilitación temporaria con plazos máximos, o definitiva, de certificados de idoneidad otorgados o convalidados por la autoridad aeronáutica,
 
-b) Para las restantes actividades aeronáuticas hasta la suma de cien millones de pesos ($ 100.000.000).
+iv. Suspensión temporaria de las autorizaciones otorgadas a los operadores aéreos, con determinación de su plazo máximo,
 
-c) Para los titulares de certificados de idoneidad para el ejercicio de funciones aeronáuticas hasta la suma de cuatro millones de pesos ($ 4.000.000).
+v. Retiro de las autorizaciones otorgadas para la explotación de servicios aerocomerciales.
 
-Los importes de los precedentes incisos b) y c) se considerarán automáticamente modificados en función de la variación que se opera en el índice del nivel general de precios al por mayor elaborado por el Instituto Nacional de Estadística y Censos o el organismo que lo sustituyere, entre el 1 de diciembre de 1980 y el mes inmediato anterior al de la comisión de la infracción.
+Con relación al monto de las Multas se establece:
 
-3) Inhabilitación temporaria de hasta 4 años o definitiva, de las facultades conferidas por los certificados de idoneidad aeronáutica.
+a. Para las infracciones en el transporte aéreo comercial de 10 hasta la suma de hasta TRESCIENTOS (300) ARGENTINOS ORO, apreciando la gravedad de la acción cometida y antecedentes del infractor.
 
-4) Suspensión temporaria de hasta 6 meses de las concesiones, autorizaciones o permisos otorgados para la explotación de los servicios comerciales aéreos.
+b. Para los titulares de certificados de idoneidad en el ejercicio de funciones aeronáuticas y aquellos que cuenten con poder de policía delegado, se establece la suma de hasta TRESCIENTOS (300) ARGENTINOS ORO, considerando la gravedad de la infracción y antecedentes del infractor.
 
-5) Caducidad de las concesiones o retiro de las autorizaciones o permisos acordados para la explotación de servicios comerciales aéreos.
+c. Para el Prestador de los Servicios de la navegación aérea; y respecto de los titulares explotadores, concesionarios y/o responsables de la infraestructura de aeropuertos, aeródromos o lugares aptos denunciados, se establece la suma de hasta TRESCIENTOS (300) ARGENTINOS ORO.
 
-(Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/ículo reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982.)
+d. Para las restantes actividades aeronáuticas se establece la suma de hasta Cincuenta (50) ARGENTINOS ORO, apreciando la gravedad de la acción cometida y antecedentes del infractor. La Autoridad Aeronáutica, se encontrará facultada para disminuir las sanciones previstas, hasta en un CINCUO (50%) del monto que resultaría aplicable para la infracción de la cual se trate, previendo por vía reglamentaria un sistema de pago anticipado o voluntario, de carácter general y con principios de transparencia, por el cual el infractor reconozca la responsabilidad del hecho infraccional que se le endilgue. Dicha conducta, resultará igualmente computable como antecedente infraccional, a los efectos de la consideración de su condición de reincidente. Si el infractor fuese reincidente y la falta cometida se considerase grave, esta reincidencia será considerada como un agravante.
 
-ARTICULO 209. – Las faltas previstas en este Código y su reglamentación, serán sancionadas por la autoridad aeronáutica salvo cuando corresponda inhabilitación definitiva, caducidad de las concesiones o retiro de las autoridades que sólo podrán ser dispuestas por el Poder Ejecutivo.
+Se entiende con poder de policía delegado a aquellas personas humanas u organizaciones que, mediante acto administrativo, han sido investidos con facultades determinadas por las autoridades competentes. Por ejemplo, los inspectores de seguridad designados o delegados.
 
-ARTICULO 210. – El procedimiento a seguir en la comprobación de los hechos, la aplicación de las sanciones, la determinación de la autoridad administrativa facultad para imponerlas, así como para entender en los casos de apelación, serán fijados por Poder Ejecutivo.
+(Artículo sustituido por art. 241 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-Dicho procedimiento será de carácter sumario y actuado, asegurando la existencia de dos instancias y el derecho de defensa.
+ARTICULO 209. – Las faltas previstas en este Código y su reglamentación, serán sancionadas por la autoridad aeronáutica.
+
+(Artículo sustituido por art. 242 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 210. – La investigación de las faltas o infracciones previstas en este Código y/o en la reglamentación vigente estará a cargo de la autoridad aeronáutica. El procedimiento a seguir ante la comprobación de los hechos será de carácter sumario y escrito, asegurando la existencia de dos instancias y la garantía del debido proceso y derecho de defensa del supuesto infractor.
+
+La autoridad aeronáutica establecerá los aspectos del procedimiento a seguir ante la comprobación o investigación de los hechos, así como la aplicación e imposición de sanciones y sus apelaciones.
+
+Se deberá garantizar el ejercicio de defensa y la debida participación del supuesto infractor desde el principio de las actuaciones, ya sea de manera escrita u oral.
+
+(Artículo sustituido por art. 243 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 211. – Cuando el infractor no pague la multa dentro de los 5 días de estar consentida o firme la resolución que la impuso, será compelido por vía del cobro de créditos fiscales, siendo asimismo aplicable el sistema de actualización y de intereses que corresponda a tales créditos.
 
@@ -1008,25 +1048,9 @@ ARTICULO 213. – Si el infractor fuese reincidente y la falta cometida se consi
 
 ARTICULO 214. – Se considerará reincidente a la persona que, dentro de los cuatro últimos años anteriores a la fecha de la falta, haya sido sancionada por otra falta.
 
-ARTICULO 215. – Serán recurribles ante la justicia federal en lo contencioso administrativo, una vez agotada la vía administrativa, las sanciones de:
+ARTICULO 215. – Serán recurribles ante la Justicia Federal en lo Contencioso Administrativo, una vez agotada la vía administrativa ante la autoridad aeronáutica, toda sanción, inhabilitación de certificados de idoneidad y/o habilitaciones, suspensión o retiro de autorizaciones. Todos estos recursos y acciones que seguirán el trámite de juicio ordinario. El recurso deberá interponerse dentro de los 15 días de notificado el acto administrativo. En el caso de hechos ilícitos que puedan importar actos punibles deberá intervenir la Justicia Federal en lo Criminal y Correccional competente para entender en las acciones penales.
 
-1) Multa superior a $500.000 en el caso del transporte aéreo comercial, cualquiera sea la naturaleza de la infracción.
-
-2) Multa superior a $200.000 para el caso de las restantes actividades aeronáuticas o de titulares de certificados de idoneidad para el ejercicio de funciones aeronáuticas.
-
-3) Inhabilitación definitiva.
-
-4) Inhabilitación temporaria que supere los 15 días.
-
-5) Suspensión temporaria de las concesiones, autorizaciones o permisos para la explotación de servicios comerciales aéreos.
-
-6) Caducidad de las concesiones o retiro de las autorizaciones o permisos para la explotación de servicios comerciales aéreos.
-
-Los montos previstos en los incisos 1° y 2° se actualizarán semestralmente en función de la variación que se opere en el índice del nivel general de precios al por mayor elaborado por el Instituto Nacional de Estadística y Censos o el organismo que lo sustituyere, a partir del 1 de diciembre de 1980.
-
-El recurso deberá interponerse dentro de los 15 días de notificado el acto administrativo.
-
-(Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981.)
+(Artículo sustituido por art. 244 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 216. – El importe de las multas previstas en este Código y su reglamentación, ingresará al fondo permanente para el fomento de la aviación civil.
 
@@ -1036,7 +1060,9 @@ CAPITULO II: DELITOS
 
 ARTICULO 217. – Será reprimido con reclusión o prisión de 3 a 15 años el que:
 
-1) Practicase algún acto de depredación o violencia contra una aeronave o contra su tripulación, mientras se encuentre en vu medio de fraude o violencia se apoderase de una aeronave o de su carga o cambiase o hiciese cambiar de ruta a una aeronave en vuelo.
+1) Practicase algún acto de depredación o violencia contra una aeronave o contra su tripulación, mientras se encuentre en vuelo;
+
+2) Por medio de fraude o violencia se apoderase de una aeronave o de su carga o cambiase o hiciese cambiar de ruta a una aeronave en vuelo.
 
 Será reprimido con la misma pena el que cometiese los hechos previstos en los incisos anteriores, mientras se estén realizando en la aeronave las operaciones inmediatamente anteriores al vuelo.
 
@@ -1076,7 +1102,7 @@ ARTICULO 221. – Será reprimido con prisión de 6 meses a 4 años:
 
 1) El que efectuase funciones aeronáuticas, careciendo de habilitación;
 
-2) El que, sin autorización, efectuase vuelos arriesgados poniendo en peligro la vida o bienes de terceros;
+2) El que, sin autorización, efectuase vuelos arriesgad poniendo en peligro la vida o bienes de terceros;
 
 3) El que efectuase vuelos estando bajo la acción de bebidas alcohólicas, estimulantes o estupefacientes.
 
@@ -1084,7 +1110,7 @@ Si como consecuencia de cualquiera de los hechos previstos precedentemente se ca
 
 ARTICULO 222. – Ser reprimido con prisión de 6 meses a 4 años el que condujese o hiciese conducir clandestinamente una aeronave sobre zonas prohibidas.
 
-ARTICULO 223. – Será reprimido con prisión de 6meses a 2 años el que con una aeronave atravesase clandestina o maliciosamente lr lugares distintos de los establecidos por la autoridad aeronáutica o se desviase de las rutas aéreas fijadas para entrar o salir del país.
+ARTICULO 223. – Será reprimido con prisión de 6meses a 2 años el que con una aeronave atravesase clandestina o maliciosamente la frontera por lugares distintos de los establecidos por la autoridad aeronáutica o se desviase de las rutas aéreas fijadas para entrar o salir del país.
 
 ARTICULO 224. – Será reprimido con prisión de 3 meses a 1 año, el que no cumpliese con las obligaciones prescritas en el artículo 176 de este código.
 
@@ -1118,7 +1144,9 @@ ARTICULO 230. – La prescripción de las acciones y sanciones legisladas en el 
 
 TITULO XV: DISPOSICIONES FINALES
 
-ARTICULO 231. – En la circulación aérea dentro del territorio argentino y sus aguas jurisdiccionales, serán de uso y aplicación las unidades de medidas adoptadas conforme a las disposiciones de los convenios internacionales de los que la Nación sea parte.
+ARTICULO 231. – En la circulación aérea dentro del espacio aéreo argentino, serán de uso y aplicación las unidades de medidas adoptadas conforme a las disposiciones de los convenios internacionales de los que la Nación sea parte.
+
+(Artículo sustituido por art. 245 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 232. – La información aeronáutica del material cartográfico necesario para la circulación aérea, será aprobada y autorizada por la autoridad aeronáutica y se ajustará a las disposiciones vigentes al respecto y a las prescripciones contenidas en los convenios sobre la materia, de los que la Nación sea parte.
 
@@ -1143,6 +1171,34 @@ ARTICULO 236. – Comuníquese, publíquese, d se a la Dirección Nacional del R
 ONGANIA - Borda - Lanusse.
 
 Antecedentes Normativos
+
+- Artículo 215 sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981;
+
+- Artículo 208 sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981;
+
+- Artículo 208 reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982;
+
+- Artículo 188 (Nota Infoleg: Por art. 7° del Decreto N° 934/1970 B.O. 17/4/1970, se dispone que el Comando de Regiones Aéreas otorgará al personal encargado de la investigación una credencial con transcripción de los artículos 187, 188 y 206 del Código Aeronáutico.);
+
+- Artículo 187 (Nota Infoleg: Por art. 7° del Decreto N° 934/1970 B.O. 17/4/1970, se dispone que el Comando de Regiones Aéreas otorgará al personal encargado de la investigación una credencial con transcripción de los artículos 187, 188 y 206 del Código Aeronáutico.);
+
+- Artículo 138 (Nota Infoleg: Por art. 20. del Decreto N° 2836/1971 B.O. 13/8/1971, se dispone que "el Poder Ejecutivo podrá subvencionar las actividades de trabajo aéreo cuando éstas se refieran a la lucha contra las plagas del agro o contra las calamidades públicas, en los términos del artículo 138 del Código Aduanero".);
+
+- Artículo 135 sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981;
+
+- Artículo 135 reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982;
+
+- Artículo 133 sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981;
+
+- Artículo 133 reglamentado por art. 1° del Decreto N1982 B.O. 15/2/1982;
+
+- Artículo 110 (Nota Infoleg: Por art. 2° del Decreto N° 1401/1998 B.O. 17/12/1998, se dispone que para poder aprobarse las propuestas de operación en código compartido o explotación conjunta en los términos del Artículo 110 del Código Aeronáutico, los explotadores deberán ser titulares de las autorizaciones o concesiones que les permitan realizar el servicio aéreo de que se trate.);
+
+- Artículo 107 (Nota Infoleg: Por art. 16. del Decreto N° 2836/1971 B.O. 13/8/1971, se dispone que "las aeronaves afectadas a los servicios de trabajo aéreo deberán tener matrícula nacional argentina. Sin embargo el explotante podrá solicitar la aplicación del artículo 107 del Código Aeronáutico, en las circunstancias contempladas en el mismo".);
+
+- Artículo 99, inciso 4° (Nota Infoleg: Por art. 1° del Decreto N° 52/1994 B.O. 21/1/1994, se dispone que la previsión del artículo 99 inciso 4 del Código Aeronáutico, la mayoría de las acciones, a la cual corresponda la mayoría de votos computables, deberán ser nominales y pertenecer en propiedad a argentinos con domicilio real en la República Argentina, comprende a las personas físicas y jurídicas argentinas, con domicilio real en la República) (Nota Infoleg: Por art. 1° del Decreto N° 204/2000 B.O. 7/3/2000, se suspende la aplicación del Decreto Nº 52/1994 por el término de 180 días hábiles administrativos a contar a partir del día siguiente al de publicación de aquel decreto.) (Nota Infoleg: por art. 10 del Decreto N° 1012/2006 B.O. 8/8/2006 se restablece la vigencia del Decreto N° 52/1994);
+
+- Artículo 74 (Nota Infoleg: Por art. 2° del Decreto N° 5764/1967 B.O. 18/8/1967, se dispone que transcurrido el plazo de 6 meses a que se refiere el artículo 74 del Código Aeronáutico y configurado el abandono del material a favor del Estado Nacional, la autoridad aeronáutica dispondrá las registraciones que correspondan en el Registro Nacional de Aeronaves para perfeccionar la transmisión de dominio.);
 
 – Artículo 217, derogado por art. 7° de la Ley N° 17.567 B.O. 12/1/1968. Vigencia: a partir del 1° de abril de 1968;
 
@@ -1170,9 +1226,9 @@ Antecedentes Normativos
 
 – Nota Infoleg: Por art. 1° del Decreto N° 642/1975 B.O. 18/3/1975, se dispone que al solo efecto de la aplicación del artículo 102 del Código Aduanero serán reconocidas como "aeronaves de reducido porte" aquellas cuyo peso máximo de despegue no exceda de 5700 dilogramos;
 
-– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 102 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
+– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 102 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya convenienad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
 
-– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 129 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de assea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
+– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 129 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
 
 – Decreto 289/1981, derogado por art. 20 del Decreto N° 1492/1992 B.O. 24/8/1992. Vigencia: a partir de su publicación en el Boletín Oficial;
 

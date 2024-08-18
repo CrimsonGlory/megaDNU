@@ -252,7 +252,7 @@ ARTICULO 24. — Los socios responden frente a los terceros como obligados simpl
 
 Subsanación.
 
-ARTICULO 25. — En el caso de sociedades incluidas en esta Sección, la omisión de requisitos esenciales, tipificantes o no tipificantes, la existencia de elementos incompatibles con el tipo elegido o la omisión de cumplimiento de requisitos formales, pueden subsanarse a iniciativa de la sociedad o de los socios en cualquier tiempo durante el plazo de la duración previsto en el contrato. A falta de acuerdo unánime de los socios, la subsanación puede ser ordenada judicialmente en procedimiento sumarísimo. En caso necesario, el juez puede suplir la falta de acuerdo, sin imponer mayor responsabilidad a los socios que n lo consientan.
+ARTICULO 25. — En el caso de sociedades incluidas en esta Sección, la omisión de requisitos esenciales, tipificantes o no tipificantes, la existencia de elementos incompatibles con el tipo elegido o la omisión de cumplimiento de requisitos formales, pueden subsanarse a iniciativa de la sociedad o de los socios en cualquier tiempo durante el plazo de la duración previsto en el contrato. A falta de acuerdo unánime de los socios, la subsanación puede ser ordenada judicialmente en procedimiento sumarísimo. En caso necesario, el juez puede suplir la falta de acuerdo, sin imponer mayor responsabilidad a los socios que no lo consientan.
 
 El socio disconforme podrá ejercer el derecho de receso dentro de los DIEZ (10) días de quedar firme la decisión judicial, en los términos del artículo 92.
 
@@ -296,9 +296,9 @@ ARTICULO 29. — Sin perjuicio de la transformación de la sociedad en una de ti
 
 Sociedad socia.
 
-ARTICULO 30. — Las sociedades anónimas y en comandita por acciones solo pueden formar parte de sociedades por acciones y de responsabilidad limitada. Podrán ser parte de cualquier contrato asociativo.
+ARTICULO 30. — Las sociedades anónimas y en comandita por acciones solo pueden formar parte de sociedades por acciones y de responsabilidad limitada. Las asociaciones y entidades sin fines de lucro sólo pueden formar parte de sociedades anónimas. Podrán ser parte de cualquier contrato asociativo.
 
-(Artículo sustituido por punto 2.17 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+(Artículo sustituido por art. 346 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Participaciones en otra sociedad: Limitaciones.
 
@@ -420,7 +420,7 @@ ARTICULO 48. — Si el aporte del socio fuere el usufructo del bien, en caso de 
 
 Pérdida del aporte de uso o goce.
 
-ARTICULO 49. — Sil aporte es de uso o goce, salvo pacto en contrario, el socio soportará la pérdida total o parcial cuando no fuere imputable a la sociedad o a alguno de los otros socios. Disuelta la sociedad, puede exigir su restitución en el estado en que se hallare.
+ARTICULO 49. — Si el aporte es de uso o goce, salvo pacto en contrario, el socio soportará la pérdida total o parcial cuando no fuere imputable a la sociedad o a alguno de los otros socios. Disuelta la sociedad, puede exigir su restitución en el estado en que se hallare.
 
 Prestaciones accesorias. Requisitos.
 
@@ -476,7 +476,7 @@ La actuación de la sociedad que encubra la consecución de fines extrasocietari
 
 Contralor individual de los socios.
 
-ARTICULO 55. — Los socios pueden examinar los libros y papeles sociales y recabar del admistrador los informes que estimen pertinentes.
+ARTICULO 55. — Los socios pueden examinar los libros y papeles sociales y recabar del administrador los informes que estimen pertinentes.
 
 Exclusiones.
 
@@ -578,7 +578,7 @@ e) Los bienes de uso, con indicación de sus amortizaciones acumuladas;
 
 f) Los bienes inmateriales, por su costo con indicación de sus amortizaciones acumuladas;
 
-g) Los gastos y cargas que se devenguen en futuros ejercicios o se afecten a éstos, deduciendo en este último caso las amortizaciones acumuladas que correspond;
+g) Los gastos y cargas que se devenguen en futuros ejercicios o se afecten a éstos, deduciendo en este último caso las amortizaciones acumuladas que correspondan;
 
 h) Todo otro rubro que por su naturaleza corresponda ser incluido como activo.
 
@@ -688,7 +688,7 @@ Igual tratamiento corresponderá a las amortizaciones y depreciaciones, indicán
 
 b) De bienes inmateriales y sus correspondientes amortizaciones con similar contenido al requerido en el inciso anterior;
 
-c) De inversiones en títulos valores y participaciones en otras sociedades, detallando: denominación de la sociedad emisora o en la que se participa y características del título valor o participación, sus valores nominales, de costo de libros y de cotización, actividad principal y capital de la sociedad emisora o en la que participa. Cuando el aporte o participación fuere del Cincuenta por Ciento (50 %) o más del capital de la sociedad o de la que se participa, se deberán acompañar los estados contables de ésta que se exigen en este Título. Si el aporte o participación fuere mayor del Cinco por Ciento (5 %) y menor del Cincuenta (50 %) citado, se informará sobre el sultado del ejercicio y el patrimonio neto según el último balance general de la sociedad en que se invierte o participa.
+c) De inversiones en títulos valores y participaciones en otras sociedades, detallando: denominación de la sociedad emisora o en la que se participa y características del título valor o participación, sus valores nominales, de costo de libros y de cotización, actividad principal y capital de la sociedad emisora o en la que participa. Cuando el aporte o participación fuere del Cincuenta por Ciento (50 %) o más del capital de la sociedad o de la que se participa, se deberán acompañar los estados contables de ésta que se exigen en este Título. Si el aporte o participación fuere mayor del Cinco por Ciento (5 %) y menor del Cincuenta (50 %) citado, se informará sobre el resultado del ejercicio y el patrimonio neto según el último balance general de la sociedad en que se invierte o participa.
 
 Si se tratara de otras inversiones, se detallará su contenido y características, indicándose, según corresponda, valores nominales de costo, de libros, de cotización y de valuación fiscal;
 
@@ -730,7 +730,7 @@ Las ganancias distribuidas en violación a esta regla son repetibles, con excepc
 
 Aprobación. Impugnación.
 
-ARTICULO 69. — El derecho a la aprobación e impugnación de los estadocontables y a la adopción de resoluciones de cualquier orden a su respecto, es irrenunciable y cualquier convención en contrario es nula.
+ARTICULO 69. — El derecho a la aprobación e impugnación de los estados contables y a la adopción de resoluciones de cualquier orden a su respecto, es irrenunciable y cualquier convención en contrario es nula.
 
 Reserva legal.
 
@@ -778,7 +778,7 @@ Requisitos.
 
 ARTICULO 77. — La transformación exige el cumplimiento de los siguientes requisitos:
 
-1) Acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios;
+1) Cuando se tratare de sociedades comerciales, acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios. Cuando se tratare de asociación civil que se transformare en sociedad comercial o resolviera ser socia de sociedades anónimas, voto de los dos tercios de los asociados; (Inciso sustituido por art. 347 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 2) Confección de un balance especial, cerrado a una fecha que no exceda de un (1) mes a la del acuerdo de transformación y puesto a disposición de los socios en la sede social con no menos de quince (15) días de anticipación a dicho acuerdo. Se requieren las mismas mayorías establecidas para la aprobación de los balances de ejercicio;
 
@@ -846,7 +846,7 @@ ARTICULO 83. — La fusión exige el cumplimiento de los siguientes requisitos:
 
 Compromiso previo de fusión.
 
-1) El compmiso previo de fusión otorgado por los representantes de las sociedades que contendrá:
+1) El compromiso previo de fusión otorgado por los representantes de las sociedades que contendrá:
 
 a) La exposición de los motivos y finalidades de la fusión;
 
@@ -950,7 +950,9 @@ La escisión exige el cumplimiento de los siguientes requisitos:
 
 1) Resolución social aprobatoria de la escisión del contrato o estatuto de la escisionaria, de la reforma del contrato o estatuto de la escindente en su caso, y el balance especial al efecto, con los requisitos necesarios para la modificación del contrato social o del estatuto en el caso de fusión. El receso y las preferencias se rigen por lo dispuesto en los artículos 78 y 79;
 
-2) El balance especial de escisión no será anterior a tres (3) meses de la resolución social respectiva, y será confeccionado como un estado de situación patrimonial;3) La resolución social aprobatoria incluirá la atribución de las partes sociales o acciones de la sociedad escisionaria a los socios o accionistas de la sociedad escindente, en proporción a sus participaciones en ésta, las que se cancelarán en caso de reducción de capital;
+2) El balance especial de escisión no será anterior a tres (3) meses de la resolución social respectiva, y será confeccionado como un estado de situación patrimonial;
+
+3) La resolución social aprobatoria incluirá la atribución de las partes sociales o acciones de la sociedad escisionaria a los socios o accionistas de la sociedad escindente, en proporción a sus participaciones en ésta, las que se cancelarán en caso de reducción de capital;
 
 4) La publicación de un aviso por tres (3) días en el diario de publicaciones legales que corresponda a la sede social de la sociedad escindente y en uno de los diarios de mayor circulación general en la República que deberá contener:
 
@@ -1012,7 +1014,7 @@ ARTICULO 92. — La exclusión produce los siguientes efectos:
 
 4) En el supuesto del artículo 49, el socio excluido no podrá exigir la entrega del aporte si éste es indispensable para el funcionamiento de la sociedad y se le pagará su parte en dinero;
 
-5) El socio excluido responde hacia los terceros por las obligaciones sociales hasta la inscripción de la modicación del contrato en el Registro Público de Comercio.
+5) El socio excluido responde hacia los terceros por las obligaciones sociales hasta la inscripción de la modificación del contrato en el Registro Público de Comercio.
 
 Exclusión en sociedad de dos socios.
 
@@ -1140,7 +1142,7 @@ Se hallan sujetos a las instrucciones de los socios, impartidas según el tipo d
 
 Actuación.
 
-Actuarán empleando la razón social o nominación de la sociedad con el aditamento "en liquidación". Su omisión lo hará ilimitada y solidariamente responsable por los daños y perjuicios.
+Actuarán empleando la razón social o denominación de la sociedad con el aditamento "en liquidación". Su omisión lo hará ilimitada y solidariamente responsable por los daños y perjuicios.
 
 Contribuciones debidas.
 
@@ -1280,7 +1282,7 @@ De la Sociedad Colectiva
 
 Caracterización.
 
-ARTICULO 125. — Los socios contraen responsabilidad subsidiaria, ilimitada y solidaria, por las ligaciones sociales.
+ARTICULO 125. — Los socios contraen responsabilidad subsidiaria, ilimitada y solidaria, por las obligaciones sociales.
 
 El pacto en contrario no es oponible a terceros.
 
@@ -1506,7 +1508,7 @@ La transmisión de las cuotas es oponible a los terceros desde su inscripción e
 
 Limitaciones a la transmisibilidad de las cuotas.
 
-AICULO 153. — El contrato de sociedad puede limitar la transmisibilidad de las cuotas, pero no prohibirla.
+ARTICULO 153. — El contrato de sociedad puede limitar la transmisibilidad de las cuotas, pero no prohibirla.
 
 Son lícitas las cláusulas que requieran la conformidad mayoritaria o unánime de los socios o que confieran un derecho de preferencia a los socios o a la sociedad si ésta adquiere las cuotas con utilidades o reservas disponibles o reduce su capital.
 
@@ -1592,7 +1594,7 @@ En defecto de regulación contractual se requiere el voto de las Tres Cuartas (3
 
 Si un solo socio representare el voto mayoritario, se necesitará, además, el voto de otro.
 
-La transformación, la fusión, la escisión, la prórroga, la reconducción, la transferencia de domio al extranjero, el cambio fundamental del objeto y todo acuerdo que incremente las obligaciones sociales o la responsabilidad de los socios que votaron en contra, otorga a éstos derecho de receso conforme a lo dispuesto por el artículo 245.
+La transformación, la fusión, la escisión, la prórroga, la reconducción, la transferencia de domicilio al extranjero, el cambio fundamental del objeto y todo acuerdo que incremente las obligaciones sociales o la responsabilidad de los socios que votaron en contra, otorga a éstos derecho de receso conforme a lo dispuesto por el artículo 245.
 
 Los socios ausentes o los que votaron contra el aumento de capital tienen derecho a suscribir cuotas proporcionalmente a su participación social. Si no lo asumen, podrán acrecerlos otros socios y, en su defecto, incorporarse nuevos socios.
 
@@ -1664,7 +1666,7 @@ Si el estatuto previese un reglamento, éste se inscribirá con idénticos requi
 
 Autorizados para la constitución.
 
-Si no hubiere mandatarios especiales designados para realizar los trámites integrantes de la constitución de la sociedad, se entiende que los representantes estatutarios se encuentran autorizados para realizarlo
+Si no hubiere mandatarios especiales designados para realizar los trámites integrantes de la constitución de la sociedad, se entiende que los representantes estatutarios se encuentran autorizados para realizarlos.
 
 Constitución por suscripción pública. Programa. Aprobación.
 
@@ -1728,7 +1730,7 @@ ARTICULO 173. — No cubierta la suscripción en el término establecido, los co
 
 Suscripción en exceso.
 
-ARTICULO 174. — Cuando lasiones excedan del monto previsto, la asamblea constitutiva decidirá su reducción a prorrata o aumentará el capital hasta el monto de las suscripciones.
+ARTICULO 174. — Cuando las suscripciones excedan del monto previsto, la asamblea constitutiva decidirá su reducción a prorrata o aumentará el capital hasta el monto de las suscripciones.
 
 Obligación de los promotores.
 
@@ -1828,7 +1830,7 @@ Su retribución podrá consistir en la participación hasta el diez por ciento (
 
 Suscripción total. Capital mínimo.
 
-ARTICULO 186. — El capital debe suscribirse totalmente al tiempo de la celebración del contrato constitutivo. No podrá ser inferior a PESOS CIEN MIL ($ 100.000). Este monto podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario. (Monto del Capital Social sustituido por art. 1° del Decreto N° 1331/2012 B.O. 7/8/2012. Vigencia: a los SESENTA (60) días de su publicación en el Boletín Oficial)
+ARTICULO 186. — El capital debe suscribirse totalmente al tiempo de la celebración del contrato constitutivo. No podrá ser inferior a PESOS TREINTA MILLONES ($30.000.000). Este monto podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario. (Monto del Capital Social sustituido por art. 1° del Decreto N° 209/2024 B.O. 1/3/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 Terminología.
 
@@ -1842,7 +1844,7 @@ En los casos de aumentos de capital por suscripción, el contrato deberá extend
 
 2º) La cantidad, valor nominal, clase y características de las acciones suscriptas;
 
-3º) El precio de cada acción y del total suscripto; la forma y las condiciones de pago. En las Sociedades Anónimas Unipersonales el capital debe integrarse totalmente; (Inciso sustituido por punto 2.23 del Anexo II de la Ley N° .994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+3º) El precio de cada acción y del total suscripto; la forma y las condiciones de pago. En las Sociedades Anónimas Unipersonales el capital debe integrarse totalmente; (Inciso sustituido por punto 2.23 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
 
 4º) Los aportes en especie se individualizarán con precisión. En los supuestos que para la determinación del aporte sea necesario un inventario, éste quedará depositado en la sede social para su consulta por los accionistas. En todos los casos el valor definitivo debe resultar de la oportuna aplicación del artículo 53.
 
@@ -1952,7 +1954,7 @@ El suscriptor podrá demandar la nulidad de la suscripción y exigir solidariame
 
 Información.
 
-ARTICULO 201. — La sociedmunicará a la autoridad de contralor y al Registro Público de Comercio, la suscripción del aumento de capital, a los efectos de su registro.
+ARTICULO 201. — La sociedad comunicará a la autoridad de contralor y al Registro Público de Comercio, la suscripción del aumento de capital, a los efectos de su registro.
 
 Emisión bajo la par. Prohibición. Emisión con prima.
 
@@ -2080,7 +2082,7 @@ Transmisibilidad.
 
 ARTICULO 214. — La transmisión de las acciones es libre. El estatuto puede limitar la transmisibilidad de las acciones nominativas o escriturales, sin que pueda importar la prohibición de su transferencia.
 
-La limitación deberá constar en el título o en las inscripciones en cuenta,us comprobantes y estados respectivos.
+La limitación deberá constar en el título o en las inscripciones en cuenta, sus comprobantes y estados respectivos.
 
 Acciones nominativas y escriturales. Transmisión.
 
@@ -2206,7 +2208,7 @@ ARTICULO 231. — La participación se abonará contemporáneamente con el divid
 
 Modificaciones de las condiciones de emisión.
 
-ARTICULO 232. — La modificación de las condiciones de los bonos requiere la conformidad de los tenedores de la mayoría absoluta de bonos de la clase respectiva, expresada en asamblea convocada p la sociedad al afecto. La convocatoria se realizará por el procedimiento establecido en el artículo 237.
+ARTICULO 232. — La modificación de las condiciones de los bonos requiere la conformidad de los tenedores de la mayoría absoluta de bonos de la clase respectiva, expresada en asamblea convocada por la sociedad al afecto. La convocatoria se realizará por el procedimiento establecido en el artículo 237.
 
 No se requiere esa conformidad para la modificación referente al número de bonos cuando se trate de los previstos en los artículos 228 y 230.
 
@@ -2270,7 +2272,7 @@ ARTICULO 237. — Las asambleas serán convocadas por publicaciones durante cinc
 
 Asamblea en segunda convocatoria.
 
-La asamblea en segunda convocatoria por haber fracasado la primera deberá celebrarse dentro de los treinta (30) días siguientes, y las publicaciones se harán por tres (3) días con ocho (8) de anticipación como míni. El estatuto puede autorizar ambas convocatorias simultáneamente, excepto para las sociedades que hacen oferta pública de sus acciones, en las que esta facultad queda limitada a la asamblea ordinaria.
+La asamblea en segunda convocatoria por haber fracasado la primera deberá celebrarse dentro de los treinta (30) días siguientes, y las publicaciones se harán por tres (3) días con ocho (8) de anticipación como mínimo. El estatuto puede autorizar ambas convocatorias simultáneamente, excepto para las sociedades que hacen oferta pública de sus acciones, en las que esta facultad queda limitada a la asamblea ordinaria.
 
 En el supuesto de convocatorias simultáneas, si la asamblea fuere citada para celebrarse el mismo día deberá serlo con un intervalo no inferior a una (1) hora de la fijada para la primera.
 
@@ -2358,7 +2360,7 @@ En las sociedades que hacen ofertas públicas de sus acciones o se hallan autori
 
 Titulares.
 
-Sin perjuicio de lo dispuesto por el artículo 244 para la determinación de la mayoría, el derecho de receso sólo podrá ser ejercido por los accionistas presentes que votaron en contrae la decisión, dentro del quinto día y por los ausentes que acrediten la calidad de accionistas al tiempo de la asamblea, dentro de los quince (15) días de su clausura. En los supuestos a que se refiere el párrafo anterior, el plazo se contará desde que la sociedad comunique la denegatoria o el desistimiento mediante avisos por tres (3) días en el diario de publicaciones legales y en uno de los que tenga mayor circulación en la República.
+Sin perjuicio de lo dispuesto por el artículo 244 para la determinación de la mayoría, el derecho de receso sólo podrá ser ejercido por los accionistas presentes que votaron en contra de la decisión, dentro del quinto día y por los ausentes que acrediten la calidad de accionistas al tiempo de la asamblea, dentro de los quince (15) días de su clausura. En los supuestos a que se refiere el párrafo anterior, el plazo se contará desde que la sociedad comunique la denegatoria o el desistimiento mediante avisos por tres (3) días en el diario de publicaciones legales y en uno de los que tenga mayor circulación en la República.
 
 Caducidad.
 
@@ -2470,7 +2472,7 @@ No obstante el director permanecerá en su cargo hasta ser reemplazado.
 
 Silencio del estatuto.
 
-En caso de silencio del estatuto, se entiende que el término presto es el máximo autorizado.
+En caso de silencio del estatuto, se entiende que el término previsto es el máximo autorizado.
 
 Reemplazo de los directores.
 
@@ -2518,7 +2520,7 @@ Para el ejercicio se procederá de la siguiente forma:
 
 1º) El o los accionistas que deseen votar acumulativamente deberán notificarlo a la sociedad con anticipación no menor de Tres (3) días hábiles a la celebración de la asamblea, individualizando las acciones con que se ejercerá el derecho y, si fuesen al portador, depositando los títulos o el certificado o constancia del banco o institución autorizada. Cumplidos tales requisitos aunque sea por un solo accionista, todos quedan habilitados para votar por este sistema;
 
-2º) La sociedad deberá informar a los accionistas que lo soliciten, acerca de las notificaciones recibidas. Sin perjuicio de ello, el presidente de la asamblea debe informar a los accionistas presentes que todos se encuentran facultados para votar acumulativamee, hayan o no formulado la notificación;
+2º) La sociedad deberá informar a los accionistas que lo soliciten, acerca de las notificaciones recibidas. Sin perjuicio de ello, el presidente de la asamblea debe informar a los accionistas presentes que todos se encuentran facultados para votar acumulativamente, hayan o no formulado la notificación;
 
 3º) Antes de la votación se informará pública y circunstanciadamente el número de votos que corresponde a cada accionista presente;
 
@@ -2558,7 +2560,7 @@ Los directores no podrán votar por correspondencia, pero en caso de ausencia po
 
 Directorio: Reuniones: convocatoria.
 
-ARTICULO 267. — El directorio se reunirá, por lo menos, una vez cada tres (3) meses, salvo que el estatuto exigiere mayor número de reunios, sin perjuicio de las que se pudieren celebrar por pedido de cualquier director. La convocatoria será hecha, en éste último caso, por el presidente para reunirse dentro del quinto día de recibido el pedido. En su defecto, podrá convocarla cualquiera de los directores.
+ARTICULO 267. — El directorio se reunirá, por lo menos, una vez cada tres (3) meses, salvo que el estatuto exigiere mayor número de reuniones, sin perjuicio de las que se pudieren celebrar por pedido de cualquier director. La convocatoria será hecha, en éste último caso, por el presidente para reunirse dentro del quinto día de recibido el pedido. En su defecto, podrá convocarla cualquiera de los directores.
 
 La convocatoria deberá indicar los temas a tratar.
 
@@ -2608,7 +2610,7 @@ Queda exento de responsabilidad el director que participó en la deliberación o
 
 Extinción de la responsabilidad.
 
-ARTICULO 275. — La responsabilidad directores y gerentes respecto de la sociedad, se extingue por aprobación de su gestión o por renuncia expresa o transacción, resuelta por la asamblea, si esa responsabilidad no es por violación de la ley, del estatuto o reglamento o si no media oposición del cinco por ciento (5 %) del capital social, por lo menos. La extinción es ineficaz en caso de liquidación coactiva o concursal.
+ARTICULO 275. — La responsabilidad de los directores y gerentes respecto de la sociedad, se extingue por aprobación de su gestión o por renuncia expresa o transacción, resuelta por la asamblea, si esa responsabilidad no es por violación de la ley, del estatuto o reglamento o si no media oposición del cinco por ciento (5 %) del capital social, por lo menos. La extinción es ineficaz en caso de liquidación coactiva o concursal.
 
 Acción social de responsabilidad. Condiciones. Efectos, ejercicios.
 
@@ -2712,7 +2714,7 @@ Es nula cualquier cláusula contraria a las disposiciones de este artículo.
 
 Elección por clases.
 
-ARTICULO 288. — Si existieran diversas clases de acciones, el estatuto puede autorizar que a cada una de ellas corresponda la elección de uno o más síndicositulares e igual número de suplentes y reglamentará la elección.
+ARTICULO 288. — Si existieran diversas clases de acciones, el estatuto puede autorizar que a cada una de ellas corresponda la elección de uno o más síndicos titulares e igual número de suplentes y reglamentará la elección.
 
 La remoción se decidirá por la asamblea de accionistas de la clase, excepto los casos de los artículos 286 y 296.
 
@@ -2790,9 +2792,9 @@ ARTICULO 299. — Las sociedades anónimas, además del control de constitución
 
 1º) Hagan oferta pública de sus acciones o debentures;
 
-2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 529/2018 del Ministerio de Justicia y Derechos Humanos, B.O. 13/07/2018, se fija en PESOS CINCUENTA MILLONES ($ 50.000.000.-) el monto a que se refiere este inciso)
+2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 10/2024 del Ministerio de Justicia, B.O. 8/2/2024, se fija en PESOS DOS MIL MILLONES ($ 2.000.000.000) el monto del capital social a partir del cual las sociedades anónimas quedan sujetas a fiscalización estatal permanente, conforme la previsión del presente inciso.)
 
-3º) Sean de economía mixta o se encuentren comprendidas en la Sección VI;
+3º) Sean de participación estatal, ya sea por la participación del Estado nacional, los estados provinciales, la Ciudad Autónoma de Buenos Aires, los municipios y/o los organismos estatales legalmente autorizados al efecto. (Inciso sustituido por art. 49 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 4º) Realicen operaciones de capitalización, ahorro o en cualquier forma requieran dinero o valores al público con promesas de prestaciones o beneficios futuros;
 
@@ -2824,9 +2826,9 @@ ARTICULO 302. — La autoridad de control, en caso de violación de la ley, del 
 
 3º) Multas a la sociedad, sus directores y síndicos.
 
-Estas últimas no podrán ser superiores a PESOS CIEN MIL ($ 100.000.-) en conjunto y por infracción y se graduarán según la gravedad de la infracción y el capital de la sociedad. Cuando se apliquen a directores y síndicos, la sociedad no podrá hacerse cargo de ellas. (Monto máximo de la multa sustituido por art. 1º de la Resolución Nº 177/2015 del Ministerio de Justicia y Derechos Humanos B.O. 13/02/2015)
+Estas últimas no podrán ser superiores a PESOS OCHO MILLONES ($ 8.000.000.-) en conjunto y por infracción y se graduarán según la gravedad de la infracción y el capital de la sociedad. Cuando se apliquen a directores y síndicos, la sociedad no podrá hacerse cargo de ellas. (Monto máximo de la multa sustituido por art. 1° de la Resolución N° 166/2024 del Ministerio de Justicia B.O. 23/5/2024. Vigencia: a partir del día de su publicación en el Boletín Oficial.)
 
-Se faculta al Poder Ejecutivo para que, por intermedio del Ministerio de Justicia, actualice semmente los montos de las multas, sobre la base de la variación registrada en el índice de precios al por mayor, nivel general, elaborado por el Instituto Nacional de Estadística y Censos.
+Se faculta al Poder Ejecutivo para que, por intermedio del Ministerio de Justicia, actualice semestralmente los montos de las multas, sobre la base de la variación registrada en el índice de precios al por mayor, nivel general, elaborado por el Instituto Nacional de Estadística y Censos.
 
 Facultad de la autoridad de contralor para solicitar determinadas medidas.
 
@@ -2954,7 +2956,7 @@ ARTICULO 323. — La cesión de la parte social del socio comanditado requiere l
 
 Normas supletorias.
 
-ARTICULO 324. — Suplementariamente y sin peuicio de lo dispuesto en los artículos 315 y 316, se aplican a esta Sección las normas de la Sección II.
+ARTICULO 324. — Suplementariamente y sin perjuicio de lo dispuesto en los artículos 315 y 316, se aplican a esta Sección las normas de la Sección II.
 
 SECCION VIII
 
@@ -3094,7 +3096,7 @@ ARTICULO 339. — El contrato que se otorgará por instrumento público, se insc
 
 a) De haber examinado los estados contables de los dos últimos ejercicios; las deudas con privilegios que la sociedad reconoce; del monto de los debentures emitidos con anterioridad, sus características y las amortizaciones cumplidas;
 
-b) De tomar a su cargo la realización de la suscripción pública, en su caso, en la forma prevista en los artículos72 y siguientes;
+b) De tomar a su cargo la realización de la suscripción pública, en su caso, en la forma prevista en los artículos 172 y siguientes;
 
 5º) La retribución que corresponda al fiduciario, la que estará a cargo de la sociedad emisora.
 
@@ -3162,7 +3164,7 @@ ARTICULO 347. — El fiduciario puede continuar el giro de los negocios de la so
 
 Con garantía flotante: facultades del fiduciario en caso de liquidación
 
-ARTICULO 348. — Si los debentures se emitieren con garantía flotante, resuelta la liquidación, el fiduciario procederá a realizar los bieneque constituyen la garantía y a repartir su producido entre los debenturistas, luego de pagados los créditos con mejor privilegio.
+ARTICULO 348. — Si los debentures se emitieren con garantía flotante, resuelta la liquidación, el fiduciario procederá a realizar los bienes que constituyen la garantía y a repartir su producido entre los debenturistas, luego de pagados los créditos con mejor privilegio.
 
 Satisfecha la deuda por capital e intereses, el remanente de los bienes deberá entregarse a la sociedad deudora, y a falta de quién tenga personería para recibirlos, el Juez designará a petición del fiduciario la persona que los recibirá.
 
@@ -3230,7 +3232,7 @@ ARTICULO 356. — La sociedad que ha emitido debentures sólo podrá reducir el 
 
 Prohibición.
 
-ARTICULO 357. — La sociedad emisora no podrá recibir sus propios bentures en garantía.
+ARTICULO 357. — La sociedad emisora no podrá recibir sus propios debentures en garantía.
 
 Responsabilidad de los directores.
 
@@ -3292,7 +3294,7 @@ b) Los artículos 66 y 71 y 261 se aplicarán a los ejercicios que se cierren a 
 
 c) Los artículos 251 a 254 se aplicarán a las asambleas que se celebren a partir de la vigencia de la presente;
 
-d) Para las sociedades constituidas la fecha de vigencia de esta ley, los artículos 255, 264, 284, 285 y 286 regirán el número, calidades e incompatibilidades de los directores y síndicos, a partir de la primera asamblea ordinaria que se celebre con posterioridad a dicha fecha;
+d) Para las sociedades constituidas a la fecha de vigencia de esta ley, los artículos 255, 264, 284, 285 y 286 regirán el número, calidades e incompatibilidades de los directores y síndicos, a partir de la primera asamblea ordinaria que se celebre con posterioridad a dicha fecha;
 
 e) Los artículos 325 a 360 se aplicarán a los debentures que se emitan a partir de la vigencia de la presente;
 
@@ -3334,7 +3336,7 @@ ARTICULO 389. — Las disposiciones de esta ley se aplicarán a las sociedades d
 
 Antecedentes Normativos
 
-- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Disposición N° 6/2006 de la Subsecretaría de Asuntos Registrales, B.O. 17/5/2006, se fija en PESOS DIEZ MILLONES ($ 10.000.000.-) el monto a que se refiere este inciso;
+- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Resolución N° 529/2018 del Ministerio de Justicia y Derechos Humanos, B.O. 13/07/2018, se fija en PESOS CINCUENTA MILLONES ($ 50.000.000.-) el monto a que se refiere este inciso;
 
 - Artículo 61 sustituido por art. 5° del Decreto N° 27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
 
@@ -3345,6 +3347,14 @@ Antecedentes Normativos
 - Artículo 8° sustituido por art. 2° del Decreto N° 27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
 
 - Artículo 284 sustituido por art. 2° de la Ley N° 27.290 B.O. 18/11/2016;
+
+- Artículo 302, inciso 3°), monto máximo de la multa sustituido por art. 1º de la Resolución Nº 177/2015 del Ministerio de Justicia y Derechos Humanos B.O. 13/02/2015;
+
+- Artículo 30 sustituido por punto 2.17 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014;
+
+- Artículo 186, Monto del Capital Social sustituido por art. 1° del Decreto N° 1331/2012 B.O. 7/8/2012. Vigencia: a los SESENTA (60) días de su publicación en el Boletín Oficial;
+
+- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Disposición N° 6/2006 de la Subsecretaría de Asuntos Registrales, B.O. 17/5/2006, se fija en PESOS DIEZ MILLONES ($ 10.000.000.-) el monto a que se refiere este inciso;
 
 - Artículo 94 inciso 5), Nota Infoleg: Por art. 1º del Decreto Nº 540/2005 B.O. 1/6/2005 se prorrogó hasta el 10 de diciembre de 2005 la suspensión de este inciso dispuesta por Decreto N° 1269/2002. Prórrogas anteriores: Decreto N° 1293/2003 B.O. 23/12/2003;
 
