@@ -220,7 +220,7 @@ La cesación o pérdida de los requisitos exigidos por el artículo 48 de este c
 
 Igualmente se operará la cancelación cuando la autoridad aeronáutica establezca la pérdida de la individualidad de la aeronave.
 
-ARTICULO 47. – El Registro Nacional de Aeronaves es público. Todo interesado podrá obner copia certificada de las anotaciones de ese registro solicitándola a la autoridad encargada del mismo.
+ARTICULO 47. – El Registro Nacional de Aeronaves es público. Todo interesado podrá obtener copia certificada de las anotaciones de ese registro solicitándola a la autoridad encargada del mismo.
 
 CAPITULO V: PROPIEDAD DE AERONAVES
 
@@ -332,7 +332,7 @@ El contrato deber constar por escrito y ser inscripto en el Registro Nacional de
 
 ARTICULO 69. – El locador podrá obligarse a entregar la aeronave armada y equipada, siempre que la conducción técnica de aquélla y la dirección de la tripulación se transfieran al locatario.
 
-En caso en que el locador de la aeronave tomase a su cargo equiparla y tripularla, su obligación se reduce a hacer entrega de la aeronave, en el lugar y tiempo convenidos, provista de la documentación para su utilización. En todos los casos, lobligación del locador comprende también la de mantener la aeronave en condiciones de aeronavegabilidad hasta el fin de la vigencia del contrato, obligación que cesa si mediase culpa del locatario.
+En caso en que el locador de la aeronave tomase a su cargo equiparla y tripularla, su obligación se reduce a hacer entrega de la aeronave, en el lugar y tiempo convenidos, provista de la documentación para su utilización. En todos los casos, la obligación del locador comprende también la de mantener la aeronave en condiciones de aeronavegabilidad hasta el fin de la vigencia del contrato, obligación que cesa si mediase culpa del locatario.
 
 ARTICULO 70. – No podrá cederse la locación de una aeronave ni subarrendarla sin consentimiento del locador.
 
@@ -404,7 +404,7 @@ ARTICULO 88. – En todo aeródromo público habrá un jefe que será la autorid
 
 La reglamentación, respectiva determinará los requisitos necesarios para desempeñarse en el cargo.
 
-ARTICULO 89. – La autoridad aeronáutica reglamentará las facultadey obligaciones del jefe y demás personal aeronáutico que se desempeñe en los aeródromos públicos.
+ARTICULO 89. – La autoridad aeronáutica reglamentará las facultades y obligaciones del jefe y demás personal aeronáutico que se desempeñe en los aeródromos públicos.
 
 ARTICULO 90. – En los aeródromos privados habrá un encargado, pudiendo dicha función estará a cargo del propietario o tenedor del campo, o de otra persona designada por éste. El nombre, domicilio y fecha de designación del encargado será comunicado la autoridad aeronáutica.
 
@@ -476,7 +476,7 @@ ARTICULO 104. – La concesión para operar en una ruta no importa exclusividad.
 
 ARTICULO 105. – No se otorgará concesión o autorización alguna sin la comprobación previa de la capacidad técnica y económico- financiera del explotador y de la posibilidad de utilizar en forma adecuada los aeródromos, servicios auxiliares y material de vuelo a emplear.
 
-ARTICULO 106. – En los servicios de transporte aéreo el personal que desempeña funciones aeronáuticas a bordo deberá ser argentino. Por razones técnicas la autoridad aeronáutica podrá autorizar, excepcionalmente, un porcentaje de peonal extranjero por un lapso que no excederá de dos años a contar desde la fecha de dicha autorización, estableciéndose un procedimiento gradual de reemplazo del personal extranjero por personal argentino.
+ARTICULO 106. – En los servicios de transporte aéreo el personal que desempeña funciones aeronáuticas a bordo deberá ser argentino. Por razones técnicas la autoridad aeronáutica podrá autorizar, excepcionalmente, un porcentaje de personal extranjero por un lapso que no excederá de dos años a contar desde la fecha de dicha autorización, estableciéndose un procedimiento gradual de reemplazo del personal extranjero por personal argentino.
 
 ARTICULO 107. – Las aeronaves afectadas a los servicios deberán tener matrícula argentina. Sin embargo, excepcionalmente, a fin de asegurar la prestación de los mismos o por razones de conveniencia nacional, la autoridad aeronáutica podrá permitir la utilización de aeronaves de matrícula extranjera.
 
@@ -506,7 +506,7 @@ ARTICULO 113. – El contrato de transporte de pasajeros debe ser probado por es
 
 ARTICULO 114. – La ausencia, irregularidad o pérdida del billete de pasaje, no perjudica la existencia ni la validez del contrato de transporte que quedará sujeto a las disposiciones de este Código.
 
-Si el transportador acepta pasajeros sin expedir el billete de pasaje, no podrá aararse en las disposiciones que limitan su responsabilidad.
+Si el transportador acepta pasajeros sin expedir el billete de pasaje, no podrá ampararse en las disposiciones que limitan su responsabilidad.
 
 ARTICULO 115. – El billete de pasaje debe indicar:
 
@@ -588,7 +588,7 @@ La legislación postal se aplicar al transporte aéreo de carga postal, en lo qu
 
 CAPITULO III: SERVICIOS DE TRANSPORTE AEREO INTERNACIONAL
 
-ARTICULO 128. – Las normas fijadas por este Código para la constitión y funcionamiento de empresas dedicadas a la explotación de servicios de transporte aéreo interno, serán aplicables a las empresas argentinas que efectúen servicio al exterior del país.
+ARTICULO 128. – Las normas fijadas por este Código para la constitución y funcionamiento de empresas dedicadas a la explotación de servicios de transporte aéreo interno, serán aplicables a las empresas argentinas que efectúen servicio al exterior del país.
 
 ARTICULO 129. – Las empresas extranjeras podrán realizar servicios de transporte aéreo internacional, de conformidad con las convenciones o acuerdos internacionales en que la Nación sea parte, o mediante autorización previa del Poder Ejecutivo.
 
@@ -634,7 +634,7 @@ Al efecto le corresponde:
 
 7) Fiscalizar todo tipo de promoción y comercialización de billetes de pasaje, fletes y toda otra venta de capacidad de transporte aéreo llevado a cabo por los transportadores, sus representantes o agentes y por terceros, con el objeto de impedir el desvío o encaminamiento no autorizado de tráficos y de hacer cumplir las tarifas vigentes en sus condiciones y exigencias.
 
-8) Autorizar y pervisar el funcionamiento de las representaciones y agencias de las empresas extranjeras de transporte aéreo internacional que no operen en el territorio nacional y se establezcan en el país, sin perjuicio del cumplimiento de las obligaciones que imponen las demás normas legales respecto de empresas extranjeras.
+8) Autorizar y supervisar el funcionamiento de las representaciones y agencias de las empresas extranjeras de transporte aéreo internacional que no operen en el territorio nacional y se establezcan en el país, sin perjuicio del cumplimiento de las obligaciones que imponen las demás normas legales respecto de empresas extranjeras.
 
 9) Calificar, conforme la ley vigente en materia de policía aérea, la aptitud de las aeronaves destinadas al transporte comercial de pasajeros y carga en función de los servicios a prestar para determinar la conveniencia de su incorporación a tales servicios y autorizar la afectación de las aeronaves a la flota de transportadores de bandera argentina. Intervenir en el trámite de autorización para su ingreso al país.
 
@@ -672,7 +672,7 @@ ARTICULO 135. – Las concesiones y autorizaciones otorgadas por plazo determina
 
 10) Si se tratare de un transportador extranjero y el gobierno del país de su bandera no confiriese a los transportadores argentinos similares o equivalentes derechos y facilidades en reciprocidad a los recibidos por aquél.
 
-11) Si mediase renuncia del expl, previa aceptación de la autoridad aeronáutica.
+11) Si mediase renuncia del explotador, previa aceptación de la autoridad aeronáutica.
 
 Cuando a juicio de la autoridad de aplicación se configure alguna de las causales previstas en los incisos 1º al 10 que motiven caducidad de la concesión o el retiro de la autorización, dicha autoridad podrá disponer la suspensión preventiva de los servicios hasta tanto se substancien las actuaciones administrativas a las que se refiere el artículo 137.
 
@@ -740,7 +740,7 @@ ARTICULO 150. – Si el viaje previsto hubiese sido interrumpido o no se hubiese
 
 El pasajero que no se presentase o que llegase con atraso a participar del vuelo para el cual se le haya expedido el billete de pasaje o interrumpiese el viaje, no tendrá derecho a exigir la devolución total o parcial del importe. Sin embargo, si la aeronave partiese con todas las plazas ocupadas el transportador deberá reintegrar el ochenta por ciento del precio del billete de pasaje.
 
-ARTICULO 151. – El transporte que haya de ejecutarse por varios transportares por vía aérea, sucesivamente, se juzgar como transporte único cuando haya sido considerado por las partes como una sola operación, ya sea que se formalice por medio de un solo contrato o por una serie de ellos. En este caso, el pasajero no podrá accionar sino contra el transportador que haya efectuado el transporte en el curso del cual se hubiese producido el accidente o el retraso, salvo que el primer transportador hubiese asumido expresamente la responsabilidad por todo el viaje.
+ARTICULO 151. – El transporte que haya de ejecutarse por varios transportadores por vía aérea, sucesivamente, se juzgar como transporte único cuando haya sido considerado por las partes como una sola operación, ya sea que se formalice por medio de un solo contrato o por una serie de ellos. En este caso, el pasajero no podrá accionar sino contra el transportador que haya efectuado el transporte en el curso del cual se hubiese producido el accidente o el retraso, salvo que el primer transportador hubiese asumido expresamente la responsabilidad por todo el viaje.
 
 Si se trata de transporte de equipaje o mercancías, el expedidor podrá accionar contra el primer transportador, y el destinatario, o quien tenga derecho a la entrega, contra el último; ambos podrán además accionar contra el transportador que hubiese efectuado el transporte en el curso del cual se haya producido la destrucción, pérdida, avería o retraso. Dichos transportadores serán solidariamente responsables ante el expedidor, el destinatario o quien tenga derecho a la entrega.
 
@@ -768,7 +768,7 @@ ARTICULO 159. – La responsabilidad del explotador por daños a terceros en la 
 
 ARTICULO 160. – El explotador es responsable por cada accidente hasta el límite de la suma equivalente en pesos al número de argentinos oro que resulta de la escala siguiente, de acuerdo a la cotización que éstos tengan en el momento de ocurrir el hecho generador de la responsabilidad:
 
-1) 2000 argentinos oro para aeronaves cuyo pesno exceda de 1000 kilogramos;
+1) 2000 argentinos oro para aeronaves cuyo peso no exceda de 1000 kilogramos;
 
 2) 2000 argentinos oro más 1 1/2 argentino oro por cada kilogramo que exceda de los 1000, para aeronaves que pesan más de 1000 y no excedan de 6000 kilogramos;
 
@@ -818,7 +818,7 @@ La aeronave se halla en vuelo desde que se aplica la fuerza motriz para despegar
 
 SECCION B: Daños causados a aeronaves, personas y bienes embarcados
 
-ARTICULO 166. – En caso de daños causados a aeronaves o a personas y bienes a bordo de las mismas por abordaje de dos o más aerona en movimiento, si el abordaje se produjese por culpa de una de las aeronaves, la responsabilidad por los daños es a cargo del explotador de ésta.
+ARTICULO 166. – En caso de daños causados a aeronaves o a personas y bienes a bordo de las mismas por abordaje de dos o más aeronaves en movimiento, si el abordaje se produjese por culpa de una de las aeronaves, la responsabilidad por los daños es a cargo del explotador de ésta.
 
 El explotador no será responsable si prueba que l y sus dependientes han tomado todas las medidas necesarias para evitar el daño o les fue imposible tomarlas.
 
@@ -854,7 +854,7 @@ ARTICULO 176. – El comandante de una aeronave está obligado a prestar los sig
 
 ARTICULO 177. – No habrá obligación de prestar socorro cuando est asegurado en mejores condiciones, o su prestación significase riesgos para las personas a bordo, o no hubiesen posibilidades de prestar un socorro útil.
 
-ARTICULO 178. – En los casos del artículo anterior, quien prestase el socorro sólo tendrá derechouido si ha salvado o contribuido a salvar alguna persona.
+ARTICULO 178. – En los casos del artículo anterior, quien prestase el socorro sólo tendrá derecho a ser retribuido si ha salvado o contribuido a salvar alguna persona.
 
 ARTICULO 179. – Los explotadores de las aeronaves que hayan prestado asistencia a otra, o que hayan colaborado en la búsqueda de que trata el artículo 175, o que hayan salvado a alguna persona, tendrá n derecho a ser indemnizados por los gastos y daños emergentes de la operación o producidos como consecuencia directa de ésta.
 
@@ -918,7 +918,7 @@ ARTICULO 197. – Declárase materia de legislación nacional lo concerniente a 
 
 1) La circulación aérea en general, especialmente el funcionamiento de aeródromos destinados a la navegación aérea internacional e interprovincial o a servicios aéreos conectados con éstas.
 
-2) El otorgamiento de títulos habilitantes del personal aeronáutico, as como la maiculación y certificación de aeronavegabilidad de las aeronaves.
+2) El otorgamiento de títulos habilitantes del personal aeronáutico, as como la matriculación y certificación de aeronavegabilidad de las aeronaves.
 
 3) El otorgamiento de los servicios comerciales aéreos.
 
@@ -948,7 +948,7 @@ ARTICULO 203. – Toda vez que se compruebe una infracción a este código o a s
 
 Cuando en caso de delito deba detenerse a miembros de la tripulación de una aeronave que realice servicios de transporte aéreo, la autoridad que efectúe el procedimiento deberá tomar de inmediato las medidas para posibilitar la continuación del vuelo.
 
-ARTICULO 204. – Si durante un vuelo se cometiese algún delito o infracción, el comandante de la aeronave deberá tomar las medidas necesarias para asegurar la persona del delincuente o infractor, quien será puesto a disposición de la autoridad competente del lugar del primer aterrizaje, levantándose acta con las formalidades idas en el artículo anterior.
+ARTICULO 204. – Si durante un vuelo se cometiese algún delito o infracción, el comandante de la aeronave deberá tomar las medidas necesarias para asegurar la persona del delincuente o infractor, quien será puesto a disposición de la autoridad competente del lugar del primer aterrizaje, levantándose acta con las formalidades establecidas en el artículo anterior.
 
 ARTICULO 205. – La autoridad policial, judicial u otra competente se incautará de los objetos mencionados en el artículo 9° que se encuentren a bordo de aeronaves sin la autorización especial exigida. Si el comiso quedase firme, serán entregados a la autoridad aeronáutica a su requerimiento.
 
@@ -984,7 +984,9 @@ Los importes de los precedentes incisos b) y c) se considerarán automáticament
 
 5) Caducidad de las concesiones o retiro de las autorizaciones o permisos acordados para la explotación de servicios comerciales aéreos.
 
-(Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/ículo reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982.)
+(Artículo sustituido por art. 1° de la Ley N° 22.390 B.O. 13/2/1981.)
+
+(Artículo reglamentado por art. 1° del Decreto N° 326/1982 B.O. 15/2/1982.)
 
 ARTICULO 209. – Las faltas previstas en este Código y su reglamentación, serán sancionadas por la autoridad aeronáutica salvo cuando corresponda inhabilitación definitiva, caducidad de las concesiones o retiro de las autoridades que sólo podrán ser dispuestas por el Poder Ejecutivo.
 
@@ -1036,7 +1038,9 @@ CAPITULO II: DELITOS
 
 ARTICULO 217. – Será reprimido con reclusión o prisión de 3 a 15 años el que:
 
-1) Practicase algún acto de depredación o violencia contra una aeronave o contra su tripulación, mientras se encuentre en vu medio de fraude o violencia se apoderase de una aeronave o de su carga o cambiase o hiciese cambiar de ruta a una aeronave en vuelo.
+1) Practicase algún acto de depredación o violencia contra una aeronave o contra su tripulación, mientras se encuentre en vuelo;
+
+2) Por medio de fraude o violencia se apoderase de una aeronave o de su carga o cambiase o hiciese cambiar de ruta a una aeronave en vuelo.
 
 Será reprimido con la misma pena el que cometiese los hechos previstos en los incisos anteriores, mientras se estén realizando en la aeronave las operaciones inmediatamente anteriores al vuelo.
 
@@ -1084,7 +1088,7 @@ Si como consecuencia de cualquiera de los hechos previstos precedentemente se ca
 
 ARTICULO 222. – Ser reprimido con prisión de 6 meses a 4 años el que condujese o hiciese conducir clandestinamente una aeronave sobre zonas prohibidas.
 
-ARTICULO 223. – Será reprimido con prisión de 6meses a 2 años el que con una aeronave atravesase clandestina o maliciosamente lr lugares distintos de los establecidos por la autoridad aeronáutica o se desviase de las rutas aéreas fijadas para entrar o salir del país.
+ARTICULO 223. – Será reprimido con prisión de 6meses a 2 años el que con una aeronave atravesase clandestina o maliciosamente la frontera por lugares distintos de los establecidos por la autoridad aeronáutica o se desviase de las rutas aéreas fijadas para entrar o salir del país.
 
 ARTICULO 224. – Será reprimido con prisión de 3 meses a 1 año, el que no cumpliese con las obligaciones prescritas en el artículo 176 de este código.
 
@@ -1172,7 +1176,7 @@ Antecedentes Normativos
 
 – Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 102 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
 
-– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 129 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de assea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
+– Nota Infoleg: Por art. 1° del Decreto N° 289/1981 B.O. 24/2/1981, se dispone que la audiencia pública del régimen que determina el artículo 129 del Código Aeronáutico, tendrá por finalidad dar estado público a las solicitudes de servicios cuya conveniencia, necesidad y utilidad general deba analizar la Dirección Nacional de Transporte Aéreo Comercial, y el de asegurar que sea oído quien se encuentre en condiciones de verse afectado por la concesión o autorización de dichos servicios;
 
 – Decreto 289/1981, derogado por art. 20 del Decreto N° 1492/1992 B.O. 24/8/1992. Vigencia: a partir de su publicación en el Boletín Oficial;
 
