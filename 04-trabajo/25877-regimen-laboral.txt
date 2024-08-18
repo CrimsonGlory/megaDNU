@@ -234,7 +234,7 @@ ARTICULO 19. — Sustitúyese el artículo 3º de la Ley Nº 23.546 y su modific
 
 ARTICULO 20. — Sustitúyese el artículo 4º de la Ley Nº 23.546 y su modificatoria, por el siguiente:
 
-"Artículo 4º. — En el plazo de QUINCE (15) días a contar desde la recepción de la notificación del artículo 2º de esta ley, se constituirá la comisión negociadora con representantes sindicales, la que deberá integrarse respetando lo establecido en la Ley Nº 25.674, y la representación de los empleadores. Las partes podrán concurrir a las negociaciones con asesores técnicos con voz pero sin voto.
+"Artículo 4º. — En el plazo de QUINCE (15) días a contar desde la recepción de la tificación del artículo 2º de esta ley, se constituirá la comisión negociadora con representantes sindicales, la que deberá integrarse respetando lo establecido en la Ley Nº 25.674, y la representación de los empleadores. Las partes podrán concurrir a las negociaciones con asesores técnicos con voz pero sin voto.
 
 a) Las partes están obligadas a negociar de buena fe. Ello implica:
 
@@ -314,7 +314,7 @@ ARTICULO 22. — Sustitúyese el artículo 6º de la Ley Nº 23.546 y su modific
 
 "Artículo 6º. — Las convenciones colectivas de trabajo son homologadas por el MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL, en su carácter de autoridad de aplicación.
 
-La homologación deberá producirse dentro de un plazo no mayor de TREINTA (30) días de recibida la solicitud, siempre que la convención reúnaodos los requisitos establecidos a tal efecto. Transcurrido dicho plazo se la considerará tácitamente homologada."
+La homologación deberá producirse dentro de un plazo no mayor de TREINTA (30) días de recibida la solicitud, siempre que la convención reúna todos los requisitos establecidos a tal efecto. Transcurrido dicho plazo se la considerará tácitamente homologada."
 
 ARTICULO 23. — Sustitúyese el artículo 7º de la Ley Nº 23.546 y su modificatoria, por el siguiente:
 
@@ -386,7 +386,7 @@ ARTICULO 25. — Las empresas que ocupen a más de TRESCIENTOS (300) trabajadore
 
 Las empresas que empleen trabajadores distribuidos en varios establecimientos, deberán elaborar un balance social único, si la convención colectiva aplicable fuese de actividad o se aplicare un único convenio colectivo de empresa. Para el caso de que la misma empresa sea suscriptora de más de un convenio colectivo de trabajo, deberá elaborar un balance social en cada caso, cualquiera sea el número de trabajadores comprendidos.
 
-ARTICULO 26. — El balance social incluirá la información que seguidamente se indica, la que podrá ser ampliada por la reglamentación tomando en cuenta, entre otras consideraciones, las actividades de que se trate:
+ARTICULO 26. — El balance social incluirá la información que seguidamente se indica, la que podrá ser ampliada por la reglamentación tomando en cuenta, entre oas consideraciones, las actividades de que se trate:
 
 a) Balance general anual, cuenta de ganancias y pérdidas, notas complementarias, cuadros anexos y memoria del ejercicio.
 
@@ -422,7 +422,7 @@ Capítulo I
 
 Inspección del Trabajo
 
-ARTICULO 28. — Créase el Sistema Integral de Inspección del Trabajo y de la Seguridad Social (SIDITYSS), destinado al control y fiscalización del cumplimiento de las normas del trabajo y de la seguridad social en todo el territorio nacional, a fin de garantizar los derechos de los trabajadores previstos en el artículo 14 bis de la Constitución Nacional, yn los Convenios Internacionales ratificados por la República Argentina, eliminar el empleo no registrado y las demás distorsiones que el incumplimiento de la normativa laboral y de la seguridad social provoquen.
+ARTICULO 28. — Créase el Sistema Integral de Inspección del Trabajo y de la Seguridad Social (SIDITYSS), destinado al control y fiscalización del cumplimiento de las normas del trabajo y de la seguridad social en todo el territorio nacional, a fin de garantizar los derechos de los trabajadores previstos en el artículo 14 bis de la Constitución Nacional, y en los Convenios Internacionales ratificados por la República Argentina, eliminar el empleo no registrado y las demás distorsiones que el incumplimiento de la normativa laboral y de la seguridad social provoquen.
 
 Integrarán el sistema la autoridad administrativa del trabajo y de la seguridad social nacional y las autoridades provinciales y de la Ciudad Autónoma de Buenos Aires, que actuarán bajo los principios de corresponsabilidad, coparticipación, cooperación y coordinación, para garantizar su funcionamiento eficaz y homogéneo en todo el territorio nacional.
 
@@ -454,7 +454,7 @@ ARTICULO 30. — Cuando un servicio local de Inspección del Trabajo no cumpla c
 
 ARTICULO 31. — Los servicios de inspección comprendidos en el Sistema Integral de Inspección del Trabajo y de la Seguridad Social (SIDITYSS) deberán contar con los recursos adecuados para la real y efectiva prestación del servicio y llevarán un Registro de Inspección, Infracciones y Sanciones. Deberán informar a las organizaciones empresariales y sindicales acerca de las actividades realizadas y de los resultados alcanzados. Los representantes sindicales de los trabajadores tendrán derecho a acompañar al inspector durante la inspección y a ser informados de sus resultados.
 
-ARTICULO 32. — Los inspectores actuarán de oficio o por denuncia, recogerán en actas el resultado de sus actuaciones y, en su caso, iniciarán el procedimiento para la aplicacióne sanciones.
+ARTICULO 32. — Los inspectores actuarán de oficio o por denuncia, recogerán en actas el resultado de sus actuaciones y, en su caso, iniciarán el procedimiento para la aplicación de sanciones.
 
 En el ejercicio de sus funciones y dentro de su jurisdicción, los inspectores están facultados para:
 
@@ -472,7 +472,7 @@ La fuerza pública deberá prestar el auxilio que requiera el inspector en ejerc
 
 ARTICULO 33. — Comprobada la infracción a las normas laborales que impliquen, de alguna forma, una evasión tributaria o a la Seguridad Social, el hecho deberá ser denunciado formalmente a la Administración Federal de Ingresos Públicos y/o a los otros organismos de control fiscal. Ello sin perjuicio, en el caso que corresponda, de la notificación fehaciente a las autoridades de control migratorio a los fines de la aplicación de la Ley Nº 25.871.
 
-ARTICULO 34. — El MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL deberá destinar la totalidad de los recursos obtenidos por la aplicación de sanciones pecuniarias a la infracción de la normativa laboral, sea por imperio de la Ley Nº 25.212 o del artículo 37 de la presente, al fortalecimiento del servicio de la inspección del trabajo.
+ARTICULO 34. — El MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL deberá destinar la totalidad de los recursos obtenidos por la aplicación de sanciones pecuniarias a la infracción de la normativa laboral, sea r imperio de la Ley Nº 25.212 o del artículo 37 de la presente, al fortalecimiento del servicio de la inspección del trabajo.
 
 ARTICULO 35. — Sin perjuicio de las facultades propias en materia de Inspección del Trabajo de los gobiernos provinciales, de la Ciudad Autónoma de Buenos Aires y del Ministerio de Trabajo, Empleo y Seguridad Social, éste realizará en todo el territorio nacional acciones dirigidas a la erradicación del trabajo infantil. Las actuaciones labradas por dicho ministerio en las que se verifiquen violaciones a la prohibición del trabajo infantil tramitarán en el ámbito de las respectivas administraciones locales.
 
@@ -502,7 +502,7 @@ Estos últimos serán considerados trabajadores dependientes de la empresa usuar
 
 Si durante esas inspecciones se comprobare que se ha incurrido en una desnaturalización de la figura cooperativa con el propósito de sustraerse, total o parcialmente, a la aplicación de la legislación del trabajo denunciarán, sin perjuicio del ejercicio de su facultad de constatar las infracciones a las normas laborales y proceder a su juzgamiento y sanción, esa circunstancia a la autoridad específica de fiscalización pública a los efectos del artículo 101 y concordantes de la Ley Nº 20.337.
 
-Las cooperativas de trabajo no podrán actuar como empresas de provisión de servicios eventuales, ni de temporada, ni de cualquier otro modo brindar servicios propios de las agencias de colocación.
+Las cooperativas de trabajo no podrán actuar como empresas de provisión de servicios eventuales, ni de temporada, ni de cualquier otro modo brindar servicios propios de las agencias de coloción.
 
 TITULO IV
 
@@ -528,6 +528,6 @@ EDUARDO O. CAMAÑO. — MARCELO A. GUINLE. — Eduardo D. Rollano. — Juan Estr
 
 Antecedentes Normativos
 
-- Artículo 6, Nota Infoleg: por art. 1° del Decreto N° 1066/2008 B. 10/7/2008 se prorroga desde la fecha de prevista en el Decreto Nº 25/2007 hasta el 31 de diciembre de 2008, la vigencia del beneficio instituido por el presente artículo. Prórrogas anteriores: Decreto N° 25/2007 B.O. 24/1/2007, Decreto N° 31/2006 B.O. 11/1/2006, Decreto N° 2013/2004 B.O. 7/1/2005.
+- Artículo 6, Nota Infoleg: por art. 1° del Decreto N° 1066/2008 B.O. 10/7/2008 se prorroga desde la fecha de prevista en el Decreto Nº 25/2007 hasta el 31 de diciembre de 2008, la vigencia del beneficio instituido por el presente artículo. Prórrogas anteriores: Decreto N° 25/2007 B.O. 24/1/2007, Decreto N° 31/2006 B.O. 11/1/2006, Decreto N° 2013/2004 B.O. 7/1/2005.
 
 - Artículo 6, Nota Infoleg: por art. 1° del Decreto N° 817/2004 B.O. 28/6/2004 se consideran incluidas en el beneficio instituido por el presente artículo las empresas definidas en el artículo 5º del Régimen de Contrato de Trabajo aprobado por la Ley Nº 20.744 (t.o. 1976) y sus modificatorias, que empleen hasta ochenta trabajadores y cuya facturación anual neta no supere una determinada suma. Ver más detalles en la norma de referencia.

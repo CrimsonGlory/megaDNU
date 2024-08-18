@@ -56,6 +56,8 @@ ARTICULO 4° — Inclúyense como incisos 21, 22 y 23 del artículo 23 de la Ley
 
 ARTICULO 5° — El Ministerio de Trabajo y Seguridad Social será la autoridad de aplicación de esta ley y deberá elaborar regularmente el Plan Nacional de Empleo y Formación Profesional. Asimismo, podrá delegar las facultades de policía derivadas de la aplicación de políticas fijadas por esta ley mediante convenios celebrados con las provincias.
 
+(Nota Infoleg: por art. 1° de la Resolución N° 204/2024 del Ministerio de Capital Humano B.O. 17/05/2024 se delega en la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO, el ejercicio de las competencias como Autoridad de Aplicación de la presente Ley. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
 ARTICULO 6° — El Poder Ejecutivo, a propuesta del Ministerio de Trabajo y Seguridad Social, establecerá un mecanismo de coordinación interministerial para facilitar la aplicación de esta ley que asegure una fluida información, la adopción de criterios comunes y una adecuada ejecución de las medidas.
 
 TITULO II
@@ -66,71 +68,45 @@ Capítulo 1
 
 Empleo no registrado
 
-ARTICULO 7° — Se entiende que la relación o contrato de trabajo ha sido registrado cuando el empleador hubiere inscripto al trabajador:
+ARTICULO 7° — Se entiende que la relación o el contrato de trabajo se encuentran registrados cuando el trabajador esté inscripto en las formas y condiciones que establezca la reglamentación que determine el Poder Ejecutivo.
 
-a) En el libro especial del artículo 52 de la Ley de Contrato de Trabajo (t.o. 1976) o en la documentación laboral que haga sus veces, según lo previsto en los regímenes jurídicos particulares;
+Dicha registración deberá ser simple, inmediata, expeditiva, y realizarse a través de medios electrónicos.
 
-b) En los registros mencionados en el artículo 18, inciso a).
+(Artículo sustituido por art. 59 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-Las relaciones laborales que no cumplieren con los requisitos fijados en los incisos precedentes se considerarán no registradas.
+ARTICULO 7° bis - En virtud de lo establecido en los artículos 29 y 30 de la Ley N° 20.744, la registración efectuada en los términos del artículo 7° se considera plenamente eficaz cuando hubiera sido realizada por cualquiera de las personas intervinientes, humanas o jurídicas.
 
-ARTICULO 8° — El empleador que no registrare una relación laboral abonará al trabajador afectado una indemnización equivalente a una cuarta parte de las remuneraciones devengadas desde el comienzo de la vinculación, computadas a valores reajustados de acuerdo a la normativa vigente.
+(Artículo incorporado por art. 60 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-En ningún caso esta indemnización podrá ser inferior a tres veces el importe mensual del salario que resulte de la aplicación del artículo 245 de la Ley de Contrato de Trabajo (t.o. 1976).
+ARTICULO 7° ter - El trabajador podrá denunciar la falta de registración laboral ante la Autoridad de Aplicación, que deberá ofrecer un medio electrónico a tal efecto, ante la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, o ante las autoridades administrativas del trabajo locales.
 
-ARTICULO 9° — El empleador que consignare en la documentación laboral una fecha de ingreso posterior a la real, abonará al trabajador afectado una indemnización equivalente a la cuarta parte del importe de las remuneraciones devengadas desde la fecha de ingreso hasta la fecha falsamente consignada, computadas a valores reajustados de acuerdo a la normativa vigente.
+(Artículo incorporado por art. 61 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-ARTICULO 10. — El empleador que consignare en la documentación laboral una remuneración menor que la percibida por el trabajador, abonará a éste una indemnización equivalente a la cuarta parte del importe de las remuneraciones devengadas y no registradas, debidamente reajustadas desde la fecha en que comenzó a consignarse indebidamente el monto de la remuneración.
+ARTICULO 7° quáter.- En el supuesto de sentencia judicial firme que determine la existencia de una relación de empleo no registrada, la autoridad judicial deberá poner en conocimiento de la entidad recaudadora de las obligaciones de la seguridad social, dentro de los DIEZ (10) días hábiles siguientes a la fecha en que quede firme y consentida la sentencia, todas las circunstancias que permitan la determinación de deuda existente, si la hubiera.
 
-ARTICULO 11. — Las indemnizaciones previstas en los artículos 8°, 9° y 10 procederán cuando el trabajador o la asociación sindical que lo representen cumplimente en forma fehaciente las siguientes acciones:
+Si conforme sentencia judicial firme, la relación laboral se encontrara enmarcada erróneamente como contrato de obra o servicios, de la deuda que determine el organismo recaudador, se deducirán los componentes ya ingresados conforme al régimen del cual se trate, se establecerá un sistema de intereses menos gravoso y facilidades de pago.
 
-a. intime al empleador a fin de que proceda a la inscripción, establezca la fecha real de ingreso o el verdadero monto de las remuneraciones, y b. proceda de inmediato y, en todo caso, no después de las 24 horas hábiles siguientes, a remitir a la Administración Federal de Ingresos Públicos copia del requerimiento previsto en el inciso anterior.
+(Artículo incorporado por art. 62 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-Con la intimación el trabajador deberá indicar la real fecha de ingreso y las circunstancias verídicas que permitan calificar a la inscripción como defectuosa. Si el empleador contestare y diere total cumplimiento a la intimación dentro del plazo de los treinta días, quedará eximido del pago de las indemnizaciones antes indicadas.
+ARTICULO 8° — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-A los efectos de lo dispuesto en los artículos 8°, 9° y 10 de esta ley, solo se computarán remuneraciones devengadas hasta los dos años anteriores a la fecha de su entrada en vigencia.
+ARTICULO 9° — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-(Artículo sustituido por art. 47 de la Ley N° 25.345 B.O. 17/11/2000)
+ARTICULO 10. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-ARTICULO 12. — El empleador que registrare espontáneamente y comunicare de modo fehaciente al trabajador dentro de los 90 días de la vigencia de esta ley las relaciones laborales establecidas con anterioridad a dicha vigencia y no registradas, quedará eximido del pago de los aportes, contribuciones, multas y recargos adeudados, incluyendo obras sociales, emergentes de esa falta de registro.
+ARTICULO 11. —(Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-El empleador que, dentro del mismo plazo, rectificare la falsa fecha de ingreso o consignare el verdadero monto de la remuneración de una relación laboral establecida con anterioridad a la vigencia de esta ley y comunicare simultánea y fehacientemente al trabajador esta circunstancia, quedará eximido del pago de los aportes, contribuciones, multas y recargos adeudados hasta la fecha de esa vigencia, derivados del registro insuficiente o tardío.
+ARTICULO 12. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-No quedan comprendidas en este supuesto las deudas verificadas administrativa o judicialmente.
+ARTICULO 13. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-A los fines previsionales, las relaciones laborales registradas según lo dispuesto en este artículo:
+ARTICULO 14. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-a) Podrán computarse como tiempo efectivo de servicio;
+ARTICULO 15. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-b) No acreditarán aportes ni monto de remuneraciones.
+ARTICULO 16. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-ARTICULO 13. — En los casos previstos en el artículo anterior el empleador quedará eximido del pago de las indemnizaciones que correspondieren por aplicación de los artículos 8, 9 y 10 de la presente ley.
-
-ARTICULO 14. — Para la percepción de las indemnizaciones previstas en los artículos 8, 9 y 10 de la presente ley, no será requisito necesario la previa extinción de la relación de trabajo.
-
-ARTICULO 15. — Si el empleador despidiere sin causa justificada al trabajador dentro de los dos años desde que se le hubiere cursado de modo justificado la intimación prevista en el artículo 11, el trabajador despedido tendrá derecho a percibir el doble de las indemnizaciones que le hubieren correspondido como consecuencia del despido. Si el empleador otorgare efectivamente el preaviso, su plazo también se duplicará.
-
-La duplicación de las indemnizaciones tendrá igualmente lugar cuando fuere el trabajador el que hiciere denuncia del contrato de trabajo fundado en justa causa, salvo que la causa invocada no tuviera vinculación con las previstas en los artículos 8, 9 y 10, y que el empleador acreditare de modo fehaciente que su conducta no ha tenido por objeto inducir al trabajador a colocarse en situación de despido.
-
-ARTICULO 16. — Cuando las características de la relación existente entre las partes pudieran haber generado en el empleador una razonable duda acerca de la aplicación de la Ley de Contrato de Trabajo (t.o. 1976), el juez o tribunal podrá reducir la indemnización prevista en el artículo 8, hasta una suma no inferior a dos veces el importe mensual del salario que resulte de la aplicación del artículo 245 de la Ley de Contrato de Trabajo (t.o. 1976).
-
-Con igual fundamento los jueces podrán reducir el monto de la indemnización establecida en el artículo anterior hasta la eliminación de la duplicación allí prevista.
-
-ARTICULO 17. — Será nulo y sin ningún valor todo pago por los conceptos indicados en los artículos 8, 9 y 10 que no se realizare ante la autoridad administrativa o judicial.
-
-Dentro de los 10 días hábiles siguientes a la fecha en que quede firme la resolución que reconozca el derecho a percibir dichas indemnizaciones o de la resolución homologatoria del acuerdo conciliatorio o transaccional que versare sobre ellas, la autoridad administrativa o judicial, según el caso, deberá poner en conocimiento del Sistema Unico de Registro Laboral o, hasta su efectivo funcionamiento, del Instituto Nacional de Previsión Social, Caja de asignaciones y subsidios familiares y obras sociales, las siguientes circunstancias:
-
-a) Nombre íntegro o razón social del empleador y su domicilio;
-
-b) Nombre y apellido del trabajador;
-
-c) Fecha de comienzo y fin de la vinculación laboral si ésta se hubiere extinguido;
-
-d) Monto de las remuneraciones.
-
-Constituirá falta grave del funcionario actuante si éste no cursare la comunicación referida en el plazo establecido.
-
-No se procederá al archivo del expediente judicial o administrativo respectivo hasta que el funcionario competente dejare constancia de haberse efectuado las comunicaciones ordenadas en este artículo.
+ARTICULO 17. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Capítulo 2
 
@@ -138,11 +114,11 @@ Del Sistema Unico de Registro Laboral
 
 ARTICULO 18. — El Sistema Único de Registro Laboral concentrará los siguientes registros:
 
-a) la inscripción del empleador y la afiliación del trabajador al Instituto Nacional de Previsión Social, a las cajas de subsidios familiares y a la obra social correspondiente;
+a) la inscripción del empleador y la afiliación del trabajador al Instituto Nacional de Previsión Social, a las cajas de subsidios familiares y al prestador del sistema nacional de salud elegido por el trabajador;
 
-b) (Inciso derogado por art. 21 de la Ley N° 25.013 B.O. 24/9/1998)
+b) el registro de los trabajadores beneficiarios del sistema integral de prestaciones por desempleo.
 
-c) el registro de los trabajadores beneficiarios del sistema integral de prestaciones por desempleo.
+(Artículo sustituido por art. 63 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 19. — El Poder Ejecutivo Nacional, a través del Ministerio de Trabajo y Seguridad Social, tendrá a su cargo la organización, conducción y supervisión del Sistema Unico de Registro Laboral, a cuyo fin tendrá las siguientes atribuciones:
 
@@ -320,7 +296,7 @@ ARTICULO 65. — (Artículo derogado por art. 21 de la Ley N° 25.013 B.O. 24/9/
 
 Contrato de trabajo de temporada
 
-ARTICULO 66. — Sustúyese el artículo 96 de la Ley de Contrato de Trabajo (t.o. 1976) por el siguiente:
+ARTICULO 66. — Sustitúyese el artículo 96 de la Ley de Contrato de Trabajo (t.o. 1976) por el siguiente:
 
 "ARTICULO 96. — Caracterización: Habrá contrato de trabajo de temporada cuando la relación entre las partes, originada por actividades propias del giro normal de la empresa o explotación, se cumpla en determinadas épocas del año solamente y esté sujeta a repetirse en cada ciclo en razón de la naturaleza de la actividad."
 
@@ -354,7 +330,7 @@ ARTICULO 73. — El empleador no tiene el deber de preavisar la finalización de
 
 ARTICULO 74. — No procederá indemnización alguna cuando la relación laboral se extinga con motivo de finalización de la obra o tarea asignada, o del cese de la causa que le diera origen. En cualquier otro supuesto, se estará a lo dispuesto en la Ley de Contrato de Trabajo (t.o. 1976).
 
-De las empresas de servicios eventuales8
+De las empresas de servicios eventuales
 
 ARTICULO 75. — Derógase el último párrafo del artículo 29 de la Ley de Contrato de Trabajo (t.o. 1976), el que se sustituye por el siguiente:
 
@@ -390,7 +366,7 @@ c) asistencia en caso de movilidad geográfica;
 
 d) asistencia técnica y financiera para iniciar pequeñas empresas, principalmente en forma asociada.
 
-ARTICULO 83. — Programas para jóvenes desocupados. Estos programas atenderán a las personas desocupadas entre 14 y 24 años de edad. Las medidasue se adopten para crear nuevas ocupaciones deberán incluir capacitación y orientación profesionales prestadas en forma gratuita y complementadas con otras ayudas económicas cuando se consideren indispensables.
+ARTICULO 83. — Programas para jóvenes desocupados. Estos programas atenderán a las personas desocupadas entre 14 y 24 años de edad. Las medidas que se adopten para crear nuevas ocupaciones deberán incluir capacitación y orientación profesionales prestadas en forma gratuita y complementadas con otras ayudas económicas cuando se consideren indispensables.
 
 ARTICULO 84. — Programas para trabajadores cesantes de difícil reinserción ocupacional. Estos programas se dirigirán a aquellas personas desocupadas que cumplan alguna de las condiciones siguientes:
 
@@ -476,7 +452,7 @@ Capítulo 6
 
 Procedimiento preventivo de crisis de empresas
 
-ARTULO 98. — Con carácter previo a la comunicación de despidos o suspensiones por razones de fuerza mayor, causas económicas o tecnológicas, que afecten a más del 15 por ciento de los trabajadores en empresas de menos de 400 trabajadores; a más del 10 por ciento en empresas de entre 400 y 1.000 trabajadores; y a más del 5 por ciento en empresas de más de 1.000 trabajadores, deberá sustanciarse el procedimiento preventivo de crisis previsto en este capítulo.
+ARTICULO 98. — Con carácter previo a la comunicación de despidos o suspensiones por razones de fuerza mayor, causas económicas o tecnológicas, que afecten a más del 15 por ciento de los trabajadores en empresas de menos de 400 trabajadores; a más del 10 por ciento en empresas de entre 400 y 1.000 trabajadores; y a más del 5 por ciento en empresas de más de 1.000 trabajadores, deberá sustanciarse el procedimiento preventivo de crisis previsto en este capítulo.
 
 ARTICULO 99. — El procedimiento de crisis se tramitará ante el Ministerio de Trabajo y Seguridad Social, a instancia del empleador o de la asociación sindical de los trabajadores.
 
@@ -521,7 +497,8 @@ a) La declaración de la emergencia ocupacional podrá ser requerida por la auto
 b) Las causales de emergencia ocupacional mencionadas más arriba serán consideradas en cuanto tengan repercusión en los niveles de desocupación y subocupación de la zona afectada o cuando superen los promedios históricos locales una vez efectuado el ajuste correctivo de las variaciones cíclicas estacionales normales de la región.
 
 ARTICULO 108. — Los programas de emergencia ocupacional consistirán en acciones tendientes a generar empleo masivo por un período determinado a través de contratación directa del Estado nacional, provincial y municipal para la ejecución de obras o prestación de servicios de utilidad pública y social, e intensivos en mano de obra, a través de la modalidad prevista en los artículos 43 a 46 de esta ley. En este supuesto, el plazo mínimo de contratación se reducirá a tres meses, así como el de las renovaciones que se dispusieren.
-RTICULO 109. — Durante la vigencia de la emergencia, la autoridad de aplicación podrá habilitar las modalidades promovidas previstas en esta ley, mediante acto fundado. Esta habilitación concluirá al término del período por el cual fue declarada la emergencia ocupacional, manteniéndose los contratos promovidos vigentes, hasta la finalización de su plazo.
+
+ARTICULO 109. — Durante la vigencia de la emergencia, la autoridad de aplicación podrá habilitar las modalidades promovidas previstas en esta ley, mediante acto fundado. Esta habilitación concluirá al término del período por el cual fue declarada la emergencia ocupacional, manteniéndose los contratos promovidos vigentes, hasta la finalización de su plazo.
 
 ARTICULO 110. — Los programas de emergencia ocupacional se ejecutarán en las zonas de emergencia más altamente pobladas dentro de la zona declarada en emergencia ocupacional y sus beneficiarios serán los residentes en las áreas más próximas a la ejecución de las obras, dándole prioridad a los trabajadores desocupados sin prestaciones por desempleo.
 
@@ -570,6 +547,8 @@ f. Expiración del tiempo convenido, realización de la obra, tarea asignada o d
 g. Muerte, jubilación o invalidez del empleador o de la empleadora cuando estas determinen la extinción del contrato;
 
 h. No reiniciación o interrupción del contrato de trabajo de temporada por causas ajenas al trabajador o a la trabajadora.
+
+i) Extinción por mutuo acuerdo de las partes en los términos del artículo 241 de la Ley N° 20.744. (Inciso incorporado por art. 64 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Si hubiere duda sobre la existencia de relación laboral o la justa causa del despido se requerirá actuación administrativa del MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL de la Nación, de los organismos provinciales o municipales del trabajo o de la Ciudad Autónoma de Buenos Aires para que determinen sumariamente la verosimilitud de la situación invocada. Dicha actuación no podrá hacerse valer en juicio laboral.
 
@@ -626,13 +605,13 @@ a) La prestación económica por desempleo, establecida en el artículo anterior
 
 b) Prestaciones médico-asistenciales de acuerdo a lo dispuesto por las leyes 23.660 y 23.661;
 
-c) Pago de las asignaciones familiares que correspondierea cargo de las cajas de asignaciones y subsidios familiares;
+c) Pago de las asignaciones familiares que correspondieren a cargo de las cajas de asignaciones y subsidios familiares;
 
 d) Cómputo del período de las prestaciones a los efectos previsionales, con los alcances de los incisos a) y b) del artículo 12 de esta ley.
 
 ARTICULO 120. — Los empleadores están obligados a:
 
-a) Efectuar las inscripciones del artículo 7 de esta ley;
+a) (Inciso derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.);
 
 b) Ingresar sus contribuciones al Fondo Nacional del Empleo;
 
@@ -696,7 +675,7 @@ a) La resolución de la autoridad de aplicación de reconocimiento, suspensión,
 
 b) 1. Cuando la actuación administrativa sea denegada expresamente podrá interponerse recurso por ante la Cámara Nacional de Apelaciones de la Seguridad Social, en el plazo de 30 días siguientes a la fecha en que sea notificada la denegatoria.
 
-2. Si no recae resolución expresa en la reclamación administrativa en el plazo de 45 días dpresentada, el interesado podrá requerir pronto despacho y si transcurrieren otros 30 días sin emitir resolución, se considerará que existe silencio de la administración y quedará expedita la vía judicial.
+2. Si no recae resolución expresa en la reclamación administrativa en el plazo de 45 días de presentada, el interesado podrá requerir pronto despacho y si transcurrieren otros 30 días sin emitir resolución, se considerará que existe silencio de la administración y quedará expedita la vía judicial.
 
 c) En todo lo no contemplado expresamente por esta ley, reglará supletoriamente la ley 19.549 de procedimientos administrativos.
 
@@ -800,7 +779,7 @@ Capítulo único
 
 ARTICULO 139. — El salario mínimo, vital y móvil garantizado por el artículo 14 bis de la Constitución Nacional y previsto por el artículo 116 de la Ley de Contrato de Trabajo (t.o. 1976) será determinado por el Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil teniendo en cuenta los datos de la situación socioeconómica, los objetivos del instituto y la razonabilidad de la adecuación entre ambos.
 
-ARTICULO 140. — Todos los trabajadores comprendidos en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y sus modificatorios,  el Régimen de Trabajo Agrario, de la Administración Pública Nacional y de todas las entidades y organismos en que el Estado Nacional actúe como empleador, tendrán derecho a percibir una remuneración no inferior al salario mínimo, vital y móvil que se establezca de conformidad a lo preceptuado en esta ley.
+ARTICULO 140. — Todos los trabajadores comprendidos en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y sus modificatorios, en el Régimen de Trabajo Agrario, de la Administración Pública Nacional y de todas las entidades y organismos en que el Estado Nacional actúe como empleador, tendrán derecho a percibir una remuneración no inferior al salario mínimo, vital y móvil que se establezca de conformidad a lo preceptuado en esta ley.
 
 (Artículo sustituido por art. 105 de la Ley N° 26.727 B.O. 28/12/2011)
 
@@ -860,7 +839,7 @@ c) Otros recursos:
 
 ARTICULO 146. — Sustitúyese el artículo 23 de la ley 18.017, modificado por la ley 23.568, por el siguiente:
 
-"Artículo 23. — Fíjase como aporte obligatorio de los empleadores comprendidos en el ámbito de la Caja de Subsidios Familiares para Empleados de Comercio, la Caja de Subsidios Familiares para el Personal de la Industria y la Caja diares para el Personal de la Estiba, Fluviales y de la Industria Naval, el 9 por ciento sobre el total de las remuneraciones incluido el sueldo anual complementario. De ese 9 por ciento, 1,50 puntos porcentuales serán destinados al Fondo Nacional del Empleo, y los 7,50 puntos porcentuales restantes a la correspondiente caja de asignaciones familiares."
+"Artículo 23. — Fíjase como aporte obligatorio de los empleadores comprendidos en el ámbito de la Caja de Subsidios Familiares para Empleados de Comercio, la Caja de Subsidios Familiares para el Personal de la Industria y la Caja de Asignaciones Familiares para el Personal de la Estiba, Fluviales y de la Industria Naval, el 9 por ciento sobre el total de las remuneraciones incluido el sueldo anual complementario. De ese 9 por ciento, 1,50 puntos porcentuales serán destinados al Fondo Nacional del Empleo, y los 7,50 puntos porcentuales restantes a la correspondiente caja de asignaciones familiares."
 
 ARTICULO 147. — (Artículo vetado por art. 4 del Decreto Nacional N° 2565/1991 B.O. 17/12/1991)
 
@@ -943,5 +922,9 @@ ARTICULO 160. — Comuníquese al Poder Ejecutivo. -ALBERTO R PIERRI.-LUIS A. J.
 DADA EN LA SALA DE SESIONES DE CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y UNO.
 
 Antecedentes Normativos
+
+- Artículo 18, inciso b) derogado por art. 21 de la Ley N° 25.013 B.O. 24/9/1998;
+
+- Artículo 11 sustituido por art. 47 de la Ley N° 25.345 B.O. 17/11/2000;
 
 - Artículo 32 vetado por art. 2 del Decreto Nacional N° 2565/1991 B.O. 17/12/1991.

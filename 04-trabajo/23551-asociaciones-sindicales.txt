@@ -164,6 +164,22 @@ d) Dar mandato a los delegados a congresos de asociaciones de grado superior y r
 
 e) Fijar el monto de las cotizaciones ordinarias y extraordinarias de los afiliados.
 
+Artículo 20 bis.- Derecho de realizar Asambleas, Congresos. Los representantes sindicales dentro de la empresa, delegados, comisiones internas u organismos similares, así como las autoridades de las distintas seccionales de las asociaciones sindicales tendrán derecho a convocar a asambleas y congresos de delegados sin perjudicar las actividades normales de la empresa o afectar a terceros.
+
+(Artículo incorporado por art. 87 del Decreto N° 70/2023 B.O. 21/12/2023.)
+
+Artículo 20 ter - Acciones prohibidas. Las siguientes conductas están prohibidas y serán consideradas infracciones muy graves:
+
+a. Afectar la libertad de trabajo de quienes no adhieran a una medida de fuerza, mediante actos, hechos, intimidaciones o amenazas;
+
+b. Provocar el bloqueo o tomar un establecimiento; impedir u obstruir total o parcialmente el ingreso o egreso de personas y/o cosas al establecimiento;
+
+c. Ocasionar daños en personas o en cosas de propiedad de la empresa o de terceros situadas en el establecimiento (instalaciones, mercaderías, insumos y materias primas, herramientas, etc.) o retenerlas indebidamente.
+
+Verificadas dichas acciones como medidas de acción directa sindical, la entidad responsable será pasible de la aplicación de las sanciones que establezca la reglamentación, una vez cumplimentado el procedimiento que se disponga al efecto a cargo de la Autoridad de Aplicación, sin perjuicio de las responsabilidades civiles y/o penales que pudieran corresponder.
+
+(Artículo incorporado por art. 88 del Decreto N° 70/2023 B.O. 21/12/2023.)
+
 VI. — De la inscripción
 
 Artículo 21. — Las asociaciones presentarán ante la autoridad administrativa del trabajo solicitud de inscripción haciendo constar:
@@ -302,7 +318,7 @@ a) De los trabajadores ante el empleador, la autoridad administrativa del trabaj
 
 b) De la asociación sindical ante el empleador y el trabajador.
 
-Artículo 41. — Para ejercer las funciones indicadas en el artículo 40 se requiere:
+Artículo 41. — Para ejercer las funciones indicadas en el artículo 40 se ruiere:
 
 a) Estar afiliado a la respectiva asociación sindical con personería gremial y ser elegido en comicios convocados por éstas, en el lugar donde se presten los servicios o con relación al cual esté afectado y en horas de trabajo, por el voto directo y secreto de los trabajadores cuya representación deberá ejercer. La autoridad de aplicación podrá autorizar, a pedido de la asociación sindical, la celebración en lugar y horas distintos, cuando existiere circunstancias atendibles que lo justificaran.
 
@@ -314,7 +330,7 @@ b) Tener dieciocho (18) años de edad como mínimo y revistar al servicio de la 
 
 En los establecimientos de reciente instalación no se exigirá contar con una antigüedad mínima en el empleo. Lo mismo ocurrirá cuando por la índole de la actividad en las que presten servicios los trabajadores a representar la relación laboral comience y termine con la realización de la obra, la ejecución del acto o la prestación de servicio para el que fueron contratados o cuando el vínculo configure un contrato de trabajo de temporada.
 
-Artículo 42. — El mandato de los delegados no podrá exceder de dos (2) años y podrá ser revocado mediante amblea de sus mandantes convocada por el órgano directivo de la asociación sindical, por propia decisión o a petición del diez por ciento (10%) del total de los representados. Asimismo, en el caso que lo prevean los estatutos el mandato de los delegados podrá ser revocado por determinación votada por los dos tercios de la asamblea o del congreso de la asociación sindical. El delegado cuestionado deberá tener la posibilidad cierta de ejercitar su defensa.
+Artículo 42. — El mandato de los delegados no podrá exceder de dos (2) años y podrá ser revocado mediante asamblea de sus mandantes convocada por el órgano directivo de la asociación sindical, por propia decisión o a petición del diez por ciento (10%) del total de los representados. Asimismo, en el caso que lo prevean los estatutos el mandato de los delegados podrá ser revocado por determinación votada por los dos tercios de la asamblea o del congreso de la asociación sindical. El delegado cuestionado deberá tener la posibilidad cierta de ejercitar su defensa.
 
 Artículo 43. — Quienes ejerzan las funciones a que se refiere el artículo 40 de este ley, tendrán derecho a:
 
@@ -368,13 +384,13 @@ Artículo 50. — A partir de su postulación para un cargo de representación s
 
 Artículo 51. — La estabilidad en el empleo no podrá ser invocada en los casos de cesación de actividades del establecimiento o de suspensión general de las tareas del mismo. Cuando no se trate de una suspensión general de actividades, pero se proceda a reducir personal por vía de suspensiones o despidos y deba atenderse al orden de antigüedades, se excluirá para la determinación de ese orden a los trabajadores que se encuentren amparados por la estabilidad instituida en esta ley.
 
-Artículo 52. — Los trabajadores amparados por las garantías previstas en los artículos 40, 48 y 50 de la presente ley, no podrán ser suspendidos, despedidos ni con relación a ellos podrán modificarse las condiciones de trabajo, si no mediare resolución judicial previa que los excluya de la garantía, conforme al procedimiento establecido en el artículo 47. El juez o tribunal interviniente, a pedido el empleador, dentro del plazo de cinco (5) días podrá disponer la suspensión de la prestación laboral con el carácter de medida cautelar, cuando la permanencia del cuestionado en su puesto o en mantenimiento de las condiciones de trabajo pudiere ocasionar peligro para la seguridad de las personas o bienes de la empresa.
+Artículo 52. — Los trabajadores amparados por las garantías previstas en los artículos 40, 48 y 50e la presente ley, no podrán ser suspendidos, despedidos ni con relación a ellos podrán modificarse las condiciones de trabajo, si no mediare resolución judicial previa que los excluya de la garantía, conforme al procedimiento establecido en el artículo 47. El juez o tribunal interviniente, a pedido el empleador, dentro del plazo de cinco (5) días podrá disponer la suspensión de la prestación laboral con el carácter de medida cautelar, cuando la permanencia del cuestionado en su puesto o en mantenimiento de las condiciones de trabajo pudiere ocasionar peligro para la seguridad de las personas o bienes de la empresa.
 
 La violación por parte del empleador de las garantías establecidas en los artículos citados en el párrafo anterior, dará derecho al afectado a demandar judicialmente, por vía sumarísima, la reinstalación de su puesto, con más los salarios caídos durante la tramitación judicial, o el restablecimiento de las condiciones de trabajo.
 
 Si se decidiere la reinstalación, el juez podrá aplicar al empleador que no cumpliere con la decisión firme, las disposiciones del artículo 666 bis del Código Civil, durante el período de vigencia de su estabilidad.
 
-El trabajador, salvo que se trate de un candidato no electo, podrá optar por considerar extinguido el vínculo laboral en virtud de la decisión del empleador, colocándose en situación de despido indirecto, en cuyo caso tendrá derecho a percibir, además de indemnizaciones por despido, una suma equivalente al importe de las remuneraciones que le hubren correspondido durante el tiempo faltante del mandato y el año de estabilidad posterior. Si el trabajador fuese un candidato no electo tendrá derecho a percibir, además de las indemnizaciones y de las remuneraciones imputables al período de estabilidad aún no agotado, el importe de un año más de remuneraciones.
+El trabajador, salvo que se trate de un candidato no electo, podrá optar por considerar extinguido el vínculo laboral en virtud de la decisión del empleador, colocándose en situación de despido indirecto, en cuyo caso tendrá derecho a percibir, además de indemnizaciones por despido, una suma equivalente al importe de las remuneraciones que le hubieren correspondido durante el tiempo faltante del mandato y el año de estabilidad posterior. Si el trabajador fuese un candidato no electo tendrá derecho a percibir, además de las indemnizaciones y de las remuneraciones imputables al período de estabilidad aún no agotado, el importe de un año más de remuneraciones.
 
 La promoción de las acciones por reinstalación o por restablecimiento de las condiciones de trabajo a las que refieren los párrafos anteriores interrumpe la prescripción de las acciones por cobro de indemnización y salarios caídos allí previstas. El curso de la prescripción comenzará una vez que recayere pronunciamiento firme en cualquiera de los supuestos.
 
@@ -440,9 +456,11 @@ a) Incumplimiento de las intimaciones a que se refiere el inciso 2 de este artí
 
 b) Cuando haya comprobado que en las asociaciones se ha incurrido en graves irregularidades administrativas. En el proceso judicial será parte de la asociación sindical afectada. No obstante lo antes prescripto, cuando existiera peligro de serios perjuicios a la asociación sindical o a sus miembros, solicitar judicialmente medidas cautelares a fin que se disponga la suspensión en el ejercicio de sus funciones de quienes integran el órgano de conducción y se designa un funcionario con facultades para ejercer los actos conservatorios y de administración necesarios para subsanar las irregularidades que determinen se adopte esa medida cautelar.
 
-4º — Disponer la convocatoria a elecciones de los cuerpos que en gobierno, la administración y la fiscalización de los actos que realicen estos últimos, como así también ejecutar los demás actos que hubiere menester para que mediante el proceso electoral se designen a los integrantes de esos cuerpos. Al efecto asimismo podrán nombrar las personas que deban ejecutar esos actos. Todo ello cuando el órgano de asociación facultado para ejecutarlo, después que hubiese sido intimado para que lo hiciere, dentro de un lapso determinado, incumpliera el requerimiento.
+4º — Disponer la convocatori elecciones de los cuerpos que en gobierno, la administración y la fiscalización de los actos que realicen estos últimos, como así también ejecutar los demás actos que hubiere menester para que mediante el proceso electoral se designen a los integrantes de esos cuerpos. Al efecto asimismo podrán nombrar las personas que deban ejecutar esos actos. Todo ello cuando el órgano de asociación facultado para ejecutarlo, después que hubiese sido intimado para que lo hiciere, dentro de un lapso determinado, incumpliera el requerimiento.
 
-En caso de que se produjere un estado de acefalía con relación a la comisión directiva de una asociación sindical de trabajadores o al órgano que tenga asignadas las funciones propias de un cuerpo de conducción, y en tanto en los estatutos de la asociación de que se trate o en los de la federación de la que ésta forme parte, no se haya previsto el modo de regularizar la situación, la autoridad de aplicación también podrá designar un funcionario para que efectúe lo que sea necesaria para regularizar la situación. Por su parte si el órgano encargado de convocar a reunión del asamblea de la asociación o al congreso de la misma, no lo hubiera hecho en el tiempo propio, y ese órgano no de cumplimiento a la intimación que deberá cursársele para que lo efectúe, la autoridad de aplicación estará facultada para hacerlo para adoptar las demás medidas que correspondan para que la reunión tenga lugar.
+En caso de que se produjere un estado de acefalía con relación a la comisión directiva de una asociación sindical de trabajadores o al órgano que tenga asignadas las funciones propias de un cuerpo de conducción, y en tanto en los estatutos de la asociación de que se trate o en los de la federación de la que ésta forme parte, no se haya previsto el modo de regularizar la situación, la autoridad de aplicación también podrá designar un funcionario para que efectúe lo que sea necesaria o para regularizar la situación. Por su parte si el órgano encargado de convocar a reunión del asamblea de la asociación o al congreso de la misma, no lo hubiera hecho en el tiempo propio, y ese órgano no de cumplimiento a la intimación que deberá cursársele para que lo efectúe, la autoridad de aplicación estará facultada para hacerlo para adoptar las demás medidas que correspondan para que la reunión tenga lugar.
+
+(Nota Infoleg: por art. 1° de la Resolución N° 204/2024 del Ministerio de Capital Humano B.O. 17/05/2024 se delega en la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO, el ejercicio de las competencias como Autoridad de Aplicación de la presente Ley. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
 
 Artículo 57. — En tanto no se presente alguna de las situaciones antes previstas, la autoridad administrativa del trabajo no podrá intervenir en la dirección y administración de las asociaciones sindicales a que se refiere esta ley, y en especial restringir el manejo de los fondos sindicales.
 
@@ -502,7 +520,7 @@ Artículo 65. — La presente ley entrará en vigencia al día siguiente de su p
 
 Artículo 66. — Derógase la ley de facto 22.105 y toda otra disposición que se oponga a la presente.
 
-Artículo 67. — Comuníquese al Poder Ejecutivo.
+Artículo 67. — Comuníquesel Poder Ejecutivo.
 
 Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a los veintitrés días del mes de marzo del año mil novecientos ochenta y ocho.
 

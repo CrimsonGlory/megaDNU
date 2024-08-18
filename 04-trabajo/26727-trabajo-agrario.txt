@@ -170,7 +170,7 @@ ARTICULO 31. — Obligación de proporcionar traslado. Supuesto. Cuando entre el
 
 Los trabajadores rurales no podrán ser trasladados en camiones. Los vehículos a utilizarse deberán haber sido construidos con destino al transporte de personas.
 
-En caso de ser trasladados en vehículos de carga o en utilitaios, solamente podrán viajar en los lugares diseñados para el traslado de personas.
+En caso de ser trasladados en vehículos de carga o en utilitaos, solamente podrán viajar en los lugares diseñados para el traslado de personas.
 
 La cantidad máxima de trabajadores que podrán viajar en cada vehículo estará determinada por la cantidad de asientos fijos provistos, sea cual fuere la distancia a recorrer.
 
@@ -249,13 +249,13 @@ ARTICULO 41. — Jornada nocturna. Jornada mixta. La jornada ordinaria de trabaj
 
 Cuando se alternen horas diurnas con nocturnas se reducirá proporcionalmente la jornada en ocho (8) minutos por cada hora nocturna trabajada o se pagarán los ocho (8) minutos en exceso como tiempo extraordinario.
 
-ARTICULO 42. — Horas extraordinarias. Límite. El número máximo de horas extraordinarias queda establecido en treinta (30) horas mensuales y doscientas (200) horas anuales, sin necesidad de autorización administrativa previa y sin pjuicio del debido respeto de las previsiones normativas relativas a jornada, pausas y descansos.
+ARTICULO 42. — Horas extraordinarias. Límite. El número máximo de horas extraordinarias queda establecido en treinta (30) horas mensuales y doscientas (200) horas anuales, sin necesidad de autorización administrativa previa y sin perjuicio del debido respeto de las previsiones normativas relativas a jornada, pausas y descansos.
 
 CAPITULO II
 
 Del descanso semanal
 
-ARTICULO 43. — Prohibición de trabajar. Queda prohibida la ocupación del trabajador desde las trece (13) horas del día sábado hasta las veinticuatro (24) del día siguiente, salvo cuando necesidades objetivas impostergables de la producción o de mantenimiento lo exigieren. En tales supuestos, el trabajador gozará de un descanso compensatorio dentro de los siete (7) días siguientes.
+ARTICULO 43. — Prohibición de trabajar. Queda prohibida la ocupación del trabajador desde las trece (13) horas del día sábado hasta las veinticuatro (24) del día siguiente, salvo cuando necesidades objetivas impostergables de la producción o de mantenimiento lo exigieren. En tales supuestos, el trabajador gozará de un descanso compensatorio dentro de los siete (7) dÃ siguientes.
 
 Estarán, asimismo, exceptuadas de la prohibición establecida en el primer párrafo del presente artículo, aquellas tareas que habitualmente deban realizarse también en días domingo por la naturaleza de la actividad o por tratarse de guardias rotativas entre el personal del establecimiento. En estos casos, el empleador deberá otorgar al trabajador un descanso compensatorio de un (1) día en el curso de la semana siguiente.
 
@@ -321,13 +321,13 @@ CAPITULO I
 
 Edad mínima de admisión al empleo o trabajo
 
-ARTICULO 54. — Prohibición del trabajo infantil. Queda prohibido el trabajo de las personas menores de dieciséis (16) añosn todas sus formas, exista o no relación de empleo, y sea aquél remunerado o no. La inspección del trabajo deberá ejercer las funciones conducentes al cumplimiento de dicha prohibición.
+ARTICULO 54. — Prohibición del trabajo infantil. Queda prohibido el trabajo de las personas menores de dieciséis (16) años en todas sus formas, exista o no relación de empleo, y sea aquél remunerado o no. La inspección del trabajo deberá ejercer las funciones conducentes al cumplimiento de dicha prohibición.
 
 CAPITULO II
 
 Regulación del trabajo adolescente
 
-ARTICULO 55. — Trabajo adolescente. Las personas desde los dieciséis (16) años y hasta los dieciocho (18) años pueden celebrar contrato de trabajo con autorización de sus padres, responsables o tutores, conforme lo determine la reglamentación que en consecuencia se dicte.
+ARTICULO 55. — Trabajo adolescente. Las personas desde los dieciséis (16) años y hasta los dieciocho (18) años pueden celebrar contrato de trabajo con autorización de sus padres, responsables o tutores, conforme lo determine la reglamentación que en consecuenciae dicte.
 
 Si el adolescente vive independientemente de sus padres se presumirá la autorización.
 
@@ -379,11 +379,11 @@ ARTICULO 68. — Facultades del Ministerio de Trabajo, Empleo y Seguridad Social
 
 CAPITULO II
 
-De lasolsas de trabajo a cargo de las asociaciones sindicales
+De las bolsas de trabajo a cargo de las asociaciones sindicales
 
 ARTICULO 69. — Bolsa de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial podrán proponer a los empleadores un listado del personal necesario para la realización de tareas temporarias en las actividades contempladas en la presente Ley, conforme las resoluciones que a tal efecto dicte la Comisión de Trabajo Agrario.
 
-El empleador podrá contratar a la persona sugerida y/o a cualquier otra que disponga.
+El empleador podrá contratar a la persona sugerida y/o a cualquier otrque disponga.
 
 Queda derogada toda norma que se oponga al presente artículo y/o a la libertad de contratación y elección del personal por parte del empleador.
 
@@ -417,7 +417,7 @@ Responsabilidad del estado
 
 ARTICULO 76. — Formación profesional. Capacitación. El Poder Ejecutivo Nacional, por intermedio del Ministerio de Trabajo, Empleo y Seguridad Social, arbitrará las medidas y recursos necesarios para concretar una política nacional de capacitación técnica intensiva de los trabajadores agrarios, contemplando la naturaleza de las actividades, las zonas en que éstas se realizaren, los intereses de la producción y el desarrollo del país. A este efecto, el mencionado ministerio deberá impulsar la programación de cursos de capacitación y de perfeccionamiento técnico.
 
-ARTULO 77. — Convenios. Facúltase al Ministerio de Trabajo, Empleo y Seguridad Social para concertar con el Ministerio de Educación, el Ministerio de Agricultura, Ganadería y Pesca y organismos educacionales técnicos, estatales o privados, convenios que aseguren el eficaz cumplimiento de los objetivos enunciados en este capítulo.
+ARTIConvenios. Facúltase al Ministerio de Trabajo, Empleo y Seguridad Social para concertar con el Ministerio de Educación, el Ministerio de Agricultura, Ganadería y Pesca y organismos educacionales técnicos, estatales o privados, convenios que aseguren el eficaz cumplimiento de los objetivos enunciados en este capítulo.
 
 TITULO XII
 
@@ -449,7 +449,7 @@ CAPITULO I
 
 De la Comisión Nacional de Trabajo Agrario
 
-ARTICULO 84. — Comisión Nacional de Trabajo Agrario. Integración. La Comisión Nacional de Trabajo Agrario (CNTA) será el órgano normativo propio de este régimen legal, la cual estará integrada por dos (2) representantes titulares y dos (2) suplentes del Ministerio de Trabajo, Empleo y Seguridad Social; uno (1) representante titular y uno (1) suplente del Ministerio de Agricultura, Ganadería y Pesca; uno (1) representante titular y uno (1) suplente del Ministerio de Economía y Finanzas Públicas; dos (2) representantes de los empleadores y dos (2) representantes de los trabajadores, cada uno de ellos con sus respectivos suplentes.
+ARTICULO 84. — Comisión Nacional de Trabajo Agrario. Integración. La Comisión Nacional de Trabajo Agrario (CNTA) será el órgano normativo propio de este régimen legal, la cual estará integrada por dos (2) representantes titulares y dos (2) suplentes del Ministerio de Trabajo, Empleo y Seguridad Social; uno (1) representante titular y uno (1) suplente del Ministerio de Agricultura, Ganadería y Pesca; uno (1) representante titular y uno (1) suplente del Ministerio de Economía y Finanzas Públicas; dos (2) representantes de los empleadores y dos (2) representantes deores, cada uno de ellos con sus respectivos suplentes.
 
 La Presidencia de la Comisión se encontrará a cargo de uno (1) de los representantes del Ministerio de Trabajo, Empleo y Seguridad Social. En caso de empate en las respectivas votaciones, el presidente tendrá doble voto.
 
@@ -489,7 +489,7 @@ j) Asesorar a los organismos nacionales, de la Ciudad Autónoma de Buenos Aires,
 
 k) Solicitar de las reparticiones nacionales, de la Ciudad Autónoma de Buenos Aires, provinciales, municipales o entes autárquicos, los estudios técnicos, económicos y sociales vinculados al objeto de la presente ley y sus reglamentaciones;
 
-l) Intervenir en los conflictos colectivos de trabajo que se susciten entre las partes y actuar como árbitro ando de común acuerdo lo soliciten las mismas;
+l) Intervenir en los conflictos colectivos de trabajo que se susciten entre las partes y actuar como árbitro cuando de común acuerdo  soliciten las mismas;
 
 m) Celebrar acuerdos de cooperación con entidades públicas y privadas, tanto nacionales como internacionales; y
 
@@ -527,7 +527,7 @@ CAPITULO II
 
 De las comisiones asesoras regionales
 
-ARTICULO 92. — Comisiones asesoras regionales. Determinación. En las zonas que determine la Comisión Nacional de Trabajo Agrario (CNTA) se integrarán comisiones asesoras regionales. A tal fin podrá requerirse dictamen del Ministerio de Agricultura, Ganadería y Pesca u otro organismo público vinculado a la materia.
+ARTICULO 92. — Comisiones asesoras regionales. Determinación. En las zonas que determine la Comisión Nacional de Trabajo Agrario (CNTA) se integrarán comisiones asesoras regionales. A tal fin podrá requerirse dictamen del Ministericultura, Ganadería y Pesca u otro organismo público vinculado a la materia.
 
 ARTICULO 93. — Lugar de funcionamiento. Las comisiones asesoras regionales funcionarán en dependencias de las Delegaciones Regionales del Ministerio de Trabajo, Empleo y Seguridad Social que la Comisión Nacional de Trabajo Agrario (CNTA) determine como sedes. En éstas se dispondrán las oficinas de apoyo legal, técnico y administrativo de carácter permanente y se las dotará del personal necesario a fin de garantizar su correcto funcionamiento.
 
@@ -570,11 +570,13 @@ De la autoridad de aplicación.
 
 ARTICULO 99. — Autoridad de aplicación. El Ministerio de Trabajo, Empleo y Seguridad Social será la autoridad de aplicación del presente régimen.
 
+(Nota Infoleg: por art. 1° de la Resolución N° 204/2024 del Ministerio de Capital Humano B.O. 17/05/2024 se delega en la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO, el ejercicio de las competencias como Autoridad de Aplicación de la presente Ley. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
 CAPITULO II
 
 Disposiciones complementarias
 
-ARTICULO 100. — Ley de contrato de trabo. Su aplicación. Las disposiciones de esta ley son de orden público y excluyen las contenidas en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y sus modificatorias en cuanto se refieran a aspectos de la relación laboral contempladas en la presente ley, conforme lo establecido en el artículo 2º.
+ARTICULO 100. — Ley de contrato de trabajo. Su aplicación. Las disposiciones de esta ley son de orden público y excluyen las contenidas en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y susias en cuanto se refieran a aspectos de la relación laboral contempladas en la presente ley, conforme lo establecido en el artículo 2º.
 
 ARTICULO 101. — Disposiciones complementarias. Vigencia. Las estipulaciones contenidas en los convenios y acuerdos colectivos de trabajo que se encuentren vigentes a la fecha de promulgación de la presente, mantendrán su plena vigencia en todo aquello que no vulnere lo establecido en los artículos 8º y 9º de esta ley.
 

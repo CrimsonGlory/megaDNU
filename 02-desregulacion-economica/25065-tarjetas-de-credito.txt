@@ -22,7 +22,7 @@ CAPITULO I
 
 Del sistema de la Tarjeta de Crédito
 
-ARTICULO 1° — Se entiende por sistema de Tarjeta de Crédito al conjunto complejo y sistematizado de contratos individuales cuya finalidad es:
+ARTICULO 1° — Se entiende por sistema de Tarjeta de Crédito al conjunto de contratos individuales cuya finalidad es:
 
 a) Posibilitar al usuario efectuar operaciones de compra o locación de bienes o servicios u obras, obtener préstamos y anticipos de dinero del sistema, en los comercios e instituciones adheridos.
 
@@ -36,7 +36,7 @@ Definiciones y Ley aplicable
 
 ARTICULO 2° — A los fines de la presente ley se entenderá por:
 
-a) Emisor: Es la entidad financiera, comercial o bancaria que emita Tarjetas de Crédito, o que haga efectivo el pago.
+a) Emisor: Es la entidad, de cualquier naturaleza, en tanto se encuentre previsto dentro de su objeto social, que emita Tarjetas de Crédito, o que haga efectivo el pago.
 
 b) Titular de Tarjeta de Crédito: Aquel que está habilitado para el uso de la Tarjeta de Crédito y quien se hace responsable de todos los cargos y consumos realizados personalmente o por los autorizados por el mismo.
 
@@ -54,23 +54,9 @@ CAPITULO III
 
 De la Tarjeta de Crédito
 
-ARTICULO 4° — Denominación. Se denomina genéricamente Tarjeta de Crédito al instrumento material de identificación del usuario, que puede ser magnético o de cualquier otra tecnología, emergente de una relación contractual previa entre el titular y el emisor.
+ARTICULO 4° — Denominación. Se denomina genéricamente Tarjeta de Crédito al instrumento de identificación del usuario, que puede ser física o virtual, magnética o de cualquier otra tecnología, emergente de una relación contractual previa entre el titular y el emisor.
 
-ARTICULO 5° — Identificación. El usuario, poseedor de la tarjeta estará identificado en la misma con:
-
-a) Su nombre y apellido.
-
-b) Número interno de inscripción.
-
-c) Su firma ológrafa.
-
-d) La fecha de emisión de la misma.
-
-e) La fecha de vencimiento.
-
-f) Los medios que aseguren la inviolabilidad de la misma.
-
-6) La identificación del emisor y de la entidad bancaria interviniente.
+ARTICULO 5° — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.) 
 
 CAPITULO IV
 
@@ -108,23 +94,11 @@ n) Una declaración en el sentido que los cargos en que se haya incurrido con mo
 
 h) Causales de suspensión, resolución y/o anulación del contrato de Tarjeta de Crédito.
 
-ARTICULO 7° — Redacción del contrato de emisión de Tarjeta de Crédito. El contrato de emisión de Tarjeta de Crédito deberá reunir las siguientes condiciones:
+ARTICULO 7° — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-a) Redactado en ejemplares de un mismo tenor para el emisor, para el titular, para el eventual fiador personal del titular y para el adherente o usuario autorizado que tenga responsabilidades frente al emisor o los proveedores.
+ARTICULO 8° — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.) 
 
-b) El contrato deberá redactarse claramente y con tipografía fácilmente legible a simple vista.
-
-c) Que las cláusulas que generen responsabilidad para el titular adherente estén redactadas mediante el empleo de caracteres destacados o subrayados.
-
-d) Que los contratos tipo que utilice el emisor estén debidamente autorizados y registrados por la autoridad de aplicación.
-
-(Nota Infoleg: Inciso d) observado por art. 2° del Decreto N° 15/99 B.O. 14/1/99, pero confirmado por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
-
-ARTICULO 8° — Perfeccionamiento de la relación contractual. El contrato de Tarjeta de Crédito entre el emisor y el titular queda perfeccionado sólo cuando se firma el mismo, se emitan las respectivas tarjetas y el titular las reciba de conformidad.
-
-El emisor deberá entregar tantas copias del contrato como partes intervengan en el mismo.
-
-ARTICULO 9° — Solicitud. La solicitud de la emisión de la Tarjeta de Crédito, de sus adicionales y la firma del codeudor o fiador no generan responsabilidad alguna para el solicitante, ni perfeccionan la relación contractual.
+ARTICULO 9° — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 10. — Prórroga automática de los contratos. Será facultativa la prórroga automática de los contratos de Tarjeta de Crédito entre emisor y titular. Si se hubiese pactado la renovación automática el usuario podrá dejarla sin efecto comunicando su decisión por medio fehaciente con treinta (30) días de antelación. El emisor deberá notificar al titular en los tres últimos resúmenes anteriores al vencimiento de la relación contractual la fecha en que opera el mismo.
 
@@ -148,11 +122,11 @@ a) Las que importen la renuncia por parte del titular a cualquiera de los derech
 
 b) Las que faculten al emisor a modificar unilateralmente las condiciones del contrato.
 
-c) Las que impongan un monto fijo por atrasos en el pago del resumen.
+c) (Inciso derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)  
 
 d) Las que impongan costos por informar la no validez de la tarjeta, sea por pérdida, sustracción, caducidad o rescisión contractual.
 
-e) Las adicionales no autorizadas por la autoridad de aplicación.
+e) (Inciso derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.) 
 
 f) Las que autoricen al emisor la rescisión unilateral incausada.
 
@@ -168,13 +142,9 @@ j) Las adhesiones tácitas a sistemas anexos al sistema de Tarjeta de Crédito.
 
 CAPITULO VI
 
-De las comisiones
+De las Tasas - Información
 
-ARTICULO 15. — El emisor no podrá fijar aranceles diferenciados en concepto de comisiones u otros cargos, entre comercios que pertenezcan a un mismo rubro o con relación a iguales o similares productos o servicios.
-
-El emisor de tarjetas de compra y crédito en ningún caso efectuará descuentos ni aplicará cargos, por todo concepto, superiores a un TRES POR CIENTO (3%) sobre las liquidaciones presentadas por el proveedor. Para las tarjetas de débito bancario este porcentaje máximo será del UNO COMA CINCO POR CIENTO (1,5%) y la acreditación de los importes correspondientes a las ventas canceladas mediante tarjetas de débito en las cuentas de los establecimientos adheridos, se hará en un plazo máximo de TRES (3) días hábiles.
-
-(Artículo sustituido por art. 1° de la Ley N° 26.010 B.O. 11/1/2005).
+ARTICULO 15. — La entidad emisora deberá obligatoriamente dar a conocer el público la tasa de financiación aplicada al sistema de Tarjeta de Crédito. 
 
 CAPITULO VII
 
@@ -188,11 +158,9 @@ La entidad emisora deberá obligatoriamente exhibir al público en todos los loc
 
 (Nota Infoleg: Primer y Segundo párrafo observados por art. 5° del Decreto N° 15/99 B.O. 14/1/99, pero confirmados por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
 
-ARTICULO 17. — Sanciones. El Banco Central de la República Argentina sancionará a las entidades que no cumplan con la obligación de informar o, en su caso, no observen las disposiciones relativas al nivel de las tasas a aplicar de acuerdo con lo establecido por la Carta Orgánica del Banco Central.
+ARTICULO 17. — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-ARTICULO 18. — Interés punitorio. El límite de los intereses punitorios que el emisor aplique al titular no podrá superar en más del cincuenta por ciento (50%) a la efectivamente aplicada por la institución financiera o bancaria emisora en concepto de interés compensatorio o financiero.
-
-Independientemente de lo dispuesto por las leyes de fondo, los intereses punitorios no serán capitalizables.
+ARTICULO 18. — Interés punitorio. Independientemente de lo dispuesto por las leyes de fondo, los intereses punitorios no serán capitalizables.
 
 (Nota Infoleg: Primer párrafo observado por art. 6° del Decreto N° 15/99 B.O. 14/1/99, pero confirmado por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
 
@@ -220,7 +188,7 @@ CAPITULO IX
 
 Del Resumen
 
-ARTICULO 22. — Resumen mensual de operaciones. El emisor deberá confeccionar y enviar mensualmente un resumen detallado de las operaciones realizadas por el titular o sus autorizados.
+ARTICULO 22. — Resumen mensual de operaciones. El emisor deberá confeccionar y enviar mensualmente un resumen detallado, preferentemente en forma electrónica, de las operaciones realizadas por el titular o sus autorizados. 
 
 ARTICULO 23. — Contenido del resumen. El resumen mensual del emisor o la entidad que opere por su cuenta deberá contener obligatoriamente:
 
@@ -264,8 +232,6 @@ ARTICULO 25. — Tiempo de recepción. El resumen deberá ser recibido por el ti
 
 En el supuesto de la no recepción del resumen, el titular dispondrá de un canal de comunicación telefónico proporcionado por el emisor durante las veinticuatro (24) horas del día que le permitirá obtener el saldo de la cuenta y el pago mínimo que podrá realizar.
 
-La copia del resumen de cuenta se encontrará a disposición del titular en la sucursal emisora de la tarjeta
-
 CAPITULO X
 
 Del cuestionamiento o impugnación de la liquidación o resumen por el titular
@@ -306,13 +272,7 @@ De las relaciones entre emisor y proveedor
 
 CAPITULO I
 
-ARTICULO 32.— Deber de información. El emisor, sin cargo alguno, deberá suministrar a los proveedores:
-
-a) Todos los materiales e instrumentos de identificación y publicaciones informativas sobre los usuarios del sistema.
-
-b) El régimen sobre pérdidas o sustracciones a los cuales están sujetos en garantía de sus derechos.
-
-c) Las cancelaciones de tarjetas por sustracción, pérdida, voluntarias o por resolución contractual.
+ARTICULO 32.— (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 33. — Aviso a los proveedores. El emisor deberá informar inmediatamente a los proveedores sobre las cancelaciones de Tarjetas de Crédito antes de su vencimiento sin importar la causa.
 
@@ -320,7 +280,7 @@ La falta de información no perjudicará al proveedor.
 
 ARTICULO 34. — Las transgresiones a la regulación vigente serán inoponibles al proveedor, si el emisor hubiera cobrado del titular los importes cuestionados.
 
-ARTICULO 35. — Terminales electrónicas. Los emisores instrumentarán terminales electrónicas de consulta para los proveedores que no podrán excluir equipos de conexión de comunicaciones o programas informáticos no provistos por aquellos, salvo incompatibilidad técnica o razones de seguridad, debidamente demostradas ante la autoridad de aplicación para garantizar las operaciones y un correcto sistema de recaudación impositiva.
+ARTICULO 35. — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.) 
 
 ARTICULO 36. — Pagos diferidos. El pago con valores diferidos por parte de los emisores a los proveedores, con cheques u otros valores que posterguen realmente el pago efectivo, devengaran un interés igual al compensatorio o por financiación cobrados a los titulares por cada día de demora en la efectiva cancelación o acreditación del pago al proveedor.
 
@@ -340,7 +300,7 @@ CAPITULO II
 
 Del contrato entre el emisor y el proveedor
 
-ARTICULO 38. — El contrato tipo entre el emisor y el proveedor deberá ser aprobado por la autoridad de aplicación y contendrá como mínimo:
+ARTICULO 38. — El contrato tipo entre el emisor y el proveedor contendrá como mínimo:
 
 a) Plazo de vigencia.
 
@@ -354,7 +314,7 @@ e) Plazo y requisitos para la presentación de las liquidaciones.
 
 f) Tipo de comprobantes a presentar de las operaciones realizadas.
 
-g) Obligación del proveedor de consulta previa sobre la vigencia de la tarjeta.Además deberán existir tantos ejemplares como partes contratantes haya y de un mismo tenor.
+g) Obligación del proveedor de consulta previa sobre la vigencia de la tarjeta.Además deberán existir tantos ejemplares como partes contratantes haya y de un mismo tenor. 
 
 (Nota Infoleg: Frase del primer párrafo observada por art. 13 del Decreto N° 15/99 B.O. 14/1/99, pero confirmada por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
 
@@ -436,17 +396,9 @@ d) Emisor y proveedor, el del domicilio del proveedor.
 
 (Nota Infoleg: Artículo observado por art. 14 del Decreto N° 15/99 B.O. 14/1/99, pero confirmado por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
 
-ARTICULO 53. — Prohibición de informar. Las entidades emisoras de Tarjetas de Crédito, bancarias o crediticias tienen prohibido informar a las "bases de datos de antecedentes financieros personales" sobre los titulares y beneficiarios de extensiones de Tarjetas de Crédito u opciones cuando el titular no haya cancelado sus obligaciones, se encuentre en mora o en etapa de refinanciación. Sin perjuicio de la obligación de informar lo que correspondiere al Banco Central de la República Argentina.
+ARTICULO 53. — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-Las entidades informantes serán solidaria e ilimitadamente responsables por los daños y perjuicios ocasionados a los beneficiarios de las extensiones u opciones de Tarjetas de Crédito por las consecuencias de la información provista.
-
-(Nota Infoleg: Artículo observado por art. 14 del Decreto N° 15/99 B.O. 14/1/99, pero confirmado por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
-
-ARTICULO 54. — Las entidades emisoras deberán enviar la información mensual de sus ofertas a la Secretaría de Industria, Comercio y Minería, la que deberá publicar en el mismo período, el listado completo de esa información en espacios destacados de los medios de prensa de amplia circulación nacional.
-
-El Banco Central de la República Argentina aplicará las sanciones que correspondan en caso de incumplimiento a la obligación de informar, establecida precedentemente, que se denuncie por la Secretaría de Industria, Comercio y Minería.
-
-(Nota Infoleg: Segundo párrafo observado por art. 15 del Decreto N° 15/99 B.O. 14/1/99, pero confirmado por Mensaje del Senado de fecha 1/9/99 B.O. 24/9/99).
+ARTICULO 54. — (Artículo derogado por art. 14 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 55. — En aquellos casos en que se ofrezcan paquetes con varios servicios financieros y bancarios, incluyendo la emisión de Tarjetas de Crédito, se debe dejar bien claro, bajo pena de no poder reclamar importe alguno, dentro de la promoción, el costo total que deberá abonar el titular todos los meses en concepto de costos por los diferentes conceptos, especialmente ante la eventualidad de incurrir en mora o utilizar los servicios ofertados.
 
