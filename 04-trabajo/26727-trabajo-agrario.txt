@@ -8,6 +8,8 @@ Sancionada: Diciembre 21 de 2011
 
 Promulgada: Diciembre 27 de 2011
 
+Ver Antecedentes Normativos
+
 El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
 
 REGIMEN DE TRABAJO AGRARIO
@@ -98,13 +100,17 @@ Si en el ejercicio de sus funciones los servicios de inspección de trabajo comp
 
 Las cooperativas de trabajo no podrán actuar en el ámbito de la presente ley como empresas de provisión de trabajadores para servicios temporarios, ni de cualquier otro modo brindar servicios propios de las agencias de colocación.
 
-ARTICULO 15. — (Artículo derogado por art. 57 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 15. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 TITULO III
 
 MODALIDADES CONTRACTUALES DEL TRABAJO AGRARIO
 
-ARTICULO 16. — Contrato de trabajo agrario permanente de prestación continua. El contrato de trabajo agrario se entenderá celebrado con carácter permanente y como de prestación continua, salvo los casos previstos expresamente por esta ley. No podrá ser celebrado a prueba por período alguno y su extinción se regirá por lo dispuesto en el Título XII de la ley 20.744 (t.o 1976) y sus modificatorias.
+ARTICULO 16. — Contrato de trabajo agrario permanente de prestación continua. El contrato de trabajo agrario se entenderá celebrado con carácter permanente y como de prestación continua, salvo los casos previstos expresamente por esta ley. Su extinción se regirá por lo dispuesto en el título XII de la ley 20.744 (t.o. 1976) y sus modificatorias.
+
+Para los trabajadores de tiempo indeterminado del sector agrario será de aplicación lo dispuesto respecto del período de prueba en el artículo 92 bis de la ley 20.744.
+
+(Artículo sustituido por art. 98 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 ARTICULO 17. — Contrato de trabajo temporario. Habrá contrato de trabajo temporario cuando la relación laboral se origine en necesidades de la explotación de carácter cíclico o estacional, o por procesos temporales propios de la actividad agrícola, pecuaria, forestal o de las restantes actividades comprendidas dentro del ámbito de aplicación de la presente ley, así como también, las que se realizaren en ferias y remates de hacienda.
 
@@ -170,7 +176,7 @@ ARTICULO 31. — Obligación de proporcionar traslado. Supuesto. Cuando entre el
 
 Los trabajadores rurales no podrán ser trasladados en camiones. Los vehículos a utilizarse deberán haber sido construidos con destino al transporte de personas.
 
-En caso de ser trasladados en vehículos de carga o en utilitaos, solamente podrán viajar en los lugares diseñados para el traslado de personas.
+En caso de ser trasladados en vehículos de carga o en utilitarios, solamente podrán viajar en los lugares diseñados para el traslado de personas.
 
 La cantidad máxima de trabajadores que podrán viajar en cada vehículo estará determinada por la cantidad de asientos fijos provistos, sea cual fuere la distancia a recorrer.
 
@@ -255,7 +261,7 @@ CAPITULO II
 
 Del descanso semanal
 
-ARTICULO 43. — Prohibición de trabajar. Queda prohibida la ocupación del trabajador desde las trece (13) horas del día sábado hasta las veinticuatro (24) del día siguiente, salvo cuando necesidades objetivas impostergables de la producción o de mantenimiento lo exigieren. En tales supuestos, el trabajador gozará de un descanso compensatorio dentro de los siete (7) dÃ siguientes.
+ARTICULO 43. — Prohibición de trabajar. Queda prohibida la ocupación del trabajador desde las trece (13) horas del día sábado hasta las veinticuatro (24) del día siguiente, salvo cuando necesidades objetivas impostergables de la producción o de mantenimiento lo exigieren. En tales supuestos, el trabajador gozará de un descanso compensatorio dentro de los siete (7) días siguientes.
 
 Estarán, asimismo, exceptuadas de la prohibición establecida en el primer párrafo del presente artículo, aquellas tareas que habitualmente deban realizarse también en días domingo por la naturaleza de la actividad o por tratarse de guardias rotativas entre el personal del establecimiento. En estos casos, el empleador deberá otorgar al trabajador un descanso compensatorio de un (1) día en el curso de la semana siguiente.
 
@@ -327,7 +333,7 @@ CAPITULO II
 
 Regulación del trabajo adolescente
 
-ARTICULO 55. — Trabajo adolescente. Las personas desde los dieciséis (16) años y hasta los dieciocho (18) años pueden celebrar contrato de trabajo con autorización de sus padres, responsables o tutores, conforme lo determine la reglamentación que en consecuenciae dicte.
+ARTICULO 55. — Trabajo adolescente. Las personas desde los dieciséis (16) años y hasta los dieciocho (18) años pueden celebrar contrato de trabajo con autorización de sus padres, responsables o tutores, conforme lo determine la reglamentación que en consecuencia se dicte.
 
 Si el adolescente vive independientemente de sus padres se presumirá la autorización.
 
@@ -381,13 +387,13 @@ CAPITULO II
 
 De las bolsas de trabajo a cargo de las asociaciones sindicales
 
-ARTICULO 69. — Bolsa de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial podrán proponer a los empleadores un listado del personal necesario para la realización de tareas temporarias en las actividades contempladas en la presente Ley, conforme las resoluciones que a tal efecto dicte la Comisión de Trabajo Agrario.
+ARTICULO 69. — Bolsa de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial podrán proponer a los empleadores un listado del personal necesario para la realización de tareas temporarias en las actividades contempladas en la presente ley, conforme las resoluciones que a tal efecto dicte la Comisión de Trabajo Agrario.
 
-El empleador podrá contratar a la persona sugerida y/o a cualquier otrque disponga.
+El empleador podrá contratar a la persona sugerida y/o a cualquier otra que disponga.
 
 Queda derogada toda norma que se oponga al presente artículo y/o a la libertad de contratación y elección del personal por parte del empleador.
 
-(Artículo sustituido por art. 89 del Decreto N° 70/2023 B.O. 21/12/2023.)
+(Artículo sustituido por art. 98 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 ARTICULO 70. — Funcionamiento de las bolsas de trabajo. El funcionamiento de las bolsas de trabajo referidas en el artículo anterior se ajustará a lo dispuesto por el presente régimen, sus normas reglamentarias y las resoluciones dictadas por la Comisión Nacional de Trabajo Agrario (CNTA).
 
@@ -417,7 +423,7 @@ Responsabilidad del estado
 
 ARTICULO 76. — Formación profesional. Capacitación. El Poder Ejecutivo Nacional, por intermedio del Ministerio de Trabajo, Empleo y Seguridad Social, arbitrará las medidas y recursos necesarios para concretar una política nacional de capacitación técnica intensiva de los trabajadores agrarios, contemplando la naturaleza de las actividades, las zonas en que éstas se realizaren, los intereses de la producción y el desarrollo del país. A este efecto, el mencionado ministerio deberá impulsar la programación de cursos de capacitación y de perfeccionamiento técnico.
 
-ARTIConvenios. Facúltase al Ministerio de Trabajo, Empleo y Seguridad Social para concertar con el Ministerio de Educación, el Ministerio de Agricultura, Ganadería y Pesca y organismos educacionales técnicos, estatales o privados, convenios que aseguren el eficaz cumplimiento de los objetivos enunciados en este capítulo.
+ARTICULO 77. — Convenios. Facúltase al Ministerio de Trabajo, Empleo y Seguridad Social para concertar con el Ministerio de Educación, el Ministerio de Agricultura, Ganadería y Pesca y organismos educacionales técnicos, estatales o privados, convenios que aseguren el eficaz cumplimiento de los objetivos enunciados en este capítulo.
 
 TITULO XII
 
@@ -449,7 +455,7 @@ CAPITULO I
 
 De la Comisión Nacional de Trabajo Agrario
 
-ARTICULO 84. — Comisión Nacional de Trabajo Agrario. Integración. La Comisión Nacional de Trabajo Agrario (CNTA) será el órgano normativo propio de este régimen legal, la cual estará integrada por dos (2) representantes titulares y dos (2) suplentes del Ministerio de Trabajo, Empleo y Seguridad Social; uno (1) representante titular y uno (1) suplente del Ministerio de Agricultura, Ganadería y Pesca; uno (1) representante titular y uno (1) suplente del Ministerio de Economía y Finanzas Públicas; dos (2) representantes de los empleadores y dos (2) representantes deores, cada uno de ellos con sus respectivos suplentes.
+ARTICULO 84. — Comisión Nacional de Trabajo Agrario. Integración. La Comisión Nacional de Trabajo Agrario (CNTA) será el órgano normativo propio de este régimen legal, la cual estará integrada por dos (2) representantes titulares y dos (2) suplentes del Ministerio de Trabajo, Empleo y Seguridad Social; uno (1) representante titular y uno (1) suplente del Ministerio de Agricultura, Ganadería y Pesca; uno (1) representante titular y uno (1) suplente del Ministerio de Economía y Finanzas Públicas; dos (2) representantes de los empleadores y dos (2) representantes de los trabajadores, cada uno de ellos con sus respectivos suplentes.
 
 La Presidencia de la Comisión se encontrará a cargo de uno (1) de los representantes del Ministerio de Trabajo, Empleo y Seguridad Social. En caso de empate en las respectivas votaciones, el presidente tendrá doble voto.
 
@@ -489,7 +495,7 @@ j) Asesorar a los organismos nacionales, de la Ciudad Autónoma de Buenos Aires,
 
 k) Solicitar de las reparticiones nacionales, de la Ciudad Autónoma de Buenos Aires, provinciales, municipales o entes autárquicos, los estudios técnicos, económicos y sociales vinculados al objeto de la presente ley y sus reglamentaciones;
 
-l) Intervenir en los conflictos colectivos de trabajo que se susciten entre las partes y actuar como árbitro cuando de común acuerdo  soliciten las mismas;
+l) Intervenir en los conflictos colectivos de trabajo que se susciten entre las partes y actuar como árbitro cuando de común acuerdo lo soliciten las mismas;
 
 m) Celebrar acuerdos de cooperación con entidades públicas y privadas, tanto nacionales como internacionales; y
 
@@ -527,7 +533,7 @@ CAPITULO II
 
 De las comisiones asesoras regionales
 
-ARTICULO 92. — Comisiones asesoras regionales. Determinación. En las zonas que determine la Comisión Nacional de Trabajo Agrario (CNTA) se integrarán comisiones asesoras regionales. A tal fin podrá requerirse dictamen del Ministericultura, Ganadería y Pesca u otro organismo público vinculado a la materia.
+ARTICULO 92. — Comisiones asesoras regionales. Determinación. En las zonas que determine la Comisión Nacional de Trabajo Agrario (CNTA) se integrarán comisiones asesoras regionales. A tal fin podrá requerirse dictamen del Ministerio de Agricultura, Ganadería y Pesca u otro organismo público vinculado a la materia.
 
 ARTICULO 93. — Lugar de funcionamiento. Las comisiones asesoras regionales funcionarán en dependencias de las Delegaciones Regionales del Ministerio de Trabajo, Empleo y Seguridad Social que la Comisión Nacional de Trabajo Agrario (CNTA) determine como sedes. En éstas se dispondrán las oficinas de apoyo legal, técnico y administrativo de carácter permanente y se las dotará del personal necesario a fin de garantizar su correcto funcionamiento.
 
@@ -576,7 +582,7 @@ CAPITULO II
 
 Disposiciones complementarias
 
-ARTICULO 100. — Ley de contrato de trabajo. Su aplicación. Las disposiciones de esta ley son de orden público y excluyen las contenidas en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y susias en cuanto se refieran a aspectos de la relación laboral contempladas en la presente ley, conforme lo establecido en el artículo 2º.
+ARTICULO 100. — Ley de contrato de trabajo. Su aplicación. Las disposiciones de esta ley son de orden público y excluyen las contenidas en la Ley de Contrato de Trabajo 20.744 (t.o. 1976) y sus modificatorias en cuanto se refieran a aspectos de la relación laboral contempladas en la presente ley, conforme lo establecido en el artículo 2º.
 
 ARTICULO 101. — Disposiciones complementarias. Vigencia. Las estipulaciones contenidas en los convenios y acuerdos colectivos de trabajo que se encuentren vigentes a la fecha de promulgación de la presente, mantendrán su plena vigencia en todo aquello que no vulnere lo establecido en los artículos 8º y 9º de esta ley.
 
@@ -607,3 +613,10 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINT
 — REGISTRADA BAJO EL Nº 26.727 —
 
 AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Gervasio Bozzano. — Juan H. Estrada.
+
+
+Antecedentes Normativos
+
+- Artículo 15 derogado por art. 57 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 69 sustituido por art. 89 del Decreto N° 70/2023 B.O. 21/12/2023.
