@@ -5,7 +5,6 @@
 
 
 
-[/web/20231002074435im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 
 
 
@@ -45,7 +44,6 @@ ANTECEDENTES_NORMATIVOS
 
 
 
-[/web/20231206143258im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 Buenos Aires, 2 de marzo de 1981
 En uso de las atribuciones conferidas por el articulo 5° del Estatuto para el Proceso de Reorganización Nacional.
 EL PRESIDENTE DE LA NACION ARGENTINA
@@ -120,7 +118,6 @@ ARTICULO 16. –A los fines de la determinación del origen, y de la procedencia
 
 
 
-[/web/20231206143258im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 Buenos Aires, 2 de marzo de 1981
 En uso de las atribuciones conferidas por el articulo 5° del Estatuto para el Proceso de Reorganización Nacional.
 EL PRESIDENTE DE LA NACION ARGENTINA
@@ -194,7 +191,6 @@ ARTICULO 16. –A los fines de la determinación del origen, y de la procedencia
 
 
 
-[/web/20231207101149im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 17. –
 (Artículo derogado por art. 20 delDecreto_N°_618/1997B.O. 14/7/1997.)
 ARTICULO 18. –
@@ -239,7 +235,6 @@ ARTICULO 35. –
 
 
 
-[/web/20231221050043im_/https://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 36. –1. Son despachantes de aduana las personas de existencia visible que, en las condiciones previstas en este código realizan en nombre de otros ante el servicio aduanero trámites y diligencias relativos a la importación, la exportación y demás operaciones aduaneras.
 2. Los despachantes de aduana son agentes auxiliares del comercio y del servicio aduanero.
 ARTICULO 37. –1. Las personas de existencia visible sólo podrán gestionar ante las aduanas el despacho y la destinación de mercaderías, con la intervención del despachante de aduana, con la excepción de las funciones que este Código prevé para los agentes de transporte aduanero y de aquellas facultades inherentes a la calidad de capitán de buque, comandante de aeronave o, en general, conductor de los demás medios de transporte.
@@ -517,7 +512,6 @@ ARTICULO 90. –1. Los despachantes de aduana y los agentes de transporte aduane
 
 
 
-[/web/20231207165251im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 91. –1. Son importadores las personas que en su nombre importan mercadería, ya sea que la trajeren consigo o que un tercero la trajere para ellos.
 En los supuestos previstos en el apartado 2. del artículo 10, serán considerados importadores las personas que sean prestatarias y/o cesionarias de los servicios y/o derechos allí involucrados. (Párrafo incorporado por art. 8° inciso d de laLey_N°_25.063B.O. 30/12/1998. Vigencia: a partir del día siguiente a su publicación.)
 2. Son exportadores las personas que en su nombre exportan mercadería, ya que la llevaren consigo o que un tercero llevare la que ellos hubieren expedido.
@@ -610,7 +604,6 @@ ARTICULO 108. –Los organismos de la administración pública nacional que tuvi
 
 
 
-[/web/20231207164550im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 109. –
 Los proveedores de a bordo, técnicos de reparaciones, lavaderos y demás personas de existencia física o ideal que cumplieren su actividad profesional, técnica o comercial en relación con el servicio aduanero o en zona primaria aduanera y para los cuales no se hubiere previsto una regulación específica en este código, quedarán sujetos a los requisitos y formalidades que estableciere la Administración Nacional de Aduanas.
 ARTICULO 110. –
@@ -623,7 +616,6 @@ Dentro de los CINCO (5) días de notificada de la sanción que le hubiera sido i
 
 
 
-[/web/20231207172235im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 112. –El servicio aduanero ejercerá el control sobre las personas y la mercadería, incluida la que constituyere medio de transporte, en cuanto tuvieren relación con el tráfico internacional de mercadería.
 ARTICULO 113. –La intensidad de las atribuciones de control depende de la zona donde hubiere de ejercerse, con las excepciones previstas en este Título.
 ARTICULO 114. –Para el cumplimiento de sus funciones de control, el servicio aduanero adoptará las medidas que resultaren más convenientes de acuerdo a las circunstancias, tales como la verificación de la mercadería en cualquier ámbito en que se encontrare, la imposición de sellos y precintos y el establecimiento de custodias.
@@ -639,7 +631,6 @@ ARTICULO 120. –Cuando la ilicitud pudiera constituir delito de contrabando, su
 
 
 
-[/web/20231206151638im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 121. –
 1. En la zona primaria aduanera el ingreso, permanencia, circulación y salida de personas y de mercadería deben efectuarse con la previa autorización y bajo la supervisión del servicio aduanero, el cual determinará los lugares, las horas y los demás requisitos correspondientes.
 2. La autorización y supervisión aduaneras también serán necesarias en esta zona para efectuar trabajos de cualquier índole en o con la mercadería, desde su simple manipuleo hasta su transformación.
@@ -701,7 +692,6 @@ b) interdictar y secuestrar mercadería, cuando se comprobare, prima facie, la c
 
 
 
-[/web/20231207180357im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 130. –Sin perjuicio de lo dispuesto en leyes especiales, todo medio de transporte procedente del exterior que arribare al territorio aduanero o que se detuviere en él, deberá:
 a) hacerlo por o en los lugares habilitados y, en su caso, por las rutas y dentro de los horarios establecidos;
 b) presentar inmediatamente después de su llegada o en la oportunidad en la que el servicio aduanero ejerciere el derecho de visita la documentación que este título se exige y la que la Administración Nacional de Aduanas pudiere determinar, según la vía que se utilizarse.
@@ -846,7 +836,6 @@ ARTICULO 216. –Sin perjuicio de las obligaciones que en este Capítulo se impo
 
 
 
-[/web/20231207162902im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 217. –El importador debe solicitar una destinación de importación dentro del plazo de QUINCE (15) días contado desde la fecha del arribo del medio transportador, sin perjuicio de poder hacerlo con anterioridad a dicho en el supuesto y de conformidad con lo previsto en el artículos 279.
 ARTICULO 218. –Si dentro del plazo establecido en el artículo 217 no se hubiere presentado la solicitud de una destinación aduanera, con la documentación complementaria pertinente, el importador será pasible en forma automática de una multa equivalente al UNO (1%) por ciento del valor en aduana de la mercadería de que se tratare, salvo el supuesto previsto en el artículo 221.
 ARTICULO 219. –La Administración Nacional de Aduanas, mediante resolución dictada con alcance general, podrá autorizar, con sujeción al régimen de garantía previsto en la Sección V, Título III, el despacho de aquella mercadería respecto de la cual el registro de la pertinente declaración se pretendiere efectuar sin la presentación conjunta de toda o parte de la documentación complementaria.
@@ -1023,7 +1012,6 @@ ARTICULO 320. –Si el medio de transporte no arribare en el plazo que se fijare
 
 
 
-[/web/20231207162531im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 321. –La declaración contenida en la solicitud de destinación de exportación es inalterable una vez registrada y el servicio aduanero no admitirá del interesado rectificación, modificación o ampliación alguna, salvo las excepciones previstas en este código.
 ARTICULO 322. –1.- El servicio aduanero autorizará la rectificación, modificación o ampliación de la declaración aduanera, cuando la inexactitud fuere comprobable de su lectura o de la de los documentos complementarios anexos a ella y fuera solicitada con anterioridad:
 a) A que se hubiera dado a conocer que la declaración debe someterse al control documental o a la verificación de la mercadería; o
@@ -1166,7 +1154,6 @@ b) establecer, cuando mediare interés público, regímenes especiales de removi
 
 
 
-[/web/20231207170846im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 397. –La mercadería introducida a zona primaria aduanera para su exportación, que no fuere cargada directamente en el respectivo medio de transporte e ingresare a un lugar de depósito aduanero, desde el momento de su recepción y salvo lo que dispusieren leyes especiales, queda sometida al régimen de depósito provisorio de exportación previsto en este Capítulo, hasta tanto se autorizare o se le asignare de oficio, según el caso, alguna destinación aduanera a su respecto o se la restituyere a plaza.
 ARTICULO 398. –Cuando no fuere solicitada la destinación aduanera o la restitución a plaza, según correspondiere, de la mercadería sometida al régimen de depósito provisorio de exportación, dentro de los plazos que determinare la reglamentación, se procederá de conformidad con lo dispuesto en la Sección V, Título II, Capítulo Primero.
 ARTICULO 399. –Cuando se hubiere solicitado la destinación aduanera o la restitución a plaza y venciere el plazo para cumplimentarla, se procederá de conformidad con lo dispuesto en el artículo 419.
@@ -1192,7 +1179,6 @@ ARTICULO 409. –El medio transportador nacional, que con motivo del transporte 
 
 
 
-[/web/20231207170316im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 410. –
 El servicio aduanero permitirá que toda o parte de la mercadería transportada transborde a otro medio de transporte, siempre que se encontrare incluida en la declaración de la carga y no hubiere sido aún descargada.
 ARTICULO 411. –
@@ -1213,7 +1199,6 @@ La Administración Nacional de Aduanas determinará las formalidades y los demá
 
 
 
-[/web/20231207174658im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 417. –
 El servicio aduanero procederá a anunciar la existencia y situación jurídica de la mercadería durante TRES (3) días en el boletín de la repartición aduanera, indicando el número, marca y envase u otras características suficientes para su individualización, cuando:
 a) la mercadería hubiere arribado, cierta o presuntamente, al territorio aduanero como consecuencia de naufragio, echazón, accidente u otro siniestro acaecido durante su transporte, de conformidad con lo previsto en los artículos 180 y 184;
@@ -1324,7 +1309,6 @@ En el supuesto previsto en el presente Capítulo no será aplicable el procedimi
 
 
 
-[/web/20231207103137im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 453. –El régimen de garantía previsto en este Título debe ser utilizado cuando se pretendiere obtener:
 a) el libramiento de mercadería cuya importación o exportación estuviere sujeta a la eventual exigencia de diferencias por tributos. En este supuesto, debe pagarse el importe que resultare de la liquidación estimativa de tributos practicada en la declaración comprometida y garantizarse la diferencia entre esa cantidad y el máximo que el servicio aduanero razonablemente considerare que pudiere adeudarse en tal concepto;
 b) el libramiento de mercadería con una espera o una facilidad de las que autorizare la reglamentación para el pago de los tributos.
@@ -1375,7 +1359,6 @@ ARTICULO 465. –Quienes pretendieren el libramiento bajo el régimen de garant�
 
 
 
-[/web/20231207170506im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 466. –Los medios de transporte extranjeros que con el objeto de transportar pasajeros o mercadería arribaren por sus propios medios al territorio aduanero y que con esa finalidad debieren permanecer en el mismo sin modificar su estado y en forma transitoria, quedan sometidos al régimen de importación temporaria sin necesidad de solicitud ni otorgamiento de garantía alguna.
 ARTICULO 467. –Los medios de transporte nacionales que con el objeto de transportar pasajeros o mercadería salieren por sus propios medios del territorio aduanero y que con esa finalidad debieren permanecer fuera del mismo sin modificar su estado y en forma transitoria, quedan sometidos al régimen de exportación temporaria sin necesidad de solicitud ni otorgamiento de garantía alguna.
 ARTICULO 468. –No obstante lo previsto en los artículos 466 y 467, cuando la naturaleza, la finalidad o las modalidades del transporte lo justificaren la reglamentación podrá establecer el cumplimiento de determinados requisitos y en su caso el otorgamiento de una garantía a favor del servicio aduanero, de conformidad con lo previsto en la Sección V, Título III.
@@ -1571,7 +1554,6 @@ ARTICULO 584. –Cuando cualquiera de los entes mencionados en el artículo 582,
 
 
 
-[/web/20231207174408im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 585. –
 La extracción efectuada desde el mar territorial argentino, la zona económica exclusiva argentina o desde el lecho o subsuelos submarinos sometidos a la soberanía nacional de mercadería originaria y procedente de los mismos con destino al extranjero o a un área franca, se considera como si se tratare de una exportación para consumo efectuada desde el territorio aduanero general.
 (Artículo sustituido por art. 10 de la
@@ -1643,7 +1625,6 @@ En todo lo no previsto en este Capítulo y en las disposiciones que la hubieren 
 
 
 
-[/web/20231207160349im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 608. –A los fines de este código, las prohibiciones a la importación y a la exportación se distinguen:
 a) según su finalidad preponderante, en económicas o no económicas;
 b) según su alcance, en absolutas o relativas.
@@ -1703,7 +1684,6 @@ ARTICULO 634. –El Poder Ejecutivo únicamente podrá dejar sin efecto las proh
 
 
 
-[/web/20231024163120im_/https://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 635. –El derecho de importación grava la importación para consumo.
 ARTICULO 636. –La importación es para consumo cuando la mercadería se introduce al territorio aduanero por tiempo indeterminado.
 ARTICULO 637. –1. Es aplicable el derecho de importación establecido por la norma vigente en la fecha de:
@@ -2042,7 +2022,6 @@ ARTICULO 776. –La Administración Nacional de Aduanas queda facultada para fij
 
 
 
-[/web/20231207113100im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 777. –La persona que realizare un hecho gravado con tributos establecidos en la legislación aduanera es deudora de éstos.
 ARTICULO 778. –El Estado nacional, las provincias, las municipalidades y sus respectivas reparticiones y entes centralizados o descentralizados, salvo disposición expresa en contrario, están sujetos a las mismas responsabilidades y obligaciones tributarias aduaneras que las demás personas.
 ARTICULO 779. –El despachante de aduana que realizare un hecho gravado sin acreditar su condición de representante en alguna de las formas previstas en el artículo 38 responde personalmente por los tributos pertinentes.
@@ -2124,7 +2103,6 @@ ARTICULO 819. –En todo aquello que no estuviere previsto en este código la pr
 
 
 
-[/web/20231207174533im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 820. –Drawback es el régimen aduanero en virtud del cual se restituyen, total o parcialmente, los importes que se hubieran pagado en concepto de tributos que gravaron la importación para consumo, siempre que la mercadería fuere exportada para consumo:
 a) luego de haber sido sometida en el territorio aduanero a un proceso de transformación, elaboración, combinación, mezcla, reparación o cualquier otro perfeccionamiento o beneficio;
 b) utilizándose para acondicionar o envasar otra mercadería que se exportare.
@@ -2199,7 +2177,6 @@ ARTICULO 855. –En todo aquello que no estuviere previsto en este código, la p
 
 
 
-[/web/20231206142605im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 856. –
 Cuando un país aplicare un tratamiento discriminatorio perjudicial a la importación de mercadería originaria o procedente del territorio aduanero argentino o que arribare a aquél en un medio de transporte de matrícula o de pabellón argentinos, el Poder Ejecutivo podrá adoptar las medidas previstas en este Capítulo cuando se tratare de la importación de mercadería originaria o procedente de dicho país o que arribare en un medio de transporte de matrícula o de pabellón del mismo.
 ARTICULO 857. –
@@ -2219,7 +2196,6 @@ b) la norma determinare una fecha posterior.
 
 
 
-[/web/20231025032246im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 860. –Las disposiciones de esta Sección rigen respecto de los hechos que en este código se prevén como delitos e infracciones aduaneros.
 ARTICULO 861. –Siempre que no fueren expresa o tácitamente excluidas, son aplicables a esta Sección las disposiciones generales del Código Penal.
 ARTICULO 862. –Se consideran delitos aduaneros los actos u omisiones que en este Título se reprimen por transgredir las disposiciones de este código.
@@ -2313,7 +2289,6 @@ ARTICULO 891. –Sin perjuicio de lo dispuesto en el artículo 890, la prescripc
 
 
 
-[/web/20230930165459im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 892. –A los efectos de este código, el término infracción se equipara al de contravención.
 ARTICULO 893. –Se consideran infracciones aduaneras los hechos, actos u omisiones que este Título reprime por transgredir las disposiciones de la legislación aduanera. Las disposiciones generales de este Título también se aplicarán a los supuestos que este código reprime con multas automáticas.
 ARTICULO 894. –La calificación de un hecho como infracción aduanera requiere que, previamente a su realización, se encuentre previsto como tal en las disposiciones de este código.
@@ -2514,7 +2489,6 @@ ARTICULO 996. –Los importes previstos en las escalas penales de los artículos
 
 
 
-[/web/20231206151447im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 997. –
 Sin perjuicio de los demás privilegios y preferencias que las leyes acuerdan al Fisco, los créditos aduaneros de cualquier naturaleza, incluidos los provenientes de multas, gozan de preferencia respecto de cualesquiera otros sobre la mercadería del deudor, garante o responsable, que se encontrare en zona primaria aduanera. El servicio aduanero goza de derecho de retención sobre dicha mercadería hasta que fueren satisfechos sus créditos.
 ARTICULO 998. –
@@ -2530,7 +2504,6 @@ La ejecución administrativa podrá ejercerse respecto de la mercadería que se 
 
 
 
-[/web/20231207192747im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 1001. –Toda persona que compareciere ante el servicio aduanero deberá, en su primera presentación, constituir domicilio dentro del radio urbano en que la oficina aduanera respectiva tuviere su asiento o bien mediante alguno de los medios electrónicos que estableciere la reglamentación.
 
 (Artículo sustituido por art. 252 de la Ley_N°_27430 B.O. 29/12/2017. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial)
@@ -2655,7 +2628,6 @@ ARTICULO 1052. –El incidente de nulidad tramitará en la forma prevista en los
 
 
 
-[/web/20231206145702im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 1053. –1. Tramitarán por el procedimiento reglado en este Capítulo las impugnaciones que se formularen contra los actos por los cuales:
 
 a) se liquidaren tributos aduaneros, en forma originaria o suplementaria, siempre que la respectiva liquidación no estuviere contenida en la resolución condenatoria recaída en el procedimiento para las infracciones;
@@ -2821,7 +2793,6 @@ ARTICULO 1128. –El diligenciamiento de las cédulas de notificación y de los 
 
 
 
-[/web/20231206133033im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 1129. –El recurso de revocatoria procederá únicamente contra los actos que a continuación se mencionan, a fin de que el administrador los revoque por contrario imperio:
 a) el que denegare la legitimación para actuar;
 b) el que declarare la rebeldía;
@@ -2990,7 +2961,6 @@ ARTICULO 1183. –Las sentencias dictadas en las causas relativas a las materias
 
 
 
-[/web/20231207165131im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 1184. –
 El Poder Ejecutivo deberá mantener permanentemente actualizado el ordenamiento del texto de este código, para lo cual le incorporará las disposiciones complementarias o modificatorias que se dictaren y procederá a su correlación y ordenamiento por materias.
 ARTICULO 1185. –
@@ -3001,7 +2971,6 @@ No obstante lo previsto en el artículo 663, el Poder Ejecutivo queda facultado 
 
 
 
-[/web/20231206133558im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 ARTICULO 1186. –
 El presente código entrará en vigencia a partir de los SEIS (6) meses contados desde la fecha de su publicación en el Boletín Oficial.
 ARTICULO 1187. –
@@ -3024,7 +2993,6 @@ VIDELA - Martínez de Hoz - Rodríguez Varela.
 
 
 
-[/web/20231206142113im_/http://servicios.infoleg.gob.ar/infolegInternet/imagenes/left.png]
 Antecedentes Normativos
 - Artículo 1171, Párrafo incorporado por art. 9° inc. l) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
 - Artículo 1167, Párrafos incorporados por art. 9° inc. j) delDecreto_N°_1.684/1993B.O. 17/8/1993. Vigencia: a partir de los 30 días hábiles de su publicación;
