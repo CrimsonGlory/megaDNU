@@ -98,7 +98,7 @@ Para la prestación de Servicios de TIC se requerirá la previa obtención de la
 
 ARTÍCULO 9° — Principios. Las licencias se otorgarán a pedido y en la forma reglada, habilitando a la prestación de los servicios previstos en esta ley en todo el territorio de la Nación Argentina, sean fijos o móviles, alámbricos o inalámbricos, nacionales o internacionales, con o sin infraestructura propia.
 
-Los licenciatarios de los servicios previstos en esta ley podrán brindar servicios de comunicación audiovisual, con excepción de aquellos brindados a través de vínculo satelital, debiendo tramitar la lincia correspondiente ante la autoridad competente. Asimismo, los licenciatarios de servicios de comunicación audiovisual podrán brindar Servicios de TIC, debiendo tramitar la licencia correspondiente ante la Autoridad de Aplicación de la presente ley.
+Los licenciatarios de los servicios previstos en esta ley podrán brindar servicios de comunicación audiovisual, con excepción de aquellos brindados a través de vínculo satelital, debiendo tramitar la licencia correspondiente ante la autoridad competente. Asimismo, los licenciatarios de servicios de comunicación audiovisual podrán brindar Servicios de TIC, debiendo tramitar la licencia correspondiente ante la Autoridad de Aplicación de la presente ley.
 
 Quedan exceptuados los licenciatarios de servicios públicos relacionados con el ámbito de aplicación de la presente ley, de las disposiciones contenidas en los artículos 24 inciso i) y 25 inciso d) de la ley 26.522, sean éstas personas físicas o jurídicas respectivamente.
 
@@ -190,7 +190,7 @@ ARTÍCULO 23. — Exención de aporte. La Autoridad de Aplicación podrá dispon
 
 ARTÍCULO 24. — Categorías del Servicio Universal. La Autoridad de Aplicación diseñará los distintos programas para el cumplimiento de las obligaciones y el acceso a los derechos previstos respecto del Servicio Universal, pudiendo establecer categorías a tal efecto.
 
-ARTÍCULO 25. — Aplicación de fondos. Los Fondos del Servicio Universal se aplicarán por medio de programas específicos. La autoridad de aplicación definirá su contenido y los mecanismos de adjudicación correspondientes. La autoridad de aplicación podrá encomendar la ejecución de estos planes directamente a las entidades incluidas en el artículo 8°, inciso b), de la ley 24.156 o, cumpliendo colos mecanismos de selección que correspondan, respetando principios de publicidad y concurrencia, a otras entidades.
+ARTÍCULO 25. — Aplicación de fondos. Los Fondos del Servicio Universal se aplicarán por medio de programas específicos. La autoridad de aplicación definirá su contenido y los mecanismos de adjudicación correspondientes. La autoridad de aplicación podrá encomendar la ejecución de estos planes directamente a las entidades incluidas en el artículo 8°, inciso b), de la ley 24.156 o, cumpliendo con los mecanismos de selección que correspondan, respetando principios de publicidad y concurrencia, a otras entidades.
 
 Asimismo, la autoridad de aplicación podrá encomendar la ejecución de estos planes a los licenciatarios de servicios de TIC que sean empresas y sociedades de los estados provinciales o municipales (sean empresas del Estado, Sociedades del Estado, Sociedades Anónimas con participación estatal mayoritaria, sociedades de economía mixta y todas aquellas otras organizaciones empresariales donde el ESTADO NACIONAL tenga participación mayoritaria en el capital o en la formación de las decisiones societarias). Dichas empresas y sociedades de los estados provinciales o municipales tendrán el mismo tratamiento jurídico tributario reconocido a la empresa ARSAT, en la medida y proporción que desarrollen el mismo objeto que ésta.
 
@@ -293,7 +293,7 @@ c) Intervenir, de oficio o a petición de cualquiera de las partes interesadas, 
 
 d) Establecer obligaciones y condiciones específicas para aquellos licenciatarios, con poder significativo de mercado y cualquier otro que considere justificadamente necesario; dichas obligaciones se mantendrán en vigor durante el tiempo estrictamente imprescindible y podrán consistir en:
 
-i. El suministro de información contable, económica y financiera, especificaciones técnicas, características de las redes y condiciones de suministro y utilizaciónincluidas, en su caso, las condiciones que pudieran limitar el acceso o la utilización de servicios o aplicaciones, así como los precios y tarifas.
+i. El suministro de información contable, económica y financiera, especificaciones técnicas, características de las redes y condiciones de suministro y utilización, incluidas, en su caso, las condiciones que pudieran limitar el acceso o la utilización de servicios o aplicaciones, así como los precios y tarifas.
 
 ii. La elaboración, presentación y publicación de una oferta de referencia bajo las condiciones establecidas reglamentariamente.
 
@@ -381,7 +381,7 @@ d) Elegir libremente el licenciatario, los servicios y los equipos o aparatos ne
 
 e) Presentar, sin requerimientos previos innecesarios, peticiones y quejas ante el licenciatario y recibir una respuesta respetuosa, oportuna, adecuada y veraz.
 
-f) La ptección de los datos personales que ha suministrado al licenciatario, los cuales no pueden ser utilizados para fines distintos a los autorizados, de conformidad con las disposiciones vigentes.
+f) La protección de los datos personales que ha suministrado al licenciatario, los cuales no pueden ser utilizados para fines distintos a los autorizados, de conformidad con las disposiciones vigentes.
 
 g) Que el precio del servicio que recibe sea justo y razonable.
 
@@ -429,7 +429,7 @@ g) Brindar toda la información solicitada por las autoridades competentes, espe
 
 h) Disponer del equipamiento necesario para posibilitar que la Autoridad de Aplicación pueda efectuar sus funciones; encontrándose obligados a permitir el acceso de la Autoridad de Aplicación a sus instalaciones y brindar la información que le sea requerida por ella.
 
-nder los requerimientos en materia de defensa nacional y de seguridad pública formulados por las autoridades competentes.
+i) Atender los requerimientos en materia de defensa nacional y de seguridad pública formulados por las autoridades competentes.
 
 j) Respetar los derechos que les corresponden a los usuarios de acuerdo con la normativa aplicable.
 
@@ -537,7 +537,7 @@ ARTÍCULO 77. — (Artículo derogado por art. 32 del Decreto N° 267/2015 B.O. 
 
 ARTÍCULO 78. — (Artículo derogado por art. 32 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-ARTÍCULO 79. — Continuación. La Autoridad Federal de Tecnologías de la Información y las Comunicaciones creada por la presente ley será continuadora, a todos los fines y de conformidad con lo fijado en la presente ley, de la Secretaría de Comunicaciones y de la Comisión Nacional de Comunicaciones creada por los decretos 1142/2003 y 1185/90 y sus posteriores modificiones.
+ARTÍCULO 79. — Continuación. La Autoridad Federal de Tecnologías de la Información y las Comunicaciones creada por la presente ley será continuadora, a todos los fines y de conformidad con lo fijado en la presente ley, de la Secretaría de Comunicaciones y de la Comisión Nacional de Comunicaciones creada por los decretos 1142/2003 y 1185/90 y sus posteriores modificaciones.
 
 ARTÍCULO 80. — Funciones. La Autoridad Federal de Tecnologías de la Información y las Comunicaciones tendrá como funciones la regulación, el control, la fiscalización y verificación en materia de las TIC en general, de las telecomunicaciones en particular, del servicio postal y todas aquellas materias que se integren a su órbita conforme el texto de la presente ley, la normativa aplicable y las políticas fijadas por el Gobierno nacional.
 
@@ -565,7 +565,7 @@ j) Elaborar, publicar y mantener actualizado el Cuadro Nacional de Atribución d
 
 k) Emitir disposiciones, lineamientos o resoluciones en materia de interoperabilidad e interconexión de las redes públicas de telecomunicaciones, a efecto de asegurar la libre competencia y concurrencia en el mercado.
 
-l) Resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicacionorme a lo previsto en la presente ley.
+l) Resolver y establecer los términos y condiciones de interconexión que no hayan podido convenir los concesionarios respecto de sus redes públicas de telecomunicaciones conforme a lo previsto en la presente ley.
 
 ll) Emitir lineamientos de carácter general para el acceso y, en su caso, uso compartido de la infraestructura activa y pasiva, en los casos que establece esta ley.
 
@@ -629,7 +629,7 @@ Capítulo III
 
 Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización
 
-Artículo 18.- Comisión Bicameral. Créase en el ámbito del Congreso de la Nación, la Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización, que tendrá el carácter de Cmanente.
+Artículo 18.- Comisión Bicameral. Créase en el ámbito del Congreso de la Nación, la Comisión Bicameral de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización, que tendrá el carácter de Comisión Permanente.
 
 La Comisión Bicameral se integrará por ocho (8) senadores y ocho (8) diputados nacionales, según resolución de cada Cámara. Dictará su propio reglamento.
 
@@ -667,7 +667,7 @@ ARTÍCULO 93. — Régimen de transición. Licencias. A los actuales licenciatar
 
 Al momento de la sanción de la presente, y sin más trámite, los títulos habilitantes actualmente denominados ‘Licencia Única de Servicios de Telecomunicaciones’ serán considerados a todos los efectos ‘Licencia Única Argentina Digital’, sin mutar en su contenido, alcance y efectos.
 
-La Autoridad de Aplicación podrá establecer regímenes y programas especiales a la regularización de situaciones de prestación cuyos responsables no cuenten con la licencia correspondiente, contemplando a tal efecto la situación particular de cada actor involucrado garantizando la continuidad de la prestación de los Servicios de TIC, sin que ello implique saneamiento de situación irregular alguna.
+La Autoridad de Aplicación podrá establecer regímenes y programas especiales tendientes a la regularización de situaciones de prestación cuyos responsables no cuenten con la licencia correspondiente, contemplando a tal efecto la situación particular de cada actor involucrado garantizando la continuidad de la prestación de los Servicios de TIC, sin que ello implique saneamiento de situación irregular alguna.
 
 ARTÍCULO 94. — Los prestadores del Servicio Básico Telefónico, cuya licencia ha sido concedida en los términos del Decreto N° 62/90 y de los puntos 1 y 2 del artículo 5º del Decreto N° 264/98, así como los del Servicio de Telefonía Móvil con licencia otorgada conforme el pliego de bases y condiciones aprobado por Resolución del entonces MINISTERIO DE ECONOMÍA Y OBRAS Y SERVICIOS PÚBLICOS Nº 575/93 y ratificado por Decreto N° 1461/93, sólo podrán prestar el servicio de Radiodifusión por suscripción, mediante vínculo físico y/o mediante vínculo radioeléctrico, transcurridos DOS (2) años contados a partir del 1° de enero de 2016. El ENACOM podrá extender dicho plazo por UN (1) año más.
 
@@ -687,7 +687,7 @@ Si al momento de solicitar el registro existe otro prestador en la misma área d
 
 No será aplicable lo dispuesto en el párrafo anterior a las personas de existencia ideal sin fines de lucro que exclusivamente presten servicio público de TIC.
 
-En todos los casos, las personas previstas en los apartados (i) y (ii) anteriores que obtengan el registro de servicios de Radiodifusión por suscripción en los términos y condiciones fijadas eno deberán cumplir con las siguientes obligaciones:
+En todos los casos, las personas previstas en los apartados (i) y (ii) anteriores que obtengan el registro de servicios de Radiodifusión por suscripción en los términos y condiciones fijadas en este artículo deberán cumplir con las siguientes obligaciones:
 
 a) Conformar una unidad de negocio a los efectos de la prestación del servicio de comunicación audiovisual y llevarla en forma separada de la unidad de negocio del servicio público del que se trate;
 
