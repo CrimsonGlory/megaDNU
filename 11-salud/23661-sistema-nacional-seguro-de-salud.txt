@@ -1,4 +1,4 @@
- SISTEMA NACIONAL DEL SEGURO DE SALUD
+SISTEMA NACIONAL DEL SEGURO DE SALUD
 
 LEY 23.661
 
@@ -204,7 +204,7 @@ d) Con las sumas que ingresen al Fondo Solidario de Redistribución.
 
 ART. 22.- En el ámbito de la ANSSAL funcionará, bajo su administración y como cuenta especial, un Fondo Solidario de Redistribución ;que se integrará con los siguientes recursos:
 
-a) El QUINCE POR CIENTO (15%) o el DIEZ POR CIENTO (10%), respectivamente, de la suma de las contribuciones y los aportes que prevén los incisos a) y b) del artículo 16 de la Ley Nº 23.660 —seºn se supere o no el tope de las remuneraciones brutas mensuales de PESOS UN MIL ($ 1.000.-) inclusive—. Para las Obras Sociales del Personal de Dirección y de las Asociaciones Profesionales de Empresarios el porcentaje mencionado precedentemente será del VEINTE POR CIENTO (20%) o del QUINCE POR CIENTO (15%), respectivamente, según se supere o no la retribución mencionada; (Inciso sustituido por art. 22 del Decreto N° 486/2002 B.O. 13/03/2002)
+a) El QUINCE POR CIENTO (15%) o el DIEZ POR CIENTO (10%), respectivamente, de la suma de las contribuciones y los aportes que prevén los incisos a) y b) del artículo 16 de la Ley Nº 23.660 —según se supere o no el tope de las remuneraciones brutas mensuales de PESOS UN MIL ($ 1.000.-) inclusive—. Para las Obras Sociales del Personal de Dirección y de las Asociaciones Profesionales de Empresarios el porcentaje mencionado precedentemente será del VEINTE POR CIENTO (20%) o del QUINCE POR CIENTO (15%), respectivamente, según se supere o no la retribución mencionada; (Inciso sustituido por art. 22 del Decreto N° 486/2002 B.O. 13/03/2002)
 
 b) El cincuenta por ciento (50%) de los recursos de distinta naturaleza a que se refiere la última parte del artículo 16 de la Ley de Obras Sociales;
 
@@ -316,7 +316,7 @@ ART. 39.- La ANSSAL y los agentes del seguro estarán exentos del pago de tasas 
 
 ART. 40.- A instancia de la ANSSAL, previo traslado por diez (10) días hábiles al agente del seguro cuestionado, la Secretaría de Salud de la nación podrá requerir al Poder Ejecutivo Nacional la intervención de la entidad cuando se produzcan en ella acciones u omisiones que por su carácter o magnitud impidan o alteren su funcionamiento en cuanto a las prescripciones de la presente ley. Al mismo tiempo la ANSSAL deberá disponer los mecanismos sumarios que permitan la continuidad y normalización de las prestaciones de salud.
 
-ART. 41.- Será reprimido con prisión de un mes a seis años el obligado que dentro de los quince (15) días corridos de intimado formalmente no depositare los importes previstos en los incisos b), d) y e) del artículo 19 de la Ley de Obras Sociales, dtinados al Fondo Solidario de Redistribución.
+ART. 41.- Será reprimido con prisión de un mes a seis años el obligado que dentro de los quince (15) días corridos de intimado formalmente no depositare los importes previstos en los incisos b), d) y e) del artículo 19 de la Ley de Obras Sociales, destinados al Fondo Solidario de Redistribución.
 
 Cuando se tratare de personas jurídicas, sociedades, asociaciones y otras entidades de derecho privado, fallidos o incapaces, la pena corresponderá a los directores, gerentes o representantes responsables de la omisión.
 
@@ -398,7 +398,7 @@ CAPITULO IX
 
 Disposiciones transitorias
 
-ART. 51.- Las autoridades de la ANSSAL asumirán sus funciones en un plazo máximo e improrrogable de noventa (90) días corridos a partir de la promulgación de la presente ley, lapso dentro del cual el Poder Ejecutivo reglamentará el artíco 10. Mientras tanto, las funciones y atribuciones previstas para la ANSSAL serán asumidas por el Instituto Nacional de Obras Sociales (INOS).
+ART. 51.- Las autoridades de la ANSSAL asumirán sus funciones en un plazo máximo e improrrogable de noventa (90) días corridos a partir de la promulgación de la presente ley, lapso dentro del cual el Poder Ejecutivo reglamentará el artículo 10. Mientras tanto, las funciones y atribuciones previstas para la ANSSAL serán asumidas por el Instituto Nacional de Obras Sociales (INOS).
 
 ART. 52.- Los directores que a partir de la sanción de esta ley sean designados para integrar el directorio de la ANSSAL cesarán automáticamente el día 10 de diciembre de 1989. Podrán ser designados nuevamente por el plazo y en las demás condiciones establecidas en los artículos 10 y 11 de la presente.
 
