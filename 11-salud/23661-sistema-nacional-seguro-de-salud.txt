@@ -1,4 +1,4 @@
- SISTEMA NACIONAL DEL SEGURO DE SALUD
+SISTEMA NACIONAL DEL SEGURO DE SALUD
 
 LEY 23.661
 
@@ -258,7 +258,7 @@ ART. 26.- Los agentes del seguro mantendrán y podrán desarrollar los servicios
 
 Asimismo articularán sus programas de prestaciones médico asistenciales con otras entidades del seguro, procurando su efectiva integración en las acciones de salud con las autoridades sanitarias que correspondan. En tal sentido, los servicios propios de los agentes del seguro estarán disponibles para los demás beneficiarios del sistema, de acuerdo con las normas generales que al respecto establezca la Secretaría de Salud de la nación o el directorio de la ANSSAL, y las particulares de los respectivos convenios.
 
-ART. 27.- Las prestaciones de salud serán otorgadas por los agentes del seguro según las modalidades operativas de contratación y pago que normatice la ANSSAL de conformidad a lo establecido en los artículos 13, inciso f) y 35 de es ley, las que deberán asegurar a sus beneficiarios servicios accesibles, suficientes y oportunos.
+ART. 27.- Las prestaciones de salud serán otorgadas por los agentes del seguro según las modalidades operativas de contratación y pago que normatice la ANSSAL de conformidad a lo establecido en los artículos 13, inciso f) y 35 de esta ley, las que deberán asegurar a sus beneficiarios servicios accesibles, suficientes y oportunos.
 
 ART. 28.- Los agentes del seguro deberán desarrollar un programa de prestaciones de salud, a cuyo efecto la ANSSAL establecerá y actualizará periódicamente, de acuerdo a lo normado por la Secretaría de Salud de la nación, las prestaciones que deberán otorgarse obligatoriamente, dentro de las cuales deberán incluirse todas aquéllas que requieran la rehabilitación de las personas discapacitadas. Asimismo, deberán asegurar la cobertura de medicamentos que las aludidas prestaciones requieran.
 
@@ -334,7 +334,7 @@ a) La violación de las disposiciones de la presente ley y su reglamentación, l
 
 b) La violación por parte de los prestadores de las condiciones contenidas en las contrataciones de los servicios;
 
-c) La negativa de un ataque del seguro a proporcionar la documentación informativa y dems elementos de juicio que la ANSSAL o los síndicos requieran en el ejercicio de sus funciones, derechos y atribuciones;
+c) La negativa de un ataque del seguro a proporcionar la documentación informativa y demás elementos de juicio que la ANSSAL o los síndicos requieran en el ejercicio de sus funciones, derechos y atribuciones;
 
 d) El incumplimiento de las directivas impartidas por las autoridades de aplicación;
 
