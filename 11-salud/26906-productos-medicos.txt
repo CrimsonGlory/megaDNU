@@ -40,25 +40,33 @@ De los productos médicos activos
 
 ARTICULO 5º — Tipos y clasificación de los productos médicos activos. Los productos médicos activos, objeto de esta ley, se agrupan según el riesgo intrínseco que representan para la salud del consumidor, paciente, operador o terceros involucrados, en clases I, II, III o IV. Las mismas se clasifican de acuerdo a la finalidad de cada producto médico activo y según las reglas establecidas en la disposición 2.318/2002, texto ordenado según disposición 1.285/2004, de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, ANMAT, o la que en un futuro se dicte.
 
-ARTICULO 6º — Identificación de los productos médicos activos. La autoridad de aplicación debe definir el mecanismo de identificación, que permita la habilitación, de los productos médicos activos en uso en los establecimientos de salud públicos y privados de nuestro país.
+ARTÍCULO 5° bis.- La Autoridad de Aplicación determinará los productos médicos activos autorizados para su uso en el territorio nacional. No podrán ser utilizados los productos activos que no hayan sido autorizados por la Autoridad de Aplicación.
 
-ARTICULO 7º — Habilitación de los productos médicos activos. Las autoridades sanitarias jurisdiccionales, deben extender el certificado de habilitación de los productos médicos activos y sus correspondientes renovaciones, de acuerdo a los requisitos de verificación técnica que se determinen.
+(Artículo incorporado por art. 303 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 8º — Período de garantía. Quedan excluidos de la necesidad de la verificación técnica correspondiente para la renovación, los equipos en período de garantía cuyos fabricantes certifiquen que sus características de funcionamiento están aseguradas durante dicho lapso y les corresponda según las instrucciones de uso y mantenimiento, verificación y regulación alguna.
+ARTÍCULO 5° ter.- Los usuarios de productos médicos activos deberán informar la instalación y uso de los mismos a la autoridad de aplicación. La Autoridad de Aplicación determinará los requisitos y procedimientos para el uso de productos médicos activos. Y se reserva el derecho de auditar su cumplimiento.
 
-Los Servicios de Tecnología Biomédica pueden definir la realización de ensayos y verificaciones de los productos médicos activos aun estando dentro del período de garantía.
+(Artículo incorporado por art. 303 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 6º — (Artículo derogado por art. 302 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 7º — (Artículo derogado por art. 302 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 8º — (Artículo derogado por art. 302 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 Capítulo III
 
 Del certificado de habilitación de los productos médicos activos
 
-ARTICULO 9º — Requisitos. El certificado de habilitación se debe otorgar en forma individual a cada producto médico activo, cuando sea ensayado según las normas técnicas aplicables.
+ARTICULO 9º — Requisitos. La autorización de uso se debe otorgar en forma individual a cada producto médico activo, cuando sea ensayado según las normas técnicas aplicables.
 
-Los ensayos de verificación técnica deben ser realizados in situ por el Servicio de Tecnología Biomédica del establecimiento de salud, región sanitario o jurisdicción. En el caso exclusivo de no contar con los recursos necesarios, la autoridad jurisdiccional debe designar la forma y medios para realizarla. A tal efecto podrá contar con los laboratorios acreditados por el Organismo Argentino de Acreditación (O.A.A), el Instituto Nacional de Tecnología Industrial (I.N.T.I.) o laboratorios asociados al I.N.T.I., o laboratorios de universidades públicas.
+Los ensayos de verificación técnica deben ser realizados in situ por el Servicio de Tecnología Biomédica del establecimiento de salud, región sanitaria o jurisdicción. En el caso exclusivo de no contar con los recursos necesarios, la autoridad jurisdiccional debe designar la forma y medios para realizarla. A tal efecto podrá contar con los laboratorios acreditados por el Organismo Argentino de Acreditación (O.A.A), el Instituto Nacional de Tecnología Industrial (I.N.T.I.) o laboratorios asociados al I.N.T.I., o laboratorios de universidades públicas.
+
+(Artículo sustituido por art. 304 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 10. — Vigencia. La autoridad jurisdiccional debe definir la duración de los certificados de habilitación de los productos médicos activos, según su riesgo intrínseco para la salud y de acuerdo a lo establecido en el artículo 5° de la presente ley.
 
-ARTICULO 11. — Renovación. Es requisito para la renovación, que los productos médicos activos cumplan con las disposiciones establecidas en el artículo 7° de la presente ley, como así también con las exigencias que determine la autoridad de aplicación oportunamente.
+ARTICULO 11. — (Artículo derogado por art. 302 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 Capítulo IV
 
@@ -86,7 +94,7 @@ d) Capacitar a los operadores de los productos médicos activos, en lo que respe
 
 e) Dictaminar sobre el alta y baja de los productos médicos activos en uso;
 
-f) Brindar asesoramiento en lo que respecta a la instalación, puesta en marcha y mantenimiento de los servicios asociados al equipamiento médico y el óptimo funcionamiento de los mismos;
+f) Brindar asesoramiento en lo que respecta a la instalación, puesta en marcha y mantenimiento de los servicios asociados al equipamiento médico y el óptimo funcionamiento de los mismos a los fines de cumplir las especificaciones técnicas establecidas por la autoridad de aplicación. (Inciso sustituido por art. 305 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 g) Establecer un método o procedimiento para mantener documentada la verificación técnica y mantenimiento de todos los productos médicos activos, en la que intervenga.
 
@@ -96,17 +104,19 @@ De la autoridad de aplicación
 
 ARTICULO 16. — Funciones. Son funciones de la autoridad de aplicación:
 
-a) Establecer el mecanismo identificatorio para la trazabilidad de los productos médicos activos y de sus mediciones;
+a) Establecer el mecanismo identificatorio para la trazabilidad de los productos médicos activos y de sus mediciones así como autorizarlos para su uso en todo el territorio nacional;
 
-b) Promover la creación o fortalecimiento de los Servicios de Tecnología Biomédica, en todo el territorio de la Nación;
+b) Definir las condiciones de uso de cada producto medico activo autorizado.
 
-c) Promover la creación de un Registro de Servicios de Reparaciones y Mantenimiento de Productos Médicos Activos, en conjunto con las jurisdicciones;
+c) Promover la creación o fortalecimiento de los Servicios de Tecnología Biomédica, en todo el territorio de la Nación;
 
 d) Establecer las Buenas Prácticas de Funcionamiento de los Prestadores de Servicios de Reparaciones y Mantenimiento de Productos Médicos Activos;
 
-f) Coordinar con las autoridades sanitarias jurisdiccionales, las verificaciones técnicas de los productos médicos activos en uso, que considere necesarias;
+e) Coordinar con las autoridades sanitarias jurisdiccionales, las verificaciones técnicas de los productos médicos activos en uso, que considere necesarias;
 
-g) Promover la creación de un Registro Nacional de Productos Médicos Activos, en coordinación con las autoridades jurisdiccionales y según los criterios establecidos por la disposición 2.318/2002, texto ordenado según disposición 1.285/2004, de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, ANMAT, o la que en el futuro se dicte.
+f) Promover la creación de un Registro Nacional de Productos Médicos Activos, en coordinación con las autoridades jurisdiccionales y según los criterios establecidos por la Disposición N° 2318/02, texto ordenado según Disposición N° 1285/04, de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, ANMAT, o la que en el futuro se dicte.
+
+(Artículo sustituido por art. 306 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 Capítulo VI
 

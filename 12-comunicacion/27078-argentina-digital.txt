@@ -48,7 +48,7 @@ Definiciones
 
 ARTÍCULO 6° — Definiciones generales. En lo que respecta al régimen de las Tecnologías de la Información y las Comunicaciones y de las Telecomunicaciones (TIC), se aplicarán las siguientes definiciones:
 
-a) Radiodifusión por suscripción: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico o mediante vínculo físico indistintamente. Incluye el servicio de radiodifusión ofrecido por un prestador de servicios TIC que utilice la tecnología de transmisión de contenidos audiovisuales basados en el protocolo IP (IPTV), para el acceso de los programas en vivo y/o televisión lineal.
+a) Radiodifusión por suscripción: Toda forma de comunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por público determinable, mediante la utilización del espectro radioeléctrico o mediante vinculo físico o satelital, indistintamente. Incluye el servicio de radiodifusión ofrecido por un prestador de servicios TIC que utilice la tecnología de transmisión de contenidos audiovisuales basados en el protocolo IP (IPTV), para el acceso de los programas en vivo y/o televisión lineal. (Inciso sustituido por art. 328 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 b) Radiodifusión por suscripción mediante vínculo físico: Toda forma de radiocomunicación primordialmente unidireccional destinada a la transmisión de señales para ser recibidas por públicos determinables, mediante la utilización de medios físicos.
 
@@ -102,13 +102,11 @@ Los licenciatarios de los servicios previstos en esta ley podrán brindar servic
 
 Quedan exceptuados los licenciatarios de servicios públicos relacionados con el ámbito de aplicación de la presente ley, de las disposiciones contenidas en los artículos 24 inciso i) y 25 inciso d) de la ley 26.522, sean éstas personas físicas o jurídicas respectivamente.
 
-ARTÍCULO 10. —Incorpórase como servicio que podrán registrar los licenciatarios de TIC, al servicio de Radiodifusión por suscripción, mediante vínculo físico y/o mediante vínculo radioeléctrico. El servicio de Radiodifusión por suscripción se regirá por los requisitos que establecen los artículos siguientes de la presente ley y los demás que establezca la reglamentación, no resultándole aplicables las disposiciones de la Ley N° 26.522. Se encuentra excluida de los servicios de TIC la televisión por suscripción satelital que se continuara rigiendo por la Ley N° 26.522.
-
-Las licencias de Radiodifusión por suscripción mediante vínculo físico y/o mediante vínculo radioeléctrico otorgadas por el ex COMITÉ FEDERAL DE RADIODIFUSIÓN y/o por la AUTORIDAD FEDERAL DE SERVICIOS DE COMUNICACIÓN AUDIOVISUAL con anterioridad a la entrada en vigencia de la modificación del presente artículo serán consideradas, a todos los efectos, Licencia Única Argentina Digital con registro de servicio de Radiodifusión por Suscripción mediante vínculo físico o mediante vínculo radioeléctrico, en los términos de los artículos 8° y 9° de esta ley, debiendo respetar los procedimientos previstos para la prestación de nuevos servicios salvo que ya los tuvieren registrados.
+ARTÍCULO 10. —Incorpórase como servicio que podrán registrar los prestadores de TIC, al servicio de Radiodifusión por suscripción mediante cualquier vínculo. El servicio de Radiodifusión por suscripción se regirá por los requisitos que establecen los artículos siguientes de la presente ley y los demás que establezca la reglamentación, no resultándole aplicables las disposiciones de la Ley N° 26.522.
 
 El plazo de otorgamiento del uso de las frecuencias del espectro radioeléctrico de los titulares de licencias de Radiodifusión por Suscripción conferidas bajo las Leyes Nros. 22.285 y 26.522 será el de su título original, o de DIEZ (10) años contados a partir del 1° de enero de 2016, siempre el que sea mayor para aquellos que tuvieren a dicha fecha una licencia vigente.
 
-(Artículo sustituido por art. 7° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+(Artículo sustituido por art. 329 del Decreto N° 70/2023 B.O. 21/12/2023.
 
 ARTÍCULO 11. — Condiciones de prestación. El otorgamiento de la licencia para la prestación de los servicios previstos en esta ley es independiente de la tecnología o medios utilizados para ofrecerlos y de la existencia y asignación de los medios requeridos para la prestación del servicio.
 
@@ -150,9 +148,7 @@ Capítulo I
 
 Principios generales
 
-ARTÍCULO 15. — Carácter de servicio público en competencia. Se establece que los Servicios de las Tecnologías de la Información y las Comunicaciones (TIC) y el acceso a las redes de telecomunicaciones para y entre licenciatarios y licenciatarias de servicios TIC son servicios públicos esenciales y estratégicos en competencia. La autoridad de aplicación garantizará su efectiva disponibilidad.
-
-(Artículo sustituido por art. 1° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+ARTÍCULO 15. — (Artículo derogado por art. 3° del Decreto N° 302/2024 B.O. 10/4/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 ARTÍCULO 16. — Homologación y certificación. Principio. Con el objeto de garantizar la integridad y calidad de las redes de telecomunicaciones y del espectro radioeléctrico, así como también la seguridad de las personas, usuarios y licenciatarios, los equipos de telecomunicaciones que sean comercializados estarán sujetos a homologación y certificación. La Autoridad de Aplicación dictará el reglamento respectivo.
 
@@ -228,15 +224,15 @@ Capítulo II
 
 Uso satelital
 
-ARTÍCULO 33. — Administración, Gestión y Control.Corresponde al Estado Nacional, a través del MINISTERIO DE COMUNICACIONES, la administración, gestión y control de los recursos órbita-espectro correspondientes a redes satelitales, de conformidad con los tratados internacionales suscriptos y ratificados por el Estado Argentino.
+ARTÍCULO 33. — Administración, Gestión y Control. Corresponde al Estado Nacional, a través del MINISTERIO DE COMUNICACIONES, la administración, gestión y control de los recursos órbita-espectro correspondientes a redes satelitales, de conformidad con los tratados internacionales suscriptos y ratificados por el Estado Argentino.
 
 Este recurso podrá ser explotado por entidades de carácter público o privado siempre que medie autorización otorgada al efecto y de conformidad con las disposiciones aplicables en la materia.
 
 (Artículo sustituido por art. 9° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
 
-ARTÍCULO 34. — Autorización. La prestación de facilidades satelitales requerirá la correspondiente autorización para la operación en la Argentina, conforme a la reglamentación que el MINISTERIO DE COMUNICACIONES dicte a tal efecto. Por el contrario, la prestación de cualquier Servicio de TIC por satélite estará sometida al régimen general de prestación de Servicios de TIC establecido en la presente ley.
+ARTÍCULO 34. — Registro. La provisión de facilidades de los sistemas satelitales de comunicaciones será libre. Se requerirá a los titulares de tales sistemas el correspondiente registro para su operación, al solo efecto de coordinar el uso de las frecuencias radioeléctricas y evitar interferencias sobre otros sistemas conforme a la reglamentación que dicte la Autoridad de Aplicación. La prestación de cualquier Servicio de TIC por satélite estará sometida al régimen general de prestación de Servicios de TIC establecido en la presente ley.
 
-(Artículo sustituido por art. 9° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+(Artículo sustituido por art. 330 del Decreto N° 70/2023 B.O. 21/12/2023.
 
 ARTÍCULO 35. — Prioridad de uso. Para la prestación de las facilidades satelitales se dará prioridad al uso de satélites argentinos, entendiéndose por tales a los que utilicen un recurso órbita-espectro a nombre de la Nación Argentina, a la utilización de satélites construidos en la Nación Argentina o a las empresas operadoras de satélites que fueran propiedad del Estado nacional o en las que éste tuviera participación accionaria mayoritaria.
 
@@ -313,13 +309,9 @@ Título VI
 
 Precios, tarifas y gravámenes
 
-ARTÍCULO 48. — Regla. Los licenciatarios y las licenciatarias de los servicios de las Tecnologías de la información y las comunicaciones (TIC) fijarán sus precios, los que deberán ser justos y razonables, deberán cubrir los costos de la explotación, tender a la prestación eficiente y a un margen razonable de operación.
+ARTÍCULO 48. — Regla. Los licenciatarios de Servicios de TIC fijarán sus precios, los que deberán ser justos y razonables, cubrir los costos de la explotación y tender a la prestación eficiente y a un margen razonable de operación.
 
-Los precios de los servicios públicos esenciales y estratégicos de las TIC en competencia, los de los prestados en función del Servicio Universal y los de aquellos que determine la autoridad de aplicación por razones de interés público, serán regulados por esta.
-
-La autoridad de aplicación establecerá en la reglamentación la prestación básica universal obligatoria que deberá ser brindada en condiciones de igualdad.
-
-(Artículo sustituido por art. 2° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+(Artículo sustituido por art. 1° del Decreto N° 302/2024 B.O. 10/4/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 ARTÍCULO 49. — Tasa de control, fiscalización y verificación. Establécese para los licenciatarios de Servicios de TIC una tasa en concepto de control, fiscalización y verificación, equivalente a cero coma cincuenta por ciento (0,50%) de los ingresos totales devengados por la prestación de los Servicios de TIC, netos de los impuestos y tasas que los graven.
 
@@ -339,9 +331,7 @@ Consideraciones generales sobre los Servicios de TIC
 
 ARTÍCULO 54. — Servicio Público Telefónico. El Servicio Básico Telefónico mantiene su condición de servicio público.
 
-Incorpórase como servicio público, al servicio de telefonía móvil en todas sus modalidades. Los precios de estos servicios serán regulados por la autoridad de aplicación.
-
-La autoridad de aplicación establecerá en la reglamentación la prestación básica universal obligatoria que deberá ser brindada en condiciones de igualdad. (Párrafos incorporados por art. 3° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+(Artículo sustituido por art. 2° del Decreto N° 302/2024 B.O. 10/4/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 ARTÍCULO 55. — Objeto y alcance. El Servicio de TIC comprende la confluencia de las redes tanto fijas como móviles que, mediante diversas funcionalidades, proporciona a los usuarios la capacidad de recibir y transmitir información de voz, audio, imágenes fijas o en movimiento y datos en general.
 
@@ -724,6 +714,16 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECI
 AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Lucas Chedrese. — Juan H. Estrada.
 
 Antecedentes Normativos:
+
+- Artículo 15 sustituido por art. 1° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL;
+
+- Artículo 48 sustituido por art. 2° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL;
+
+- Artículo 54, segundo párrafos incorporados por art. 3° del Decreto N° 690/2020 B.O. 22/8/2020. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL;
+
+- Artículo 34 sustituido por art. 9° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
+
+- Artículo 10 sustituido por art. 7° del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
 
 - Artículo 15 derogado por art. 22 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
 

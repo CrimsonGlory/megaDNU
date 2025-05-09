@@ -22,6 +22,8 @@ Quedan también incluidas en la presente ley las cooperativas, mutuales, asociac
 
 (Artículo sustituido por art. 1° del Decreto N° 1991/2011 B.O. 01/12/2011. Vigencia: a partir de su publicación en el Boletín Oficial)
 
+(Nota Infoleg: por art. 1° de la Resolución N° 232/2024 de la Superintendencia de Servicios de Salud B.O. 4/3/2024 se modifica la denominación del REGISTRO NACIONAL DE OBRAS SOCIALES (RNOS) por la de REGISTRO NACIONAL DE AGENTES DEL SEGURO (RNAS). Por art. 2° de la misma norma se establece que las entidades comprendidas en el artículo 1° de la Ley N° 26.682 que decidan aplicar los fondos percibidos con destino a las prestaciones de salud, deberán solicitar su inscripción en el REGISTRO NACIONAL DE AGENTES DEL SEGURO (RNAS) con encuadre en el inciso i) del artículo 1° de la Ley N° 23.660. Ver Resolución de referencia - 232/2024-.)
+
 (Nota Infoleg: por art. 1° de la Resolución N° 132/2018 de la Superintendencia de Servicios de Salud B.O. 25/10/2018 se establece un plazo máximo de TREINTA (30) días corridos de publicada la norma de referencia como plazo límite para que aquellos sujetos comprendidos en el artículo 1º de la Ley Nº 26.682 (modificado por Decreto Nº 1991/11) que hubieren iniciado actividades con anterioridad a la fecha de publicación de la Resolución Nº 55/2012-SSSALUD, puedan iniciar el trámite de inscripción en el Registro Nacional de Entidades de Medicina Prepaga (R.N.E.M.P.).)
 
 ARTICULO 2º — Definición. A los efectos de la presente ley se consideran Empresas de Medicina Prepaga a toda persona física o jurídica, cualquiera sea el tipo, figura jurídica y denominación que adopten cuyo objeto consista en brindar prestaciones de prevención, protección, tratamiento y rehabilitación de la salud humana a los usuarios, a través de una modalidad de asociación voluntaria mediante sistemas pagos de adhesión, ya sea en efectores propios o a través de terceros vinculados o contratados al efecto, sea por contratación individual o corporativa.
@@ -54,7 +56,7 @@ e) Otorgar la autorización para funcionar a los sujetos comprendidos en el art�
 
 f) Autorizar y fiscalizar los modelos de contratos que celebren los sujetos comprendidos en el artículo 1º de la presente ley y los usuarios en todas las modalidades de contratación y planes, en los términos del artículo 8º de la presente ley;
 
-g) Autorizar en los términos de la presente ley y revisar los valores de las cuotas y sus modificaciones que propusieren los sujetos comprendidos en su artículo 1º;
+g) (Inciso derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 h) Fiscalizar el pago de las prestaciones realizadas y facturadas por Hospitales Públicos u otros efectores del sector público nacional, provincial o municipal, de acuerdo a los valores establecidos por la normativa vigente;
 
@@ -66,9 +68,9 @@ k) Establecer un sistema de categorización y acreditación de los sujetos compr
 
 l) Requerir periódicamente con carácter de declaración jurada a los sujetos comprendidos en el artículo 1º de la presente ley informes demográficos, epidemiológicos, prestacionales y económico-financieros, sin perjuicio de lo establecido por la ley 19.550;
 
-m) Transferir en caso de quiebra, cierre o cesación de actividades de los sujetos comprendidos en el artículo 1º de la presente ley la cobertura de salud con sus afiliados a otros prestadores inscriptos en el Registro que cuenten con similar modalidad de cobertura de salud y cuota. La transferencia se acordará en el marco del Consejo Permanente de Concertación definido en el artículo 27 de la presente ley y se realizará respetando criterios de distribución proporcional según cálculo actuarial, debiendo contar con el consentimiento del usuario.
+m) (Inciso derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 6º — Comisión Permanente. Créase como órgano de articulación de las funciones fijadas en la presente ley una Comisión Permanente que estará constituida por tres (3) representantes del Ministerio de Salud y tres (3) del Ministerio de Economía y Finanzas Públicas.
+ARTICULO 6º — (Artículo derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO III
 
@@ -122,19 +124,17 @@ ARTICULO 15. — Contratación Corporativa. El usuario adherido por contratació
 
 ARTICULO 16. — Contratos Vigentes. La entrada en vigor de la presente no puede generar ningún tipo de menoscabo a la situación de los usuarios con contratos vigentes.
 
-ARTICULO 17. — Cuotas de Planes. La Autoridad de Aplicación fiscalizará y garantizará la razonabilidad de las cuotas de los planes prestacionales.
+ARTICULO 17. — Cuotas de Planes. Los sujetos comprendidos en el artículo 1º de la presente ley pueden establecer precios diferenciales para los planes prestacionales, al momento de su contratación, según franjas etarias con una variación máxima de TRES (3) veces entre el precio de la primera y la última franja etaria.
 
-La Autoridad de Aplicación autorizará el aumento de las cuotas cuando el mismo esté fundado en variaciones de la estructura de costos y razonable cálculo actuarial de riesgos.
-
-Los sujetos comprendidos en el artículo 1º de la presente ley pueden establecer precios diferenciales para los planes prestacionales, al momento de su contratación, según franjas etarias con una variación máxima de tres (3) veces entre el precio de la primera y la última franja etaria.
+(Artículo sustituido por art. 269 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO V
 
 DE LOS PRESTADORES
 
-ARTICULO 18. — Aranceles. La Autoridad de Aplicación debe fijar los aranceles mínimos obligatorios que aseguren el desempeño eficiente de los prestadores públicos y privados. La falta de cumplimiento de aranceles o la mora en el pago a los prestadores hace pasibles, a los sujetos comprendidos en el artículo 1º de la presente ley de las sanciones previstas en el artículo 24 de la presente.
+ARTICULO 18. — (Artículo derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
-ARTICULO 19. — Modelos de Contrato. Los modelos de contratos entre los sujetos comprendidos en el artículo 1º de la presente ley y los prestadores deben adecuarse a los modelos que establezca la Autoridad de Aplicación.
+ARTICULO 19. — (Artículo derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 CAPITULO VI
 
@@ -180,7 +180,7 @@ DEL FINANCIAMIENTO
 
 ARTICULO 25. — Recursos. Los recursos del Ministerio de Salud con relación a la presente ley, están constituidos por:
 
-a) Una matrícula anual abonada por cada entidad, cuyo monto será fijado por la reglamentación;
+a) (Inciso derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 b) Las multas abonadas por los sujetos comprendidos en el artículo 1º de la presente ley a la Autoridad de Aplicación;
 
@@ -198,15 +198,17 @@ a) Derecho a las prestaciones de emergencia: los usuarios tienen derecho, en cas
 
 b) Derecho a la equivalencia: los usuarios tienen derecho a una adecuada equivalencia de la calidad de los servicios contratados durante toda la relación contractual.
 
-ARTICULO 27. — Créase como órgano consultivo un Consejo Permanente de Concertación, integrado ad-honorem por representantes del Ministerio de Salud, de la Autoridad de Aplicación de la ley 24.240, de los sujetos comprendidos en el artículo 1º de la presente ley, de los usuarios y de las entidades representativas de los prestadores en el ámbito nacional o provincial o de la Ciudad Autónoma de Buenos Aires.
-
-El Ministerio de Salud dictará el reglamento de funcionamiento del cado consejo.
+ARTICULO 27. — (Artículo derogado por art. 267 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 28. — Orden Público. La presente ley es de orden público, rige en todo el territorio nacional y entrará en vigencia a partir de su publicación en el Boletín Oficial.
 
 ARTICULO 29. — Reglamentación. El Poder Ejecutivo debe reglamentar la presente ley dentro de los ciento veinte (120) días a partir de su publicación.
 
 ARTICULO 30. — Los sujetos comprendidos en el artículo 1º de la presente ley tendrán un plazo de ciento ochenta (180) días a partir de la publicación de la presente para la adaptación al presente marco normativo.
+
+ARTÍCULO 30 bis.- Las disposiciones de esta ley son aplicables únicamente a los asociados voluntarios cuyo vínculo con el asegurador esté fuera del marco de la Ley N° 23.660.
+
+(Artículo incorporado por art. 268 del Decreto N° 70/2023 B.O. 21/12/2023)
 
 ARTICULO 31. — Comuníquese al Poder Ejecutivo nacional.
 

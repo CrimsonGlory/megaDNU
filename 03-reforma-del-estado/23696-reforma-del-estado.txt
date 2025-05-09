@@ -52,8 +52,6 @@ Art. 9º.- La declaración de "sujeta a privatización" será hecha por el Poder
 
 Sin perjuicio del régimen establecido precedentemente, por esta ley se declaran "sujeta a privatización" a los entes que se enumeran en los listados anexos.
 
-Exceptúase de la declaración de "sujeta a privatización" al Banco de la Nación Argentina, el que deberá continuar su actividad como institución bancaria de propiedad del Estado nacional. (Párrafo incorporado por art. 1º de la Ley N° 25.108 B.O. 17/06/1999)
-
 (Nota Infoleg: por art. 1° del Decreto Nº 1615/1991 B.O. 30/08/1991 se declara al Instituto Nacional de Reaseguros S.E. (INDER), incluido en los términos del presente artículo)
 
 Art. 10.- ALCANCES. El acto que declare "sujeta a privatización" puede referirse a cualesquiera de las formas de privatización, sea total o parcial, pudiendo comprender tanto a una empresa como a un establecimiento, bien o actividad determinada. Con el mismo régimen que el indicado en el artículo anterior, el decreto del Poder Ejecutivo Nacional podrá disponer, cuando fuere necesario, la exclusión de todos los privilegios y/o cláusulas monopólicas y/o prohibiciones discriminatorias aún cuando derivaren de normas legales, cuyo mantenimiento obste a los objetivos de la privatización o que impida la desmonopolización o desregulación del respectivo servicio.
@@ -96,7 +94,7 @@ Art. 15.- ALTERNATIVAS DE PROCEDIMIENTO. Para el cumplimiento de los objetivos y
 
 7º) Otorgar permisos, licencias o concesiones, para la explotación de los servicios públicos o de interés público a que estuvieren afectados los activos, empresas o establecimientos que se privaticen, en tanto los adquirentes reúnan las condiciones exigidas por los respectivos regímenes legales, así como las que aseguren la eficiente prestación del servicio y por el término que convenga para facilitar la operación. En el otorgamiento de las concesiones, cuando medien razones de defensa nacional o seguridad interior, a criterio de la Autoridad de Aplicación, se dará preferencia al capital nacional. En todos los casos se exigirán una adecuada equivalencia entre la inversión efectivamente realizada y la rentabilidad.
 
-8º) Acordar a la empresa que se privatice beneficios tributarios que en ningún caso podrán exceder a los que prevean los regímenes de promoción industrial, regional o sectorial, vigentes al tiempo de la privatización para el tipo de actividad que aquélla desarrolle o para la región donde se encuentra radicada.
+8º) (Artículo derogado por art. 43 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 9º) Autorizar diferimientos, quitas, esperas o remisiones en el cobro de créditos de organismos oficiales contra entidades que se privaticen por aplicación de esta ley. Los diferimientos referidos alcanzarán a todos los créditos, cualquiera sea su naturaleza, de los que sean titulares los organismos centralizados o descentralizados del Estado Nacional. Las sumas cuyo cobro se difiera, quedarán comprendidas en el régimen de actualización correspondiente a cada crédito de acuerdo a su naturaleza y origen y, en ausencia del régimen aplicable, al que determine el Poder Ejecutivo Nacional. En todos los casos las quitas, remisiones o diferimientos a otorgar, así como su régimen de actualización deberán formar parte de los pliegos y bases de licitación cualesquiera fueran las alternativas empleadas para ello.
 
@@ -174,7 +172,7 @@ Art. 26.- A través del Programa de Propiedad Participada, cada adquirente parti
 
 Art. 27.- La Autoridad de Aplicación elaborará un coeficiente de participación para cada clase de adquirente, adecuado a cada proceso de privatización, de acuerdo con lo establecido en este artículo.
 
-a) Para el caso de los empleados adquirentes el coeficiente deberá ser representativo de la antigüedad, las cargas de familia, el nivel jerárquico o categoría el ingreso total anual del último año, actualizado.
+a) Para el caso de los empleados adquirentes el coeficiente deberá ser representativo de la antigüedad, las cargas de familia, el nivel jerárquico o categoría el ingreso total anual del último año, actualizado, prorrateado con este criterio el monto total para esta categoría entre los empleados que decidan participar del proceso. Aquellos que opten por no participar durante el período establecido perderán cualquier derecho de reclamar su participación en el futuro.
 
 b) Para el caso de los usuarios adquirentes, el coeficiente deberá ser representativo del valor actualizado de la producción del último año. Para el caso de productores adquirentes individuales, el coeficiente será también representativo de las cargas de familia. Para el caso de que el productor adquirente sea una empresa, el coeficiente será también representativo del total de salarios pagados durante el último año, actualizado.
 
@@ -182,17 +180,17 @@ c) Para el caso de los productores-adquirentes, el coeficiente deberá ser repre
 
 Art. 28.- Para cada clase de adquirentes, la asignación del coeficiente deberá ser resultado de la aplicación uniforme de la misma fórmula de determinación para todos y cada uno de ellos. Cuando en un Programa de Propiedad Participada concurran adquirentes de distintas clases de las enumeradas en el artículo 16 de esta ley, la Autoridad de Aplicación, al elaborar los coeficientes, establecerán explícitamente los criterios de homologación entre los coeficientes correspondientes a cada clase.
 
-Art. 29.- En los Programas de Propiedad Participada, el ente a privatizar deberá emitir bonos de participación en las ganancias para el personal, según lo previsto en el artículo 230 de la Ley 19.550. A tal efecto, el Poder Ejecutivo Nacional podrá hacer uso de las facultades que le otorga esta ley. Cada empleado, por su mera relación de dependencia recibirá una cantidad de bonos de participación en las ganancias determinada en función de su remuneración, su antigüedad y sus cargas de familia.
+Art. 29.- (Artículo derogado por art. 42 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
-Art. 30.- El precio de las acciones adquiridas a través de un Programa de Propiedad Participada será pagado por los adquirentes en el número de anualidades y del modo que se establezca en el Acuerdo General de Transferencia conforme con lo establecido en esta ley, que no debe entenderse como limitativo de otros modos de pago que pudieren acordarse.
+Art. 30.- El precio de las acciones adquiridas a través de un Programa de Propiedad Participada será pagado por los adquirentes en el número de anualidades y del modo que se establezca en el Acuerdo General de Transferencia conforme con lo establecido en esta ley, que no debe entenderse como limitativo de otros modos de pago que pudieren acordarse. El Poder Ejecutivo podrá, a su criterio, considerar que la transferencia, cuando corresponde al inciso a) del artículo 22, pueda ser a título gratuito.
 
-Art. 31.- En el caso de los empleados adquirentes, se destinarán el pago de las acciones los dividendos anuales, hasta su totalidad, de ser necesario. Para el caso de que éstos resultaran insuficientes, se podrá destinar hasta el CINCUENTA POR CIENTO (50%) de la participación en las ganancias instrumentada en el bono previsto en el artículo 29 de esta ley.
+Art. 31.- En el caso de los empleados adquirentes se podrá destinar al pago de las acciones los dividendos anuales, hasta su totalidad, de ser necesario.
 
 Art. 32.- En el caso de los productores adquirentes, se podrá destinar al pago de las acciones hasta el VEINTICINCO POR CIENTO (25%) de la producción anual que se elabore en el ente a privatizar. Para el caso de que resultara insuficiente, se podrá destinar el pago hasta el CINCUENTA POR CIENTO (50%) de los dividendos anuales.
 
 Art. 33.- En el caso de los usuarios adquirentes, se destinará al pago de las acciones un porcentaje que se adicionará a la facturación de los servicios utilizados o los consumos efectuados. Para el caso de que resulte insuficiente, se podrá destinar el pago hasta el CINCUENTA POR CIENTO (50%) de los dividendos anuales.
 
-Art. 34.- Como garantía de pago, los adquirentes comprendidos en un Programa de Propiedad Participada constituirán una prenda sobre las acciones objeto de la transacción, a favor del Estado vendedor o de la Autoridad de Aplicación, en su caso. A ese efecto, las acciones se depositarán en un banco fideicomisario.
+Art. 34.- En los casos que corresponda, como garantía de pago, los adquirentes comprendidos en un Programa de Propiedad Participada constituirán una prenda sobre las acciones objeto de la transacción, a favor del Estado vendedor o cedente o de la Autoridad de Aplicación, en su caso. A ese efecto, las acciones se depositarán en un banco fideicomisario.
 
 Art. 35.- La Sociedad Anónima privatizada, depositará en el banco fideicomisario los importes destinados al pago de las acciones previstos en el Acuerdo General de Transferencia y en los artículos 30, 31, 32 y 33 de esta ley. El banco pagará al Estado vendedor o a la Autoridad de Aplicación, en su caso, las anualidades correspondientes, por cuenta de cada uno de los adquirentes.
 

@@ -8,6 +8,8 @@ Sancionada: Diciembre 21 de 2011
 
 Promulgada: Diciembre 27 de 2011
 
+Ver Antecedentes Normativos
+
 El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
 
 REGIMEN DE TRABAJO AGRARIO
@@ -98,13 +100,17 @@ Si en el ejercicio de sus funciones los servicios de inspección de trabajo comp
 
 Las cooperativas de trabajo no podrán actuar en el ámbito de la presente ley como empresas de provisión de trabajadores para servicios temporarios, ni de cualquier otro modo brindar servicios propios de las agencias de colocación.
 
-ARTICULO 15. — Empresas de servicios para la provisión de trabajadores temporarios. Prohibición. Se prohíbe la actuación de empresas de servicios temporarios, agencias de colocación o cualquier otra empresa que provea trabajadores para la realización de las tareas y actividades incluidas en la presente ley y de aquellas que de cualquier otro modo brinden servicios propios de las agencias de colocación.
+ARTICULO 15. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 TITULO III
 
 MODALIDADES CONTRACTUALES DEL TRABAJO AGRARIO
 
-ARTICULO 16. — Contrato de trabajo agrario permanente de prestación continua. El contrato de trabajo agrario se entenderá celebrado con carácter permanente y como de prestación continua, salvo los casos previstos expresamente por esta ley. No podrá ser celebrado a prueba por período alguno y su extinción se regirá por lo dispuesto en el Título XII de la ley 20.744 (t.o 1976) y sus modificatorias.
+ARTICULO 16. — Contrato de trabajo agrario permanente de prestación continua. El contrato de trabajo agrario se entenderá celebrado con carácter permanente y como de prestación continua, salvo los casos previstos expresamente por esta ley. Su extinción se regirá por lo dispuesto en el título XII de la ley 20.744 (t.o. 1976) y sus modificatorias.
+
+Para los trabajadores de tiempo indeterminado del sector agrario será de aplicación lo dispuesto respecto del período de prueba en el artículo 92 bis de la ley 20.744.
+
+(Artículo sustituido por art. 98 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 ARTICULO 17. — Contrato de trabajo temporario. Habrá contrato de trabajo temporario cuando la relación laboral se origine en necesidades de la explotación de carácter cíclico o estacional, o por procesos temporales propios de la actividad agrícola, pecuaria, forestal o de las restantes actividades comprendidas dentro del ámbito de aplicación de la presente ley, así como también, las que se realizaren en ferias y remates de hacienda.
 
@@ -381,9 +387,13 @@ CAPITULO II
 
 De las bolsas de trabajo a cargo de las asociaciones sindicales
 
-ARTICULO 69. — Bolsas de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial proveerán a los empleadores del personal necesario para la realización de las tareas temporarias en las actividades contempladas en la presente ley, conforme las resoluciones que a tal efecto dicte la Comisión Nacional de Trabajo Agrario (CNTA).
+ARTICULO 69. — Bolsa de trabajo. Las bolsas de trabajo a cargo de las asociaciones sindicales de trabajadores con personería gremial podrán proponer a los empleadores un listado del personal necesario para la realización de tareas temporarias en las actividades contempladas en la presente ley, conforme las resoluciones que a tal efecto dicte la Comisión de Trabajo Agrario.
 
-Ello, sin perjuicio de la vigencia de las normas que actualmente prevén la obligatoriedad del uso de las bolsas de trabajo para el ámbito rural en determinadas actividades y jurisdicciones.
+El empleador podrá contratar a la persona sugerida y/o a cualquier otra que disponga.
+
+Queda derogada toda norma que se oponga al presente artículo y/o a la libertad de contratación y elección del personal por parte del empleador.
+
+(Artículo sustituido por art. 98 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 ARTICULO 70. — Funcionamiento de las bolsas de trabajo. El funcionamiento de las bolsas de trabajo referidas en el artículo anterior se ajustará a lo dispuesto por el presente régimen, sus normas reglamentarias y las resoluciones dictadas por la Comisión Nacional de Trabajo Agrario (CNTA).
 
@@ -566,6 +576,8 @@ De la autoridad de aplicación.
 
 ARTICULO 99. — Autoridad de aplicación. El Ministerio de Trabajo, Empleo y Seguridad Social será la autoridad de aplicación del presente régimen.
 
+(Nota Infoleg: por art. 1° de la Resolución N° 204/2024 del Ministerio de Capital Humano B.O. 17/05/2024 se delega en la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO, el ejercicio de las competencias como Autoridad de Aplicación de la presente Ley. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
 CAPITULO II
 
 Disposiciones complementarias
@@ -601,3 +613,10 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINT
 — REGISTRADA BAJO EL Nº 26.727 —
 
 AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Gervasio Bozzano. — Juan H. Estrada.
+
+
+Antecedentes Normativos
+
+- Artículo 15 derogado por art. 57 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 69 sustituido por art. 89 del Decreto N° 70/2023 B.O. 21/12/2023.

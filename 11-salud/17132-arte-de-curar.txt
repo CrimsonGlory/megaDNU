@@ -118,11 +118,11 @@ Artículo 19. — Los profesionales que ejerzan la medicina están, sin perjuici
 
 6º) ajustarse a lo establecido en las disposiciones legales vigentes para prescribir alcaloides;
 
-7º) Prescribir o certificar en recetas manuscritas, electrónicas o digitales, en las que debe constar la siguiente información en idioma nacional: nombre, apellido, profesión, número de matrícula, domicilio, número telefónico y correo electrónico cuando corresponda. Solo pueden anunciarse cargos técnicos o títulos que consten registrados en la autoridad de aplicación competente y en las condiciones que se reglamenten. Las prescripciones y/o recetas deben ser formuladas en idioma nacional, fechadas y firmadas en forma manuscrita, electrónica o digital. En caso de ser redactadas electrónicamente, la firma y demás requisitos técnicos y legales deben adecuarse a la legislación vigente.
+7º) Prescribir o certificar en recetas cargadas en formularios electrónicos o digitales, en las que debe constar la siguiente información en idioma nacional: nombre, apellido, profesión, número de matrícula, domicilio, número telefónico y correo electrónico cuando corresponda. Solo podrán anunciarse cargos técnicos o títulos que consten registrados en la autoridad competente y en las condiciones que se reglamenten. Las prescripciones y/o recetas deberán ser formuladas en idioma nacional, fechadas y firmadas.
 
-En caso de utilizar la firma digital, la misma debe adecuarse a la ley 25.506, de firma digital, adhiriendo al régimen e intermediando una autoridad certificante.
+La prescripción podrá consignar únicamente con el nombre genérico del medicamento o denominación común internacional.
 
-En el caso de que la prescripción incluya un ingrediente farmacéutico activo (IFA) que tenga actividad antimicrobiana sistémica, deberá registrar el diagnóstico por el cual el mismo se prescribe. (Inciso sustituido por art. 10 de la Ley Nº 27.680 B.O. 24/8/2022.)
+(Inciso 7°) sustituido por art. 310 del Decreto N° 70/2023 B.O. 21/12/2023) 
 
 8º) extender los certificados de defunción de los pacientes fallecidos bajo su asistencia debiendo expresar los datos de identificación, la causa de muerte, el diagnóstico de la última enfermedad de acuerdo con la nomenclatura que establezca la Secretaría de Estado de Salud Pública y los demás datos que con fines estadísticos les fueran requeridos por las autoridades sanitarias;
 
@@ -849,6 +849,8 @@ Artículo 144. — Comuníquese, publíquese, dése a la Dirección Nacional del
 Onganía. — Roberto Petracca. — Ezequiel A. D. Holmberg.
 
 Antecedentes Normativos
+
+- Articulo 19 Inciso 7°) sustituido por art. 10 de la Ley Nº 27.680 B.O. 24/8/2022;
 
 - Artículo 19, inciso 7º) sustituido por art. 5º de la Ley Nº 27.553 B.O. 11/8/2020;
 

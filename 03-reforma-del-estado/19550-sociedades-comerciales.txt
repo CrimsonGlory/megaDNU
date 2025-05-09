@@ -296,9 +296,9 @@ ARTICULO 29. — Sin perjuicio de la transformación de la sociedad en una de ti
 
 Sociedad socia.
 
-ARTICULO 30. — Las sociedades anónimas y en comandita por acciones solo pueden formar parte de sociedades por acciones y de responsabilidad limitada. Podrán ser parte de cualquier contrato asociativo.
+ARTICULO 30. — Las sociedades anónimas y en comandita por acciones solo pueden formar parte de sociedades por acciones y de responsabilidad limitada. Las asociaciones y entidades sin fines de lucro sólo pueden formar parte de sociedades anónimas. Podrán ser parte de cualquier contrato asociativo.
 
-(Artículo sustituido por punto 2.17 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014)
+(Artículo sustituido por art. 346 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 Participaciones en otra sociedad: Limitaciones.
 
@@ -778,7 +778,7 @@ Requisitos.
 
 ARTICULO 77. — La transformación exige el cumplimiento de los siguientes requisitos:
 
-1) Acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios;
+1) Cuando se tratare de sociedades comerciales, acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios. Cuando se tratare de asociación civil que se transformare en sociedad comercial o resolviera ser socia de sociedades anónimas, voto de los dos tercios de los asociados; (Inciso sustituido por art. 347 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 2) Confección de un balance especial, cerrado a una fecha que no exceda de un (1) mes a la del acuerdo de transformación y puesto a disposición de los socios en la sede social con no menos de quince (15) días de anticipación a dicho acuerdo. Se requieren las mismas mayorías establecidas para la aprobación de los balances de ejercicio;
 
@@ -797,6 +797,8 @@ d) Los socios que se retiran o incorporan y el capital que representan;
 e) Cuando la transformación afecte los datos a que se refiere el artículo 10 apartado a), puntos 4 a 10, la publicación deberá determinarlo;
 
 5) La inscripción del instrumento con copia del balance firmado en el Registro Público de Comercio y demás registros que correspondan por el tipo de sociedad, por la naturaleza de los bienes que integran el patrimonio y sus gravámenes. Estas inscripciones deben ser ordenadas y ejecutadas por el Juez o autoridad a cargo del Registro Público de Comercio, cumplida la publicidad a que se refiere el apartado 4).
+
+(Nota Infoleg: por art. 1° del Decreto N° 730/2024 B.O. 14/8/2024 se entiende por asociados de las asociaciones civiles mencionadas en el inciso 1), última parte, del presente artículo, a los asociados que participen en la asamblea extraordinaria de la asociación que considere la decisión de transformar a la entidad en sociedad anónima o resuelva ser socia de sociedades anónimas. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL.)
 
 Receso.
 
@@ -1830,7 +1832,7 @@ Su retribución podrá consistir en la participación hasta el diez por ciento (
 
 Suscripción total. Capital mínimo.
 
-ARTICULO 186. — El capital debe suscribirse totalmente al tiempo de la celebración del contrato constitutivo. No podrá ser inferior a PESOS CIEN MIL ($ 100.000). Este monto podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario. (Monto del Capital Social sustituido por art. 1° del Decreto N° 1331/2012 B.O. 7/8/2012. Vigencia: a los SESENTA (60) días de su publicación en el Boletín Oficial)
+ARTICULO 186. — El capital debe suscribirse totalmente al tiempo de la celebración del contrato constitutivo. No podrá ser inferior a PESOS TREINTA MILLONES ($30.000.000). Este monto podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario. (Monto del Capital Social sustituido por art. 1° del Decreto N° 209/2024 B.O. 1/3/2024. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
 
 Terminología.
 
@@ -2792,9 +2794,9 @@ ARTICULO 299. — Las sociedades anónimas, además del control de constitución
 
 1º) Hagan oferta pública de sus acciones o debentures;
 
-2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 529/2018 del Ministerio de Justicia y Derechos Humanos, B.O. 13/07/2018, se fija en PESOS CINCUENTA MILLONES ($ 50.000.000.-) el monto a que se refiere este inciso)
+2º) Tengan capital social superior a pesos argentinos quinientos ($a 500), monto éste que podrá ser actualizado por el Poder Ejecutivo, cada vez que lo estime necesario; (Nota Infoleg: por art. 1° de la Resolución N° 10/2024 del Ministerio de Justicia, B.O. 8/2/2024, se fija en PESOS DOS MIL MILLONES ($ 2.000.000.000) el monto del capital social a partir del cual las sociedades anónimas quedan sujetas a fiscalización estatal permanente, conforme la previsión del presente inciso.)
 
-3º) Sean de economía mixta o se encuentren comprendidas en la Sección VI;
+3º) Sean de participación estatal, ya sea por la participación del Estado nacional, los estados provinciales, la Ciudad Autónoma de Buenos Aires, los municipios y/o los organismos estatales legalmente autorizados al efecto. (Inciso sustituido por art. 49 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 4º) Realicen operaciones de capitalización, ahorro o en cualquier forma requieran dinero o valores al público con promesas de prestaciones o beneficios futuros;
 
@@ -2826,7 +2828,7 @@ ARTICULO 302. — La autoridad de control, en caso de violación de la ley, del 
 
 3º) Multas a la sociedad, sus directores y síndicos.
 
-Estas últimas no podrán ser superiores a PESOS CIEN MIL ($ 100.000.-) en conjunto y por infracción y se graduarán según la gravedad de la infracción y el capital de la sociedad. Cuando se apliquen a directores y síndicos, la sociedad no podrá hacerse cargo de ellas. (Monto máximo de la multa sustituido por art. 1º de la Resolución Nº 177/2015 del Ministerio de Justicia y Derechos Humanos B.O. 13/02/2015)
+Estas últimas no podrán ser superiores a PESOS OCHO MILLONES ($ 8.000.000.-) en conjunto y por infracción y se graduarán según la gravedad de la infracción y el capital de la sociedad. Cuando se apliquen a directores y síndicos, la sociedad no podrá hacerse cargo de ellas. (Monto máximo de la multa sustituido por art. 1° de la Resolución N° 166/2024 del Ministerio de Justicia B.O. 23/5/2024. Vigencia: a partir del día de su publicación en el Boletín Oficial.)
 
 Se faculta al Poder Ejecutivo para que, por intermedio del Ministerio de Justicia, actualice semestralmente los montos de las multas, sobre la base de la variación registrada en el índice de precios al por mayor, nivel general, elaborado por el Instituto Nacional de Estadística y Censos.
 
@@ -3336,7 +3338,7 @@ ARTICULO 389. — Las disposiciones de esta ley se aplicarán a las sociedades d
 
 Antecedentes Normativos
 
-- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Disposición N° 6/2006 de la Subsecretaría de Asuntos Registrales, B.O. 17/5/2006, se fija en PESOS DIEZ MILLONES ($ 10.000.000.-) el monto a que se refiere este inciso;
+- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Resolución N° 529/2018 del Ministerio de Justicia y Derechos Humanos, B.O. 13/07/2018, se fija en PESOS CINCUENTA MILLONES ($ 50.000.000.-) el monto a que se refiere este inciso;
 
 - Artículo 61 sustituido por art. 5° del Decreto N° 27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
 
@@ -3347,6 +3349,14 @@ Antecedentes Normativos
 - Artículo 8° sustituido por art. 2° del Decreto N° 27/2018 B.O. 11/1/2018. Vigencia: a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA;
 
 - Artículo 284 sustituido por art. 2° de la Ley N° 27.290 B.O. 18/11/2016;
+
+- Artículo 302, inciso 3°), monto máximo de la multa sustituido por art. 1º de la Resolución Nº 177/2015 del Ministerio de Justicia y Derechos Humanos B.O. 13/02/2015;
+
+- Artículo 30 sustituido por punto 2.17 del Anexo II de la Ley N° 26.994 B.O. 08/10/2014 Suplemento. Vigencia: 1° de agosto de 2015, texto según art. 1° de la Ley N° 27.077 B.O. 19/12/2014;
+
+- Artículo 186, Monto del Capital Social sustituido por art. 1° del Decreto N° 1331/2012 B.O. 7/8/2012. Vigencia: a los SESENTA (60) días de su publicación en el Boletín Oficial;
+
+- Artículo 299 inciso 2), Nota Infoleg: por art. 1° de la Disposición N° 6/2006 de la Subsecretaría de Asuntos Registrales, B.O. 17/5/2006, se fija en PESOS DIEZ MILLONES ($ 10.000.000.-) el monto a que se refiere este inciso;
 
 - Artículo 94 inciso 5), Nota Infoleg: Por art. 1º del Decreto Nº 540/2005 B.O. 1/6/2005 se prorrogó hasta el 10 de diciembre de 2005 la suspensión de este inciso dispuesta por Decreto N° 1269/2002. Prórrogas anteriores: Decreto N° 1293/2003 B.O. 23/12/2003;
 

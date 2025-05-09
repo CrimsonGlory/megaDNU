@@ -1059,15 +1059,7 @@ NOTA artículo 44
 
 La indelegabilidad de la prestación obedece al mantenimiento de la titularidad efectiva de la explotación de la emisora por quienes accedieron a la condición de licenciatario por estar calificados para la misma, y que en forma previa fueron evaluados por la Autoridad de aplicación. Si se autorizara a que un tercero se hiciera cargo por vías indirectas se estaría faltando a la rigurosidad del procedimiento adjudicatario y a los principios que la propia ley intenta impulsar. Sí se admite, como en muchísimos países, la posibilidad de convenios de coproducción con externos vinculados o no, situación que los procesos de integración vertical de la actividad de la comunicación audiovisual han mostrado, aunque con la limitación de la no delegación de la prestación.
 
-ARTICULO 45. — Multiplicidad de Licencias. A fin de garantizar los principios de diversidad, pluralidad y respeto por lo local las personas humanas o jurídicas podrán ser titulares o tener participación en sociedades titulares de licencias de servicios de comunicación audiovisual, con sujeción a los siguientes límites:
-
-1. En el orden nacional:
-
-a) UNA (1) licencia de servicios de comunicación audiovisual sobre soporte satelital. La titularidad de una licencia de servicios de comunicación audiovisual satelital por suscripción excluye la posibilidad de ser titular de cualquier otro tipo de licencias de servicios de comunicación audiovisual y servicios TIC regulados por la Ley N° 27.078;
-
-b) Hasta QUINCE (15) licencias de servicios de comunicación audiovisual cuando se trate de radiodifusión de televisión abierta o de radiodifusión sonora.
-
-2. En el orden local:
+ARTICULO 45. — Multiplicidad de Licencias. A fin de garantizar los principios de diversidad, pluralidad y respeto por lo local las personas humanas o jurídicas podrán ser titulares o tener participación en sociedades titulares de licencias de servicios de comunicación audiovisual, con sujeción a los siguientes límites, en el orden local:
 
 a) UNA (1) licencia de radiodifusión sonora por modulación de amplitud (AM);
 
@@ -1075,9 +1067,9 @@ b) UNA (1) licencia de radiodifusión sonora por modulación de frecuencia (FM) 
 
 c) UNA (1) licencia de radiodifusión televisiva abierta.
 
-En ningún caso la suma total de licencias otorgadas en la misma área primaria de servicio o conjunto de ellas que se superpongan de modo mayoritario podrá exceder la cantidad de CUATRO (4) licencias.
+En ningún caso la suma total de licencias otorgadas en la misma área primaria de servicio o conjunto de ellas que se superpongan de modo mayoritario podrá exceder la cantidad de CUATRO (4) licencias.”
 
-(Artículo sustituido por art. 17 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial)
+(Artículo sustituido por art. 326 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 NOTA artículo 45
 
@@ -1099,7 +1091,7 @@ En orden a la tipología de la limitación a la concentración, tal como el reci
 
 En cuanto a la porción de mercado asequible por un mismo licenciatario, se ha tomado en consideración un sistema mixto de control de concentración, viendo al universo de posibles destinatarios no solo por la capacidad efectiva de llegada a los mismos por una sola licenciataria, sino también por la cantidad y calidad de las licencias a recibir por un mismo interesado. Se ha tomado en cuenta para tal diseño el modelo regulatorio de los Estados Unidos que cruza la cantidad de licencias por área de cobertura y por naturaleza de los servicios adjudicados por las mismas, atendiendo a la cantidad de medios de igual naturaleza ubicados en esa área en cuestión, con los límites nacionales y locales emergentes del cálculo del porcentaje del mercado que se autoriza a acceder, tratándose los distintos universos de diferente manera, ya sea que se trate de abonados en servicios por suscripción o de población cuando se tratare de servicios de libre recepción o abiertos.
 
-ARTICULO 46. — No concurrencia. Las licencias de servicios de radiodifusión directa por satélite y las licencias de servicios de radiodifusión móvil tendrán como condición de otorgamiento y continuidad de su vigencia —cada una de ellas— que no podrán ser acumuladas con licencias de otros servicios propios de distinta clase o naturaleza, salvo para la transmisión del servicio de televisión terrestre abierta existente en forma previa a los procesos de transición a los servicios digitalizados y el canal que lo reemplace oportunamente.
+ARTICULO 46. — (Artículo derogado por art. 327 del Decreto N° 70/2023 B.O. 21/12/2023.)
 
 ARTICULO 47. — Adecuación por incorporación de nuevas tecnologías. Preservando los derechos de los titulares de licencias o autorizaciones, la autoridad de aplicación deberá elevar un informe al Poder Ejecutivo nacional y a la Comisión Bicameral, en forma bianual, analizando la adecuación de las reglas sobre multiplicidad de licencias y no concurrencia con el objeto de optimizar el uso del espectro por la aplicación de nuevas tecnologías65.
 
@@ -2280,6 +2272,8 @@ Creación. Objetivos.
 
 ARTICULO 119. — Creación. Créase, bajo la jurisdicción del Poder Ejecutivo nacional, Radio y Televisión Argentina Sociedad del Estado (RTA S.E.), que tiene a su cargo la administración, operación, desarrollo y explotación de los servicios de radiodifusión sonora y televisiva del Estado nacional.
 
+(Nota Infoleg: por art. 1° del Decreto N° 117/2024 B.O. 5/2/2024 se dispone la intervención de RADIO Y TELEVISIÓN ARGENTINA SOCIEDAD DEL ESTADO por el plazo de UN (1) año. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+
 NOTA artículos 119 y subsiguientes
 
 Se siguen los lineamientos de la estructura organizativa de la Televisión Nacional de Chile en la conformación de su autoridad para encabezar la conducción de la gestión de los medios del Estado. En los estudios comparados sobre medios públicos en el ámbito de América Latina, el ejemplo recogido es elogiado en su estructura.
@@ -2688,6 +2682,8 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIEZ 
 JULIO C. C. COBOS. — EDUARDO A. FELLNER. — Enrique Hidalgo. — Juan H. Estrada.
 
 Antecedentes Normativos:
+
+- Artículo 45 sustituido por art. 17 del Decreto N° 267/2015 B.O. 04/01/2016. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial;
 
 - Artículo 10, Nota Infoleg: por art. 1° del Decreto N° 236/2015 B.O. 23/12/2015 se dispone la intervención de la Autoridad Federal de Servicios de Comunicación Audiovisual (AFSCA) por el plazo, prorrogable, de CIENTO OCHENTA (180) días corridos a contar desde la fecha de publicación del Decreto de referencia;
 
